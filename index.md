@@ -1,4 +1,4 @@
-# SL Rad Guidelines
+# SL Rad Residency Tips
 
 ---
 
