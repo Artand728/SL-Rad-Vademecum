@@ -1,7 +1,8 @@
 @import "variables";
-body {
+body, p {
   color: blue;
 }
+
 
 a {
   color: $body-link-color;
