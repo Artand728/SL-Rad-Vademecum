@@ -1,4 +1,4 @@
-@import "variables";
+@import "{{ site.theme }}";
 body, p {
   color: blue;
 }
