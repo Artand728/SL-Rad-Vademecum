@@ -12,6 +12,16 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
+  padding: 1rem;
+}
+
+.project-tagline {
+  visibility: collapse;
+  font-size: 0;
+}
+
+.btn {
+  visibility: collapse;
 }
 
 .main-content {
