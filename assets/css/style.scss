@@ -18,8 +18,6 @@ a {
   padding: 2rem 4rem;
 }
 
-
-
 .project-tagline {
     display: none;
 }
@@ -29,6 +27,11 @@ a {
 }
 
 .topnav{
+  width: max-content;
+}
+
+.topnav a{
+  color: #86B300;
 }
 
 
