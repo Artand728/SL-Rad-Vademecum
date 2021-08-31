@@ -1,8 +1,11 @@
-- [Home](index.md)
-- [Radiologia Tradizionale](radiologia_tradizionale.md)
-- [Ecografia](ecografia.md)
-- [Tomografia Computerizzata](tomografia_computerizzata.md)
-- [Risonanza Magnetica](risonanza_magnetica.md)
+
+<div class="topnav">
+  <a href="index.md">Home</a>
+  <a href="radiologia_tradizionale.md">Radiologia Tradizionale</a>
+  <a href="ecografia.md">Ecografia</a>
+  <a href="tomografia_computerizzata.md">Tomografia Computerizzata</a>
+  <a href="risonanza_magnetica.md">Risonanza Magnetica</a>
+</div>
 
 # TOMOGRAFIA COMPUTERIZZATA
 GESTIONE SALA TC (AGENDA / PROTOCOLLI)
