@@ -2,9 +2,8 @@
 
 ---
 
-- [SL Rad Guidelines](#sl-rad-guidelines)
-  - [RADIOLOGIA TRADIZIONALE](radiologia_tradizionale.md)
-  - [ECOGRAFIA](ecografia.md)
-  - [TOMOGRAFIA COMPUTERIZZATA](tomografia_computerizzata.md)
-  - [RISONANZA MAGNETICA](risonanza_magnetica.md)
-
+- [SL Rad](index.md)
+  - [Radiologia Tradizionale](radiologia_tradizionale.md)
+  - [Ecografia](ecografia.md)
+  - [Tomografia Computerizzata](tomografia_computerizzata.md)
+  - [Risonanza Magnetica](risonanza_magnetica.md)
