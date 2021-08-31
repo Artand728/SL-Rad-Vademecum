@@ -2,8 +2,8 @@
 ---
 @import "{{ site.theme }}";
 body {
-  color: ;
-  background-color: ;}
+  color: $token;
+  background-color: $token;}
 
 a {
   color: $body-link-color;
