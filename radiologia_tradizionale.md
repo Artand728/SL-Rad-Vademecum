@@ -10,6 +10,24 @@
 
 ---
 
+- [RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI](#radiologia-tradizionale---contrastografici)
+- [TRANSITI ESOFAGO-STOMACO](#transiti-esofago-stomaco)
+  - [Preparazione e Accoglienza Paziente:](#preparazione-e-accoglienza-paziente)
+  - [Esecuzione:](#esecuzione)
+- [ILEOSTOMIA](#ileostomia)
+  - [Prenotazione](#prenotazione)
+  - [Burocrazia](#burocrazia)
+  - [Materiali](#materiali)
+  - [Esecuzione](#esecuzione-1)
+    - [Inserimento del catetere](#inserimento-del-catetere)
+    - [Acquisizioni](#acquisizioni)
+    - [Refertazione](#refertazione)
+- [CISTOGRAFIE UOMO-DONNA](#cistografie-uomo-donna)
+  - [Materiale:](#materiale)
+  - [Esecuzione:](#esecuzione-2)
+
+---
+
 # TRANSITI ESOFAGO-STOMACO
 ## Preparazione e Accoglienza Paziente:
 Raccogliere la documentazione clinica, che orienterà la scelta del mdc:
