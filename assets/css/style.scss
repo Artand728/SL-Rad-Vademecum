@@ -2,16 +2,18 @@
 ---
 @import "{{ site.theme }}";
 body {
+  background-color: #FAFAFA;
+  color: #6E7580;
 }
 
 a {
-  color: $body-link-color;
+  color: #399EE6;
 }
 
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
+  background-color: #1F2430;
   padding: 2rem 4rem;
 }
 
@@ -26,31 +28,9 @@ a {
 }
 
 .topnav{
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: #111;
-  }
+);
 }
+
 
 .main-content {
   h1,
@@ -59,6 +39,7 @@ a {
   h4,
   h5,
   h6 {
+    color: #FA6E32;
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
