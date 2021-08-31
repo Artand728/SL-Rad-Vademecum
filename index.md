@@ -6,7 +6,7 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
-# SL Rad Residency Tips
+# SL Rad Vademecum
 
 ---
 
