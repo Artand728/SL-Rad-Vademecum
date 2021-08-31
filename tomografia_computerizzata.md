@@ -1,10 +1,9 @@
-
 <div class="topnav">
-  <a href="index.md">Home</a>
-  <a href="radiologia_tradizionale.md">Radiologia Tradizionale</a>
-  <a href="ecografia.md">Ecografia</a>
-  <a href="tomografia_computerizzata.md">Tomografia Computerizzata</a>
-  <a href="risonanza_magnetica.md">Risonanza Magnetica</a>
+  <a href="index.html">Home</a>
+  <a href="radiologia_tradizionale.html">Radiologia Tradizionale</a>
+  <a href="ecografia.html">Ecografia</a>
+  <a href="tomografia_computerizzata.html">Tomografia Computerizzata</a>
+  <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
 # TOMOGRAFIA COMPUTERIZZATA
