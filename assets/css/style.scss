@@ -2,6 +2,7 @@
 ---
 @import "{{ site.theme }}";
 body {
+}
 
 a {
   color: $body-link-color;
@@ -55,7 +56,6 @@ a {
   h4,
   h5,
   h6 {
-    color: #ff8f40;
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
