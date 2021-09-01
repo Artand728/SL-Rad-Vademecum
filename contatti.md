@@ -1,5 +1,3 @@
-# CONTATTI
-
 | CODICE | NOME REPARTO                           | INTERNO                   |
 | ------ | -------------------------------------- | ------------------------- |
 | 3B     | NEUROLOGIA (medici)                    | 6615 / 7251 / 6981        |
