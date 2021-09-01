@@ -39,20 +39,20 @@
 
 ---
 
- | NOME REPARTO                   |     INTERNO     |
- | ------------------------------ | :-------------: |
- | **ECOGRAFIA**                  | **6625 - 6780** |
- | **RX REFERTAZIONE**            |    **6406**     |
- | **TC**                         |    **6785**     |
- | **RM**                         | **6422 - 6782** |
- | **RADIOLOGIA PS**              |    **7005**     |
- | **RADIOLOGIA INTERVENTISTICA** |    **7003**     |
- | TSRM - PS                      |      6392       |
- | TSRM RX - SALA TORACI          |      6755       |
- | TSRM RX - SALA OSSA            |      6407       |
- | TC (urgenze)                   |      7217       |
- | DENSITOMETRIA                  |      6402       |
- | SEGRETERIA RADIOLOGIA          |   6401 - 6833   |
- | RADIOTERAPIA                   |      6043       |
- | MEDICINA NUCLEARE              |      6404       |
- | Servizi informatici            |      80999      |
+ | NOME REPARTO               |   INTERNO   |
+ | -------------------------- | :---------: |
+ | ECOGRAFIA                  | 6625 - 6780 |
+ | RX REFERTAZIONE            |    6406     |
+ | TC                         |    6785     |
+ | RM                         | 6422 - 6782 |
+ | RADIOLOGIA PS              |    7005     |
+ | RADIOLOGIA INTERVENTISTICA |    7003     |
+ | TSRM - PS                  |    6392     |
+ | TSRM RX - SALA TORACI      |    6755     |
+ | TSRM RX - SALA OSSA        |    6407     |
+ | TC (urgenze)               |    7217     |
+ | DENSITOMETRIA              |    6402     |
+ | SEGRETERIA RADIOLOGIA      | 6401 - 6833 |
+ | RADIOTERAPIA               |    6043     |
+ | MEDICINA NUCLEARE          |    6404     |
+ | Servizi informatici        |    80999    |
