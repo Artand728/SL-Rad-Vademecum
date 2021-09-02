@@ -6,19 +6,17 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
-# SL Rad Vademecum
-
 ---
 
-[![](icons/x-rays.png)<br>Radiologia Tradizionale](radiologia_tradizionale.md)
+[![](icons/x-rays.png)<br>Radiologia Tradizionale](radiologia_tradizionale.html)
 
-[![](icons/ultrasound.png)<br>Ecografia](ecografia.md)
+[![](icons/ultrasound.png)<br>Ecografia](ecografia.html)
 
-[![](icons\ct-scan.png)<br>Tomografia Computerizzata](tomografia_computerizzata.md)
+[![](icons\ct-scan.png)<br>Tomografia Computerizzata](tomografia_computerizzata.html)
 
-[![](icons\mri.png)<br>Tomografia Computerizzata](risonanza_magnetica.md)
+[![](icons\mri.png)<br>Tomografia Computerizzata](risonanza_magnetica.html)
 
-[![](icons\phone-book.png)<br>Contatti](contatti.md)
+[![](icons\phone-book.png)<br>Contatti](contatti.html)
 
 ---
 
