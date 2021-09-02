@@ -10,9 +10,15 @@
 
 ---
 
-- [SL Rad](index.md)
-  - [Radiologia Tradizionale](radiologia_tradizionale.md)
-  - [Ecografia](ecografia.md)
-  - [Tomografia Computerizzata](tomografia_computerizzata.md)
-  - [Risonanza Magnetica](risonanza_magnetica.md)
-  - [Contatti](contatti.md)
+[![](icons/x-rays.png)<br>Radiologia Tradizionale](radiologia_tradizionale.md)
+
+[![](icons/ultrasound.png)<br>Ecografia](ecografia.md)
+
+[![](icons\ct-scan.png)<br>Tomografia Computerizzata](tomografia_computerizzata.md)
+
+[![](icons\mri.png)<br>Tomografia Computerizzata](risonanza_magnetica.md)
+
+[![](icons\phone-book.png)<br>Contatti](contatti.md)
+
+---
+
