@@ -28,7 +28,6 @@
 
 ---
 
-
 # TRANSITI ESOFAGO-STOMACO
 
 ## Preparazione e accoglienza del paziente
