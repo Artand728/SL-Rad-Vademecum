@@ -10,7 +10,6 @@
 
 ---
 - [RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI](#radiologiatradizionale-contrastografici)
-  - [- Esecuzione](#--esecuzione)
 - [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
   - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
   - [Esecuzione](#esecuzione)
@@ -25,6 +24,7 @@
 - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
   - [Materiali](#materiali-1)
   - [Esecuzione](#esecuzione-2)
+
 ---
 
 # TRANSITI ESOFAGO-STOMACO
