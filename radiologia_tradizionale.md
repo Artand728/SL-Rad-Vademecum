@@ -6,31 +6,30 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
-# RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI
+# RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI
 
 ---
-
-- [TRANSITI ESOFAGO-STOMACO](#transiti-esofago-stomaco)
-  - [Preparazione e Accoglienza Paziente](#preparazione-e-accoglienza-paziente)
-  - [Esecuzione](#esecuzione)
-- [ILEOSTOMIA](#ileostomia)
-  - [Prenotazione](#prenotazione)
-  - [Burocrazia](#burocrazia)
-  - [Materiali](#materiali)
-  - [Esecuzione](#esecuzione-1)
-      - [Inserimento del catetere](#inserimento-del-catetere)
-          - [Acquisizioni](#acquisizioni)
-              - [Refertazione](#refertazione)
-- [CISTOGRAFIE UOMO-DONNA](#cistografie-uomo-donna)
-  - [Materiale](#materiale)
-  - [Esecuzione](#esecuzione-2)
-
-
+- [RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI](#radiologiatradizionale-contrastografici)
+  - [- Esecuzione](#--esecuzione)
+- [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
+  - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
+  - [Esecuzione](#esecuzione)
+- [ILEOGRAFIA](#ileografia)
+  - [Prenotazione](#prenotazione)
+  - [Burocrazia](#burocrazia)
+  - [Materiali](#materiali)
+  - [Esecuzione](#esecuzione-1)
+    - [Inserimento del catetere](#inserimentodelcatetere)
+    - [Acquisizioni](#acquisizioni)
+    - [Refertazione](#refertazione)
+- [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
+  - [Materiali](#materiali-1)
+  - [Esecuzione](#esecuzione-2)
 ---
 
-# TRANSITI ESOFAGO-STOMACO
+# TRANSITI ESOFAGO-STOMACO
 
-## Preparazione e accoglienza del paziente
+## Preparazione e accoglienza del paziente
 
 Raccogliere la documentazione clinica, che orienterà la scelta del mezzo di contrasto:
 
@@ -38,7 +37,7 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 - **Bario**: (disciolto in acqua con proporzione 50 e 50 (1:1), tenendone una quota da parte in caso ne servisse ancora) per tutti gli altri casi.
 
 
-## Esecuzione
+## Esecuzione
 
 NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FERMI IN GRAFIA.
 
@@ -58,7 +57,7 @@ NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FER
 
 # ILEOGRAFIA
 
-## Prenotazione
+## Prenotazione
 
 La richiesta viene effettuata dalla Chirurgia Generale dell'Ospedale (interno 6224) oppure direttamente dai pazienti.
 
@@ -90,7 +89,7 @@ Cosa scrivere nella prenotazione?
 - Allergie
 
 
-## Burocrazia
+## Burocrazia
 
 - Doppia busta
 - Etichette
@@ -102,7 +101,7 @@ Cosa scrivere nella prenotazione?
 - Stampa del referto
 
 
-## Materiali
+## Materiali
 
 Non è necessaria la sterilità.
 
@@ -118,10 +117,10 @@ Non è necessaria la sterilità.
 - Luan o gel ecografico
 
 
-## Esecuzione
+## Esecuzione
 
 
-### Inserimento del catetere
+### Inserimento del catetere
 
 - Paziente in posizione supina con camice aperto davanti
 - Rimuovere il sacchetto
@@ -134,7 +133,7 @@ Non è necessaria la sterilità.
 
 
 
-### Acquisizioni
+### Acquisizioni
 
 - **AP BASALE** - prima della preparazione del campo
 - **AP BASALE** - per valutare posizionamento del catetere
@@ -151,7 +150,7 @@ Non è necessaria la sterilità.
 
 
 
-### Refertazione
+### Refertazione
 
 - Quesito diagnostico
   - Perchè viene richiesto l'esame
@@ -167,9 +166,9 @@ Non è necessaria la sterilità.
 ---
 
 
-# CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
+# CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
 
-## Materiali
+## Materiali
 
 - **Catetere** `14F`
   - per **uomo** **con** **stenosi uretrale** eventualemente **catetere** `12F` / `10F` 
@@ -190,7 +189,7 @@ Non è necessaria la sterilità.
 - Pappagallo uomo/donna
 
 
-## Esecuzione
+## Esecuzione
 
 - **AP BASALE** (**GRAFIA**): il paziente deve essere posizionato il più possibile vicino alla cassetta e lontano dal tubo radiogeno
 - **Disinfezione** con garze sterili e Betadine: 
@@ -214,3 +213,5 @@ Non è necessaria la sterilità.
 - Posizionare il paziente paziente in piedi con i piedi sulla pedana del lettino posizionato in verticale. Indicare di **svuotare** la vescica **nel pappagallo**. Eseguita una seconda **GRAFIA** in **proiezione LL** `3 frame/sec` e `zoom 42 cm`
 - Se il paziente è un uomo con difficoltà di svuotamento vescicale, va mandato in bagno per tentare di svuotare completamente. 
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
+
+---
