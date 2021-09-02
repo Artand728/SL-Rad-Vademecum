@@ -8,15 +8,10 @@
 
 ---
 
-[![](icons/x-rays.png)<br>Radiologia Tradizionale](radiologia_tradizionale.html)
-
-[![](icons/ultrasound.png)<br>Ecografia](ecografia.html)
-
-[![](icons\ct-scan.png)<br>Tomografia Computerizzata](tomografia_computerizzata.html)
-
-[![](icons\mri.png)<br>Tomografia Computerizzata](risonanza_magnetica.html)
-
-[![](icons\phone-book.png)<br>Contatti](contatti.html)
-
----
-
+<div class="homepage-icons">
+  <a href="radiologia_tradizionale.html"><img src="icons/x-rays.png"/><br>Radiologia Tradizionale</a>
+  <a href="ecografia.html"><img src="icons/ultrasound.png"/><br>Ecografia</a>
+  <a href="tomografia_computerizzata.html"><img src="icons\ct-scan.png"/><br>Tomografia Computerizzata</a>
+  <a href="risonanza_magnetica.html"><img src="icons\mri.png"/><br>Risonanza Magnetica</a>
+  <a href="contatti.html"><img src="icons\phone-book.png"/><br>Risonanza Magnetica</a>
+</div>
