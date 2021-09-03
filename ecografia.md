@@ -14,6 +14,7 @@
   - [Agenda](#agenda)
     - [Casi particolari](#casi-particolari)
     - [Accortezze](#accortezze)
+
 ---
 
 ## Pazienti da gestire
