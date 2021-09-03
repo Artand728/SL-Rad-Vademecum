@@ -9,6 +9,14 @@
 # RISONANZA MAGNETICA
 Gestione della sala di risonanza magnetica
 
+---
+- [RISONANZA MAGNETICA](#risonanza-magnetica)
+  - [- Gestione del paziente (RICOVERATO)](#--gestione-del-paziente-ricoverato)
+  - [Gestione del paziente (CUP - DS/DH)](#gestione-del-paziente-cup---dsdh)
+    - [Domande importanti](#domande-importanti)
+  - [Gestione del paziente (RICOVERATO)](#gestione-del-paziente-ricoverato)
+---
+
 | Turno      | Orario        |
 | ---------- | ------------- |
 | Mattino    | 8:00 - 14:00  |
