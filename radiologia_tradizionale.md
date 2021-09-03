@@ -214,4 +214,8 @@ Non è necessaria la sterilità.
 - Se il paziente è un uomo con difficoltà di svuotamento vescicale, va mandato in bagno per tentare di svuotare completamente. 
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
+
+
 ---
+
+*Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate.*
