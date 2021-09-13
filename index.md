@@ -13,5 +13,6 @@
   <a href="ecografia.html"><img src="icons/ultrasound.png"/></a>
   <a href="tomografia_computerizzata.html"><img src="icons\ct-scan.png"/></a>
   <a href="risonanza_magnetica.html"><img src="icons\mri.png"/></a>
+  <a href="case_meet.html"><img src="icons\presentation.png"/></a>
   <a href="contatti.html"><img src="icons\phone-book.png"/></a>
 </div>
