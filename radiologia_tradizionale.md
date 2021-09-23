@@ -9,7 +9,7 @@
 ---
 
 - [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
-  - [REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO](#refertazione-studio-etá-ossea-bambino)
+  - [Studio età ossea bambino](#studio-età-ossea-bambino)
 - [CONTRASTOGRAFICI](#contrastografici)
 - [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
   - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
@@ -30,7 +30,9 @@
 
 # RADIOLOGIA TRADIZIONALE 
 
-## REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO
+---
+
+## Studio età ossea bambino
 
 Per refertare lo studio dell’età ossea di un paziente pediatrica servono due libri:
 
