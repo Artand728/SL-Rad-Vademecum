@@ -26,7 +26,7 @@ Ogni mese cercheremo di coinvolgere uno strutturato per un quarto caso.
 Ogni incontro avrà un tema specifico che verrà di volta in volta proposto dallo strutturato che accetta di partecipare.
 
 Tutti i casi presentati (debitamente anonimizzati) verranno caricati in archivio:
-[Caseual Thursday Archive](case_archive.md)
+[Caseual Wednesday Archive](case_archive.md)
 
 ---
 

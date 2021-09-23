@@ -6,5 +6,5 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
-# CASEUAL THURSDAY ARCHIVE
-Archivio dei casi interessati presentati mensilmente ai Caseual Thursday.
+# CASEUAL WEDNESDAY ARCHIVE
+Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
