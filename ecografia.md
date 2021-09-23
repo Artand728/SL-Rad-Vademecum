@@ -47,5 +47,3 @@ Da compilare a fine giornata:
 
 
 ---
-
-*Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate.*

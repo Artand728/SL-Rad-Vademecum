@@ -28,5 +28,3 @@ L’Interfono serve a chiamare i pazienti esterni che fanno accesso al triage e 
 
 
 ---
-
-*Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate.*

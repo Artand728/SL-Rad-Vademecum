@@ -481,5 +481,3 @@ In TOR alto i pazienti restano con gli arti superiori allungati per evitare arte
 
 
 ---
-
-*Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate.*

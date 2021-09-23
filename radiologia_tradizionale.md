@@ -224,5 +224,3 @@ Non è necessaria la sterilità.
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
 ---
-
-_Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate._
