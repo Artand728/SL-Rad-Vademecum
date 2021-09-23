@@ -6,11 +6,11 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
-# CASEUAL THURSDAY
+# CASEUAL WEDNESDAY
 
 ---
 
-- [CASEUAL THURSDAY](#caseual-thursday)
+- [CASEUAL WEDNESDAY](#caseual-wednesday)
   - [Descrizione](#descrizione)
   - [Come inserire un file TC/RMN all'interno di PowerPoint?](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
     - [How to Add Scrollable CT or MRI Images to a PowerPoint Slide](#how-to-add-scrollable-ct-or-mri-images-to-a-powerpoint-slide)
@@ -20,12 +20,15 @@
 ---
 
 ## Descrizione
-Ogni 2° Giovedì del mese dalle 16:00 alle 17:00 nella Biblioteca della Radiologia Centrale.
-Tre specializzandi presenterano un caso di 5 minuti chiascuno (5-7 Slide).
+Ogni 2° mercoledì del mese dalle 15:30 alle 16:30 nella Biblioteca della Radiologia Centrale.
+Tre specializzandi presenterano un caso di 5 minuti chiascuno (5-6 Slide).
 Ogni mese cercheremo di coinvolgere uno strutturato per un quarto caso.
+Ogni incontro avrà un tema specifico che verrà di volta in volta proposto dallo strutturato che accetta di partecipare.
 
 Tutti i casi presentati (debitamente anonimizzati) verranno caricati in archivio:
 [Caseual Thursday Archive](case_archive.md)
+
+---
 
 ## Come inserire un file TC/RMN all'interno di PowerPoint?
 
@@ -73,3 +76,5 @@ How to export a perfect size and format for Carestream PACS users:
    - Size: As displayed on screen
 5. Click Save
 6. Navigate back to your images and import to PowerPoint as described above in the basic steps for Windows or Mac starting at step #3.
+
+---
