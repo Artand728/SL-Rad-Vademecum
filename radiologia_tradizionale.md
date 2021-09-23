@@ -6,10 +6,36 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
-# RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI
+# RADIOLOGIA TRADIZIONALE 
+
+## REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO
+
+Per refertare lo studio dell’età ossea di un paziente pediatrica servono due libri:
+
+1. Il libro fotocopiato e rilegato con le immagini dei 20 segmenti scheletrici della mano da analizzare e comparare + le tabelle
+2. L’atlante di Greulich & Pyle
+
+Dovrete munirvi di un terzo elemento che trovate sia sul drive che sul desktop dei pc della tradizionale ovvero il file .xls ; .ods ; .odt intitolato “Studio Età ossea” che è un foglio di calcolo che vi servirà passo passo per annotare i punteggi e fare la somma totale.
+
+Per iniziare troverete il prefatto su PRIAMO cercando tra i modelli “Età ossea”.
+
+La prima parte del lavoro la svolgerete con il foglio di calcolo ed il libro fotocopiato. Dovrete prendere le immagini dei 20 segmenti (radio, ulna , il complesso carpale; le falangi, ecc..), confrontarle con le immagini del paziente ed assegnare un punteggio secondo il Sesso del paziente (attenzione a non sbagliare a pescare i punteggi tra M e F) e la metodica TW2 (Tanner-Whitehouse – seconda edizione). Per ogni segmento troverete ai due lati del libro il punteggio a seconda del sesso nelle due metodiche (TW2 e RUS). A voi interessa solo il metodo TW2. Presi tutti e 20 i punteggi otterrete la somma tramite foglio di calcolo: questo è il vostro score TW2 da riportare nel prefatto.
+
+Adesso, sia nel libro fotocopiato che a parte dentro una busta trasparente, troverete delle tabelle per maschi e femmine in cui vi sono dei percentili ed in ascisse c’è l’età anagrafica (ogni tacca corrisponde a circa 2 mesi), mentre in ordinata c’è lo score TW2. Dovrete fare due calcoli diversi: il primo consiste nel prendere in ordinata il TW2 da voi ottenuto, farlo incrociare con il 50esimo percentile e vedere che età vi rimanda (età scheletrica) ; il secondo consiste nel prendere in ascisse l’età anagrafica del paziente , farla incrociare con il TW2 e vedere che percentile vi restituisce.
+
+Sembra complicato, ma dovete “tradurre” passo passo ogni singola frase del prefatto ed a poco a poco sarà tutto più chiaro.
+
+Infine, posato il libro dentro la vetrinetta della tradizionale, potete prendere l’atlante iconografico blu di Greulich & Pyle e fare un confronto diretto tra le immagini dell’atlante e quella della mano del paziente.
+
+A questo punto il vostro referto sarà completo e voi avrete finito.
+
+# CONTRASTOGRAFICI
 
 ---
-- [RADIOLOGIA TRADIZIONALE - CONTRASTOGRAFICI](#radiologiatradizionale-contrastografici)
+
+- [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
+  - [REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO](#refertazione-studio-etá-ossea-bambino)
+- [CONTRASTOGRAFICI](#contrastografici)
 - [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
   - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
   - [Esecuzione](#esecuzione)
@@ -36,7 +62,6 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 - **Gastrografin:** (1 bicchiere senza diluizione) se *disfagici*, *operati da poco tempo* (se < 3 mesi sempre) o *perforati*.
 - **Bario**: (disciolto in acqua con proporzione 50 e 50 (1:1), tenendone una quota da parte in caso ne servisse ancora) per tutti gli altri casi.
 
-
 ## Esecuzione
 
 NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FERMI IN GRAFIA.
@@ -51,9 +76,7 @@ NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FER
 - Valutare il **reflusso gastroesofageo** inclinando il lettino in **Trendelenburg** (**-10°**)e facendo eseguire **manovra di Valsalva**
 - Eventualmente, se il quesito diagnostico riguarda l'esofago eseguire una **GRAFIA obliqua AP**
 
-
 ---
-
 
 # ILEOGRAFIA
 
@@ -64,30 +87,21 @@ La richiesta viene effettuata dalla Chirurgia Generale dell'Ospedale (in
 L'esame va prenotato per il giovedì poiché il paziente deve eseguire il **lavaggio della stomia** il giorno precedente.
 L'esame occupa il secondo posto della giornata, perchè la durata è variabile.
 
-
-
 Cosa chiedere al paziente/collega?
-
 
 - **Allergie**
 - **Documentazione** (atto operatorio, da inviare per e-mail o da portare il giorno dell'esame)
 - Portare un **sacchetto di ricambio**
 
-
->    Se il paziente è allergico bisogna inviare il foglio per la preparazione antiallergica (si trova sul desktop dei PC della rediologia tradizionale).
-
-
-
+> Se il paziente è allergico bisogna inviare il foglio per la preparazione antiallergica (si trova sul desktop dei PC della rediologia tradizionale).
 
 Cosa scrivere nella prenotazione?
-
 
 - Nome e cognome paziente
 - N° di telefono
 - Quesito diagnostico
 - Tipo di intervento cui si è sottoposto/a
 - Allergie
-
 
 ## Burocrazia
 
@@ -100,11 +114,9 @@ Cosa scrivere nella prenotazione?
 - Stampa del CD
 - Stampa del referto
 
-
 ## Materiali
 
 Non è necessaria la sterilità.
-
 
 - Telino
 - Telino con buco
@@ -116,9 +128,7 @@ Non è necessaria la sterilità.
 - Betadine
 - Luan o gel ecografico
 
-
 ## Esecuzione
-
 
 ### Inserimento del catetere
 
@@ -128,10 +138,8 @@ Non è necessaria la sterilità.
 - Applicare il telino con buco dopo rimozione copriadesivo
 - Inserimento catetere
   - Riconoscere l'**ansa efferente** (quella meno visibile, introflessa, da cui non escono feci)
-  - Inserire il catetere con la punta ricoperta di gel (*luan* o *gel ecografico*)
+  - Inserire il catetere con la punta ricoperta di gel (_luan_ o _gel ecografico_)
   - Gonfiare il palloncino con la siringa da 5 mL
-
-
 
 ### Acquisizioni
 
@@ -142,13 +150,11 @@ Non è necessaria la sterilità.
   - Attenzione a eventuali spandimenti
   - Continuare fino a completa opacizzazione del tratto di interesse (solitamente fino all'ampolla rettale o almeno oltre l'anastomosi)
 - **Proiezioni in GRAFIA** `7,5`
-     - **AP**
-     - *LL*
-     - **Sull'anastomosi:*
-       - **Obliqua dx**
-       - **Obliqua sx**
-
-
+  - **AP**
+  - _LL_
+  - \*_Sull'anastomosi:_
+    - **Obliqua dx**
+    - **Obliqua sx**
 
 ### Refertazione
 
@@ -162,17 +168,15 @@ Non è necessaria la sterilità.
   - Collaterali (diverticoli, incontinenza)
 - Conclusioni
 
-
 ---
-
 
 # CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
 
 ## Materiali
 
 - **Catetere** `14F`
-  - per **uomo** **con** **stenosi uretrale** eventualemente **catetere** `12F` / `10F` 
-    - se non disponibili chiedere presso gli **ambulatori di urologia** (2°padiglione, 3°piano, interno ___)
+  - per **uomo** **con** **stenosi uretrale** eventualemente **catetere** `12F` / `10F`
+    - se non disponibili chiedere presso gli **ambulatori di urologia** (2°padiglione, 3°piano, interno \_\_\_)
 - Telo sterile per allievo
 - Telo sterile con buco 
   (non rimuovere copriadesivo)
@@ -188,34 +192,31 @@ Non è necessaria la sterilità.
 - Morsetto da catetere
 - Pappagallo uomo/donna
 
-
 ## Esecuzione
 
 - **AP BASALE** (**GRAFIA**): il paziente deve essere posizionato il più possibile vicino alla cassetta e lontano dal tubo radiogeno
-- **Disinfezione** con garze sterili e Betadine: 
-    - `UOMO`: partire dal glande e scendere;
-    - `DONNA`: divaricare grandi e piccole labbra e poi disinfettare dall’alto verso il basso senza passare più volte sullo stesso punto.
-- **Inserimento** **del catetere**: 
-    - `UOMO`: inserire **in fossa navicolare** e **gonfiare** con **4.5 mL**
-      (aria o fisiologica indifferentemente); 
-    - `DONNA`: inserire **in vescica** e **gonfiare** con **5 mL** 
-      (aria o fisiologica indifferentemente);
-- **AP BASALE** (**GRAFIA**): deve essere **visualizzabile** **il catetere** 
+- **Disinfezione** con garze sterili e Betadine:
+  - `UOMO`: partire dal glande e scendere;
+  - `DONNA`: divaricare grandi e piccole labbra e poi disinfettare dall’alto verso il basso senza passare più volte sullo stesso punto.
+- **Inserimento** **del catetere**:
+  - `UOMO`: inserire **in fossa navicolare** e **gonfiare** con **4.5 mL**
+    (aria o fisiologica indifferentemente);
+  - `DONNA`: inserire **in vescica** e **gonfiare** con **5 mL** 
+    (aria o fisiologica indifferentemente);
+- **AP BASALE** (**GRAFIA**): deve essere **visualizzabile** **il catetere**
   - in uretra nell’uomo
   - in vescica nella donna
 - **Inserire mdc** e controllare con **SCOPIA** successiva l’avvenuto **riempimento vescicale**.
-- Quando si è raggiunto una condizione di **vescica repleta** (**GRAFIA**): 
-    - **AP**
-    - **2 OBLIQUE** 
-    - **LL**
+- Quando si è raggiunto una condizione di **vescica repleta** (**GRAFIA**):
+  - **AP**
+  - **2 OBLIQUE**
+  - **LL**
 - Se il paziente è continente va **rimosso il catetere**, altrimenti il catetere deve essere mantenuto in sede.
-- Posizionare il paziente **prono** con lettino **in Trendelemburg** (**-10°**) ed eseguire la **Manovra di Valsalva** acquisendo **GRAFIA AP** `3 frame/sec` con `zoom a 42 cm` centrata sulla vescica e sugli ureteri.
-- Posizionare il paziente paziente in piedi con i piedi sulla pedana del lettino posizionato in verticale. Indicare di **svuotare** la vescica **nel pappagallo**. Eseguita una seconda **GRAFIA** in **proiezione LL** `3 frame/sec` e `zoom 42 cm`
+- Posizionare il paziente **prono** con lettino **in Trendelemburg** (**-10°**) ed eseguire la **Manovra di Valsalva** acquisendo **GRAFIA AP** `3 frame/sec` con `zoom a 42 cm` centrata sulla vescica e sugli ureteri.
+- Posizionare il paziente paziente in piedi con i piedi sulla pedana del lettino posizionato in verticale. Indicare di **svuotare** la vescica **nel pappagallo**. Eseguita una seconda **GRAFIA** in **proiezione LL** `3 frame/sec` e `zoom 42 cm`
 - Se il paziente è un uomo con difficoltà di svuotamento vescicale, va mandato in bagno per tentare di svuotare completamente. 
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
-
-
 ---
 
-*Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate.*
+_Le informazioni riportate sono solo a fine diattico ed esemplicativo e potrebbero non essere accurate._
