@@ -6,6 +6,28 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
+---
+
+- [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
+  - [REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO](#refertazione-studio-etá-ossea-bambino)
+- [CONTRASTOGRAFICI](#contrastografici)
+- [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
+  - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
+  - [Esecuzione](#esecuzione)
+- [ILEOGRAFIA](#ileografia)
+  - [Prenotazione](#prenotazione)
+  - [Burocrazia](#burocrazia)
+  - [Materiali](#materiali)
+  - [Esecuzione](#esecuzione-1)
+    - [Inserimento del catetere](#inserimentodelcatetere)
+    - [Acquisizioni](#acquisizioni)
+    - [Refertazione](#refertazione)
+- [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
+  - [Materiali](#materiali-1)
+  - [Esecuzione](#esecuzione-2)
+
+---
+
 # RADIOLOGIA TRADIZIONALE 
 
 ## REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO
@@ -29,27 +51,9 @@ Infine, posato il libro dentro la vetrinetta della tradizionale, potete prendere
 
 A questo punto il vostro referto sarà completo e voi avrete finito.
 
-# CONTRASTOGRAFICI
-
 ---
 
-- [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
-  - [REFERTAZIONE STUDIO ETÁ OSSEA BAMBINO](#refertazione-studio-etá-ossea-bambino)
-- [CONTRASTOGRAFICI](#contrastografici)
-- [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
-  - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
-  - [Esecuzione](#esecuzione)
-- [ILEOGRAFIA](#ileografia)
-  - [Prenotazione](#prenotazione)
-  - [Burocrazia](#burocrazia)
-  - [Materiali](#materiali)
-  - [Esecuzione](#esecuzione-1)
-    - [Inserimento del catetere](#inserimentodelcatetere)
-    - [Acquisizioni](#acquisizioni)
-    - [Refertazione](#refertazione)
-- [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
-  - [Materiali](#materiali-1)
-  - [Esecuzione](#esecuzione-2)
+# CONTRASTOGRAFICI
 
 ---
 
