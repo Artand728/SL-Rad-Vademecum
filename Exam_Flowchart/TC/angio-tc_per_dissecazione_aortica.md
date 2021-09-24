@@ -1,4 +1,4 @@
-## ANGIO-TC (per **dissecazione aortica**)
+# ANGIO-TC (per **dissecazione aortica**)
 1. **Torace (TOR) Basale**: ricercare la presenza di **ematoma intramurale** sulla parete dell'aorta toracica (tipicamente ascendente) nella sua manifestazione TC di **semiluna iperintensa** intorno alla parete dell'aorta.
 
     > Tale reperto non è correttamente valutabile dopo la somministrazione di mdc in quanto l'opacizzazione del lume del vaso maschera l'iperintensità della parete.

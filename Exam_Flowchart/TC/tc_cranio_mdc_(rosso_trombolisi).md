@@ -1,3 +1,14 @@
+# TC CRANIO PROTOCCOLO ROSSO TROMBOLISI
+
+---
+
+- [TC CRANIO PROTOCCOLO ROSSO TROMBOLISI](#tc-cranio-protoccolo-rosso-trombolisi)
+  - [TC CRANIO BASALE](#tc-cranio-basale)
+  - [TC CRANIO CON MDC (ARCO AORTICO → APICE)](#tc-cranio-con-mdc-arco-aortico--apice)
+  - [TC CRANIO CON MDC (APICE → NUCLEI DELLA BASE)](#tc-cranio-con-mdc-apice--nuclei-della-base)
+
+---
+
 ## TC CRANIO BASALE
 
 1. Ricercare **aree di emorragia encefalica**.
