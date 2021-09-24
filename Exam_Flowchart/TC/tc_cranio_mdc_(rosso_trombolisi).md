@@ -33,7 +33,7 @@ La presenza di aree iscehemiche deve essere valutata attraverso l'**ASPECTS Scor
     >
     >*rostrale = estremità diretta verso l'apice cefalico*
     >
-    >![ASPECTS SCORE  ](../../aspects-score.png)
+    >![ASPECTS SCORE  ](img\aspects-score.png)
     >
     >Un punteggio di ASPECTS Score ≥ 8 punti è predittivo di un miglior outcome.
     >Il punteggio dell'ASPECTS SCORE è in oltre indicativo del rischio di sanguinamento a seguito terapia trombolitica.
