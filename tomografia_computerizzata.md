@@ -82,6 +82,47 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 Da fare ogni volta che un paziente è allergico altrimenti l'esame deve essere rimandato.
 Nel caso di dubbia allergia a mezzo di contrasto non usare in nessun caso il mdc.
 
+>### PREMEDICAZIONE FARMACOLOGICA PER PAZIENTI A RISCHIO DI SVILUPPARE REAZIONI AVVERSE AI MEZZI DI CONTRASTO PER INDAGINI RADIOGRAFICHE
+>
+> ---
+>
+>Paziente con **più di 70 anni**:
+>- _13 ore prima_: **Prednisone** (**DELTACORTENE FORTE**) 2 compresse da 25 mg  per os + **Atarax** 1 compressa da 25 mg per os 
+>
+>- _7 ore prima_ : **Prednisone** 2 compresse da 25 mg per os
+>
+>- _1 ora prima_ : **Prednisone** 2 compresse da 25  mg per os +  **Atarax** 1 compressa da 25 mg  per os 
+>
+> ---
+>
+>Paziente con **meno di 70 anni** e **peso superiore  ai 60 Kg**:
+>
+>
+>- _13 ore prima_: **Prednisone** (**DELTACORTENE FORTE**) 2 compresse da  25 mg  per os + **Atarax** 2 compresse da 25 mg per os 
+>
+>- _7 ore prima_ : **Prednisone** 2  compresse da 25  mg per os
+>
+>- _1 ora prima_ : **Prednisone** 2 compresse da 25 mg per os + **Atarax** 1 compressa da 25 mg per os 
+>
+> ---
+>
+>Paziente con **meno di  70 anni** e **peso inferiore   ai 60 Kg**:
+>
+>
+>- _13 ore prima_: **Prednisone** (**DELTACORTENE FORTE**) 2 compresse da 25 mg  per os + **Atarax** 1 compressa da 25 mg per os 
+>
+>- _7 ore prima_ : **Prednisone** 2 compresse da 25 mg per os
+>
+>- _1 ora prima_ : **Prednisone** 2 compresse da 25  mg per os +  **Atarax** 1 compressa da 25 mg  per os 
+>
+> ---
+>
+>**ADRENALINA fiale** (_1 mg/ml_) da usare al bisogno in caso di comparsa della reazione di intolleranza (*0.3 -0.5 mg* = **1/3 - 1/2 di fila** eventualmente **ripetibili dopo pochi minuti**: a disposizione del Servizio di Radiologia per le emergenze.
+>
+> ---
+> 
+
+
 ***
 
 ## STRAVASO MDC
@@ -96,6 +137,8 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 - idratazione 
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
+
+
 
 ***
 
