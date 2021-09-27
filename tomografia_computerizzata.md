@@ -118,8 +118,6 @@ Nel caso di dubbia allergia a mezzo di contrasto non usare in nessun caso il mdc
 > ---
 >
 >**ADRENALINA fiale** (_1 mg/ml_) da usare al bisogno in caso di comparsa della reazione di intolleranza (*0.3 -0.5 mg* = **1/3 - 1/2 di fila** eventualmente **ripetibili dopo pochi minuti**: a disposizione del Servizio di Radiologia per le emergenze.
->
-> ---
 > 
 
 
@@ -138,20 +136,40 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
 
-|        **TC/RX**        |         **RMN**         |
-| :---------------------: | :---------------------: |
-| GFR ≥ 45 ml/min/1.73 m² | GFR > 30 ml/min/1.73 m² |
-| nessuna premedicazione  | nessuna premedicazione  |
-
----
-
-|                  **TC/RX**                  |
-| :-----------------------------------------: |
-| 30 ml/min/1.73 m² < GFR < 45 ml/min/1.73 m² |
-|           nessuna premedicazione            |
-|                                             |
-
-
+>**TC/RX**
+>
+>**GFR** > **45 ml**/min/1.73 m²
+>
+>**Non** è **neccessaria** la **premedicazione**.
+>
+>---
+>
+>**TC/RX**
+>
+>**30 ml**/min/1.73 m² < **GFR** < **45 ml**/min/1.73 m²
+>
+>Il giorno precedente l'esame: 
+>- **Fluimucil** *600mg* 1cp alle ore 08:00 
+>- **Fluimucil** *600mg* 1cp alle ore 20:00
+>
+>Il giorno dell'esame:
+>- **Fluimucil** *600mg* 1cp alle ore 08:00 
+>- **Fluimucil** *600mg* 1cp alle ore 20:00
+>- **Soluzione fisiologica** *1000cc ev pre-esame*
+>- **Soluzione fisiologica** *1000cc ev post-esame*
+>
+>**Sopsendere Metformina** 48 ore prima dell'esame e riprendere l'assunzione 48 ore dopo l'esame.
+>
+>A giudizo del medico curante ricontrollare la funzionalità renale a 48-72 ore dalla somministrazione del mdc.
+>
+>---
+>
+>**TC/RX**
+>
+>**GFR** < **30 ml**/min/1.73 m²
+>
+>**Sconsigliata** la **somministrazione di mdc**.
+>
 
 ***
 
