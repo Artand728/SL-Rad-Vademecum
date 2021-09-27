@@ -25,7 +25,7 @@ Tre specializzandi presenterano un caso di 5 minuti chiascuno (5-6 Slide).
 Ogni mese cercheremo di coinvolgere uno strutturato per un quarto caso.
 Ogni incontro avrà un tema specifico che verrà di volta in volta proposto dallo strutturato che accetta di partecipare.
 
-Tutti i casi presentati (debitamente anonimizzati) verranno caricati in archivio:
+Tutti i casi presentati (debitamente anonimizzati)  verranno caricati in archivio:
 [Caseual Wednesday Archive](case_archive.md)
 
 ---
