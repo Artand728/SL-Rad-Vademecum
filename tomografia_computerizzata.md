@@ -138,6 +138,19 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
 
+|        **TC/RX**        |         **RMN**         |
+| :---------------------: | :---------------------: |
+| GFR ≥ 45 ml/min/1.73 m² | GFR > 30 ml/min/1.73 m² |
+| nessuna premedicazione  | nessuna premedicazione  |
+
+---
+
+|                  **TC/RX**                  |
+| :-----------------------------------------: |
+| 30 ml/min/1.73 m² < GFR < 45 ml/min/1.73 m² |
+|           nessuna premedicazione            |
+|                                             |
+
 
 
 ***
