@@ -1,81 +1,81 @@
-| CODICE | NOME REPARTO                                 |          INTERNO          |
-| ------ | -------------------------------------------- | :-----------------------: |
-| MET    | MEDICAL EMERGENCY TEAM                       |           6959            |
-|        |                                              |                           |
-| 3B     | NEUROLOGIA (medici)                          |    6615 - 7251 - 6981     |
-|        | NEUROLOGIA (infermieri)                      |        7250 - 6363        |
-|        |                                              |                           |
-| 10A    | ONCOLOGIA MEDICA (medici)                    | 6993 - 6226 - 6017 - 6279 |
-|        | ONCOLOGIA MEDICA (infermieri)                |        6642 - 6234        |
-|        | ONCOLOGIA MEDICA - DH (medici)               |           6512            |
-|        | ONCOLOGIA MEDICA - DH (infermieri)           |        6350 - 6420        |
-|        |                                              |                           |
-|        | PRE-RICOVERO (segreteria)                    |        6677 - 6502        |
-|        |                                              |                           |
-|        | RIANIMAZIONE 1                               |    6386 - 7285 - 7260     |
-|        | RIANIMAZIONE 2                               |        6915 - 6916        |
-|        | RIANIMAZIONE 3                               |           6426            |
-|        |                                              |                           |
-|        | CHIRURGIA TORACICA (medici)                  |           6671            |
-|        | CHIRURGIA TORACICA (infermieri)              |    6518 - 6996 - 6597     |
-|        |                                              |                           |
-| 8A     | ONCOLOGIA POLMONARE                          |           6993            |
-|        |                                              |                           |
-|        | MEDICINA INTERNA 1 (medici)                  |           6818            |
-|        | MEDICINA INTERNA 1 (infermieri)              |           6815            |
-|        |                                              |                           |
-| 5A     | MEDICINA INTERNA 2 - EMATOLOGIA (medici)     |           6308            |
-|        | MEDICINA INTERNA 2 - EMATOLOGIA (infermieri) |           6542            |
-|        |                                              |                           |
-| 9A     | UROLOGIA                                     |                           |
-|        |                                              |                           |
-|        | GERIATRIA                                    |           6301            |
-|        |                                              |                           |
-| FPR    | FISIOPATOLOGIA RIABILITATIVA                 |        6638 - 6246        |
-|        |                                              |                           |
-| MURG   | MEDICINA D’URGENZA (infermieri)              |           6603            |
-|        |                                              |                           |
-| URG    | URGENZE                                      |                           |
-|        |                                              |                           |
-|        | CHIRUGIA GENERALE - MEDICINA INTERNA 3 (infermieri)       |           6368            |
-|        | CHIRUGIA GENERALE (medici)       |           6224            |
-|        |                                              |                           |
-|        | AMCI - CURE INTERMEDIE (medici)              |           6381 - 6638     |
-|        | AMCI - CURE INTERMEDIE (infermieri)          | 6396 - 6246               |
-|        |                                              |                           |
-|        | ANATOMIA PATOLOGICA                          | 6486 - 6466               |
-|        |                                              |                           |
-|        | CARDIOLOGIA (medici)                         |     6705 - 6707           |
-|        | CARDIOLOGIA (infermieri)                     | 6701                      |
-|        | CARDIOLOGIA - DH                             | 6706                      |
-|        | CARDIOLOGIA - Ambulatori                     | 6895                      |
-|        | CARDIOLOGIA (Prof.)                     | 80609 - 6702              |
-|        |                                              |                           |
-|        | UTIC (Unità Terapia Intensiva Coronarica) - Infermieri  | 6704           |
-|        |                                              |                           |
-|        | EMODINAMICA (infermieri)                     | 6803                      |
-|        | EMODINAMICA (medici)                         | 6802                      |
-|        |                                              |                           |
-|        | GASTROENTEROLOGIA                                             | 6351 - 6324     |
-|        | ENDOSCOPIA (medici)                                             | 6537 - 6548 - 6449                  |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
-|        |                                              |                           |
+| CODICE | NOME REPARTO                                           |          INTERNO          |
+| ------ | ------------------------------------------------------ | :-----------------------: |
+| MET    | MEDICAL EMERGENCY TEAM                                 |           6959            |
+|        |                                                        |                           |
+| 3B     | NEUROLOGIA (medici)                                    |    6615 - 7251 - 6981     |
+|        | NEUROLOGIA (infermieri)                                |        7250 - 6363        |
+|        |                                                        |                           |
+| 10A    | ONCOLOGIA MEDICA (medici)                              | 6993 - 6226 - 6017 - 6279 |
+|        | ONCOLOGIA MEDICA (infermieri)                          |        6642 - 6234        |
+|        | ONCOLOGIA MEDICA - DH (medici)                         |           6512            |
+|        | ONCOLOGIA MEDICA - DH (infermieri)                     |        6350 - 6420        |
+|        |                                                        |                           |
+|        | PRE-RICOVERO (segreteria)                              |        6677 - 6502        |
+|        |                                                        |                           |
+|        | RIANIMAZIONE 1                                         |    6386 - 7285 - 7260     |
+|        | RIANIMAZIONE 2                                         |        6915 - 6916        |
+|        | RIANIMAZIONE 3                                         |           6426            |
+|        |                                                        |                           |
+|        | CHIRURGIA TORACICA (medici)                            |           6671            |
+|        | CHIRURGIA TORACICA (infermieri)                        |    6518 - 6996 - 6597     |
+|        |                                                        |                           |
+| 8A     | ONCOLOGIA POLMONARE                                    |           6993            |
+|        |                                                        |                           |
+|        | MEDICINA INTERNA 1 (medici)                            |           6818            |
+|        | MEDICINA INTERNA 1 (infermieri)                        |           6815            |
+|        |                                                        |                           |
+| 5A     | MEDICINA INTERNA 2 - EMATOLOGIA (medici)               |           6308            |
+|        | MEDICINA INTERNA 2 - EMATOLOGIA (infermieri)           |           6542            |
+|        |                                                        |                           |
+| 9A     | UROLOGIA                                               |                           |
+|        |                                                        |                           |
+|        | GERIATRIA                                              |           6301            |
+|        |                                                        |                           |
+| FPR    | FISIOPATOLOGIA RIABILITATIVA                           |        6638 - 6246        |
+|        |                                                        |                           |
+| MURG   | MEDICINA D’URGENZA (infermieri)                        |           6603            |
+|        |                                                        |                           |
+| URG    | URGENZE                                                |                           |
+|        |                                                        |                           |
+|        | CHIRUGIA GENERALE - MEDICINA INTERNA 3 (infermieri)    |           6368            |
+|        | CHIRUGIA GENERALE (medici)                             |           6224            |
+|        |                                                        |                           |
+|        | AMCI - CURE INTERMEDIE (medici)                        |        6381 - 6638        |
+|        | AMCI - CURE INTERMEDIE (infermieri)                    |        6396 - 6246        |
+|        |                                                        |                           |
+|        | ANATOMIA PATOLOGICA                                    |        6486 - 6466        |
+|        |                                                        |                           |
+|        | CARDIOLOGIA (medici)                                   |        6705 - 6707        |
+|        | CARDIOLOGIA (infermieri)                               |           6701            |
+|        | CARDIOLOGIA - DH                                       |           6706            |
+|        | CARDIOLOGIA - Ambulatori                               |           6895            |
+|        | CARDIOLOGIA (Prof.)                                    |       80609 - 6702        |
+|        |                                                        |                           |
+|        | UTIC (Unità Terapia Intensiva Coronarica) - Infermieri |           6704            |
+|        |                                                        |                           |
+|        | EMODINAMICA (infermieri)                               |           6803            |
+|        | EMODINAMICA (medici)                                   |           6802            |
+|        |                                                        |                           |
+|        | GASTROENTEROLOGIA                                      |        6351 - 6324        |
+|        | ENDOSCOPIA (medici)                                    |    6537 - 6548 - 6449     |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
+|        |                                                        |                           |
 
 |        |                                              |                           |
 |        | TRASPORTI                                    |           7004            |
