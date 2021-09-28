@@ -37,7 +37,46 @@
 |        |                                              |                           |
 | URG    | URGENZE                                      |                           |
 |        |                                              |                           |
-|        | CHIRUGIA GENERALE - MEDICINA INTERNA 3       |           6368            |
+|        | CHIRUGIA GENERALE - MEDICINA INTERNA 3 (infermieri)       |           6368            |
+|        | CHIRUGIA GENERALE (medici)       |           6224            |
+|        |                                              |                           |
+|        | AMCI - CURE INTERMEDIE (medici)              |           6381 - 6638     |
+|        | AMCI - CURE INTERMEDIE (infermieri)          | 6396 - 6246               |
+|        |                                              |                           |
+|        | ANATOMIA PATOLOGICA                          | 6486 - 6466               |
+|        |                                              |                           |
+|        | CARDIOLOGIA (medici)                         |     6705 - 6707           |
+|        | CARDIOLOGIA (infermieri)                     | 6701                      |
+|        | CARDIOLOGIA - DH                             | 6706                      |
+|        | CARDIOLOGIA - Ambulatori                     | 6895                      |
+|        | CARDIOLOGIA (Prof.)                     | 80609 - 6702              |
+|        |                                              |                           |
+|        | UTIC (Unità Terapia Intensiva Coronarica) - Infermieri  | 6704           |
+|        |                                              |                           |
+|        | EMODINAMICA (infermieri)                     | 6803                      |
+|        | EMODINAMICA (medici)                         | 6802                      |
+|        |                                              |                           |
+|        | GASTROENTEROLOGIA                                             | 6351 - 6324     |
+|        | ENDOSCOPIA (medici)                                             | 6537 - 6548 - 6449                  |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+|        |                                              |                           |
+
 |        |                                              |                           |
 |        | TRASPORTI                                    |           7004            |
 
