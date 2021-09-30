@@ -6,6 +6,7 @@
   - [TC CRANIO BASALE](#tc-cranio-basale)
   - [TC CRANIO CON MDC (ARCO AORTICO → APICE)](#tc-cranio-con-mdc-arco-aortico--apice)
   - [TC CRANIO CON MDC (APICE → NUCLEI DELLA BASE)](#tc-cranio-con-mdc-apice--nuclei-della-base)
+  - [TC PERFUSION](#tc-perfusion)
 
 ---
 
@@ -45,6 +46,8 @@ La presenza di aree iscehemiche deve essere valutata attraverso l'**ASPECTS Scor
     Successivamente si passa alla **Stroke window (W30:C30)** al fine di completare la valutazione delle eventuali aree di ischemia.
 
 
+
+
 ## TC CRANIO CON MDC (ARCO AORTICO → APICE)
 
 
@@ -63,3 +66,19 @@ La presenza di aree iscehemiche deve essere valutata attraverso l'**ASPECTS Scor
     - aneurisma
     - 
 
+## TC PERFUSION
+
+1. Aprire il portale Philips IntelliSpace.
+2. Selezionare la sequenza perfusionale del paziente.
+3. Cliccare Brain Perfusion.
+4. Il sistema seleziona autonomamente un'arteria ed una vena di riferimento.
+5. Correggere eventualmente l'arteria scelta (tipicamente si seleziona la cerebrale anteriore) e la vena scelta (tipicamente il seno cerebrale posteriore).
+6. Nel grafico di intensità HU in funzione del tempo si vedono due picchi che rappresentano il picco arterioso e venoso nelle due regioni selezionate dalla ROI.
+La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla venosa e più elevata in termini di intensità HU.
+7. Passare alle mappe di perfusione
+8. Il portale a partire dalle immagini ricostruisce 4 mappe di perfusione:
+  - CBV (Cerebral Blood Volume)
+  - CBF (Cerebral Blood Flow)
+  - MTT (Mean Transit Time)
+  - TTP (Time To Peak)
+9. Nella regione del core infartuale mi aspetto una diminuzione del volume medio di sangue (CBV), una drastica riduzione del flusso medio di sangue ... 
