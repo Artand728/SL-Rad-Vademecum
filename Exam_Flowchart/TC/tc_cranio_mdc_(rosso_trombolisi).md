@@ -81,4 +81,4 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
   - CBF (Cerebral Blood Flow)
   - MTT (Mean Transit Time)
   - TTP (Time To Peak)
-9. Nella regione del core infartuale mi aspetto una diminuzione del volume medio di sangue (CBV), una drastica riduzione del flusso medio di sangue ... 
+9. Nella regione del core infartuale mi aspetto una diminuzione del volume medio di sangue (&darr;&darr;&darr;CBV), una drastica riduzione del flusso medio di sangue (&darr;&darr;&darr;CBF)
