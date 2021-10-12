@@ -14,6 +14,7 @@
   - [Agenda](#agenda)
     - [Casi particolari](#casi-particolari)
     - [Accortezze](#accortezze)
+    - [NOTE](#note)
 
 ---
 
@@ -47,3 +48,10 @@ Da compilare a fine giornata:
 
 
 ---
+
+
+### NOTE
+
+- Fare i ricoverati quanto prima possibile (poiché costano molto all'ospedale)
+- Non si rimanda una ecografia addome completo solo perché il paziente ha mangiato, tanto più se lo studio non riguarda colecisiti o pancreas.
+- 
