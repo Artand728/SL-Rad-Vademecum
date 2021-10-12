@@ -54,4 +54,4 @@ Da compilare a fine giornata:
 
 - Fare i ricoverati quanto prima possibile (poiché costano molto all'ospedale)
 - Non si rimanda una ecografia addome completo solo perché il paziente ha mangiato, tanto più se lo studio non riguarda colecisiti o pancreas.
-- 
+- Se arriva una cartella clinica per una consulenza per gli interventisti (tanto più se da un ospedale esterno) deve necessariamente passare prima in segretaria per essere registrata come consulenza.
