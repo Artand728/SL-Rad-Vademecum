@@ -136,15 +136,12 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
 
->**TC/RX**
->
+
 >**GFR** > **45 ml**/min/1.73 m²
 >
 >**Non** è **neccessaria** la **premedicazione**.
 >
 >---
->
->**TC/RX**
 >
 >**30 ml**/min/1.73 m² < **GFR** < **45 ml**/min/1.73 m²
 >
@@ -158,17 +155,19 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 >- **Soluzione fisiologica** *1000cc ev pre-esame*
 >- **Soluzione fisiologica** *1000cc ev post-esame*
 >
+> Nel caso in cui il paziente soffra di **scompenso cardiaco** o di altre patologie che potrebbero essere aggravate da una eccessiva somministrazione di liquidi si può optare per somministrare solamente 500cc di soluzione fisiologica.
+>
+> In alcuni casi quando la funzionalità renale è su valori border si può decidere di somministrare solo 500 cc di fisologica al posto di 1000 cc.
+>
 >**Sopsendere Metformina** 48 ore prima dell'esame e riprendere l'assunzione 48 ore dopo l'esame.
 >
 >A giudizo del medico curante ricontrollare la funzionalità renale a 48-72 ore dalla somministrazione del mdc.
 >
 >---
 >
->**TC/RX**
->
 >**GFR** < **30 ml**/min/1.73 m²
 >
->**Sconsigliata** la **somministrazione di mdc**.
+>**Sconsigliata** la **somministrazione di mdc**, viene richiesta la **consulenza nefrologica** per poter eseguire l'esame.
 >
 
 ***
@@ -176,11 +175,11 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 ## GESTIONE DEL PAZIENTE
 
 1.	Busta gialla + bianca
-2.	Prendere/stampare appiccichino
-3.	Chiedere al pz ultima visita onco + ultimi esami TC (se eseguiti fuori)
-	- Se TC eseguita fuori assicurarsi di avere il CD e caricarlo su Telemis
-	- Fare fotocopia del referto della TC fatta fuori (da dare allo strutturato per la refertazione)
-	- Restituire gli esami precedenti al pz! (la visita onco è da tenere, verrà restituita alla consegna del referto)
+2.	Prendere/stampare etichetta anagrafica
+3.	Chiedere al paziente il referto del medico che lo invia ad eseguire l'esame (oncologo, urologo et al.) + ultimi esami di imaging eseguiti in un centro esterno (soprattuto TC, ma nel caso anche RMN o ecografie)
+	- Se l'esame è stato eseguito presso un centro esterno assicurarsi di avere il CD e caricarlo su Telemis
+	- Fotocopiare il referto dell'esame e allegarlo al plico da consegnare allo strutturato per la refertazione (alcuni preferiscono una foto via wp)
+	- Restituire gli esami precedenti al paziente (la visita oncologica è da tenere, verrà restituita alla consegna del referto)
 4.	Controllare creatinina (max 3 mesi precedenti):
 	- Se il pz la porta ok
 	- Se l’ha eseguita presso l'ospedale si può vedere sul portale Concerto:
