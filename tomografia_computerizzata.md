@@ -553,6 +553,4 @@ In TOR alto i pazienti restano con gli arti superiori allungati per evitare arte
 - Ripassaggio epatico su sospette mts epatiche per vedere se cambia l'enhancement: se fossero cisti  rimangono uguali. 
 
 
-
-
 ---
