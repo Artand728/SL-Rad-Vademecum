@@ -52,7 +52,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 	- [QUANDO FARE IL RIPASSAGGIO](#quando-fare-il-ripassaggio)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [Flusso accessi](#flusso-accessi)
-	- [BIBLIOGRAFIA](#bibliografia)
+	- [NOTE](#note)
 
 ***
 
@@ -548,7 +548,9 @@ In TOR alto i pazienti restano con gli arti superiori allungati per evitare arte
 
 ***
 
-## BIBLIOGRAFIA
+## NOTE
+- TC arti inferiori con mezzo di contrasto in fase vonosa (a due minuti - 2' con eventuale ripassaggio a 3')
+- Ripassaggio epatico su sospette mts epatiche per vedere se cambia l'enhancement: se fossero cisti  rimangono uguali. 
 
 
 
