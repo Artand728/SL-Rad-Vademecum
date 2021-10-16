@@ -1,21 +1,32 @@
 VADEMECUM GUARDIA PS
 
 
-ORARI: 8:00 - 20:00
-ATTIVITÁ: 
+## ORARI 
+8:00 - 20:00
+TURNO MATTINA: 08:00 - 14:00
+TURNO POMERIGGIO: 14:00 - 20:00
+
+## ATTIVITÁ: 
 1)SALA REFERTAZIONE
 2)SALA TC/RX
 3)SALA ECOGRAFIA
 4)TELEFONO; INTERFONO E PRENOTAZIONI
 
-SALA REFERTAZIONE: sala in cui si svolge l’attività di refertazione, a lato le salette degli ortopedici, e dove si trova sia l’interfono che eventualmente il telefono. La troverete sulla sinistra imboccando il corridoio che porta alla radiologia del PS.
+## SALA REFERTAZIONE 
+Sala in cui si svolge l’attività di refertazione, a lato le salette degli ortopedici, e dove si trova sia l’interfono che eventualmente il telefono. La troverete sulla sinistra imboccando il corridoio che porta alla radiologia del PS.
 
 
-SALA TC/RX: sala in cui vengono eseguiti gli esami TC/RX ad opera dei tecnici e dove verrete a controllare se sono idonee le scansioni TC. La troverete di fronte a voi imboccando il corridoio che porta alla radiologia del PS. L’interno della sala è 6392. Chiaramente se l’esame è con mdc ricordate di chiedere creatinina e consenso firmato salvo che non ci sia una dichiarazione che attesti che l’esame è stato fatto in uno stato di necessità.
+## SALA TC/RX 
+Sala in cui vengono eseguiti gli esami TC/RX ad opera dei tecnici e dove verrete a controllare se sono idonee le scansioni TC. 
+La troverete di fronte a voi imboccando il corridoio che porta alla radiologia del PS. 
+L’interno della sala è 6392.
+Chiaramente se l’esame è con mdc ricordate di chiedere creatinina e consenso firmato salvo che non ci sia una dichiarazione che attesti che l’esame è stato fatto in uno stato di necessità.
 
-SALA ECOGRAFIA: sala in cui si eseguono le ecografie (a vostra discrezione se bardati). La troverete sulla destra imboccando il corridoio che porta alla radiologia del PS.
+## SALA ECOGRAFIA
+sala in cui si eseguono le ecografie (a vostra discrezione se bardati). La troverete sulla destra imboccando il corridoio che porta alla radiologia del PS.
 
-TELEFONO, INTERFONO E PRENOTAZIONI: questa è forse la parte più difficile da gestire. 
+## TELEFONO, INTERFONO E PRENOTAZIONI 
+Questa è forse la parte più difficile da gestire. 
 Per quanto riguarda il telefono dovete assicurarvi di recuperarlo da chi sta smontando dalla notte, l’interno del telefono è il 7005. Quando vi chiamano per chiedere un esame, dovete valutare il quesito ma tendenzialmente si accetta tutto in regime d’urgenza. 
 Quello che dovete scrivere su un foglio è: tipo esame (es. ANGIO-TC) – dati paziente (anche in relazione ad un mdc) – nome medico richiedente con reparto ed interno del reparto – COVID positivo o negativo (questo è molto importante perché dopo ogni paziente covid va sanificata la sala e si impiega molto tempo). Dopodiché per l’orario accordatevi con i tecnici. Cercate, ove possibile, di fare esami in blocco (es tre TC covid positivi e poi tre TC covid negativi).
 
@@ -32,3 +43,5 @@ L’Interfono serve a chiamare i pazienti esterni che fanno accesso al triage e 
 ## NOTE
 
 - Durante il week-end non si fanno i controlli ortopedici o altri esami di reparto che non abbiano criteri d'urgenza. Non si eseguono esami al solo fine di dimettere un paziente, deve essere il reparto ad organizzarsi a eseguire l'esame entro venerdì. Vengono invece eseguiti i toraci di controllo a letto. 
+- Non accettare le TC in PS &rarr; lo fanno i tecnici.
+- 
