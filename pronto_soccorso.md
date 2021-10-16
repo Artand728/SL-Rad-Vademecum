@@ -28,3 +28,7 @@ L’Interfono serve a chiamare i pazienti esterni che fanno accesso al triage e 
 
 
 ---
+
+## NOTE
+
+- Durante il week-end non si fanno i controlli ortopedici o altri esami di reparto che non abbiano criteri d'urgenza. Non si eseguono esami al solo fine di dimettere un paziente, deve essere il reparto ad organizzarsi a eseguire l'esame entro venerdì. Vengono invece eseguiti i toraci di controllo a letto. 
