@@ -25,9 +25,12 @@
 ---
 
 ## ORARI 
-8:00 - 20:00 <br>
-TURNO MATTINA: 08:00 - 14:00 <br>
-TURNO POMERIGGIO: 14:00 - 20:00 <br>
+
+|||
+|---|---|
+|TURNO MATTINA | 08:00 - 14:00 |
+|TURNO POMERIGGIO | 14:00 - 20:00 |
+|GUARDIA FESTIVO | 08:00 - 20:00 |
 
 ## SALA REFERTAZIONE 
 Sala in cui si svolge l’attività di refertazione, a lato le salette degli ortopedici, e dove si trova sia l’interfono che eventualmente il telefono. La troverete sulla sinistra imboccando il corridoio che porta alla radiologia del PS.
