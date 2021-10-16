@@ -221,19 +221,30 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 
 ## ACCESSO VASCOLARE
 
-- Accesso rosa &rarr; 
-- Accesso verde &rarr; 
+- Accesso verde &rarr; 18G
+- Accesso rosa &rarr; 20G
+- Accesso azzurro &rarr; 22G
 
-Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica ( circa 30 mL). 
+Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica (circa 30cc). 
 Durante il lavaggio il tecnico o un medico sta accanto al paziente per valutare il vaso.
 Il lavaggio può essere avviato sia dall'iniettore nella sala della macchina che dalla console. 
 Sul monitor dell'iniettore del mdc alla console un grafico indica la pressione nelle canaline (e nel vaso), la pressione (psi) deve essere inferiore alla linea superiore.
 Un'eventuale fase basale va acquisita prima di provare l'accesso per evitare che del mdc rimasto nelle canaline passi in circolo e crei delle false immagini.
 
 ### Flusso accessi
-- Fase arteriosa aorta: flusso mdc = 4 / 4,5
-- Fase arteriosa: flusso mdc > 3,5
-- Fase venosa portale: flusso mdc = 2 - 2,5
+
+Gli esami arteriosi richiedono un flusso maggiore di mdc (fino a 5cc/min) e spesso in questi esami la somministrazione di mdc è seguita da un bolo di fisologica (30cc) che spinge il mezzo di contrasto. 
+Il volume in cui il mdc dovrà distribuirsi è minore e quindi si usano volumi inferiori di mdc.
+Nelle fasi venose non è necessario un bolo compatto di mdc e quindi si utilizzano flussi minori ma maggiori volumi di mdc (130cc).
+
+- Fase arteriosa aorta: flusso mdc = 4cc/sec - 4,5cc/sec / - 5cc/sec
+  - Accesso verde o almeno rosa (18G o 20G)
+- Fase arteriosa: flusso mdc > 3,5cc/sec
+  - Accesso verde o almeno rosa (18G o 20G)
+- Fase venosa portale: flusso mdc = 2cc/sec - 2,5cc/sec
+  - Accesso verde, rosa o azzurro (18G, 20G o anche 22G)
+
+Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è meramente indicativo, solitamente è così ma dipenende tutto dalle vene del paziente.
 
 ---
 
