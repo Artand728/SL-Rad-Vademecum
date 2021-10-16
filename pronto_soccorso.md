@@ -12,6 +12,8 @@
 
 # PRONTO SOCCORSO
 
+---
+
 - [PRONTO SOCCORSO](#pronto-soccorso)
 	- [ORARI](#orari)
 	- [ATTIVITÁ:](#attivitá)
@@ -20,6 +22,8 @@
 	- [SALA ECOGRAFIA](#sala-ecografia)
 	- [TELEFONO, INTERFONO E PRENOTAZIONI](#telefono-interfono-e-prenotazioni)
 	- [NOTE](#note)
+
+---
 
 ## ORARI 
 8:00 - 20:00
