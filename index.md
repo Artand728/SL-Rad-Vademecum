@@ -25,9 +25,9 @@
 <br>
 <div style="text-align: center;" class="usefull-links">
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://www.mdcalc.com/mdrd-gfr-equation"><img src="icons\MDCalc-logo.png" width="64px" /> &nbsp; MDRD GFR Calculator</a>
-  
+  <br>
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://trasportipama.dussmann.it/SanLuigi/Account/Login?ReturnUrl=%2FSanLuigi%2FTrasporto%2FwbAgenda"><img src="icons\trasporti-PaMa.jpg" width="64px" /> &nbsp; Trasporti</a>
-
+  <br>
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://dicomviewer.net/"><img src="icons\DICOM-viewer.png" width="64px" /> &nbsp; DICOM Viewer</a>
 
 </div>
