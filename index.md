@@ -24,5 +24,5 @@
 <br>
 <br>
 <div class="QR-code">
-<img src="qr code\QR_code_SL-Rad.png" width="25%" align="middle"/>
+<img align="middle" src="qr code\QR_code_SL-Rad.png" width="25%" />
 </div>
