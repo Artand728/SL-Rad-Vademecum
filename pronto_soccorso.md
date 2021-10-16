@@ -26,15 +26,15 @@
 ---
 
 ## ORARI 
-8:00 - 20:00
-TURNO MATTINA: 08:00 - 14:00
-TURNO POMERIGGIO: 14:00 - 20:00
+8:00 - 20:00 <br>
+TURNO MATTINA: 08:00 - 14:00 <br>
+TURNO POMERIGGIO: 14:00 - 20:00 <br>
 
 ## ATTIVITÁ: 
-1)SALA REFERTAZIONE
-2)SALA TC/RX
-3)SALA ECOGRAFIA
-4)TELEFONO; INTERFONO E PRENOTAZIONI
+1)SALA REFERTAZIONE <br>
+2)SALA TC/RX <br>
+3)SALA ECOGRAFIA <br>
+4)TELEFONO; INTERFONO E PRENOTAZIONI <br>
 
 ## SALA REFERTAZIONE 
 Sala in cui si svolge l’attività di refertazione, a lato le salette degli ortopedici, e dove si trova sia l’interfono che eventualmente il telefono. La troverete sulla sinistra imboccando il corridoio che porta alla radiologia del PS.
