@@ -20,7 +20,9 @@
   <a href="case_meet.html"><img src="icons\presentation.png" /></a>
   <a href="contatti.html"><img src="icons\phone-book.png" /></a>
 </div>
-
+<br>
+<br>
+<br>
 <div class="QR-code">
 <img src="qr code\QR_code_SL-Rad.png" width="40%"/>
 </div>
