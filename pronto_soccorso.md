@@ -28,7 +28,7 @@
 
 |TURNO|ORARIO|
 |---|---|
-| MATTINA | 08:00 - 14:00 |
+| MATTINO | 08:00 - 14:00 |
 | POMERIGGIO | 14:00 - 20:00 |
 |GUARDIA FESTIVO | 08:00 - 20:00 |
 
