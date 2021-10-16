@@ -17,7 +17,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 - [TOMOGRAFIA COMPUTERIZZATA](#tomografia-computerizzata)
 	- [CONSENSO INFORMATO](#consenso-informato)
 	- [PREMEDICAZIONE ANTIALLERGICA](#premedicazione-antiallergica)
-		- [PREMEDICZIONE ANTIALLERGICA RAPIDA](#premediczione-antiallergica-rapida)
+		- [PREMEDICAZIONE ANTIALLERGICA RAPIDA](#premedicazione-antiallergica-rapida)
 	- [PREMEDICAZIONE NEFROPROTETTIVA](#premedicazione-nefroprotettiva)
 	- [GESTIONE DEL PAZIENTE](#gestione-del-paziente)
 	- [ACCESSO VASCOLARE](#accesso-vascolare)
@@ -88,7 +88,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 Da fare ogni volta che un paziente è allergico altrimenti l'esame deve essere rimandato.
 Nel caso di dubbia allergia a mezzo di contrasto non usare in nessun caso il mdc.
 
-### PREMEDICZIONE ANTIALLERGICA RAPIDA
+### PREMEDICAZIONE ANTIALLERGICA RAPIDA
 
 Nel caso in cui sia necessario un esame in urgenza che non permette l'esecuzione di una adeguata preparazione anti-allergica.
 1h prima di eseguire l'esame con la somministrazione di mezzo di contrasto il medico che richiede l'esame somministra al paziente:
@@ -221,8 +221,8 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 
 ## ACCESSO VASCOLARE
 
-Accesso rosa &rarr; 
-Accesso verde &rarr; 
+- Accesso rosa &rarr; 
+- Accesso verde &rarr; 
 
 Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica ( circa 30 mL). 
 Durante il lavaggio il tecnico o un medico sta accanto al paziente per valutare il vaso.
