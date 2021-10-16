@@ -27,7 +27,8 @@ sala in cui si eseguono le ecografie (a vostra discrezione se bardati). La trove
 
 ## TELEFONO, INTERFONO E PRENOTAZIONI 
 Questa è forse la parte più difficile da gestire. 
-Per quanto riguarda il telefono dovete assicurarvi di recuperarlo da chi sta smontando dalla notte, l’interno del telefono è il 7005. Quando vi chiamano per chiedere un esame, dovete valutare il quesito ma tendenzialmente si accetta tutto in regime d’urgenza. 
+Per quanto riguarda il telefono dovete assicurarvi di recuperarlo da chi sta smontando dalla notte, l’interno del telefono è il 7005. 
+Quando vi chiamano per chiedere un esame, dovete valutare il quesito ma tendenzialmente si accetta tutto in regime d’urgenza. 
 Quello che dovete scrivere su un foglio è: tipo esame (es. ANGIO-TC) – dati paziente (anche in relazione ad un mdc) – nome medico richiedente con reparto ed interno del reparto – COVID positivo o negativo (questo è molto importante perché dopo ogni paziente covid va sanificata la sala e si impiega molto tempo). Dopodiché per l’orario accordatevi con i tecnici. Cercate, ove possibile, di fare esami in blocco (es tre TC covid positivi e poi tre TC covid negativi).
 
 Se vi chiamano per RX TORACE A LETTO, dite loro di chiamare direttamente i tecnici (6392). 
