@@ -15,7 +15,6 @@ TURNO POMERIGGIO: 14:00 - 20:00
 ## SALA REFERTAZIONE 
 Sala in cui si svolge l’attività di refertazione, a lato le salette degli ortopedici, e dove si trova sia l’interfono che eventualmente il telefono. La troverete sulla sinistra imboccando il corridoio che porta alla radiologia del PS.
 
-
 ## SALA TC/RX 
 Sala in cui vengono eseguiti gli esami TC/RX ad opera dei tecnici e dove verrete a controllare se sono idonee le scansioni TC. 
 La troverete di fronte a voi imboccando il corridoio che porta alla radiologia del PS. 
