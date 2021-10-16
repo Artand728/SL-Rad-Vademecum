@@ -6,6 +6,8 @@
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
 </div>
 
+---
+
 | CODICE | NOME REPARTO                                           |          INTERNO          |
 | ------ | ------------------------------------------------------ | :-----------------------: |
 | MET    | MEDICAL EMERGENCY TEAM                                 |           6959            |
