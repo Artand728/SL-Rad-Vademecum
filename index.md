@@ -23,6 +23,10 @@
 <br>
 <br>
 <br>
+  <a href="https://www.mdcalc.com/mdrd-gfr-equation"><img src="icons\MDCalc-logo.png" /><p>MDRD GFR Calculator</p></a>
+<br>
+<br>
+<br>
 <div style="text-align: center;" class="qr-code">
 <img src="qr code\QR_code_SL-Rad.png" width="25%"/>
 </div>
