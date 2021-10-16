@@ -17,9 +17,12 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 - [TOMOGRAFIA COMPUTERIZZATA](#tomografia-computerizzata)
 	- [CONSENSO INFORMATO](#consenso-informato)
 	- [PREMEDICAZIONE ANTIALLERGICA](#premedicazione-antiallergica)
-	- [STRAVASO MDC](#stravaso-mdc)
+		- [PREMEDICZIONE ANTIALLERGICA RAPIDA](#premediczione-antiallergica-rapida)
 	- [PREMEDICAZIONE NEFROPROTETTIVA](#premedicazione-nefroprotettiva)
 	- [GESTIONE DEL PAZIENTE](#gestione-del-paziente)
+	- [ACCESSO VASCOLARE](#accesso-vascolare)
+		- [Flusso accessi](#flusso-accessi)
+	- [STRAVASO MDC](#stravaso-mdc)
 	- [SCANSIONI BASALI](#scansioni-basali)
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
 	- [FASI](#fasi)
@@ -55,7 +58,6 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 	- [PZ ONCOLOGICI](#pz-oncologici)
 	- [QUANDO FARE IL RIPASSAGGIO](#quando-fare-il-ripassaggio)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
-	- [Flusso accessi](#flusso-accessi)
 	- [NOTE](#note)
 
 ***
@@ -85,6 +87,15 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 ## PREMEDICAZIONE ANTIALLERGICA
 Da fare ogni volta che un paziente è allergico altrimenti l'esame deve essere rimandato.
 Nel caso di dubbia allergia a mezzo di contrasto non usare in nessun caso il mdc.
+
+### PREMEDICZIONE ANTIALLERGICA RAPIDA
+
+Nel caso in cui sia necessario un esame in urgenza che non permette l'esecuzione di una adeguata preparazione anti-allergica.
+1h prima di eseguire l'esame con la somministrazione di mezzo di contrasto il medico che richiede l'esame somministra al paziente:
+- 10mg di Trimeton (Clorfenamina - Anti H1 di prima generazione)
+- 125 mg di Solumedrol (Metilprednisolone)
+
+Non esiste un protocollo aziendale per la premedicazione rapida, il medico di reparto può modularla in base al suo giudizio posto che questa consiste di un cortisonico e un anti-istaminico.
 
 >### PREMEDICAZIONE FARMACOLOGICA PER PAZIENTI A RISCHIO DI SVILUPPARE REAZIONI AVVERSE AI MEZZI DI CONTRASTO PER INDAGINI RADIOGRAFICHE
 >
@@ -123,14 +134,6 @@ Nel caso di dubbia allergia a mezzo di contrasto non usare in nessun caso il mdc
 >
 >**ADRENALINA fiale** (_1 mg/ml_) da usare al bisogno in caso di comparsa della reazione di intolleranza (*0.3 -0.5 mg* = **1/3 - 1/2 di fila** eventualmente **ripetibili dopo pochi minuti**: a disposizione del Servizio di Radiologia per le emergenze.
 > 
-
-
-***
-
-## STRAVASO MDC
-Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
-Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
-
 
 ***
 
@@ -214,7 +217,31 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 11.	Se pz ricoverato → programmare il rientro.
 
 
-***
+---
+
+## ACCESSO VASCOLARE
+
+Accesso rosa &rarr; 
+Accesso verde &rarr; 
+
+Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica ( circa 30 mL). 
+Durante il lavaggio il tecnico o un medico sta accanto al paziente per valutare il vaso.
+Il lavaggio può essere avviato sia dall'iniettore nella sala della macchina che dalla console. 
+Sul monitor dell'iniettore del mdc alla console un grafico indica la pressione nelle canaline (e nel vaso), la pressione (psi) deve essere inferiore alla linea superiore.
+Un'eventuale fase basale va acquisita prima di provare l'accesso per evitare che del mdc rimasto nelle canaline passi in circolo e crei delle false immagini.
+
+### Flusso accessi
+- Fase arteriosa aorta: flusso mdc = 4 / 4,5
+- Fase arteriosa: flusso mdc > 3,5
+- Fase venosa portale: flusso mdc = 2 - 2,5
+
+---
+
+## STRAVASO MDC
+Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
+Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
+
+---
 
 ## SCANSIONI BASALI
 
@@ -544,13 +571,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 ## Differenza tra "TOR alto" e "TOR+COLLO"
 In TOR alto i pazienti restano con gli arti superiori allungati per evitare artefatti mentre in TOR+COLLO i pazienti acquisiscono prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando la tempistica.
 
-***
-
-## Flusso accessi
-- Fase Arteriosa: > 3,5
-- Fase Portale: 2,2
-
-***
+---
 
 ## NOTE
 - TC arti inferiori con mezzo di contrasto in fase vonosa (a due minuti - 2' con eventuale ripassaggio a 3')
