@@ -36,5 +36,5 @@
 <br>
 <br>
 <div style="text-align: center; min-width: 256px;" class="qr-code">
-<img src="qr code\QR_code_SL-Rad.png" width="25%"/>
+<img src="qr code\QR_code_SL-Rad.png" width="256px"/>
 </div>
