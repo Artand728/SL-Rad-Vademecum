@@ -12,8 +12,6 @@
 
 # NUMERI INTERNI
 
----
-
 | CODICE | NOME REPARTO                                           |          INTERNO          |
 | ------ | ------------------------------------------------------ | :-----------------------: |
 | MET    | MEDICAL EMERGENCY TEAM                                 |           6959            |
