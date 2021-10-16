@@ -4,18 +4,17 @@
   <a href="ecografia.html">Ecografia</a>
   <a href="tomografia_computerizzata.html">Tomografia Computerizzata</a>
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
+  <a href="pronto_soccorso.html">Pronto Soccorso</a>
+  <a href="contatti.html">Telefoni</a>
 </div>
-
-# CASEUAL WEDNESDAY
 
 ---
 
-- [CASEUAL WEDNESDAY](#caseual-wednesday)
-  - [Descrizione](#descrizione)
-  - [Come inserire un file TC/RMN all'interno di PowerPoint?](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
-    - [How to Add Scrollable CT or MRI Images to a PowerPoint Slide](#how-to-add-scrollable-ct-or-mri-images-to-a-powerpoint-slide)
-      - [The basic steps on Mac:](#the-basic-steps-on-mac)
-      - [The basic steps for Windows:](#the-basic-steps-for-windows)
+- [Descrizione](#descrizione)
+- [Come inserire un file TC/RMN all'interno di PowerPoint?](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
+  - [How to Add Scrollable CT or MRI Images to a PowerPoint Slide](#how-to-add-scrollable-ct-or-mri-images-to-a-powerpoint-slide)
+    - [The basic steps on Mac:](#the-basic-steps-on-mac)
+    - [The basic steps for Windows:](#the-basic-steps-for-windows)
 
 ---
 

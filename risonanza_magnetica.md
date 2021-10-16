@@ -4,7 +4,11 @@
   <a href="ecografia.html">Ecografia</a>
   <a href="tomografia_computerizzata.html">Tomografia Computerizzata</a>
   <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
+  <a href="pronto_soccorso.html">Pronto Soccorso</a>
+  <a href="contatti.html">Telefoni</a>
 </div>
+
+---
 
 # RISONANZA MAGNETICA
 Gestione della sala di risonanza magnetica
