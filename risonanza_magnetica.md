@@ -76,5 +76,3 @@ I turni della sala variano in base ad agenda - inserire i pazienti COVID infondo
 
 
 ---
-
-ciao sono cool
