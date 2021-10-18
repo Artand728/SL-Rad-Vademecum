@@ -55,7 +55,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 		- [COLON TC (colonscopia virtuale)](#colon-tc-colonscopia-virtuale)
 		- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
 		- [TUMORE ENDOMETRIO](#tumore-endometrio)
-	- [PZ ONCOLOGICI](#pz-oncologici)
+	- [PAZIENTI ONCOLOGICI](#pazienti-oncologici)
 	- [QUANDO FARE IL RIPASSAGGIO](#quando-fare-il-ripassaggio)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [NOTE](#note)
@@ -556,24 +556,28 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ***
 
-## PZ ONCOLOGICI
+## PAZIENTI ONCOLOGICI
 - relazione oncologica
 - consenso
 - esame ematochimico della creatinina/GFR degli ultimi 3 mesi
-	- dai 30 ai 50 mg/mL &#x27A1; preaparazione nefroprotettiva
-	- sotto 30 mg/dL &#x27A1; non si usa il contrasto 
+	- dai 30 ai 50 mg/mL &rarr; preaparazione nefroprotettiva
+	- sotto 30 mg/dL &rarr; non si usa il contrasto 
 		- tranne che in stato di necessità o se dialisi
 
 ***
 
 ## QUANDO FARE IL RIPASSAGGIO
-- FEGATO: lesioni ipodense non presenti ai precedenti esami
+Leggere gli esami precedenti e vedere le immagini.
+- **LESIONE IPODENSA DEL FEGATO DI NUOVO RISCONTRO**: Se appaiono delle lesioni non presenti ai precedenti esami
+	- Se il paziente è in follow-up oncologico e appaiono multiple lesioni ipodense compatibili con metastasi è possibile evitare il ripassaggio; è verosimile che siano metastasi. Nel caso in cui la lesione sia singola allora sarebbe necessario eseguire un ripassaggio perché può essere una singola metastasi oppure una formazione benigna (angioma) misconosciuta ad un esame precedente.
 	- Angioma ha la stessa densità della vena porta: indice di benignità 
-	- acquisire un ripassaggio non prima di 5'
-- MILZA: non valutare in fase arteriosa perché sembra disomogenea.
+	- acquisire un eventuale ripassaggio a 3' 
+- **DILATAZIONE DELLE VIE EPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'. Allertare lo strutturato ed eventuale effettuare un ripassaggio a 6'.
+- **MILZA**: non valutare in fase arteriosa perché sembra disomogenea.
 - Vasi del circolo venoso da arterie renali fino alla cava
 - Dilatazione delle vie escretrici
 	- acquisire una tardiva urologica a 10'
+
 
 
 ***
