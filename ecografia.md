@@ -14,20 +14,33 @@
 
 ---
 - [ECOGRAFIA](#ecografia)
-  - [Pazienti da gestire](#pazienti-da-gestire)
-  - [Agenda](#agenda)
-    - [Casi particolari](#casi-particolari)
-    - [Accortezze](#accortezze)
+  - [GESTIONE SALA](#gestione-sala)
+  - [GESTIONE DEI PAZIENTI](#gestione-dei-pazienti)
+  - [AGENDA](#agenda)
+    - [CASI PARTICOLARI](#casi-particolari)
+    - [ACCORTEZZE](#accortezze)
     - [NOTE](#note)
 
 ---
 
-## Pazienti da gestire
+## GESTIONE SALA
+
+La sala inizia l'attività alle 08:00.
+
+Gli specializzandi di turno quando arrivano accendono i computer e gli ecografi (eventuali password sono solitamente scritte sugli apparecchi)*.
+
+Dopo ogni esame ecografico si puliscono le sonde dal gel, si igenizzano con il disinfettante e si cambia la carta del lettino.*
+
+Alla fine dele attività gli specializzandi spegnono computer ed ecografi premurandosi di pulire le sonde dal gel*.
+
+* Queste attività sono solitamente compito degli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è responsabilità degli specializzandi fare in modo che siano svolte.
+
+## GESTIONE DEI PAZIENTI
 - pz. ricoverati
 - pz. DH/DS: veniamo contattati dal dal collega del DH/DS (alcune strutture ospedaliere - come per esempio la nefrologia - sono solo DH e non hanno posti letto)
 
 
-## Agenda
+## AGENDA
 Da compilare a fine giornata:
 1. Aprire Priamo → Accettazione → Pz interni P/PR/RC → Finestra temporale di 1 settimana
 2. Selezionare paziente → selezionare esame
@@ -36,14 +49,14 @@ Da compilare a fine giornata:
 5. Salva
 6. Segnare sull’agenda cartacea il nome del paziente, quale esame deve fare, il reparto di provenienza e mettere una sigla a lato
 
-### Casi particolari
+### CASI PARTICOLARI
 - **pazinenti COVID+** o proveniente da reparto COVID o in isolamento → se urgenti indicare di contattare il pronto soccorso, se in elezione programmare.
 - **Eco-color doppler arterie renali** → viene svolto dal Prof e da pochi altri strutturai, da segnare preferibilmente venerdì mattina dopo essersi accertati dell'appropiatezza della richiesta (stenosi arterie renali con pregressa consulenza dei nefrologi) → chiedere all'infermiera dell'ecografia.
 - **Eco-color doppler ARTERIOSO**: accettare SOLO se la richiesta proviene dalla Cardiologia dell'Ospedale (con richiesta telefonica esplicita) per controllo post o pre-chirurgico (nel dubbio chiedere). Per ogni altro motivo chiamare per annullare la richiesta indicando di contattare la chirurgia vascolare).
 - **Posizionamento di PICC, PORT, ecc** → IGNORARE (sono procedure svolte dalla radiologia interventistica in Sala 1, se chiamano indicare di contattare l'interno 7003).
 - **Prestazioni della Neurologia per ECO-TSA** → guardare il medico che ha fatto la richiesta e in alcuni casi IGNORARE perché l'esame sarà svolto dal neurologo a venire a svolgere l'esame dopo aver concordato telefonicamente un'orario consono. 
 
-### Accortezze
+### ACCORTEZZE
 - Lasciare sempre uno spazio libero tra i posti dei ricoverati per eventuali emergenze, da riempire solo il giorno prima per il successivo
 - Se chiamano per delle procedure di cui si occupa il Prof passare il telefono all'infermiere di sala
 - Per chiamare i numeri cellulari digitare lo 0 prima del numero. Il telefono dell’ecografia, come quello della RM, è autorizzato a chiamare numeri esterni.
