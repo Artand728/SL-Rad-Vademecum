@@ -84,7 +84,18 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - Gli eco-doppler e gli eco-tsa per pazienti non ricoverati devono essere pronotati tramite il CUP, non inserire dei posti DH/DS eccetto nel caso di PRE-RICOVERO in quanto reale DH/DS. 
 
 ## ESAMI ECOGRAFICI
-- [ECOGRAFIA ADDOME COMPLETO](exam%20flowchart/ECO/eco_addome.md)
+- [ECOGRAFIA ADDOME (ECO AC | ECO AS | ECO AI)](exam_flowchart/ECO/eco_addome.html)
+- [ECOGRAFIA RENO-VESCICALE (ECO RV)](exam_flowchart/ECO/eco_reno-vesicale.html)
+- [ECOGRAFIA TIROIDE E PARATIROIDI](exam_flowchart/ECO/eco_tiroide.html)
+- [ECOCOLORDOPPLER VENOSO](exam_flowchart/ECO/eco_color_doppler_venoso.html)
+- [ECOCOLORDOPPLER TRONCHI SOVRA-AORTICI (ECD-TSA)](exam_flowchart/ECO/eco_color_doppler_tsa.html)
+- [ECOGRAFIA MUSCOLO-SCHELETTRICA - SPALLA](exam_flowchart/ECO/eco_muscolo-schelettrica_(MSK).html)
+- [ECOGRAFIA TESSUTI SUPERFICIALI](exam_flowchart/ECO/eco_tessuti_superficiali.html)
+- [ECOGRAFIA MAMMARIA](exam_flowchart/ECO/eco_mammaria.html)
+- [ECOCOLORDOPPLER ARTERIE RENALI](exam_flowchart/ECO/eco_color_doppler_arterie_renali.html)
+- [ECOGRAFIA FAST](exam_flowchart/ECO/eco_fast.html)
+- [ECOGRAFIA SCROTALE](exam_flowchart/ECO/eco_scrotale.html)
+- [ECOGRAFIA PENIENA](exam_flowchart/ECO/eco_peniena.html)
 
 
 ---
