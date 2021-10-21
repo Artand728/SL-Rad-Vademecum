@@ -41,7 +41,7 @@ Entro la fine della giornata va preparata l'agenda per i giorno successivi.
 ## GESTIONE DEI PAZIENTI
 - pazienti **ricoverati**
 - pazienti **Day Hospital (DH)**/**Day Service (DS)**: veniamo contattati dal collega del DH/DS (alcune strutture ospedaliere - come per esempio la nefrologia - sono solo DH e non hanno posti letto)
-- pazienti prericovero (PRE): gesititi in maniera analoga ai pazienti DH/DS.
+- pazienti **prericovero (PRE)**: gesititi in maniera analoga ai pazienti DH/DS.
 - pazienti **CUP**: vengono prenotati dal CUP regionale o da quello ospedalliero; per tutte le richieste programmate (P), differibili (D) o brevi (B) non ce ne occupiamo noi.
 - **impegnativa urgente (U)** di un paziente esterno: valutare il quesito diagnostico insieme ad uno strutturato e nel caso contattare il medico richiedente, qualora sia ritenuta una effettiva urgenza programmare in agenda entro 72h dalla da quando è stata rilasciata l'impegnativa.
 - **richieste urgenti** per pazienti **ricoverati**: indirizzare alla radiologia del pronto soccorso (7005)
