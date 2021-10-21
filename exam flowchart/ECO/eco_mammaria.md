@@ -11,8 +11,9 @@
 		- [TECNICA ECOGRAFICA](#tecnica-ecografica)
 		- [CAVEAT](#caveat)
 	- [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
+	- [REPERTI](#reperti)
 		- [PITFALLS](#pitfalls)
-	- [CHECKLIST](#checklist)
+		- [CHECKLIST](#checklist)
 	- [REFERTI PREFATTI](#referti-prefatti)
 		- [ECOGRAFIA MAMMARIA NEGATIVA](#ecografia-mammaria-negativa)
 		- [ECOGRAFIA MAMMARIA NEGATIVA (mammella giovane)](#ecografia-mammaria-negativa-mammella-giovane)
@@ -75,9 +76,14 @@ Nello studio deve sempre essere incluso il cavo ascellare.
 
 
 ## FLOWCHART REFERTAZIONE
+
+## REPERTI
+
+![](../../img/Table%20-%20Breast%20US%20findings.png)
+
 ### PITFALLS
 
-## CHECKLIST
+### CHECKLIST
 
 ## REFERTI PREFATTI
 
