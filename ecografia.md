@@ -85,3 +85,4 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - Fare i ricoverati quanto prima possibile (poiché costano molto all'ospedale)
 - Non si rimanda una ecografia addome completo solo perché il paziente ha mangiato, tanto più se lo studio non riguarda colecisiti o pancreas.
 - Se arriva una cartella clinica per una consulenza per gli interventisti (tanto più se da un ospedale esterno) deve necessariamente passare prima in segretaria per essere registrata come consulenza.
+- Se uno degli ecografi smette di funzionare o da segni di malfunzionamento: spegnere l'apparecchio, staccare la spina finché le spie non si spengono, poi riattaccare e riavviare. Se contiua a dare segni di malfunzionamento contattare il capotecnico (6408) che contatterà i servizi informatici.
