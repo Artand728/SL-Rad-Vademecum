@@ -84,7 +84,7 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - Gli eco-doppler e gli eco-tsa per pazienti non ricoverati devono essere pronotati tramite il CUP, non inserire dei posti DH/DS eccetto nel caso di PRE-RICOVERO in quanto reale DH/DS. 
 
 ## ESAMI ECOGRAFICI
-- [ECOGRAFIA ADDOME (ECO AC | ECO AS | ECO AI)](exam_flowchart/ECO/eco_addome.html)
+- [ECOGRAFIA ADDOME (ECO AC \| ECO AS \| ECO AI)](exam_flowchart/ECO/eco_addome.html)
 - [ECOGRAFIA RENO-VESCICALE (ECO RV)](exam_flowchart/ECO/eco_reno-vesicale.html)
 - [ECOGRAFIA TIROIDE E PARATIROIDI](exam_flowchart/ECO/eco_tiroide.html)
 - [ECOCOLORDOPPLER VENOSO](exam_flowchart/ECO/eco_color_doppler_venoso.html)
