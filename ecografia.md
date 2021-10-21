@@ -30,12 +30,13 @@ La sala inizia l'attività alle 08:00 e termina l'attività intorno alle 15:30 d
 Gli specializzandi di turno quando arrivano accendono i computer e gli ecografi (eventuali password sono solitamente scritte sugli apparecchi)*.
 
 Dopo ogni esame ecografico si puliscono le sonde dal gel, si igenizzano con il disinfettante e si cambia la carta del lettino.*
+Se il paziente viene da un reparto ricordarsi di programmare il rientro tramite [sito dei trasporti (PaMa)](https://trasportipama.dussmann.it/sanluigi) (interno 7004)
 
 Alla fine delle attività gli specializzandi spegnono computer ed ecografi premurandosi di pulire le sonde dal gel*.
 
 Entro la fine della giornata va preparata l'agenda per i giorno successivi.
 
-(*) Queste attività sono solitamente compito degli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è responsabilità degli specializzandi fare in modo che siano svolte.
+(*) Queste attività sono solitamente compito degli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è responsabilità degli specializzandi fare in modo che siano svolte. Nella pratica sono atti di buon senso che spettano un po' a chiunque sia coinvolto nell'attività di sala e si trovi nella condizione di poterli svolgere.
 
 ## GESTIONE DEI PAZIENTI
 - pz. ricoverati
