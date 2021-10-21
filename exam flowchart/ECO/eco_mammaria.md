@@ -146,3 +146,4 @@ Indicazioni: controlli clinici ed ecografici periodici, salvo diversa indicazion
 
 ## BIBLIOGRAFIA
 - https://www.humanitas.it/visite-ed-esami/ecografia-del-seno/
+- https://radiologyassistant.nl/breast/ultrasound/ultrasound-of-the-breast
