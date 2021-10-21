@@ -25,15 +25,17 @@
 
 ## GESTIONE SALA
 
-La sala inizia l'attività alle 08:00.
+La sala inizia l'attività alle 08:00 e termina l'attività intorno alle 15:30 dopo i pazienti del CUP del pomeriggio.
 
 Gli specializzandi di turno quando arrivano accendono i computer e gli ecografi (eventuali password sono solitamente scritte sugli apparecchi)*.
 
 Dopo ogni esame ecografico si puliscono le sonde dal gel, si igenizzano con il disinfettante e si cambia la carta del lettino.*
 
-Alla fine dele attività gli specializzandi spegnono computer ed ecografi premurandosi di pulire le sonde dal gel*.
+Alla fine delle attività gli specializzandi spegnono computer ed ecografi premurandosi di pulire le sonde dal gel*.
 
-* Queste attività sono solitamente compito degli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è responsabilità degli specializzandi fare in modo che siano svolte.
+Entro la fine della giornata va preparata l'agenda per i giorno successivi.
+
+(*) Queste attività sono solitamente compito degli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è responsabilità degli specializzandi fare in modo che siano svolte.
 
 ## GESTIONE DEI PAZIENTI
 - pz. ricoverati
@@ -41,13 +43,24 @@ Alla fine dele attività gli specializzandi spegnono computer ed ecografi premur
 
 
 ## AGENDA
-Da compilare a fine giornata:
-1. Aprire Priamo → Accettazione → Pz interni P/PR/RC → Finestra temporale di 1 settimana
+L'agenda va compilata sempre entro fine giornata
+1. Aprire Priamo &rarr; Accettazione &rarr; Pz interni P/PR/RC &rarr; Finestra temporale di 1 settimana
 2. Selezionare paziente → selezionare esame
 3. Accettare la richiesta
 4. Selezionare l’esame e programmare data e ora (segnare 15 min prima dell’ora effettiva per via dei trasporti interni)
 5. Salva
-6. Segnare sull’agenda cartacea il nome del paziente, quale esame deve fare, il reparto di provenienza e mettere una sigla a lato
+6. Segnare sull’agenda cartacea:
+   - il nome del paziente, 
+   - quale esame deve fare, 
+   - il reparto di provenienza, 
+   - se è un paziente allettatto o in carrozzina e 
+   - mettere una sigla a lato.
+   - prestare sempre attenzione nelle note se si tratta di pazienti infetti o in isolamento da contatto.
+
+Accettare gli esami con criterio, i quesiti clinici più urgenti vanno inseriti prima mentre i controlli possono aspettare di più (senza però abbandonarli tra le richieste - un paziente ricoverato ha un gradne costo per l'ospedale)
+
+Valutare sempre che il quesito clinico si appropiato e ben descritto.
+Prima di accettare l'esame considerare se è possibile visualizzare ecograficamente quello che ci viene richiesto, se possiamo rispondere al quesito clinico con l'ecografia o se è meglio convertire su un'altra metodica e sopratutto controllare che il paziente non abbia già fatto altre ecografie da pochi giorni o ulteriori esami di secondo livello per lo stesso quesito (è inutile valutare ecograficamente le dimensioni di una milza due giorni dopo che il paziente ha eseguito un TC addome, basta aprire lo studio precedente e misurare).
 
 ### CASI PARTICOLARI
 - **pazinenti COVID+** o proveniente da reparto COVID o in isolamento → se urgenti indicare di contattare il pronto soccorso, se in elezione programmare.
