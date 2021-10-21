@@ -19,6 +19,7 @@
   - [AGENDA](#agenda)
     - [CASI PARTICOLARI](#casi-particolari)
     - [ACCORTEZZE](#accortezze)
+  - [ESAMI ECOGRAFICI](#esami-ecografici)
     - [NOTE](#note)
 
 ---
@@ -82,6 +83,8 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - Per **chiamare i numeri esterni** digitare lo 0 prima del numero. Il telefono dell’ecografia, come quello della RM, è autorizzato a chiamare numeri esterni.
 - Gli eco-doppler e gli eco-tsa per pazienti non ricoverati devono essere pronotati tramite il CUP, non inserire dei posti DH/DS eccetto nel caso di PRE-RICOVERO in quanto reale DH/DS. 
 
+## ESAMI ECOGRAFICI
+- [ECOGRAFIA ADDOME COMPLETO](exam%20flowchart/ECO/eco_addome.md)
 
 
 ---
