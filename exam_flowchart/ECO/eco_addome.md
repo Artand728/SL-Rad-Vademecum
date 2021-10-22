@@ -22,18 +22,22 @@
 ## REFERTAZIONE
 
 ## FLOWCHART 
+<!--- ` = ALT+96 -->
 
 1. FEGATO
-    - dimensioni (DT __ cm ) [ VN ]
-    - ecostruttura (iperriflettente come nei quadri di epatopatia steatosica, diffusamente disomogena)
-    - lesioni focali? `[ VN = "privo di lesioni focali con caratteri di evolutività]`
+    - dimensioni (DT __ cm ) 
+    - ecostruttura 
+      - iperrifflettente `[ iperriflettente come nei quadri di epatopatia steatosica]` 
+      - disomogeneo`[ diffusamente disomogenea ]`
+    - lesioni focali? `[ "privo di lesioni focali con caratteri di evolutività]`
       - ecogenicità
         - iperecogene 
         - ipoecogene
       - segmento epatico
 2. COLECISTI
-   - distensione
-   - calcoli? (alitisica)
+    - colecistetomia? `[ in esiti di colecistectomia ]`
+    - distensione
+    - calcoli? (alitisica)
 3. VIE BILIARI INTRAEPATICHE
     - calibro
 4. VIE BILIARI EXTRAEPATICHE
@@ -48,9 +52,10 @@
     - lesioni focali
     - cisti
 8. MILZA
-    - dimensioni (DT __ cm ) [ VN ]
+    - dimensioni `[diametro bipolare di __ cm ( VN < 12 cm )]`
+    - ecostruttura  [ omogenea ]
     - lesioni focali
-1. RENI
+9.  RENI
    - morfologia (regolare, margini bozzuti, grinzi)
    - dimensione (regolare, aumentata, ridotta)
      - diametro trasverso (DT) ( __ cm) 
@@ -65,25 +70,25 @@
      - calcoli?
        - dimensioni
        - sede
-2. BACINETTO RENALE
+11. BACINETTO RENALE
    - diametro antero-posteriore ( __ mm)
    - idroureteronefrosi?
    - calcoli nel bacinetto? (formazione iperecogena con cono dìombra posteriore)
      - dimensioni ( __ mm)
      - sede (premeatale / )
-3. URETERE
+12. URETERE
    - visualizzabile?
    - diametro
-4. VESCICA
+13. VESCICA
    - distensione
    - pareti (nella norma, ispessite per ipertrofia detrusoriale, irregolari)
    - contenuto fluido (nella norma, sedimento, )
-5. PROSTATA
+14. PROSTATA
    - diametro trasverso massimo (DT) ( __ mm)
    - diamtero massimo dell'adenoma prostatico ( __ mm)
      - impronta il pavimento vescicale?
      - calcificazioni psudocalpsula?
-6. UTERO
+15. UTERO
    - asse (antiverso, retroverso, lateralizzato)
    - dimensioni 
    - morfologia 
@@ -91,9 +96,9 @@
    - fibroma?
      - dimensioni ( __ mm )
      - calcifico?
-7. ANNESSI
+16. ANNESSI
    - aspetto ecografico nei limiti di norma
-8. REPERTI COLLATERALI 
+17. REPERTI COLLATERALI 
    - falde fluide perirenali?
    - falde fluide nello scavo pelvico (il cavo del Douglas)?
    - aneurisma aorta?
