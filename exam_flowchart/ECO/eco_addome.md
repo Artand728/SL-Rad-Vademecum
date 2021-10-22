@@ -130,211 +130,168 @@
 
 
 ## REFERTI PREFATTI
-
 ### ECO ADDOME SUPERIORE
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
- La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche e l'asse splenoportale conservano calibro regolare
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche e l'asse splenoportale conservano calibro regolare.
 
- Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
- L'aorta addominale conserva calibro regolare
-
-
+L'aorta addominale conserva calibro regolare.
 
 ---
 
 ### ECO ADDOME SUP ED INF MASCHILE
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
- La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate.
 
-Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
-La vescica presenta pareti distensibili e lume libero
+La vescica presenta pareti distensibili e lume libero.
 
-La prostata ha dimensioni e morfologia nei limiti di norma
+La prostata ha dimensioni e morfologia nei limiti di norma.
 
-Le vescichette seminali hanno normale aspetto ecotomografico
-
-
+Le vescichette seminali hanno normale aspetto ecotomografico.
 
 ---
 
 ### ECO ADDOME SUP ED INF FEMMINILE
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
- 
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate.
 
-La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
- 
+L'aorta addominale conserva calibro regolare.
 
-Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
+La vescica presenta pareti distensibili e lume libero.
 
- 
+L'utero, in asse,  presenta  dimensioni e morfologia nei limiti di norma in considerazione dell'eta della paziente.
 
-L'aorta addominale conserva calibro regolare
+Le ovaie hanno normale aspetto ecotomografico.
 
- 
-
-La vescica presenta pareti distensibili e lume libero
-
- 
-
-L'utero, in asse,  presenta  dimensioni e morfologia nei limiti di norma in considerazione dell'eta della paziente
-
- 
-
-Le ovaie hanno normale aspetto ecotomografico
-
- 
-
-Il cavo del Douglas è libero
-
- 
+Il cavo del Douglas è libero.
 
 ---
 
 ### ECO ADDOME SUP TRANNE FEGATO
 
-La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate.
 
-Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
-
- 
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
 ---
 
 ### ECO ADDOME SUPERIORE IN COLECISTECTOMIA
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
- Si rilevano gli esiti di colecistectomia; le vie biliari non sono dilatate
+Si rilevano gli esiti di colecistectomia; le vie biliari non sono dilatate.
 
-Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
-
-
-
-
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
 ---
 
 ### ECO ADDOME SUP CON METEORISMO
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
-La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate.
 
-La milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
+La milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
-Il pancreas non risulta correttamente esplorabile per il costante sovrapporsi di anse meteoriche
-
- 
+Il pancreas non risulta correttamente esplorabile per il costante sovrapporsi di anse meteoriche.
 
 ---
 
 ### ECO ADDOME SUP NORMALE TRANNE RENI
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
- La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate.
 
-Il pancreas e la milza non presentano alterazioni ecostrutturali o morfologiche di rilievo
-
-"
+Il pancreas e la milza non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
 ---
 
 ### ECO ADDOME SUP NORMALE TRANNE COLECISTI
 
-Il fegato è regolare per dimensioni, morfologia ed ecostruttura
+Il fegato è regolare per dimensioni, morfologia ed ecostruttura.
 
- Le vie biliari intra ed extraepatiche non sono dilatate
+Le vie biliari intra ed extraepatiche non sono dilatate.
 
-Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
-
- 
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
 ---
 
 ### ECO ADDOME SUP PER STEATOSI
 
-Il fegato ha dimensioni aumentate con margini arrotondati ed ecostruttura iperriflettente per epatopatia ad impronta steatosica
+Il fegato ha dimensioni aumentate con margini arrotondati ed ecostruttura iperriflettente per epatopatia ad impronta steatosica.
 
-La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate
+La colecisti è priva di contenuto litiasico; le vie biliari intra ed extraepatiche non sono dilatate.
 
-Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo
-
- 
+Il pancreas, la milza ed i reni non presentano alterazioni ecostrutturali o morfologiche di rilievo.
 
 ---
 
 ### ECO ADDOME INF MASCHILE
 
-La vescica presenta pareti distensibili, ispessite per ipertrofia della tonaca muscolare, indenni da lesioni vegetanti
+La vescica presenta pareti distensibili, ispessite per ipertrofia della tonaca muscolare, indenni da lesioni vegetanti.
 
-La prostata ha dimensioni ed ecostruttura nei limiti di norma
+La prostata ha dimensioni ed ecostruttura nei limiti di norma.
 
-Le vescicole seminali hanno normale aspetto ecotomografico
-
- 
+Le vescicole seminali hanno normale aspetto ecotomografico.
 
 ---
 
 ### ECO ADDOME INF MASCHILE-PROSTATA
 
-La vescica presenta pareti distensibili, ispessite per ipertrofia della tonaca muscolare, indenni da lesioni vegetanti
+La vescica presenta pareti distensibili, ispessite per ipertrofia della tonaca muscolare, indenni da lesioni vegetanti.
 
-La prostata è ingrandita (diametro  trasversale    cm) e presenta un'area nodulare ipoecogena in sede mediana  (diametro trasversale   cm, diametro longitudinale   cm) riferibile ad adenoma
+La prostata è ingrandita (diametro  trasversale    cm) e presenta un'area nodulare ipoecogena in sede mediana  (diametro trasversale   cm, diametro longitudinale   cm) riferibile ad adenoma.
 
- Le vescichette seminali hanno normale aspetto ecotomografico
+Le vescichette seminali hanno normale aspetto ecotomografico.
 
- Nella fase post-minzionale permane un residuo endoluminale valutabile intorno a   ml ca
-
- 
+Nella fase post-minzionale permane un residuo endoluminale valutabile intorno a   ml ca.
 
 ---
 
 ### ECO ADDOME INF NORMALE FEMMINILE
 
-La vescica presenta pareti distensibili, indenni da lesioni vegetanti
+La vescica presenta pareti distensibili, indenni da lesioni vegetanti.
 
-L'utero, in asse, ha dimensioni, morfologia ed ecostruttura regolari
+L'utero, in asse, ha dimensioni, morfologia ed ecostruttura regolari.
 
-Le ovaie presentano aspetto US nei limiti di norma
+Le ovaie presentano aspetto US nei limiti di norma.
 
- Il cavo del Douglas e libero
-
- 
+Il cavo del Douglas e libero.
 
 ---
 
 ### ECO ADDOME INF FEMMINILE POST-MENOPAUSA
 
-La vescica presenta pareti distensibili, indenni da lesioni vegetanti
+La vescica presenta pareti distensibili, indenni da lesioni vegetanti.
 
-L'utero, in asse, ha dimensioni, morfologia ed ecostruttura regolari in rapporto alla fisiologica involuzione
+L'utero, in asse, ha dimensioni, morfologia ed ecostruttura regolari in rapporto alla fisiologica involuzione.
 
-Non si osservano formazioni espansive in sede annessiale bilateralmente
+Non si osservano formazioni espansive in sede annessiale bilateralmente.
 
-Il cavo del Douglas è libero
-
- 
+Il cavo del Douglas è libero.
 
 ---
 
 ### ECO ADDOME FEMMINILE PER FIBROMATOSI
 
-La vescica presenta pareti distensibili, indenni da lesioni vegetanti
+La vescica presenta pareti distensibili, indenni da lesioni vegetanti.
 
-L'utero, in asse, ha dimensioni aumentate (diametro longitudinale   cm; diametro trasverso   cm) con ecostruttura ipoecogena e disomogenea per fibromatosi diffusa
+L'utero, in asse, ha dimensioni aumentate (diametro longitudinale   cm; diametro trasverso   cm) con ecostruttura ipoecogena e disomogenea per fibromatosi diffusa.
 
-Le ovaie presentano aspetto US nei limiti di norma
+Le ovaie presentano aspetto US nei limiti di norma.
 
-Il cavo del Douglas è libero
+Il cavo del Douglas è libero.
 
- 
+---
