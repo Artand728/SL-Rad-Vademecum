@@ -3,17 +3,17 @@
 ---
 
 - [ECOGRAFIA RENO-VESCICALE](#ecografia-reno-vescicale)
-	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
-	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
-	- [TECNINCA D'ESAME](#tecninca-desame)
-		- [CAVEAT](#caveat)
-	- [REFERTAZIONE](#refertazione)
-		- [FLOWCHART](#flowchart)
-	- [REFERTI PREFATTI](#referti-prefatti)
-		- [ECOGRAFIA RENOVESCICALE NEGATIVO #1](#ecografia-renovescicale-negativo-1)
-		- [ECOGRAFIA RENOVESCICALE NEGATIVO #2](#ecografia-renovescicale-negativo-2)
-	- [NOTE](#note)
-	- [BIBLIOGRAFIA](#bibliografia)
+  - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
+  - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
+  - [TECNICA D'ESAME](#tecnica-desame)
+    - [CAVEAT](#caveat)
+  - [REFERTAZIONE](#refertazione)
+    - [FLOWCHART](#flowchart)
+  - [REFERTI PREFATTI](#referti-prefatti)
+    - [ECOGRAFIA RENOVESCICALE NEGATIVO #1](#ecografia-renovescicale-negativo-1)
+    - [ECOGRAFIA RENOVESCICALE NEGATIVO #2](#ecografia-renovescicale-negativo-2)
+  - [NOTE](#note)
+  - [BIBLIOGRAFIA](#bibliografia)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
 
-## TECNINCA D'ESAME
+## TECNICA D'ESAME
 L’ecografia del rene nativo si esegue con una sonda convex multifrequenza e una frequenza di trasmissione variabile da 2 a 5 MHz in base alla complessione fisica del paziente. 
 
 La tecnica di esame prevede l’uso di scansioni:
@@ -158,6 +158,9 @@ Un **ematoma**, come un qualunque versamento liquido, è **anecogeno fin dall’
    - dimensioni 
    - morfologia 
    - ecostruttura regolare
+   - fibroma?
+     - dimensioni ( __ mm )
+     - calcifico?
 7. ANNESSI
    - aspetto ecografico nei limiti di norma
 8. REPERTI COLLATERALI 
