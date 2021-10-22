@@ -1,3 +1,15 @@
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a href="radiologia_tradizionale.html">Radiologia Tradizionale</a>
+  <a href="ecografia.html">Ecografia</a>
+  <a href="tomografia_computerizzata.html">Tomografia Computerizzata</a>
+  <a href="risonanza_magnetica.html">Risonanza Magnetica</a>
+  <a href="pronto_soccorso.html">Pronto Soccorso</a>
+  <a href="contatti.html">Telefoni</a>
+</div>
+
+---
+
 # ECOGRAFIA ADDOMINALE
 
 ---
@@ -27,15 +39,15 @@
 1. FEGATO
     - dimensioni (DT __ cm ) 
     - ecostruttura 
-      - iperrifflettente `[ iperriflettente come nei quadri di epatopatia steatosica]` 
-      - disomogeneo`[ diffusamente disomogenea ]`
-    - lesioni focali? `[ "privo di lesioni focali con caratteri di evolutività]`
+      - iperrifflettente `[ "iperriflettente come nei quadri di epatopatia steatosica" ]` 
+      - disomogeneo`[ "diffusamente disomogenea" ]`
+    - lesioni focali? `[ "privo di lesioni focali con caratteri di evolutività" ]`
       - ecogenicità
         - iperecogene 
         - ipoecogene
       - segmento epatico
 2. COLECISTI
-    - colecistetomia? `[ in esiti di colecistectomia ]`
+    - colecistetomia? `[ "in esiti di colecistectomia" ]`
     - distensione
     - calcoli? (alitisica)
 3. VIE BILIARI INTRAEPATICHE
