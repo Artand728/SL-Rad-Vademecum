@@ -14,18 +14,17 @@
 ---
 
 - [ECOGRAFIA TIROIDE E PARATIROIDI](#ecografia-tiroide-e-paratiroidi)
-	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
-	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
-	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-		- [CAVEAT](#caveat)
-	- [ANATOMIA](#anatomia)
-	- [ASPETTO ECOGRAFICO](#aspetto-ecografico)
-	- [FLOWCHART REFERTAZIONE & REPERTI](#flowchart-refertazione--reperti)
-		- [PITFALLS](#pitfalls)
-	- [CHECKLIST](#checklist)
-	- [REFERTI PREFATTI](#referti-prefatti)
-		- [NEGATIVO](#negativo)
-	- [BIBLIOGRAFIA](#bibliografia)
+  - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
+  - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
+  - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
+    - [CAVEAT](#caveat)
+  - [ANATOMIA](#anatomia)
+  - [ASPETTO ECOGRAFICO](#aspetto-ecografico)
+  - [FLOWCHART REFERTAZIONE & REPERTI](#flowchart-refertazione--reperti)
+  - [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
+  - [REFERTI PREFATTI](#referti-prefatti)
+    - [NEGATIVO](#negativo)
+  - [BIBLIOGRAFIA](#bibliografia)
 
 ---
 
@@ -77,12 +76,12 @@ Il **legamento di Berry** è un'estensione posteriore della capsula tiroidea che
   1. Valutare le dimensioni (VN < 1 cm)
 
 
-### PITFALLS
-
-## CHECKLIST
+## FLOWCHART REFERTAZIONE
 
 ## REFERTI PREFATTI
+
 ### NEGATIVO
+
 
 ## BIBLIOGRAFIA
 https://radiopaedia.org/articles/thyroid-gland

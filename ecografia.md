@@ -31,13 +31,14 @@ La sala inizia l'attività alle 08:00 e termina l'attività intorno alle 15:30 d
 Quando si arriva si accendono i computer e gli ecografi (eventuali password sono solitamente scritte sugli apparecchi)*.
 
 Dopo ogni esame ecografico si puliscono le sonde dal gel, si igenizzano con il disinfettante e si cambia la carta del lettino.*
+
 Se il paziente viene da un reparto ricordarsi di programmare il rientro tramite [sito dei trasporti (PaMa)](https://trasportipama.dussmann.it/sanluigi) (interno 7004)
 
 Alla fine delle attività ricordarsi di spegnere computer ed ecografi premurandosi di pulire le sonde dal gel*.
 
-Entro la fine della giornata va preparata l'agenda per i giorno successivi.
+Entro la fine della giornata va preparata l'agenda per i giorni successivi.
 
-(*) Queste attività sono solitamente compito degli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è importante non scordarsi di farlo.
+(*) Queste attività sono solitamente svolte dagli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è importante non scordarsi di farlo.
 
 ## GESTIONE DEI PAZIENTI
 - pazienti **ricoverati**

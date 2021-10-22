@@ -49,38 +49,61 @@
 ## FLOWCHART 
 <!--- ` = ALT+96 -->
 
-1. FEGATO
-    - dimensioni (DT __ cm ) 
+1. **FEGATO**
+    - dimensioni 
+      - aumentate `[ "di dimensioni aumentate con margini arrotondati" ]`
     - ecostruttura 
       - iperrifflettente `[ "iperriflettente come nei quadri di epatopatia steatosica" ]` 
-      - disomogeneo`[ "diffusamente disomogenea" ]`
+      - disomogeneo`[ "finemente / diffusamente disomogenea, in noto quadro di epatopatia esotossica / virale / autoimmune" ]`
     - lesioni focali? `[ "privo di lesioni focali con caratteri di evolutività" ]`
       - ecogenicità
-        - iperecogene 
-        - ipoecogene
-      - segmento epatico
-2. COLECISTI
+        - iperecogene `[ "in presenza di lesione focale iperecogena, compatibile con angioma epatico" ]`
+        - ipoecogene 
+      - dimensioni `[ "del diametro massimo di __ mm" ]`
+      - segmento epatico `[ "a localizzata a livello del __ segmento epatico" ]`
+    - esplorabilità
+      - difficile `[ "esplorabile solo parzialmente, nei segmenti esplorabili appare" ]`
+
+
+2. **COLECISTI**
     - colecistetomia? `[ "in esiti di colecistectomia" ]`
-    - distensione
-    - calcoli? (alitisica)
-3. VIE BILIARI INTRAEPATICHE
-    - calibro
-4. VIE BILIARI EXTRAEPATICHE
-    - calibro
-5. ASSE SPLENOPORTALE
-    - calibro
-6. AORTA ADDOMINALE
+    - distensione `[ "normodistesa" ]`
+    - calcoli? `[ "alitisica" ]`
+
+
+3. **VIE BILIARI INTRAEPATICHE**
+    - calibro `[ "di calibro conservato" ]`
+
+
+4. **VIE BILIARI EXTRAEPATICHE**
+    - calibro `[ "di calibro conservato" ]`
+
+
+5. **ASSE SPLENOPORTALE**
+    - calibro `[ "di calibro conservato" ]`
+
+
+6. **AORTA ADDOMINALE**
     - calibro
     - formazioni ateromasiche?
-7. PANCREAS
+
+
+7. **PANCREAS**
     - ecostuttura
     - lesioni focali
     - cisti
-8. MILZA
+
+
+8. **MILZA**
     - dimensioni `[diametro bipolare di __ cm ( VN < 12 cm )]`
     - ecostruttura  [ omogenea ]
     - lesioni focali
-9.  RENI
+
+
+9.  **SURRENI**
+
+
+10. **RENI**
    - morfologia (regolare, margini bozzuti, grinzi)
    - dimensione (regolare, aumentata, ridotta)
      - diametro trasverso (DT) ( __ cm) 
@@ -95,41 +118,84 @@
      - calcoli?
        - dimensioni
        - sede
-11. BACINETTO RENALE
+     - lesioni focali?
+       - ecogenicità 
+         - iperecogeni `[ "con riscontro di area nodulare iperecogena, priva di cono d'ombra, compatibile in prima ipotesi con angiomiolipoma" ]`
+         - ipoecogeni
+       - dimensione `[ "del diametro di __ mm" ]` 
+       - localizzazione `[ "a livello del polo renale inferiore / medio / superiore" ]` `[ "di destra / di sinistra" ]`
+
+
+11. **BACINETTO RENALE**
    - diametro antero-posteriore ( __ mm)
    - idroureteronefrosi?
    - calcoli nel bacinetto? (formazione iperecogena con cono dìombra posteriore)
      - dimensioni ( __ mm)
      - sede (premeatale / )
-12. URETERE
+
+
+12. **URETERE**
    - visualizzabile?
    - diametro
-13. VESCICA
+
+
+13. **VESCICA**
    - distensione
-   - pareti (nella norma, ispessite per ipertrofia detrusoriale, irregolari)
-   - contenuto fluido (nella norma, sedimento, )
-14. PROSTATA
+     - completamente repleta
+     - parzialmente repleta `[ "compatibilmente con il grado di distensione ottenuta" ]`
+     - vuota
+   - pareti 
+     - nette `[ "con pareti nette" ]`
+     - ispessite per ipertrofia detrusoriale
+     - irregolari
+   - contenuto 
+     - fluido nella norma `[ "e lume libero" ]`
+     - sedimento
+
+
+14. **PROSTATA**
    - diametro trasverso massimo (DT) ( __ mm)
    - diamtero massimo dell'adenoma prostatico ( __ mm)
      - impronta il pavimento vescicale?
      - calcificazioni psudocalpsula?
-15. UTERO
-   - asse (antiverso, retroverso, lateralizzato)
+
+
+15. **VESCICHETTE SEMINALI**
+
+
+16. **UTERO**
+   - asse 
+     - anteroverso
+     - retroverso
+     - lateralizzato
    - dimensioni 
    - morfologia 
    - ecostruttura regolare
-   - fibroma?
+   - fibroma uterino?
      - dimensioni ( __ mm )
      - calcifico?
-16. ANNESSI
+
+
+17. **ANNESSI**
    - aspetto ecografico nei limiti di norma
-17. REPERTI COLLATERALI 
+
+
+18. **REPERTI COLLATERALI**
    - falde fluide perirenali?
    - falde fluide nello scavo pelvico (il cavo del Douglas)?
    - aneurisma aorta?
 
 
+19. **LIMITI METODOLOGICI**
+  - Limiti relativi al Paziente `[ "indagine eseguita compatibilmente con l'habitus costituzionale e il grado di collaborazione possibile al Paziente allettato." ]`
+
+
+---
+
 ## REFERTI PREFATTI
+
+---
+
 ### ECO ADDOME SUPERIORE
 
 Il fegato è regolare per dimensioni, morfologia ed ecostruttura.

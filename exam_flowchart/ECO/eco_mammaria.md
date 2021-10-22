@@ -31,6 +31,7 @@
 		- [ECOGRAFIA MAMMARIA NEGATIVA (mammella giovane)](#ecografia-mammaria-negativa-mammella-giovane)
 		- [ECOGRAFIA MAMMARIA NEGATIVA (mammella giovane)](#ecografia-mammaria-negativa-mammella-giovane-1)
 		- [ECOGRAFIA MAMMARIA BILATERALE](#ecografia-mammaria-bilaterale)
+		- [ECOGRAFIA MAMMARIA BILATERALE POST-MASTECTOMIA](#ecografia-mammaria-bilaterale-post-mastectomia)
 	- [BIBLIOGRAFIA](#bibliografia)
 
 ---
@@ -88,6 +89,8 @@ Nello studio deve sempre essere incluso il cavo ascellare.
 
 
 ## FLOWCHART REFERTAZIONE
+
+1. 
 
 ## REPERTI
 
@@ -155,6 +158,18 @@ Conclusioni: non immagini a tipo evolutivo, in presenza di formazione a tipo ben
 Indicazioni: controlli clinici ed ecografici periodici, salvo diversa indicazione clinica.
  
 ---
+
+### ECOGRAFIA MAMMARIA BILATERALE POST-MASTECTOMIA
+
+In esiti di mastectomia bilaterale e posizionamento di protesi, entrambe le protesi si presentano integre con margini ondulati in assenza di falde fluide.
+Non evidenti lesioni focali con caratteri ecografici di evolutività.
+Bilateralmente a livello dei cavi ascellari sono rilevabili alcuni linfonodi di aspetto reattivo del diametro massimo di __ mm.
+A sinistra si osserva una linfonodo, di aspetto tondeggiante, delle dimensioni di __ x __ mm, con scarsa rappresentazione dell'ilo vascolare. 
+
+Il reperto è meritevole di confronto con gli esami precedenti e valutazione in ambito clinico specialistico.
+
+---
+
 
 ## BIBLIOGRAFIA
 - https://www.humanitas.it/visite-ed-esami/ecografia-del-seno/
