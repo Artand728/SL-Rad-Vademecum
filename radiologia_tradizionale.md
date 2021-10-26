@@ -17,6 +17,7 @@
   - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
   - [Esecuzione](#esecuzione)
 - [ILEOGRAFIA](#ileografia)
+- [RETTOGRAFIA](#rettografia)
   - [Prenotazione](#prenotazione)
   - [Burocrazia](#burocrazia)
   - [Materiali](#materiali)
@@ -27,7 +28,6 @@
 - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
   - [Materiali](#materiali-1)
   - [Esecuzione](#esecuzione-2)
-- [RETTOGRAFIA](#rettografia)
 - [STUDIO DEL TRANSITO INTESTINALE CON MARKER](#studio-del-transito-intestinale-con-marker)
 
 ---
@@ -64,6 +64,7 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 ---
 
 # TRANSITI ESOFAGO-STOMACO
+RX ESOFAGO STOMACO E DUODENO con codice 87.62
 
 ## Preparazione e accoglienza del paziente
 
@@ -89,6 +90,14 @@ NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FER
 ---
 
 # ILEOGRAFIA
+TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
+
+---
+
+# RETTOGRAFIA
+TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
+
+---
 
 ## Prenotazione
 
@@ -229,11 +238,9 @@ Non è necessaria la sterilità.
 
 ---
 
-# RETTOGRAFIA
-
----
 
 # STUDIO DEL TRANSITO INTESTINALE CON MARKER
+STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 ---
 
