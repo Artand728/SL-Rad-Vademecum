@@ -115,7 +115,3 @@ Non è necessaria la sterilità.
 Valgono le stesse indicazioni date per il controllo delle ileostomie.
 
 L'esame, essendo di rara esecuzione, viene gestito direttamente dall'interventista.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjY5MzBdfQ==
--->
