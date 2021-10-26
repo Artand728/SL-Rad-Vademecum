@@ -123,6 +123,8 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 ## TRANSITI ESOFAGO-STOMACO
 RX ESOFAGO STOMACO E DUODENO con codice 87.62
 
+[TRANSITO ESOFAGEO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
+
 ### Preparazione e accoglienza del paziente
 
 Raccogliere la documentazione clinica, che orienterà la scelta del mezzo di contrasto:
