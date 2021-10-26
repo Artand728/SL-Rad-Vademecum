@@ -27,6 +27,8 @@
 - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
   - [Materiali](#materiali-1)
   - [Esecuzione](#esecuzione-2)
+- [RETTOGRAFIA](#rettografia)
+- [STUDIO DEL TRANSITO INTESTINALE CON MARKER](#studio-del-transito-intestinale-con-marker)
 
 ---
 
@@ -226,3 +228,12 @@ Non è necessaria la sterilità.
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
 ---
+
+# RETTOGRAFIA
+
+---
+
+# STUDIO DEL TRANSITO INTESTINALE CON MARKER
+
+---
+

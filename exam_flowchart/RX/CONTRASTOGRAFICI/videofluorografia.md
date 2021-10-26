@@ -1,37 +1,53 @@
-VIDEOFLUOROGRAFIA
-INDICAZIONI 
+# VIDEOFLUOROGRAFIA
+
+## INDICAZIONI 
 Evidenza o sospetto di:
-Disfagia neurologica/funzionale
+- **Disfagia neurologica/funzionale**
 
+Ogni qual volta si viene contattati per un esame indicare di farsi inviare l'impegnativa con il quesito diagnostico e la documentazione alla mail di riferimento (radiologia interventistica).
 
-MAIL radintsanluigigonzaga@gmail.com
-IL GIORNO DELL’ESAME
-BUROCRAZIA 
-Raccogliere anamnesi ed eventuale documentazione non inviata via mail
-In caso di studi di imaging precedenti caricare le immagini su Telemis
-Far firmare il consenso per l’esposizione alle radiazioni (viene consegnato alla paziente in segreteria).
-Accertarsi che abbia crocettato anche la casella relativa allo stato di gravidanza
-Firmare un secondo apposito consenso separato per il mezzo di contrasto in VFG (prendere nel quadernone dei consensi in radiologia tradizionale)
+Segnare sempre il numero di telefono del paziente.
+
+## IL GIORNO DELL’ESAME
+
+### BUROCRAZIA 
+Raccogliere **anamnesi** ed eventuale **documentazione** non inviata via mail.
+
+In caso di **studi di imaging precedenti** caricare le immagini su **Telemis**
+Far firmare il **consenso per l’esposizione alle radiazioni** (viene consegnato alla paziente in segreteria).
+
+Accertarsi che abbia crocettato anche la casella relativa allo stato di **gravidanza**
+Firmare un **secondo apposito consenso separato** per il **mezzo di contrasto in VFG** (prendere nel quadernone dei consensi in radiologia tradizionale)
 Etichettare cartella dell’esame (Busta gialla + Cartella bianca)
-MATERIALI
-LIQUIDO: Acqua + bario (½ da adattare in base a grado di opacizzazione viscere)
-SEMISOLIDO: Yogurt/Acquagel + bario (½)
-SOLIDO: Fette biscottate con sopra spalmato yogurt+bario/brioches
-ESECUZIONE DELL’ESAME
-Informare gli strutturati responsabili (Marco Busso/V.Angelino/M.Teti) che si sta per svolgere l’esame.
-Indicare alla/al Pz come si svolgerà l’esame.
+
+### MATERIALI
+**LIQUIDO**: Acqua + bario (½ da adattare in base a grado di opacizzazione viscere)
+
+**SEMISOLIDO**: Yogurt/Acquagel + bario (½)
+
+**SOLIDO**: Fette biscottate con sopra spalmato yogurt+bario/brioches
+
+### ESECUZIONE DELL’ESAME
+Informare gli strutturati responsabili che si sta per svolgere l’esame.
+
+Indicare al paziente come si svolgerà l’esame.
+
 Preparare il campo (vedi sez. materiali)
-Porre Pz seduto e acquisire in AP sproiettando dal basso verso l’alto in modo da non avere il mento sovrapposto alla faringe (senza mdc)
-AP vera su TORACE per valutare eventuale successiva ab ingestis
-Acquisire in LL  (senza mdc)
-Chiedere al Pz di deglutire a vuoto (senza MdC, solo saliva) acquisendo in AP, 10(p/s) immagini/sec per valutare mobilità piano glottico e ioideo; in LL per valutare epiglottide, palato molle e piano ioideo.
-Procedere a somministrazione delle varie consistenze, si parte dalla SEMISOLIDA, poi LIQUIDA, in ultimo SOLIDA (verificare in prima scansione se il mdc è sufficientemente concentrato e quindi chiaramente visibile).
-NOTA BENE: far iniziare l’acquisizione PRIMA di indicare al Pz di portare il bolo in bocca, in modo da verificare l’eventuale presenza di scolo predeglutitorio.
+Porre paziente **seduto** e **acquisire in AP** sproiettando dal basso verso l’alto in modo da non avere il mento sovrapposto alla faringe (senza mdc)
+**AP vera** su **TORACE** per valutare eventuale successiva ab ingestis
+Acquisire in **LL (senza mdc)**
+Chiedere al paziente di **deglutire a vuoto** (senza MdC, solo saliva) **acquisendo in AP, 10(p/s) immagini/sec** per valutare mobilità piano glottico e ioideo; in **LL** per **valutare epiglottide**, **palato molle** e **piano ioideo**.
+
+Procedere a **somministrazione** delle varie consistenze, si parte dalla **SEMISOLIDA**, poi **LIQUIDA**, in ultimo **SOLIDA** (verificare in prima scansione se il mdc è sufficientemente concentrato e quindi chiaramente visibile).
+
+NOTA BENE: far iniziare l’acquisizione PRIMA di indicare al paziente di portare il bolo in bocca, in modo da verificare l’eventuale presenza di scolo predeglutitorio.
+
 Acquisire sia in LL per valutare eventuali manovre di compenso, aspirazione, stenosi, altro; sia in AP per ristagno simmetrico/asimmetrico dei seni piriformi e delle vallecule periepiglottiche.
 
-NOTE
-Tutte le immagini vanno acquisite in GRAFIA o SCOPIA a discrezione dello strutturato.
-Somministrare solo le consistenze che il Paziente effettivamente assume abitualmente, NON quelle vietate/sconsigliate  dalla dieta.
+### NOTE
+Tutte le immagini vanno acquisite in **GRAFIA o SCOPIA** a **discrezione dello strutturato.**
+
+Somministrare solo le **consistenze** che il paziente **effettivamente assume abitualmente**, NON quelle vietate/sconsigliate  dalla dieta.
 
 
 
