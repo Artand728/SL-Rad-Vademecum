@@ -26,7 +26,6 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 - Ernia iatale SINTOMATICA grave
 - Sintomi da rallentamento dello svuotamento esofageo o gastrico
 
-
 **Cosa chiedere al paziente?**
 
 - Impegnativa del curante (*codice 87.62* - RX tubo digerente con mdc idrosolubile)
@@ -44,7 +43,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 - Allergie
 - Quadro clinico
 
-**Raccomandazioni per il paziente:** 
+**Raccomandazioni per il paziente:**
 > Deve venire A DIGIUNO!
 
 - - -
@@ -75,6 +74,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 ### *Esame con Grafin*
 
 > Da utilizzare se:
+>
 > - Disfagia
 > - Intervento chirurgico recente (< 3 mesi)
 > - Sospetta perforazione
@@ -98,6 +98,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 ### *Acquisizioni*
 
 > Tutte le acquisizioni vanno eseguite in **GRAFIA 7,5**
+
 - **Pre somministrazione MdC**
 
   - Antero-Posteriore (AP) basale Faringe+⅓ prossimale esofago a capo iperesteso
@@ -106,12 +107,10 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
   - Latero-laterale (LL) basale Esofago distale + stomaco
   - Antero-Posteriore (AP) basale Addome  
 
-
 - **Durante somministrazione di MdC**
 
   - Ripetere le prime quattro acquisizioni mentre il paziente ingoia (iniziare ad acquisire prima)
   - *Proiezioni OBLIQUE*: se il quesito diagnostico riguarda l’esofago o se si hanno immagini dubbie, acquisire anche 2 proiezioni OBLIQUE a 30 gradi da entrambi i lati.  
-
 
 - **Posizione prona**
   
@@ -121,12 +120,10 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
   - Invitare il paziente ad eseguire la *manovra di Valsalva* (poco prima di dare il comando iniziare ad acquisire centrando l'immagine sulla giunzione EG e parte dell'esofago)
   - Corretta esecuzione se vedete risalire il diaframma  
 
-
 - **Ultima scansione**
 
   - Posizionare il paziente in posizione supina
   - Eseguire una acquisizione Antero-Posteriore (AP) basale Addome  
-
 
 > Avvisare l'interventista e far visionare le immagini prima di far scendere il paziente.
 
