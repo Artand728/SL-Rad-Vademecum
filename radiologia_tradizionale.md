@@ -51,7 +51,8 @@ Orario: 8-16
 ## REFERTAZIONE E TELEFONO
 
 Il telefono squilla raramente, il più delle volte chiamano dai reparti per sollecitare dei referti.
-Talvolta chiamano i pazienti per prenotare gli esami contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.md#esami-contrastografici.html). 
+Talvolta chiamano i pazienti per prenotare gli esami contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.html#contrastografici).
+
 Se chiamano per prenotare una VFG (videofluorografia) prendete i dati del paziente, un numero di telefono e fatevi inviare tutta la documentazione. Contattate poi lo specializzando/strutturato di riferimento per le VFG di quel momento.
 
 ---
@@ -73,22 +74,22 @@ Per ogni altro dubbio vedi i vademecum dei contrastografici.
 
 **Esempio di cosa scrivere su Calendar**
 
-MARIO ROSSI RX TRANSITO ESOFAGEO
-
-- Esame Rx transito esofageo richiesto da (nome MMG/specialista/altro medico) con quesito diagnostico (motivo della richiesta).
-
-- Sintomi: disfagia, pirosi
-
-- Farmaci assunti: Pantoprazolo, CardioASA
-
-- Nome paziente: Mario Rossi ; tel: 333 4455678
-Eventuale n° interno del reparto che segue il paziente
-
-- Allergie: nessuna/nota allergia a mdc/ farmaci/altro
-
-- Pregressi interventi chirurgici: appendicectomia
-
-- Nome dello specializzando
+> MARIO ROSSI RX TRANSITO ESOFAGEO
+>
+> - Esame Rx transito esofageo richiesto da (nome MMG/specialista/altro medico) con quesito diagnostico (motivo della richiesta).
+>
+> - Sintomi: disfagia, pirosi
+>
+> - Farmaci assunti: Pantoprazolo, CardioASA
+>
+> - Nome paziente: Mario Rossi ; tel: 333 4455678
+>Eventuale n° interno del reparto che segue il paziente
+>
+>- Allergie: nessuna/nota allergia a mdc/ farmaci/altro
+>
+>- Pregressi interventi chirurgici: appendicectomia
+>
+>- Nome dello specializzando
 
 ---
 
