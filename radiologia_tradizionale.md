@@ -11,32 +11,88 @@
 ---
 
 - [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
-  - [Studio età ossea bambino](#studio-età-ossea-bambino)
+  - [ATTIVITA' SALA](#attivita-sala)
+  - [REFERTAZIONE E TELEFONO](#refertazione-e-telefono)
+  - [DENSITOMETRIA OSSEA](#densitometria-ossea)
+  - [ESAMI CONTRASTOGRAFICI](#esami-contrastografici)
+    - [Studio età ossea bambino](#studio-età-ossea-bambino)
 - [CONTRASTOGRAFICI](#contrastografici)
-- [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
-  - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
-  - [Esecuzione](#esecuzione)
-- [ILEOGRAFIA](#ileografia)
-- [RETTOGRAFIA](#rettografia)
-  - [Prenotazione](#prenotazione)
-  - [Burocrazia](#burocrazia)
-  - [Materiali](#materiali)
-  - [Esecuzione](#esecuzione-1)
+  - [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
+    - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
+    - [Esecuzione](#esecuzione)
+  - [ILEOGRAFIA](#ileografia)
+  - [RETTOGRAFIA](#rettografia)
+    - [Prenotazione](#prenotazione)
+    - [Burocrazia](#burocrazia)
+    - [Materiali](#materiali)
+    - [Esecuzione](#esecuzione-1)
     - [Inserimento del catetere](#inserimentodelcatetere)
     - [Acquisizioni](#acquisizioni)
     - [Refertazione](#refertazione)
-- [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
-  - [Materiali](#materiali-1)
-  - [Esecuzione](#esecuzione-2)
-- [STUDIO DEL TRANSITO INTESTINALE CON MARKER](#studio-del-transito-intestinale-con-marker)
+  - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
+    - [Materiali](#materiali-1)
+    - [Esecuzione](#esecuzione-2)
+  - [STUDIO DEL TRANSITO INTESTINALE CON MARKER](#studio-del-transito-intestinale-con-marker)
 
 ---
 
-# RADIOLOGIA TRADIZIONALE 
+# RADIOLOGIA TRADIZIONALE
+
+## ATTIVITA' SALA
+
+Orario: 8-16
+
+- Refertazione e telefono
+- Densitometria ossea
+- Esami contrastografici
 
 ---
 
-## Studio età ossea bambino
+## REFERTAZIONE E TELEFONO
+
+Il telefono squilla raramente, il più delle volte chiamano dai reparti per sollecitare dei referti.
+Talvolta chiamano i pazienti per prenotare gli esami contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.md#esami-contrastografici.html). 
+Se chiamano per prenotare una VFG (videofluorografia) prendete i dati del paziente, un numero di telefono e fatevi inviare tutta la documentazione. Contattate poi lo specializzando/strutturato di riferimento per le VFG di quel momento.
+
+---
+
+## DENSITOMETRIA OSSEA
+
+E' responsabilità degli specializzandi validare le densitometrie. 
+
+---
+
+## ESAMI CONTRASTOGRAFICI
+
+Gli esami si prenotano il lunedì e il giovedì compilando gli appositi slot del google calendar della radiologia interventistica.
+
+Ci sono due slot per ogni giornata. Evitate se possibile di inserire due esami "lunghi" lo stesso giorno (ad es. ileostomia + cistografia o 2 cisto). 
+Talvolta possono esserci delle urgenze per cui occorre inserire 3 esami nella stessa giornata; in questo caso occorre parlarne prima con lo strutturato di riferimento (radiologi interventisti).
+
+Per ogni altro dubbio vedi i vademecum dei contrastografici.
+
+**Esempio di cosa scrivere su Calendar**
+
+MARIO ROSSI RX TRANSITO ESOFAGEO
+
+- Esame Rx transito esofageo richiesto da (nome MMG/specialista/altro medico) con quesito diagnostico (motivo della richiesta).
+
+- Sintomi: disfagia, pirosi
+
+- Farmaci assunti: Pantoprazolo, CardioASA
+
+- Nome paziente: Mario Rossi ; tel: 333 4455678
+Eventuale n° interno del reparto che segue il paziente
+
+- Allergie: nessuna/nota allergia a mdc/ farmaci/altro
+
+- Pregressi interventi chirurgici: appendicectomia
+
+- Nome dello specializzando
+
+---
+
+### Studio età ossea bambino
 
 Per refertare lo studio dell’età ossea di un paziente pediatrica servono due libri:
 
@@ -63,17 +119,17 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 
 ---
 
-# TRANSITI ESOFAGO-STOMACO
+## TRANSITI ESOFAGO-STOMACO
 RX ESOFAGO STOMACO E DUODENO con codice 87.62
 
-## Preparazione e accoglienza del paziente
+### Preparazione e accoglienza del paziente
 
 Raccogliere la documentazione clinica, che orienterà la scelta del mezzo di contrasto:
 
 - **Gastrografin:** (1 bicchiere senza diluizione) se *disfagici*, *operati da poco tempo* (se < 3 mesi sempre) o *perforati*.
 - **Bario**: (disciolto in acqua con proporzione 50 e 50 (1:1), tenendone una quota da parte in caso ne servisse ancora) per tutti gli altri casi.
 
-## Esecuzione
+### Esecuzione
 
 NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FERMI IN GRAFIA.
 
@@ -89,17 +145,17 @@ NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FER
 
 ---
 
-# ILEOGRAFIA
+## ILEOGRAFIA
 TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
 
 ---
 
-# RETTOGRAFIA
+## RETTOGRAFIA
 TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
 
 ---
 
-## Prenotazione
+### Prenotazione
 
 La richiesta viene effettuata dalla Chirurgia Generale dell'Ospedale (interno 6224) oppure direttamente dai pazienti.
 
@@ -122,7 +178,7 @@ Cosa scrivere nella prenotazione?
 - Tipo di intervento cui si è sottoposto/a
 - Allergie
 
-## Burocrazia
+### Burocrazia
 
 - Doppia busta
 - Etichette
@@ -133,7 +189,7 @@ Cosa scrivere nella prenotazione?
 - Stampa del CD
 - Stampa del referto
 
-## Materiali
+### Materiali
 
 Non è necessaria la sterilità.
 
@@ -147,7 +203,7 @@ Non è necessaria la sterilità.
 - Betadine
 - Luan o gel ecografico
 
-## Esecuzione
+### Esecuzione
 
 ### Inserimento del catetere
 
@@ -189,9 +245,9 @@ Non è necessaria la sterilità.
 
 ---
 
-# CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
+## CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
 
-## Materiali
+### Materiali
 
 - **Catetere** `14F`
   - per **uomo** **con** **stenosi uretrale** eventualemente **catetere** `12F` / `10F`
@@ -211,7 +267,7 @@ Non è necessaria la sterilità.
 - Morsetto da catetere
 - Pappagallo uomo/donna
 
-## Esecuzione
+### Esecuzione
 
 - **AP BASALE** (**GRAFIA**): il paziente deve essere posizionato il più possibile vicino alla cassetta e lontano dal tubo radiogeno
 - **Disinfezione** con garze sterili e Betadine:
@@ -239,7 +295,7 @@ Non è necessaria la sterilità.
 ---
 
 
-# STUDIO DEL TRANSITO INTESTINALE CON MARKER
+## STUDIO DEL TRANSITO INTESTINALE CON MARKER
 STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 ---
