@@ -50,7 +50,8 @@ Orario: 8-16
 - Esami contrastografici
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -63,7 +64,8 @@ Orario: 8-16
 > Se chiamano per prenotare una VFG (videofluorografia) prendete i dati del paziente, un numero di telefono e fatevi inviare tutta la documentazione. Contattate poi lo specializzando/strutturato di riferimento per le VFG di quel momento.
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -73,7 +75,8 @@ Orario: 8-16
 E' responsabilità degli specializzandi validare le densitometrie. 
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -107,7 +110,8 @@ Per ogni altro dubbio vedi i [vademecum contrastografici](radiologia_tradizional
 >- *Nome dello specializzando*
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -135,7 +139,8 @@ Infine, posato il libro dentro la vetrinetta della tradizionale, potete prendere
 A questo punto il vostro referto sarà completo e voi avrete finito.
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -146,7 +151,8 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 # **CONTRASTOGRAFICI**
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -178,7 +184,8 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 - Eventualmente, se il quesito diagnostico riguarda l'esofago eseguire una **GRAFIA obliqua AP**
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -235,7 +242,8 @@ Si effettua l'esame con il **Gastrografin**
     - **Obliqua sx**
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -288,7 +296,8 @@ Si effettua l'esame con il **Gastrografin**
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -338,7 +347,8 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 - AP addome
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -346,7 +356,8 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 ## BIBLIOGRAFIA
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
@@ -354,7 +365,8 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 ## NOTE
 
 <div style="text-align: right">
-<a href="#radiologia-tradizionale">⬆️</a>
+<a href="#radiologiatradizionale">⬆️</a>
+
 </div>
 
 ---
