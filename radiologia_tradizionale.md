@@ -21,12 +21,10 @@
     - [**Esecuzione**](#esecuzione)
   - [ILEOGRAFIA & RETTOGRAFIA](#ileografia--rettografia)
     - [**Prenotazione**](#prenotazione)
-    - [**Burocrazia**](#burocrazia)
     - [**Materiali**](#materiali)
     - [**Esecuzione**](#esecuzione-1)
       - [*Inserimento del catetere*](#inserimentodelcatetere)
       - [*Acquisizioni*](#acquisizioni)
-    - [**Refertazione**](#refertazione)
   - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
     - [Materiali](#materiali-1)
     - [Esecuzione](#esecuzione-2)
@@ -154,21 +152,10 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 
 La richiesta viene effettuata dalla Chirurgia Generale dell'Ospedale (interno 6224) oppure direttamente dai pazienti.
 
-L'esame va prenotato per il `giovedì` poiché il paziente deve eseguire il **lavaggio della stomia** il giorno precedente.
+L'esame va prenotato per il `giovedì` poiché il paziente deve eseguire il **lavaggio della stomia** il giorno precedente.  
 L'esame occupa il `secondo posto della giornata`, perchè la durata è variabile.
 
-Si effettua l'esame con il Gastrografina &Arr
-
-### **Burocrazia**
-
-- Doppia busta
-- Etichette
-- Copia dell'atto operatorio e ultima visita chirurgica (se disponibile)
-- Consenso informato
-  - Box premedicazione antiallergica (se eseguita)
-    - Controfirmate
-- Stampa del CD
-- Stampa del referto
+Si effettua l'esame con il **Gastrografin**
 
 ### **Materiali**
 
@@ -178,24 +165,20 @@ Si effettua l'esame con il Gastrografina &Arr
 - Telino con buco
 - Grafin 100 mL
 - 2 Siringhe 60 mL
-- Siringa 5 mL
-- Catetere Foley 16 Ch
+- Siringa 10 mL
+- Catetere Foley 16 Ch o superiore
 - Garze
-- Betadine
-- Luan o gel ecografico
+- Soluzione fisiologica
+- Luan
 
 ### **Esecuzione**
 
 #### *Inserimento del catetere*
 
-- Paziente in posizione supina con camice aperto davanti
-- Rimuovere il sacchetto
-- Lavare il campo di interesse con *garze* e *betadine*
-- Applicare il telino con buco dopo rimozione copriadesivo
 - Inserimento catetere
   - Riconoscere l'**ansa efferente** (quella meno visibile, introflessa, da cui non escono feci)
-  - Inserire il catetere con la punta ricoperta di gel (_luan_ o _gel ecografico_)
-  - Gonfiare il palloncino con la siringa da 5 mL
+  - Inserire il catetere con la punta ricoperta di gel (_luan_)
+  - Gonfiare il palloncino con 7-8 mL di aria o fisiologica
 
 #### *Acquisizioni*
 
@@ -205,24 +188,12 @@ Si effettua l'esame con il Gastrografina &Arr
   - Schiacciare il pedale prima di cominciare a iniettare
   - Attenzione a eventuali spandimenti
   - Continuare fino a completa opacizzazione del tratto di interesse (solitamente fino all'ampolla rettale o almeno oltre l'anastomosi)
-- **Proiezioni in GRAFIA** `7,5`
+- Proiezioni in **GRAFIA `7,5`**
   - **AP**
   - **LL**
   - *Sull'anastomosi*:
     - **Obliqua dx**
     - **Obliqua sx**
-
-### **Refertazione**
-
-- Quesito diagnostico
-  - Perchè viene richiesto l'esame
-  - Intervento eseguito e localizzazione anastomosi
-- Tecnica d'esame
-- Riscontri radiografici
-  - Descrizione progressione MdC
-  - Spandimenti/fistole
-  - Collaterali (diverticoli, incontinenza)
-- Conclusioni
 
 ---
 
@@ -234,7 +205,7 @@ Si effettua l'esame con il Gastrografina &Arr
 ### Materiali
 
 - **Catetere** `14F`
-  - per **uomo** **con** **stenosi uretrale** eventualemente **catetere** `12F` / `10F`
+  - per **uomo** con **stenosi uretrale** eventualemente **catetere** `12F` / `10F`
     - se non disponibili chiedere presso gli **ambulatori di urologia** (2°padiglione, 3°piano, interno \_\_\_)
 - Telo sterile per allievo
 - Telo sterile con buco 
