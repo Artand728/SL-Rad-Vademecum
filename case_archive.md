@@ -12,3 +12,5 @@
 
 # CASEUAL WEDNESDAY ARCHIVE
 Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
+
+[CASE #1](caseual%20wednesdays/2021-10-13/spazi_peritoneali.html)
