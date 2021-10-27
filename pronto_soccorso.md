@@ -20,7 +20,7 @@
   - [SALA TC/RX](#sala-tcrx)
   - [SALA ECOGRAFIA](#sala-ecografia)
   - [TELEFONO, INTERFONO E PRENOTAZIONI](#telefono-interfono-e-prenotazioni)
-  - [NOTE](#note)
+  - [NOTE ⬆️](#note-️)
 
 ---
 
@@ -65,7 +65,7 @@ Nel caso in cui il paziente non si presentasse chiamarlo per cognome ma non usar
 
 ---
 
-## NOTE
+## NOTE [⬆️](#pronto-soccorso)
 
 <!---Durante il week-end non si fanno i controlli ortopedici o altri esami di reparto che non abbiano criteri d'urgenza. Non si eseguono esami al solo fine di dimettere un paziente, deve essere il reparto ad organizzarsi a eseguire l'esame entro venerdì. Vengono invece eseguiti i toraci di controllo a letto.-->
 - Non accettare le TC in PS &rarr; lo fanno i tecnici.
