@@ -11,34 +11,33 @@
 ---
 
 - [**RADIOLOGIA TRADIZIONALE**](#radiologiatradizionale)
-  - [**ATTIVITA' SALA**](#attivita-sala)
-  - [**REFERTAZIONE E TELEFONO**](#refertazione-e-telefono)
-  - [**DENSITOMETRIA OSSEA**](#densitometria-ossea)
-  - [**ESAMI CONTRASTOGRAFICI**](#esami-contrastografici)
+  - [ATTIVITA' SALA](#attivita-sala)
+  - [REFERTAZIONE E TELEFONO](#refertazione-e-telefono)
+  - [DENSITOMETRIA OSSEA](#densitometria-ossea)
+  - [ESAMI CONTRASTOGRAFICI](#esami-contrastografici)
 - [**CONTRASTOGRAFICI**](#contrastografici)
   - [**TRANSITO ESOFAGO-GASTRICO**](#transitoesofago-gastrico)
-    - [**Preparazione e accoglienza del paziente**](#preparazioneeaccoglienzadel-paziente)
-    - [**Esecuzione**](#esecuzione)
+    - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
+    - [Esecuzione](#esecuzione)
   - [**ILEOGRAFIA & RETTOGRAFIA**](#ileografia--rettografia)
-    - [**Prenotazione**](#prenotazione)
-    - [**Materiali**](#materiali)
-    - [**Esecuzione**](#esecuzione-1)
-      - [*Inserimento del catetere*](#inserimentodelcatetere)
-      - [*Acquisizioni*](#acquisizioni)
+    - [Prenotazione](#prenotazione)
+    - [Materiali](#materiali)
+    - [Esecuzione](#esecuzione-1)
+      - [Inserimento del catetere](#inserimentodelcatetere)
+      - [Acquisizioni](#acquisizioni)
   - [**CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**](#cistografia-retrograda-minzionale-maschile-femminile)
-    - [**Materiali**](#materiali-1)
-    - [**Esecuzione**](#esecuzione-2)
+    - [Materiali](#materiali-1)
+    - [Esecuzione](#esecuzione-2)
   - [**STUDIO DEL TRANSITO INTESTINALE CON MARKER**](#studio-del-transito-intestinale-con-marker)
-    - [**Indicazioni**](#indicazioni)
-    - [**Materiali**](#materiali-2)
-    - [**Esecuzione**](#esecuzione-3)
-  - [- AP addome](#--ap-addome)
+    - [Indicazioni](#indicazioni)
+    - [Materiali](#materiali-2)
+    - [Esecuzione](#esecuzione-3)
 
 ---
 
 # **RADIOLOGIA TRADIZIONALE**
 
-## **ATTIVITA' SALA**
+## ATTIVITA' SALA
 
 Orario: 8-16
 
@@ -48,7 +47,7 @@ Orario: 8-16
 
 ---
 
-## **REFERTAZIONE E TELEFONO**
+## REFERTAZIONE E TELEFONO
 
 - Sollecito referti
 - Prenotazione contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.html#contrastografici))
@@ -57,13 +56,13 @@ Orario: 8-16
 
 ---
 
-## **DENSITOMETRIA OSSEA**
+## DENSITOMETRIA OSSEA
 
 E' responsabilità degli specializzandi validare le densitometrie. 
 
 ---
 
-## **ESAMI CONTRASTOGRAFICI**
+## ESAMI CONTRASTOGRAFICI
 
 Gli esami si prenotano il lunedì e il giovedì compilando gli appositi slot del google calendar della radiologia interventistica.
 
@@ -124,14 +123,14 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 
 > [TRANSITO ESOFAGO-GASTRICO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
 
-### **Preparazione e accoglienza del paziente**
+### Preparazione e accoglienza del paziente
 
 Raccogliere la documentazione clinica, che orienterà la scelta del mezzo di contrasto:
 
 - **Gastrografin:** (1 bicchiere senza diluizione) se *disfagici*, *operati da poco tempo* (se < 3 mesi sempre) o *perforati*.
 - **Bario**: per i restanti casi (disciolto in acqua con rapporto 1:1, tenendone una quota da parte in caso ne servisse ancora).
 
-### **Esecuzione**
+### Esecuzione
 
 `NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FERMI IN GRAFIA.`
 
@@ -152,7 +151,7 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 
 > [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/ileostomia_&_rettografia.html)
 
-### **Prenotazione**
+### Prenotazione
 
 La richiesta viene effettuata dalla Chirurgia Generale dell'Ospedale (interno 6224) oppure direttamente dai pazienti.
 
@@ -161,7 +160,7 @@ L'esame occupa il `secondo posto della giornata`, perchè la durata è
 
 Si effettua l'esame con il **Gastrografin**
 
-### **Materiali**
+### Materiali
 
 > Non è necessaria la sterilità.
 
@@ -175,16 +174,16 @@ Si effettua l'esame con il **Gastrografin**
 - Soluzione fisiologica
 - Luan
 
-### **Esecuzione**
+### Esecuzione
 
-#### *Inserimento del catetere*
+#### Inserimento del catetere
 
 - Inserimento catetere
   - Riconoscere l'**ansa efferente** (quella meno visibile, introflessa, da cui non escono feci)
   - Inserire il catetere con la punta ricoperta di gel (_luan_)
   - Gonfiare il palloncino con 7-8 mL di aria o fisiologica
 
-#### *Acquisizioni*
+#### Acquisizioni
 
 - **AP BASALE** - prima della preparazione del campo
 - **AP BASALE** - per valutare posizionamento del catetere
@@ -206,7 +205,7 @@ Si effettua l'esame con il **Gastrografin**
 > [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/cistografia_retrograda_minzionale.html)
 
 
-### **Materiali**
+### Materiali
 
 - **Catetere** `14F`
   - per **uomo** con **stenosi uretrale** eventualemente **catetere** `12F`
@@ -223,7 +222,7 @@ Si effettua l'esame con il **Gastrografin**
 - Morsetto da catetere
 - Pappagallo uomo/donna
 
-### **Esecuzione**
+### Esecuzione
 
 - **AP BASALE** (**GRAFIA**): il paziente deve essere posizionato il più possibile vicino alla cassetta e lontano dal tubo radiogeno
 - **Disinfezione** con garze sterili e Betadine:
@@ -256,10 +255,10 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 > [STUDIO DEL TRANSITO INTESTINALE CON MARKER &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/studio_del_tempo_di_transito_intenstinale_con_marker.html)
 
-### **Indicazioni**
+### Indicazioni
 - Stipsi
 
-### **Materiali**
+### Materiali
 
 *Marker radiopachi*
 
@@ -268,7 +267,7 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 - - -
 
-### **Esecuzione**
+### Esecuzione
 
 ***I° giorno***
 
@@ -293,5 +292,6 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
  ***V° giorno***
 
 - AP addome
+
 ---
 
