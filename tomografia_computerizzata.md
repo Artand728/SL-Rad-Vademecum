@@ -8,12 +8,13 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # TOMOGRAFIA COMPUTERIZZATA
 GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 
-***
+- - -
+
 - [TOMOGRAFIA COMPUTERIZZATA](#tomografia-computerizzata)
 	- [CONSENSO INFORMATO](#consenso-informato)
 	- [PREMEDICAZIONE ANTIALLERGICA](#premedicazione-antiallergica)
@@ -60,7 +61,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [NOTE](#note)
 
-***
+- - -
 
 | CODICE | NOME REPARTO                 |
 | ------ | ---------------------------- |
@@ -74,7 +75,11 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 | MURG   | MEDICINA D’URGENZA           |
 | URG    | URGENZE                      |
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## CONSENSO INFORMATO
 - pz. ricoverato → si allega in cartella
@@ -82,7 +87,11 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 - pz. DH → si allega in cartella
 - pz. esterno → busta
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## PREMEDICAZIONE ANTIALLERGICA
 Da fare ogni volta che un paziente è allergico altrimenti l'esame deve essere rimandato.
@@ -135,7 +144,11 @@ Non esiste un protocollo aziendale per la premedicazione rapida, il medico di re
 >**ADRENALINA fiale** (_1 mg/ml_) da usare al bisogno in caso di comparsa della reazione di intolleranza (*0.3 -0.5 mg* = **1/3 - 1/2 di fila** eventualmente **ripetibili dopo pochi minuti**: a disposizione del Servizio di Radiologia per le emergenze.
 > 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## PREMEDICAZIONE NEFROPROTETTIVA
 Nel caso di pazienti MONORENE con GFR 45-50:
@@ -177,7 +190,11 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 >**Sconsigliata** la **somministrazione di mdc**, viene richiesta la **consulenza nefrologica** per poter eseguire l'esame.
 >
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## GESTIONE DEL PAZIENTE
 
@@ -217,6 +234,10 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 11.	Se pz ricoverato → programmare il rientro.
 
 
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
 ---
 
 ## ACCESSO VASCOLARE
@@ -246,11 +267,19 @@ Nelle fasi venose non è necessario un bolo compatto di mdc e quindi si utilizza
 
 Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è meramente indicativo, solitamente è così ma dipenende tutto dalle vene del paziente.
 
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
 ---
 
 ## STRAVASO MDC
 Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
+
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
 
 ---
 
@@ -263,7 +292,11 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 	2. **Radioterapia** (**RT**)
 	3. **Radiofrequnze** (**RF**)
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## CONCERTO - ESAMI LABORATORIO OSPEDALE
 
@@ -272,7 +305,11 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 - Se il paziente soffre di **patologie renali** occorre un esame della **creatinina** risalente ad **al massimo 14 giorni prima** del esame TC.
 	- secondo le Linee Guida dell'ospedale **massimo 7 giorni prima**
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## FASI
 - Basale
@@ -291,20 +328,36 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 
 > Se si richiede una fase arteriosa specificare sempre se vascolare (18-20") o parenchimale (40"). 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## PROTOCOLLI TC
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 Prima di impostare le fasi del protocollo controllare quali fasi sono state acquisite negli esami precedenti (soprattutto in caso di ri-stadiazione o follow-up)
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TRAUMA CRANICO
 - CR Basale
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### CIRCOLO DI WILLIS (ROSSO TROMBOLISI)
 
@@ -314,13 +367,21 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 	- acquisizione ascendente in direzione craniale dall'arco aoritco fino al vertice
 - Ripassaggio immediato discendente dal vertice del cranio fino al livello dei nuclei della base
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE TIROIDE
 - TOR + AC portale (80")
 - CR (5')
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### COLLO ORL
 Per quesito diagnostico mirato a laringe o faringe
@@ -334,19 +395,31 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 - TOR + AC portale (80")
 - Ripassaggio su Collo con mdc (circa a 100")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE LARINGE (follow-up)
 
 - Collo Basale
 - 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TORACE
 - Basale
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TORACE ALTA RISOLUZIONE
 - HRCT volumetrica inspirio
@@ -359,7 +432,11 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 		- BPCO
 			- valutare se evidente immagine a mosaico
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### CARDIO-TC
 
@@ -377,7 +454,11 @@ Chiama direttamente la caposala della cardiologia, riportare sempre:
 
 - ECG con elettrodi Gi-Ro-Ne-VE
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE POLMONE
 - Basale AS + Basale CR (se no precedenti)
@@ -387,40 +468,64 @@ Chiama direttamente la caposala della cardiologia, riportare sempre:
 
 Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se eseguire il mdc a 40" oppure 60".
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE MAMMELLA (stadiazione)
 - TOR lungo (40")
 - AC portale (80")
 - CR (5'), eventualemente se richiesto
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE MAMMELLA (ri-stadiazione)
 - TOR lungo (40")
 - AC portale (80")
 - CR (5'), eventualemente se richiesto
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE EMATOLOGICO
 - TOR alto 
 - AC portale (80")
 - a volte viene richiesto CR
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### ESOFAGEI
 - 2 bicchieri di H20 prima dell'esame
 - TOR + AC portale (80")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### GASTRICI
 - 2 bicchieri di H20 prima dell'esame
 - TOR + AC portale (80")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### FEGATO
 - Quadrifasica HCC (tardiva 180")
@@ -431,7 +536,11 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - Colangiografica tardiva a (5'-10')
 - Se viene richiesto TOR eseguire in portale (80")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### FEGATO (sospetto Colangiocarcinoma)
 - Quadrifasica HCC (tardiva 180")
@@ -442,7 +551,11 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - Colangiografica tardiva a (5'-10')
 - Se viene richiesto TOR eseguire in portale (80")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE PANCREAS (Stadiazione)
 - AS basale
@@ -451,7 +564,11 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - AC portale (80")
 - (eventuale) AS a (180") 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE NEUROENDOCRINO
 
@@ -460,13 +577,21 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - AC portale (80")
 - (eventuale) AS a (180")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### SURRENI
 - AS HRCT Basale
 	- chiedere allo strutturato se acquisire in ulteriori fasi: studio trifasico.
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE RENE (stadiazione)
 - Arteriosa Cortico-Midollare (equivalente ad arteriosa parenchimale a 40")
@@ -477,7 +602,11 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 Soltatnto i tumori a cellule chiare hanno una forte impregnazione in fare artriosa, i tumori papillari hanno una maggiore impreganzione tardiva.
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE RENE (follow-up)
 - AS basale (solo se no precedenti)
@@ -486,7 +615,11 @@ Soltatnto i tumori a cellule chiare hanno una forte impregnazione in fare artrio
 
 Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase artriosa vascolare.
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### URO-TC
 - AC basale, se:
@@ -500,7 +633,11 @@ Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuov
 
 Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### CISTI RENALE COMPLICATA
 - AS basale
@@ -509,7 +646,11 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - eventualmente tadiva 
 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE UROTELIALE
 - AC basale
@@ -517,13 +658,21 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - AC tardiva (10') 
 	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE COLON
 - TOR + AC portale (80")
 - CR basale + CR tardiva (5')
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### COLON TC (colonscopia virtuale)
 - 30mL Grafin in 1L di H20 2h prima dell'esame
@@ -538,7 +687,11 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 > Il paziente deve arrivare 2h ore prima dell'esame con preparazione data dai gastrenterologi e la terminano qui in Radiologia Centrale.
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE PROSTATA (stadiazione)
 - AS Basale 
@@ -548,13 +701,21 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 	- **Gleason Score *inferiore* a 3+4**: solo AC portale
 	- **Gleason Score *superiore* a 3+4**: TOR + AC portale 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ### TUMORE ENDOMETRIO
 - TOR
 - AC portale (80")
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## PAZIENTI ONCOLOGICI
 - relazione oncologica
@@ -564,7 +725,11 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 	- sotto 30 mg/dL &rarr; non si usa il contrasto 
 		- tranne che in stato di necessità o se dialisi
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 ## QUANDO FARE IL RIPASSAGGIO
 Leggere gli esami precedenti e vedere le immagini.
@@ -580,11 +745,19 @@ Leggere gli esami precedenti e vedere le immagini.
 
 
 
-***
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
 
 
 ## Differenza tra "TOR alto" e "TOR+COLLO"
 In TOR alto i pazienti restano con gli arti superiori allungati per evitare artefatti mentre in TOR+COLLO i pazienti acquisiscono prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando la tempistica.
+
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
 
 ---
 
