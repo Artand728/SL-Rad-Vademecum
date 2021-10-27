@@ -12,6 +12,8 @@
 
 # PRONTO SOCCORSO
 
+---
+
 - [PRONTO SOCCORSO](#pronto-soccorso)
   - [ORARI](#orari)
   - [SALE](#sale)
@@ -68,4 +70,5 @@
 ## NOTE [⬆️](#pronto-soccorso)
 
 - Non accettare le TC in PS &rarr; lo fanno i tecnici.
-- Nel weekend non si eseguono controlli ortopedici nè esami dai reparti senza criterio di urgenza (per dimettere il Paziente).
+- Nel weekend non si eseguono controlli ortopedici né esami dai reparti senza criterio di urgenza (per dimettere il Paziente).
+- In caso di richiesta di Angio-TC il clinico deve indicare se sospetta TEP o dissecazione aortica. Non si può impostare una Angio-TC diagnostica pe entrambi, in un caso la ROI va in polmonare mentre nell'altra va in addome.
