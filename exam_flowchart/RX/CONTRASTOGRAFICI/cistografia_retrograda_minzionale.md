@@ -60,7 +60,7 @@ Si prenota il `lunedì` o il `giovedì`.
 ## Materiale
 
 - **Catetere** `14F`
-(per **uomo** con **stenosi uretrale** eventualemente `12F` o `10F` - se non disponibili chiedere presso gli *ambulatori di urologia*)
+(per **uomo** con **stenosi uretrale** eventualemente `12F` o `10F` - se non disponibili cercare in magazzino o chiedere presso gli *ambulatori di urologia*)
 - **Telo sterile** per *allievo*
 - **Telo sterile** con *buco* 
 (*non rimuovere copriadesivo*)
@@ -89,11 +89,12 @@ Si prenota il `lunedì` o il `giovedì`.
 - Inserimento del catetere:
   - UOMO: inserire **in fossa navicolare** e **gonfiare** con `4.5 mL` (*aria o fisiologica* indifferentemente);
 
-  > Inserire il catetere all’interno dell’uretra FERMANDOSI a livello della fossa navicolare e gonfiando LENTAMENTE. (Si tocca il palloncino gonfio  appena al di sopra del limite inferiore del glande).
+  > Inserire il catetere all’interno dell’uretra FERMANDOSI a livello della fossa navicolare e gonfiando LENTAMENTE.  
+  >(Si tocca il palloncino gonfio  appena al di sopra del limite inferiore del glande).
 
   - DONNA: inserire **in vescica** e **gonfiare** con `5 mL` (*aria o fisiologica* indifferentemente);
 
-- **AP basale** `grafia`: deve **visualizzarsi il catetere** 
+- **AP basale** `grafia`: deve **visualizzarsi il palloncino** 
   - **in uretra** `nell’uomo`
   - **in vescica** `nella donna`
 - **Inserire mdc** e controllare con `scopie` successive l’avvenuto **riempimento vescicale**.
@@ -104,7 +105,7 @@ Si prenota il `lunedì` o il `giovedì`.
 
 > N.B. **Nell'uomo**, soprattutto in proiezione AP, occorre *posizionare di lato il pene*, in modo che l'uretra sia completamente visualizzabile.
 
-> Un **errore comune** è l'**iniezione di aria** (radiotrasparenza lungo il decorso dell'uretra). Per correggere l'errore occorre prendere una siringa da 60 mL quasi vuota, posizionarla in verticale e cominciare ad aspirare LENTAMENTE, eventualmente dando dei colpetti sul pene per favorire il passaggio dell'aria. Una volta rimossa, iniettare altro MdC e verificare in scopia la corretta opacizzazione dell'uretra.
+> Un **errore comune** è l'**iniezione di aria** (radiotrasparenza lungo il decorso dell'uretra). Per correggere l'errore occorre prendere una siringa da 60 mL riempita a metà, posizionarla in verticale e cominciare ad aspirare LENTAMENTE, eventualmente dando dei colpetti sul pene per favorire il passaggio dell'aria. Una volta rimossa, iniettare altro MdC e verificare in scopia la corretta opacizzazione dell'uretra.
 
 - Se il **Paziente** è **continente** va **rimosso il catetere**, **altrimenti mantenuto**.
 

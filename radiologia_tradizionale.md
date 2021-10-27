@@ -205,18 +205,15 @@ Si effettua l'esame con il **Gastrografin**
 ### Materiali
 
 - **Catetere** `14F`
-  - per **uomo** con **stenosi uretrale** eventualemente **catetere** `12F` / `10F`
-    - se non disponibili chiedere presso gli **ambulatori di urologia** (2°padiglione, 3°piano, interno \_\_\_)
+  - per **uomo** con **stenosi uretrale** eventualemente **catetere** `12F`
+  - Se mancano li trovate in magazzino
 - Telo sterile per allievo
-- Telo sterile con buco 
-  (non rimuovere copriadesivo)
-- Garze sterili 
-  (per disinfezione e lubrificante)
+- Telo sterile con buco (non rimuovere copriadesivo)
+- Garze sterili (per disinfezione e lubrificante)
 - Betadine
-- Luan 
-  (meglio se aperto al momento)
-- 1 Siringa 5 mL
-- 2 Siringhe da 60 mL con cono
+- Luan (monodose o aperto al momento)
+- 1 Siringa 5 mL (con cono)
+- 2 Siringhe da 60 mL (con cono)
 - 250 mL di soluzione fisiologica (SF)
 - 100 mL Ultravist 370
 - Morsetto da catetere
@@ -237,13 +234,13 @@ Si effettua l'esame con il **Gastrografin**
   - in uretra nell’uomo
   - in vescica nella donna
 - **Inserire mdc** e controllare con **SCOPIA** successiva l’avvenuto **riempimento vescicale**.
-- Quando si è raggiunto una condizione di **vescica repleta** (**GRAFIA**):
+- A **vescica repleta** eseguire scansioni in **GRAFIA**:
   - **AP**
   - **2 OBLIQUE**
   - **LL**
 - Se il paziente è continente va **rimosso il catetere**, altrimenti il catetere deve essere mantenuto in sede.
 - Posizionare il paziente **prono** con lettino **in Trendelemburg** (**-10°**) ed eseguire la **Manovra di Valsalva** acquisendo **GRAFIA AP** `3 frame/sec` con `zoom a 42 cm` centrata sulla vescica e sugli ureteri.
-- Posizionare il paziente paziente in piedi con i piedi sulla pedana del lettino posizionato in verticale. Indicare di **svuotare** la vescica **nel pappagallo**. Eseguita una seconda **GRAFIA** in **proiezione LL** `3 frame/sec` e `zoom 42 cm`
+- Posizionare il paziente in piedi con i piedi sulla pedana del lettino e far **svuotare** la vescica **nel pappagallo** acquisendo in **GRAFIA** in **proiezione LL** a `3 frame/sec`.
 - Se il paziente è un uomo con difficoltà di svuotamento vescicale, va mandato in bagno per tentare di svuotare completamente. 
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
