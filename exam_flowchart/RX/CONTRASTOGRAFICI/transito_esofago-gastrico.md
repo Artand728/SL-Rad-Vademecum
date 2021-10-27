@@ -145,7 +145,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
    - controllo in Paziente con nota voluminosa erniazione gastrica
 
 2. **TECNICA D'ESAME** 
-   - mezzo di contrasto `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
+   - **mezzo di contrasto** `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
 
 3. **RISCONTRI**
 
@@ -155,45 +155,44 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
       > Uno studio del transito esofageo porta ad una eccellente visualizzazione di larghe parti del polmone e la natura dinamica dello studio lo rende scevro da artefatti di sommazione, per questi motivi non segnalare un'eventuale lesione polmonare è un grave errore non solo perché poco difendibile ma soprattuto per il danno diagnostico a cui potenzialemente si espone il paziente.
 
 
-
 5. **ESOFAGO**
    - **lume esofageo**
-     - regolare `il MdC opacizza regolarmente il lume esofageo transitando regolarmente lungo la giunzione gastroesofagea`
-     - **restringimento**
-       - lieve `al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"`
-       - moderato
-       - serrato `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico`
+     - ***regolare*** `il MdC opacizza regolarmente il lume esofageo transitando regolarmente lungo la giunzione gastroesofagea`
+     - ***restringimento***
+       - *lieve* `al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"`
+       - *moderato*
+       - *serrato* `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico`
    - **perforazione?** `in assenza di spandimenti extraluminali.`
    - **deviazione?** `laterodeviazione sinistra del decorso del terzo medio e inferiore dell'esofago`
    - **peristalsi terziaria?** `in presenza di onde di peristalsi terziaria e rallentamento della clearance.`
    - **ernia iatale?**
-     - assente `senza evidenza di segni diretti o indiretti di ernia iatale`
-     - voluminosa `completa erniazione del viscere gastrico in torace che presenta morfologia ripiegata "a uncino"`
+     - ***assente*** `senza evidenza di segni diretti o indiretti di ernia iatale`
+     - ***voluminosa*** `completa erniazione del viscere gastrico in torace che presenta morfologia ripiegata "a uncino"`
    - **diverticoli?** `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`
    - **lesioni aggettanti?** `non si apprezzano grossolane lesioni aggettanti il lume`
    - **reflusso?** `trascurabile risalita di MdC fino a livello del terzo medio del viscere subito dopo il passaggio del bolo baritato attraverso la giunzione gastroesofagea.`
 
 
-
 6. **STOMACO**
-   - **lume gastrico** ` il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
+   - **lume gastrico** 
+     - ***regolare*** `il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
    - **morfologia** 
-     - allungta `morfologia allungata`
-   - **plicature** 
-     - `plicature nei limiti di normalità`
-   - **plicature gastriche**
+     - ***allungta*** `morfologia allungata`
+   - **plicature gastriche** 
+     - ***regolari*** `plicature nei limiti di normalità`
    - **svuotamento gastrico**
-     - regolare `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
-     - rallentato `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc`
+     - ***regolare*** `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
+     - ***rallentato*** `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc`
 
 
+7. **DUODENO**
+   - **opacizzazione**
+     - ***regolare*** `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
 
-7. DUODENO
-   - opacizzazione
-     - regolare `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
 
-8. INTERVENTI CHIRURGICI
+8. **INTERVENTI CHIRURGICI**
    - **anastamosi gastro-enterica** `L'anastomosi gastro-enterica L-L è ampia e pervia con rapido deflusso di mdc a valle sia a livello dell'ansa afferente sia efferente, mantenendo entrambe peristalsi conservata`
+
 
 9.  **MANOVRA DI VALSALVA**
    - **reflusso esofageo?** `sono stati acquisiti radiogrammi in posizione Trendelemburg durante manovra di Valsalva, che non hanno evidenziato immagini compatibili con reflusso gastroesofageo`
