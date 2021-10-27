@@ -8,32 +8,27 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
 
-# VIDEOFLUOROGRAFIA
-
----
-
-- [VIDEOFLUOROGRAFIA](#videofluorografia)
-  - [INDICAZIONI](#indicazioni)
-  - [IL GIORNO DELL’ESAME](#il-giorno-dellesame)
-    - [BUROCRAZIA](#burocrazia)
-    - [MATERIALI](#materiali)
-    - [ESECUZIONE](#esecuzione)
-    - [CAVEAT](#caveat)
+- [**VIDEOFLUOROGRAFIA**](#videofluorografia)
+  - [**INDICAZIONI**](#indicazioni)
+  - [**BUROCRAZIA**](#burocrazia)
+  - [**MATERIALI**](#materiali)
+  - [**ESECUZIONE**](#esecuzione)
+  - [**CAVEAT**](#caveat)
 
 ---
+# **VIDEOFLUOROGRAFIA**
 
-## INDICAZIONI 
+## **INDICAZIONI**
 
 Evidenza o sospetto di:
 
 - **Disfagia neurologica/funzionale**
 <!--- Aggiungere ulteriori indicazioni-->
 
-## IL GIORNO DELL’ESAME
+---
 
-### BUROCRAZIA 
+## **BUROCRAZIA** 
 
 - *Anamnesi* e *Documentazione*.
 - Caricare su *telemis* eventuali *immagini di studi precedenti*
@@ -44,17 +39,17 @@ Evidenza o sospetto di:
 
 ---
 
-### MATERIALI
+## **MATERIALI**
 
-**LIQUIDO**: Acqua + bario (½ da adattare in base al grado di opacizzazione del viscere)
+*LIQUIDO*: Acqua + bario (½ da adattare in base al grado di opacizzazione del viscere)
 
-**SEMISOLIDO**: Yogurt/Acquagel + bario (½)
+*SEMISOLIDO*: Yogurt/Acquagel + bario (½)
 
-**SOLIDO**: Fette biscottate con sopra spalmato yogurt+bario/brioches
+*SOLIDO*: Fette biscottate con sopra spalmato yogurt+bario/brioches
 
 ---
 
-### ESECUZIONE
+## **ESECUZIONE**
 
 > `Informare gli strutturati responsabili che si sta per svolgere l’esame.`
 
@@ -76,7 +71,7 @@ Evidenza o sospetto di:
 
 ---
 
-### CAVEAT
+## **CAVEAT**
 
 Tutte le immagini vanno acquisite in **GRAFIA o SCOPIA** a **discrezione dello strutturato.**
 

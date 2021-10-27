@@ -9,40 +9,47 @@
 </div>
 
 ---
+- [**TEMPO DI TRANSITO (MARKERS)**](#tempo-di-transito-markers)
+  - [**Indicazioni**](#indicazioni)
+  - [**Burocrazia**](#burocrazia)
+  - [**Materiali**](#materiali)
+  - [**Esecuzione**](#esecuzione)
+    - [*I° giorno*](#i-giorno)
+    - [*II° giorno*](#ii-giorno)
+    - [*III° giorno*](#iii-giorno)
+    - [*V° giorno*](#v-giorno)
 
-# TEMPO DI TRANSITO (MARKERS)
+# **TEMPO DI TRANSITO (MARKERS)**
 
-  - [Burocrazia](#burocrazia)
-  - [Materiali](#materiali)
-  - [Esecuzione](#esecuzione)
-    - [I° giorno](#i-giorno)
-    - [II° giorno](#ii-giorno)
-    - [III° giorno](#iii-giorno)
-    - [V° giorno](#v-giorno)
+## **Indicazioni**
+- Stipsi
 
-## Burocrazia
+---
+
+## **Burocrazia**
 
 L'esame si prenota il **lunedì**, perchè sono previste acquisizioni nei giorni successivi.
 
 **Cosa deve inviare il paziente?**
 
 - Esami precedenti (studi RX, visita GEL, ecc)
-- Impegnativa del curante (codice 87.63.1)
+- Impegnativa del curante (`codice 87.63.1`)
 
 > Il paziente deve presentarsi a digiuno.
 - - -
 
-## Materiali
+## **Materiali**
 
-- Marker radiopachi
-  - Si trovano nello studio del capotecnico (primo armadietto in fondo alla stanza sulla destra)
-  - Sono 30 per ogni sacchetto (contateli prima di somministrarli)
+**Marker radiopachi**
+
+- Si trovano nello studio del capotecnico (primo armadietto in fondo alla stanza sulla destra)
+- Sono 30 per ogni sacchetto (contateli prima di somministrarli)
 
 - - -
 
-## Esecuzione
+## **Esecuzione**
 
-### I° giorno
+### *I° giorno*
 
 - AP addome in ortostasi (o posizione supina, è indifferente)
 
@@ -51,17 +58,17 @@ L'esame si prenota il **lunedì**, perchè sono previste acquisizioni nei giorni
 - Somministrare i markers e far bere un bicchiere d'acqua
 - AP addome
 
-### II° giorno
+### *II° giorno*
 
 - AP addome
 
-### III° giorno
+### *III° giorno*
 
 - AP addome
 - Guardate le immagini insieme ai tecnici:
   - Se rimangono pochi markers si può interrompere la serie
   - Se rimane un discreto numero di markers dire al paziente di presentarsi il venerdì (V° giorno)
 
-### V° giorno
+### *V° giorno*
 
 - AP addome

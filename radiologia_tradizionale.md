@@ -10,31 +10,35 @@
 
 ---
 
-- [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
-  - [ATTIVITA' SALA](#attivita-sala)
-  - [REFERTAZIONE E TELEFONO](#refertazione-e-telefono)
-  - [DENSITOMETRIA OSSEA](#densitometria-ossea)
-  - [ESAMI CONTRASTOGRAFICI](#esami-contrastografici)
-- [CONTRASTOGRAFICI](#contrastografici)
-  - [TRANSITO ESOFAGO-GASTRICO](#transitoesofago-gastrico)
+- [**RADIOLOGIA TRADIZIONALE**](#radiologiatradizionale)
+  - [**ATTIVITA' SALA**](#attivita-sala)
+  - [**REFERTAZIONE E TELEFONO**](#refertazione-e-telefono)
+  - [**DENSITOMETRIA OSSEA**](#densitometria-ossea)
+  - [**ESAMI CONTRASTOGRAFICI**](#esami-contrastografici)
+- [**CONTRASTOGRAFICI**](#contrastografici)
+  - [**TRANSITO ESOFAGO-GASTRICO**](#transitoesofago-gastrico)
     - [**Preparazione e accoglienza del paziente**](#preparazioneeaccoglienzadel-paziente)
     - [**Esecuzione**](#esecuzione)
-  - [ILEOGRAFIA & RETTOGRAFIA](#ileografia--rettografia)
+  - [**ILEOGRAFIA & RETTOGRAFIA**](#ileografia--rettografia)
     - [**Prenotazione**](#prenotazione)
     - [**Materiali**](#materiali)
     - [**Esecuzione**](#esecuzione-1)
       - [*Inserimento del catetere*](#inserimentodelcatetere)
       - [*Acquisizioni*](#acquisizioni)
-  - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
-    - [Materiali](#materiali-1)
-    - [Esecuzione](#esecuzione-2)
-  - [STUDIO DEL TRANSITO INTESTINALE CON MARKER](#studio-del-transito-intestinale-con-marker)
+  - [**CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**](#cistografia-retrograda-minzionale-maschile-femminile)
+    - [**Materiali**](#materiali-1)
+    - [**Esecuzione**](#esecuzione-2)
+  - [**STUDIO DEL TRANSITO INTESTINALE CON MARKER**](#studio-del-transito-intestinale-con-marker)
+    - [**Indicazioni**](#indicazioni)
+    - [**Materiali**](#materiali-2)
+    - [**Esecuzione**](#esecuzione-3)
+  - [- AP addome](#--ap-addome)
 
 ---
 
-# RADIOLOGIA TRADIZIONALE
+# **RADIOLOGIA TRADIZIONALE**
 
-## ATTIVITA' SALA
+## **ATTIVITA' SALA**
 
 Orario: 8-16
 
@@ -44,7 +48,7 @@ Orario: 8-16
 
 ---
 
-## REFERTAZIONE E TELEFONO
+## **REFERTAZIONE E TELEFONO**
 
 - Sollecito referti
 - Prenotazione contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.html#contrastografici))
@@ -53,13 +57,13 @@ Orario: 8-16
 
 ---
 
-## DENSITOMETRIA OSSEA
+## **DENSITOMETRIA OSSEA**
 
 E' responsabilità degli specializzandi validare le densitometrie. 
 
 ---
 
-## ESAMI CONTRASTOGRAFICI
+## **ESAMI CONTRASTOGRAFICI**
 
 Gli esami si prenotano il lunedì e il giovedì compilando gli appositi slot del google calendar della radiologia interventistica.
 
@@ -112,11 +116,11 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 -->
 ---
 
-# CONTRASTOGRAFICI
+# **CONTRASTOGRAFICI**
 
 ---
 
-## TRANSITO ESOFAGO-GASTRICO
+## **TRANSITO ESOFAGO-GASTRICO**
 
 > [TRANSITO ESOFAGO-GASTRICO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
 
@@ -144,7 +148,7 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 
 ---
 
-## ILEOGRAFIA & RETTOGRAFIA
+## **ILEOGRAFIA & RETTOGRAFIA**
 
 > [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/ileostomia_&_rettografia.html)
 
@@ -197,12 +201,12 @@ Si effettua l'esame con il **Gastrografin**
 
 ---
 
-## CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
+## **CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**
 
 > [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/cistografia_retrograda_minzionale.html)
 
 
-### Materiali
+### **Materiali**
 
 - **Catetere** `14F`
   - per **uomo** con **stenosi uretrale** eventualemente **catetere** `12F`
@@ -219,7 +223,7 @@ Si effettua l'esame con il **Gastrografin**
 - Morsetto da catetere
 - Pappagallo uomo/donna
 
-### Esecuzione
+### **Esecuzione**
 
 - **AP BASALE** (**GRAFIA**): il paziente deve essere posizionato il più possibile vicino alla cassetta e lontano dal tubo radiogeno
 - **Disinfezione** con garze sterili e Betadine:
@@ -247,10 +251,47 @@ Si effettua l'esame con il **Gastrografin**
 ---
 
 
-## STUDIO DEL TRANSITO INTESTINALE CON MARKER
+## **STUDIO DEL TRANSITO INTESTINALE CON MARKER**
 STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 > [STUDIO DEL TRANSITO INTESTINALE CON MARKER &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/studio_del_tempo_di_transito_intenstinale_con_marker.html)
 
+### **Indicazioni**
+- Stipsi
+
+### **Materiali**
+
+*Marker radiopachi*
+
+- Si trovano nello studio del capotecnico (primo armadietto in fondo alla stanza sulla destra)
+- Sono 30 per ogni sacchetto (contateli prima di somministrarli)
+
+- - -
+
+### **Esecuzione**
+
+***I° giorno***
+
+- AP addome in ortostasi (o posizione supina, è indifferente)
+
+> Una volta decisa la posizione del paziente mantenete la stessa per tutti i giorni a seguire!
+
+- Somministrare i markers e far bere un bicchiere d'acqua
+- AP addome
+
+***II° giorno***
+
+- AP addome
+
+***III° giorno***
+
+- AP addome
+- Guardate le immagini insieme ai tecnici:
+  - Se rimangono pochi markers si può interrompere la serie
+  - Se rimane un discreto numero di markers dire al paziente di presentarsi il venerdì (V° giorno)
+
+ ***V° giorno***
+
+- AP addome
 ---
 

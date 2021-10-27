@@ -11,9 +11,7 @@
 ---
 
 # COLANGIOGRAFIA
-
----
-
+<!--- DA AGGIORNARE -->
 - [COLANGIOGRAFIA](#colangiografia)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
 	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
@@ -29,11 +27,19 @@
 
 ## INDICAZIONI & LINEE GUIDA
 
+---
+
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
+
+---
 
 ## ESECUZIONE
 
+---
+
 ## REFERTAZIONE
+
+---
 
 ## FLOWCHART REFERTAZIONE
 
@@ -51,6 +57,10 @@ Non si segnalano immagini riferibili a spandimenti extraluminali di mdc.
 - Spandimento di mdc
 - Stenosi
 
+---
+
 ## BIBILIOGRAFIA
+
+---
 
 ## NOTE
