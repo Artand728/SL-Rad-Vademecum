@@ -24,6 +24,23 @@
     - [*Posizione paziente*](#posizione-paziente)
     - [*Acquisizioni*](#acquisizioni)
   - [FLOWCHART REFERTO](#flowchart-referto)
+  - [PATOLOGIE](#patologie)
+    - [Diverticoli esofagei](#diverticoli-esofagei)
+      - [Diverticolo di Zenker](#diverticolo-di-zenker)
+      - [Diverticolo di Killian-Jamieson](#diverticolo-di-killian-jamieson)
+      - [Diverticolo paraesofageo da trazione](#diverticolo-paraesofageo-da-trazione)
+      - [Diverticolo da pulsione](#diverticolo-da-pulsione)
+      - [Diverticolo epifrenico](#diverticolo-epifrenico)
+      - [Pseudodiverticoli](#pseudodiverticoli)
+    - [Ernie iatale (ernia esofagea)](#ernie-iatale-ernia-esofagea)
+      - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
+      - [Ernia iatale da para-esofagea da rotolamento (tipo 2)](#ernia-iatale-da-para-esofagea-da-rotolamento-tipo-2)
+      - [Ernia iatale mista (tipo 3)](#ernia-iatale-mista-tipo-3)
+    - [Intervento di Fundiplicatio secondo Nissen](#intervento-di-fundiplicatio-secondo-nissen)
+    - [Ernie diaframmatiche](#ernie-diaframmatiche)
+      - [Ernia di Bochdalek](#ernia-di-bochdalek)
+      - [Ernia di Morgani](#ernia-di-morgani)
+  - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
 ---
@@ -156,12 +173,13 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
    - **valutazione** in **esiti di plastica secondo Nissen** per ernia iatale
    paraesofagea
    - valutazione di **acalasia esofagea** in Paziente con Morbo di Parkinson
-   - disfagia per i solidi con sensazione di stop a livello del terzo medio dell'esofago in
-   Paziente con gastrite atrofica APCA+
+   - disfagia per i solidi con sensazione di stop a livello del terzo medio dell'esofago in Paziente con gastrite atrofica APCA+
    - controllo in Paziente con nota voluminosa erniazione gastrica
+   - sospetto diverticolo esofageo in seguito a tentativo infruttuoso di ecocardiografia trans-esofagea
+   - 
 
 2. **TECNICA D'ESAME** 
-   - **mezzo di contrasto** `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
+   - **mezzo di contrasto** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
 
 3. **RISCONTRI**
 
@@ -170,51 +188,156 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
      - **noduli polmonari?**
       > Uno studio del transito esofageo porta ad una eccellente visualizzazione di larghe parti del polmone e la natura dinamica dello studio lo rende scevro da artefatti di sommazione, per questi motivi non segnalare un'eventuale lesione polmonare è un grave errore non solo perché poco difendibile ma soprattuto per il danno diagnostico a cui potenzialemente si espone il paziente.
 
-
-5. **ESOFAGO**
-   - **lume esofageo**
-     - ***regolare*** `il MdC opacizza regolarmente il lume esofageo transitando regolarmente lungo la giunzione gastroesofagea`
-     - ***restringimento***
-       - *lieve* `al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"`
+5. **LARINGE**
+   - **scolo laringeo deglutitorio?**
+     - *presente* <br> `sono presenti segni di scolo laringeo deglutitorio e post-deglutitorio, senza attivazione dei riflessi di difesa delle vie aeree`
+       - *lieve* <br> `tale reperto risulta di entità ridotta durante la
+deglutizione con posizione di compenso`
        - *moderato*
-       - *serrato* `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico`
-   - **perforazione?** `in assenza di spandimenti extraluminali.`
-   - **deviazione?** `laterodeviazione sinistra del decorso del terzo medio e inferiore dell'esofago`
-   - **peristalsi terziaria?** `in presenza di onde di peristalsi terziaria e rallentamento della clearance.`
+       - *avanzato*
+
+6. **ESOFAGO**
+   - **lume esofageo**
+     - *regolare* <br> `il MdC opacizza regolarmente il lume esofageo transitando regolarmente lungo la giunzione gastroesofagea`
+     - *restringimento*
+       - *lieve* <br> `al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"`
+       - *moderato*
+       - *serrato* <br> `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico`
+   - **spandimento?** <br> `in assenza di spandimenti extraluminali`
+   - **fistola?**
+   - **deviazione?** <br> `laterodeviazione sinistra del decorso del terzo medio e inferiore dell'esofago`
+   - **peristalsi terziaria?** <br> `in presenza di onde di peristalsi terziaria con conseguente risalita del MdC fino a livello del terzo medio del viscere e rallentamento della clearance.`
    - **ernia iatale?**
-     - ***assente*** `senza evidenza di segni diretti o indiretti di ernia iatale`
-     - ***voluminosa*** `completa erniazione del viscere gastrico in torace che presenta morfologia ripiegata "a uncino"`
-   - **diverticoli?** `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`
-   - **lesioni aggettanti?** `non si apprezzano grossolane lesioni aggettanti il lume`
-   - **reflusso?** `trascurabile risalita di MdC fino a livello del terzo medio del viscere subito dopo il passaggio del bolo baritato attraverso la giunzione gastroesofagea.`
+     - *assente* <br> `senza evidenza di segni diretti o indiretti di ernia iatale`
+     - *voluminosa* <br> `completa erniazione del viscere gastrico in torace che presenta morfologia ripiegata "a uncino"`
+   - **diverticoli?**
+     - **diverticolo di Zenker**
+     - **diverticolo di Killian-Jamieson**
+     - **diverticolo paraesofageo da trazione**
+     - **diverticolo da pulsione**
+     - **diverticolo epifrenico**
+     - **pseudodiverticoli** <br> `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`
+   - **lesioni aggettanti?** <br> `non si apprezzano grossolane lesioni aggettanti il lume`
+   - **reflusso?** <br> `trascurabile risalita di MdC fino a livello del terzo medio del viscere subito dopo il passaggio del bolo baritato attraverso la giunzione gastroesofagea.`
 
 
-6. **STOMACO**
+7. **STOMACO**
+   - **transito gastroesofageo**
+     - *fisiologico*
+     - *rallenato* <br> `il passaggio di MdC attraverso la giunzione gastroesofagea avviene lentamente`
    - **lume gastrico** 
-     - ***regolare*** `il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
-   - **morfologia** 
-     - ***allungta*** `morfologia allungata`
+     - *regolare* <br> `il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
+   - **morfologia**
+     - *regolare* 
+     - *allungata* <br> `morfologia allungata`
    - **plicature gastriche** 
-     - ***regolari*** `plicature nei limiti di normalità`
+     - *regolari* <br> `plicature nei limiti di normalità`
    - **svuotamento gastrico**
-     - ***regolare*** `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
-     - ***rallentato*** `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc`
+     - *regolare* <br> `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
+     - *rallentato* <br> `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc`
 
 
-7. **DUODENO**
+8. **DUODENO**
    - **opacizzazione**
-     - ***regolare*** `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
+     - *regolare* <br> `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
 
 
-8. **INTERVENTI CHIRURGICI**
-   - **anastamosi gastro-enterica** `L'anastomosi gastro-enterica L-L è ampia e pervia con rapido deflusso di mdc a valle sia a livello dell'ansa afferente sia efferente, mantenendo entrambe peristalsi conservata`
+9.  **INTERVENTI CHIRURGICI**
+   - **anastamosi gastro-enterica** <br> `L'anastomosi gastro-enterica L-L è ampia e pervia con rapido deflusso di mdc a valle sia a livello dell'ansa afferente sia efferente, mantenendo entrambe peristalsi conservata`
 
 
-9.  **MANOVRA DI VALSALVA**
-   - **reflusso esofageo?** `sono stati acquisiti radiogrammi in posizione Trendelemburg durante manovra di Valsalva, che non hanno evidenziato immagini compatibili con reflusso gastroesofageo`
+10. **MANOVRA DI VALSALVA**
+   - **reflusso esofageo?** <br> `sono stati acquisiti radiogrammi in posizione Trendelemburg durante manovra di Valsalva, che non hanno evidenziato immagini compatibili con reflusso gastroesofageo`
 
 
 11. **CONCLUSIONI**
+
+---
+
+## PATOLOGIE
+
+---
+
+### Diverticoli esofagei
+
+---
+
+#### Diverticolo di Zenker
+
+| ![](../../../img/diverticolo_di_zenker_AP.jpg) | ![](../../../img/diverticolo_di_zenker_obliqua.jpg) |
+| ---------------------------------------------- | --------------------------------------------------- |
+
+
+#### Diverticolo di Killian-Jamieson
+
+
+
+#### Diverticolo paraesofageo da trazione
+
+#### Diverticolo da pulsione
+
+#### Diverticolo epifrenico
+
+| ![](https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg) | ![](https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg) |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+
+#### Pseudodiverticoli
+
+> https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis
+
+| ![](https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG) | ![](https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png) |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+
+---
+
+### Ernie iatale (ernia esofagea)
+
+La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
+
+#### Ernia iatale da scivolamento (tipo 1)
+
+L’ernia da scivolamento è **la più comune (90%)** e risulta caratterizzata dall’ingresso e dall’uscita costante dello stomaco dalla cavità toracica. 
+
+**L'obesità** è tra i **fattori di rischio** principali.
+
+La **giunzione gastro-esofagea** è solitamente **spostata >2 cm** al di sopra dello iato esofageo. 
+
+Lo **iato esofageo** è spesso anormalmente **allargato a 3-4 cm** (*VN < 1,5 cm*). 
+
+In fluoroscopia, se si vedono >3 pieghe gastriche sopra lo iato, è suggestivo di **ernia iatale da scivolamento**.
+
+Il **fondo gastrico** può anche essere spostato **sopra il diaframma** e presentarsi come una **massa retrocardiaca** su una radiografia del torace. 
+
+La presenza di un **livello di aria-fluido** nella massa suggerisce la diagnosi.
+
+Le **piccole ernie iatali da scivolamento** si riducono comunemente in posizione eretta.
+
+La semplice presenza di un'ernia iatale scorrevole ha un significato clinico limitato nella maggior parte dei casi. 
+
+La funzione dello sfintere esofageo inferiore e la presenza di reflusso gastro-esofageo patologico sono i fattori cruciali nel produrre sintomi e causare complicazioni.
+
+#### Ernia iatale da para-esofagea da rotolamento (tipo 2)
+L’ernia da rotazione vede il fondo dello stomaco intrappolato al lato dell’esofago.
+
+#### Ernia iatale mista (tipo 3)
+L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da rotazione, risultando, comunque, più rara.
+
+
+### Intervento di Fundiplicatio secondo Nissen
+
+---
+
+### Ernie diaframmatiche
+
+#### Ernia di Bochdalek
+
+#### Ernia di Morgani
+
+---
+
+## BIBLIOGRAFIA
+
+- [RadioGrapics Fundamentals - Imaging Tips for Performing a Perfect Barium Swallow](https://pubs.rsna.org/do/10.1148/rg.2019190055.pres/full/)
 
 ---
 
