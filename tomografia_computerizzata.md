@@ -76,7 +76,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 | URG    | URGENZE                      |
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -88,7 +88,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 - pz. esterno → busta
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -145,7 +145,7 @@ Non esiste un protocollo aziendale per la premedicazione rapida, il medico di re
 > 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -191,7 +191,7 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 >
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -235,7 +235,7 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -268,7 +268,7 @@ Nelle fasi venose non è necessario un bolo compatto di mdc e quindi si utilizza
 Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è meramente indicativo, solitamente è così ma dipenende tutto dalle vene del paziente.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -278,7 +278,7 @@ Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -293,7 +293,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 	3. **Radiofrequnze** (**RF**)
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -306,7 +306,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 	- secondo le Linee Guida dell'ospedale **massimo 7 giorni prima**
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -329,7 +329,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 > Se si richiede una fase arteriosa specificare sempre se vascolare (18-20") o parenchimale (40"). 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -337,7 +337,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 ## PROTOCOLLI TC
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -345,7 +345,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 Prima di impostare le fasi del protocollo controllare quali fasi sono state acquisite negli esami precedenti (soprattutto in caso di ri-stadiazione o follow-up)
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -354,7 +354,7 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 - CR Basale
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -368,7 +368,7 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 - Ripassaggio immediato discendente dal vertice del cranio fino al livello dei nuclei della base
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -378,7 +378,7 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 - CR (5')
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -396,7 +396,7 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 - Ripassaggio su Collo con mdc (circa a 100")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -407,7 +407,7 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 - 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -416,7 +416,7 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 - Basale
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -433,7 +433,7 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 			- valutare se evidente immagine a mosaico
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -455,7 +455,7 @@ Chiama direttamente la caposala della cardiologia, riportare sempre:
 - ECG con elettrodi Gi-Ro-Ne-VE
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -469,7 +469,7 @@ Chiama direttamente la caposala della cardiologia, riportare sempre:
 Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se eseguire il mdc a 40" oppure 60".
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -480,7 +480,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - CR (5'), eventualemente se richiesto
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -491,7 +491,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - CR (5'), eventualemente se richiesto
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -502,7 +502,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - a volte viene richiesto CR
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -512,7 +512,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - TOR + AC portale (80")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -522,7 +522,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - TOR + AC portale (80")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -537,7 +537,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - Se viene richiesto TOR eseguire in portale (80")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -552,7 +552,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - Se viene richiesto TOR eseguire in portale (80")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -565,7 +565,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - (eventuale) AS a (180") 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -578,7 +578,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - (eventuale) AS a (180")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -588,7 +588,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 	- chiedere allo strutturato se acquisire in ulteriori fasi: studio trifasico.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -603,7 +603,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 Soltatnto i tumori a cellule chiare hanno una forte impregnazione in fare artriosa, i tumori papillari hanno una maggiore impreganzione tardiva.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -616,7 +616,7 @@ Soltatnto i tumori a cellule chiare hanno una forte impregnazione in fare artrio
 Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase artriosa vascolare.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -634,7 +634,7 @@ Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuov
 Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -647,7 +647,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -659,7 +659,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -669,7 +669,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - CR basale + CR tardiva (5')
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -688,7 +688,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 > Il paziente deve arrivare 2h ore prima dell'esame con preparazione data dai gastrenterologi e la terminano qui in Radiologia Centrale.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -702,7 +702,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 	- **Gleason Score *superiore* a 3+4**: TOR + AC portale 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -712,7 +712,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - AC portale (80")
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -726,7 +726,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 		- tranne che in stato di necessità o se dialisi
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -746,7 +746,7 @@ Leggere gli esami precedenti e vedere le immagini.
 
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
@@ -756,7 +756,7 @@ Leggere gli esami precedenti e vedere le immagini.
 In TOR alto i pazienti restano con gli arti superiori allungati per evitare artefatti mentre in TOR+COLLO i pazienti acquisiscono prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando la tempistica.
 
 <div style="text-align: right">
-<a href="#transito-esofago-gastrico">⬆️</a>
+<a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
