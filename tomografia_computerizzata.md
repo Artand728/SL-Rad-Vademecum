@@ -743,8 +743,6 @@ Leggere gli esami precedenti e vedere le immagini.
 - Dilatazione delle vie escretrici
 	- acquisire una tardiva urologica a 10'
 
-
-
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
 </div>
@@ -765,5 +763,8 @@ In TOR alto i pazienti restano con gli arti superiori allungati per evitare arte
 - TC arti inferiori con mezzo di contrasto in fase vonosa (a due minuti - 2' con eventuale ripassaggio a 3')
 - Ripassaggio epatico su sospette mts epatiche per vedere se cambia l'enhancement: se fossero cisti  rimangono uguali. 
 
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
 
 ---
