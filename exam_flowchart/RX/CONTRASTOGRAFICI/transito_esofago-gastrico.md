@@ -8,19 +8,9 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
-<div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
-</div>
-
 ---
 
 # **TRANSITO ESOFAGO-GASTRICO**
-
-<div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
-</div>
 
 ---
 
@@ -52,11 +42,6 @@
       - [Ernia di Morgani](#ernia-di-morgani)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
-
-<div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
-</div>
 
 ---
 
@@ -97,8 +82,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 > Deve venire A DIGIUNO!
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -115,8 +99,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 - Stampa del referto
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -144,8 +127,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 - Alcuni preferiscono non diluire, non cambia molto (gusto di anice particolarmente intenso, se diluito è più sopportabile)
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -193,8 +175,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 > Avvisare l'interventista e far visionare le immagini prima di far scendere il paziente.
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -288,8 +269,7 @@ deglutizione con posizione di compenso`
 11. **CONCLUSIONI**
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -297,8 +277,7 @@ deglutizione con posizione di compenso`
 ## PATOLOGIE
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -306,8 +285,7 @@ deglutizione con posizione di compenso`
 ### Diverticoli esofagei
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -339,8 +317,7 @@ deglutizione con posizione di compenso`
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -381,8 +358,7 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 ### Intervento di Fundiplicatio secondo Nissen
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -394,8 +370,7 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 #### Ernia di Morgani
 
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
@@ -404,15 +379,8 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 - [RadioGrapics Fundamentals - Imaging Tips for Performing a Perfect Barium Swallow](https://pubs.rsna.org/do/10.1148/rg.2019190055.pres/full/)
 
-
 <div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
-</div>
-
-<div style="text-align: right">
-
-[⬆️](#transito-esofago-gastrico) 
+<a href=#transito-esofago-gastrico>⬆️</a>
 </div>
 
 ---
