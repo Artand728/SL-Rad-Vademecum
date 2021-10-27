@@ -15,19 +15,18 @@
   - [REFERTAZIONE E TELEFONO](#refertazione-e-telefono)
   - [DENSITOMETRIA OSSEA](#densitometria-ossea)
   - [ESAMI CONTRASTOGRAFICI](#esami-contrastografici)
-    - [Studio età ossea bambino](#studio-età-ossea-bambino)
 - [CONTRASTOGRAFICI](#contrastografici)
-  - [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
-    - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
-    - [Esecuzione](#esecuzione)
+  - [TRANSITO ESOFAGO-GASTRICO](#transitoesofago-gastrico)
+    - [**Preparazione e accoglienza del paziente**](#preparazioneeaccoglienzadel-paziente)
+    - [**Esecuzione**](#esecuzione)
   - [ILEOGRAFIA & RETTOGRAFIA](#ileografia--rettografia)
-    - [Prenotazione](#prenotazione)
-    - [Burocrazia](#burocrazia)
-    - [Materiali](#materiali)
-    - [Esecuzione](#esecuzione-1)
-    - [Inserimento del catetere](#inserimentodelcatetere)
-    - [Acquisizioni](#acquisizioni)
-    - [Refertazione](#refertazione)
+    - [**Prenotazione**](#prenotazione)
+    - [**Burocrazia**](#burocrazia)
+    - [**Materiali**](#materiali)
+    - [**Esecuzione**](#esecuzione-1)
+      - [*Inserimento del catetere*](#inserimentodelcatetere)
+      - [*Acquisizioni*](#acquisizioni)
+    - [**Refertazione**](#refertazione)
   - [CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)](#cistografia-retrograda-minzionale-maschile-femminile)
     - [Materiali](#materiali-1)
     - [Esecuzione](#esecuzione-2)
@@ -49,10 +48,10 @@ Orario: 8-16
 
 ## REFERTAZIONE E TELEFONO
 
-Il telefono squilla raramente, il più delle volte chiamano dai reparti per sollecitare dei referti.
-Talvolta chiamano i pazienti per prenotare gli esami contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.html#contrastografici).
+- Sollecito referti
+- Prenotazione contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.html#contrastografici))
 
-Se chiamano per prenotare una VFG (videofluorografia) prendete i dati del paziente, un numero di telefono e fatevi inviare tutta la documentazione. Contattate poi lo specializzando/strutturato di riferimento per le VFG di quel momento.
+> Se chiamano per prenotare una VFG (videofluorografia) prendete i dati del paziente, un numero di telefono e fatevi inviare tutta la documentazione. Contattate poi lo specializzando/strutturato di riferimento per le VFG di quel momento.
 
 ---
 
@@ -66,32 +65,32 @@ E' responsabilità degli specializzandi validare le densitometrie.
 
 Gli esami si prenotano il lunedì e il giovedì compilando gli appositi slot del google calendar della radiologia interventistica.
 
-Ci sono due slot per ogni giornata. Evitate se possibile di inserire due esami "lunghi" lo stesso giorno (ad es. ileostomia + cistografia o 2 cisto). 
-Talvolta possono esserci delle urgenze per cui occorre inserire 3 esami nella stessa giornata; in questo caso occorre parlarne prima con lo strutturato di riferimento (radiologi interventisti).
+Ci sono due slot per ogni giornata. Evitate se possibile di inserire due esami "lunghi" lo stesso giorno (ad es. ileostomia + cistografia o 2 cisto).  
+Talvolta possono esserci delle urgenze per cui occorre inserire 3 esami nella stessa giornata; in questo caso occorre **parlarne prima con gli interventisti**.
 
-Per ogni altro dubbio vedi i vademecum dei contrastografici.
+Per ogni altro dubbio vedi i [vademecum contrastografici](radiologia_tradizionale.html#contrastografici).
 
-**Esempio di cosa scrivere su Calendar**
+**Esempio di prenotazione Calendar**
 
 > MARIO ROSSI RX TRANSITO ESOFAGEO
 >
-> - Esame Rx transito esofageo richiesto da (nome MMG/specialista/altro medico) con quesito diagnostico (motivo della richiesta).
+> - *Esame*: Rx transito esofageo richiesto da (nome MMG/specialista/altro medico) con quesito diagnostico.
 >
-> - Sintomi: disfagia, pirosi
->
-> - Farmaci assunti: Pantoprazolo, CardioASA
->
-> - Nome paziente: Mario Rossi ; tel: 333 4455678
+> - *Nome paziente*: Mario Rossi
+> - *Telefono*: 333 4455678  
 >Eventuale n° interno del reparto che segue il paziente
+> - *Sintomi*: disfagia, pirosi
 >
->- Allergie: nessuna/nota allergia a mdc/ farmaci/altro
+> - *Farmaci assunti* (rilevanti per la patologia): pantoprazolo, cardioASA
 >
->- Pregressi interventi chirurgici: appendicectomia
+>- *Allergie*: nessuna/nota allergia a mdc/ farmaci/altro
 >
->- Nome dello specializzando
+>- *Pregressi interventi chirurgici*: appendicectomia
+>
+>- *Nome dello specializzando*
 
 ---
-
+<!---
 ### Studio età ossea bambino
 
 Per refertare lo studio dell’età ossea di un paziente pediatrica servono due libri:
@@ -112,72 +111,55 @@ Sembra complicato, ma dovete “tradurre” passo passo ogni singola frase del p
 Infine, posato il libro dentro la vetrinetta della tradizionale, potete prendere l’atlante iconografico blu di Greulich & Pyle e fare un confronto diretto tra le immagini dell’atlante e quella della mano del paziente.
 
 A questo punto il vostro referto sarà completo e voi avrete finito.
-
+-->
 ---
 
 # CONTRASTOGRAFICI
 
 ---
 
-## TRANSITI ESOFAGO-STOMACO
-RX ESOFAGO STOMACO E DUODENO con codice 87.62
+## TRANSITO ESOFAGO-GASTRICO
 
-> [TRANSITO ESOFAGEO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
+> [TRANSITO ESOFAGO-GASTRICO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
 
-### Preparazione e accoglienza del paziente
+### **Preparazione e accoglienza del paziente**
 
 Raccogliere la documentazione clinica, che orienterà la scelta del mezzo di contrasto:
 
 - **Gastrografin:** (1 bicchiere senza diluizione) se *disfagici*, *operati da poco tempo* (se < 3 mesi sempre) o *perforati*.
-- **Bario**: (disciolto in acqua con proporzione 50 e 50 (1:1), tenendone una quota da parte in caso ne servisse ancora) per tutti gli altri casi.
+- **Bario**: per i restanti casi (disciolto in acqua con rapporto 1:1, tenendone una quota da parte in caso ne servisse ancora).
 
-### Esecuzione
+### **Esecuzione**
 
-NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FERMI IN GRAFIA.
+`NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FERMI IN GRAFIA.`
 
 - **AP BASALE** del torace (**GRAFIA**)
 - **AP BASALE** della faringe + 1/3 prossimale esofago con capo iperesteso (**GRAFIA**)
 - **LL BASALE** della faringe **+**  1/3 prossimale esofago (**GRAFIA**)
 - **AP BASALE** dell'esofago distale **+** stomaco (**GRAFIA**)
 - **LL BASALE** dell'esofago distale **+** stomaco (**GRAFIA**)
-- Fare **deglutire il contrasto** e **seguirne il decorso** nelle stesse proiezioni con sequenze di **grafie**
-  (**N.B:** Lo **stomaco** va proseguito **fino** al **completo svuotamento dell’esofago distale**)
-- Valutare il **reflusso gastroesofageo** inclinando il lettino in **Trendelenburg** (**-10°**)e facendo eseguire **manovra di Valsalva**
+- Fare **deglutire il contrasto** e **seguirne il decorso** nelle stesse proiezioni con sequenze in **grafia 7,5 p/s**
+<!--- Cosa vuol dire???
+(N.B.Lo **stomaco** va seguito **fino** al **completo svuotamento dell’esofago distale**) -->
+- Valutare il **reflusso gastroesofageo** inclinando il lettino in **Trendelenburg** (**-10°**) e facendo eseguire **manovra di Valsalva**
 - Eventualmente, se il quesito diagnostico riguarda l'esofago eseguire una **GRAFIA obliqua AP**
 
 ---
 
 ## ILEOGRAFIA & RETTOGRAFIA
-TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
 
 > [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/ileostomia_&_rettografia.html)
 
----
-
-### Prenotazione
+### **Prenotazione**
 
 La richiesta viene effettuata dalla Chirurgia Generale dell'Ospedale (interno 6224) oppure direttamente dai pazienti.
 
-L'esame va prenotato per il giovedì poiché il paziente deve eseguire il **lavaggio della stomia** il giorno precedente.
-L'esame occupa il secondo posto della giornata, perchè la durata è variabile.
+L'esame va prenotato per il `giovedì` poiché il paziente deve eseguire il **lavaggio della stomia** il giorno precedente.
+L'esame occupa il `secondo posto della giornata`, perchè la durata è variabile.
 
-Cosa chiedere al paziente/collega?
+Si effettua l'esame con il Gastrografina &Arr
 
-- **Allergie**
-- **Documentazione** (atto operatorio, da inviare per e-mail o da portare il giorno dell'esame)
-- Portare un **sacchetto di ricambio**
-
-> Se il paziente è allergico bisogna inviare il foglio per la preparazione antiallergica (si trova sul desktop dei PC della rediologia tradizionale).
-
-Cosa scrivere nella prenotazione?
-
-- Nome e cognome paziente
-- N° di telefono
-- Quesito diagnostico
-- Tipo di intervento cui si è sottoposto/a
-- Allergie
-
-### Burocrazia
+### **Burocrazia**
 
 - Doppia busta
 - Etichette
@@ -188,9 +170,9 @@ Cosa scrivere nella prenotazione?
 - Stampa del CD
 - Stampa del referto
 
-### Materiali
+### **Materiali**
 
-Non è necessaria la sterilità.
+> Non è necessaria la sterilità.
 
 - Telino
 - Telino con buco
@@ -202,9 +184,9 @@ Non è necessaria la sterilità.
 - Betadine
 - Luan o gel ecografico
 
-### Esecuzione
+### **Esecuzione**
 
-### Inserimento del catetere
+#### *Inserimento del catetere*
 
 - Paziente in posizione supina con camice aperto davanti
 - Rimuovere il sacchetto
@@ -215,7 +197,7 @@ Non è necessaria la sterilità.
   - Inserire il catetere con la punta ricoperta di gel (_luan_ o _gel ecografico_)
   - Gonfiare il palloncino con la siringa da 5 mL
 
-### Acquisizioni
+#### *Acquisizioni*
 
 - **AP BASALE** - prima della preparazione del campo
 - **AP BASALE** - per valutare posizionamento del catetere
@@ -225,12 +207,12 @@ Non è necessaria la sterilità.
   - Continuare fino a completa opacizzazione del tratto di interesse (solitamente fino all'ampolla rettale o almeno oltre l'anastomosi)
 - **Proiezioni in GRAFIA** `7,5`
   - **AP**
-  - _LL_
-  - \*_Sull'anastomosi:_
+  - **LL**
+  - *Sull'anastomosi*:
     - **Obliqua dx**
     - **Obliqua sx**
 
-### Refertazione
+### **Refertazione**
 
 - Quesito diagnostico
   - Perchè viene richiesto l'esame

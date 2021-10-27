@@ -10,12 +10,12 @@
 
 ---
 
-# TRANSITO ESOFAGO-GASTRICO
+# **TRANSITO ESOFAGO-GASTRICO**
 
 ---
 
-- [TRANSITO ESOFAGO-GASTRICO](#transito-esofago-gastrico)
-  - [Prenotazione](#prenotazione)
+- [**TRANSITO ESOFAGO-GASTRICO**](#transito-esofago-gastrico)
+  - [**Prenotazione**](#prenotazione)
   - [**Burocrazia**](#burocrazia)
   - [**Materiali e preparazione**](#materiali-e-preparazione)
     - [*Esame con Bario*](#esame-con-bario)
@@ -28,7 +28,7 @@
 
 ---
 
-## Prenotazione
+## **Prenotazione**
 
 La richiesta viene effettuata direttamente dai *pazienti*.
 
@@ -46,8 +46,8 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 **Cosa chiedere al paziente?**
 
-- Impegnativa del curante (*codice 87.62* - RX tubo digerente con mdc idrosolubile)
-- Allergie 
+- Impegnativa del curante (`codice 87.62` - RX tubo digerente con mdc idrosolubile)
+- Allergie
 - Documentazione (gastroscopie, visite GEL, operazioni subite, atto operatorio, precedenti studi contrastografici)
 
 
@@ -136,7 +136,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
   - Metterlo in posizione prona
   - Inclinare il lettino in *posizione di Trendelenburg* (-10°)
   - Invitare il paziente ad eseguire la *manovra di Valsalva* (poco prima di dare il comando iniziare ad acquisire centrando l'immagine sulla giunzione EG e parte dell'esofago)
-  - Corretta esecuzione se vedete risalire il diaframma  
+  - Esecuzione corretta se vedete risalire il diaframma  
 
 - **Ultima scansione**
 
