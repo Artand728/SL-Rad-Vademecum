@@ -8,27 +8,31 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # PRONTO SOCCORSO
 
----
+- - -
 
 - [PRONTO SOCCORSO](#pronto-soccorso)
   - [ORARI](#orari)
   - [SALE](#sale)
   - [TELEFONO, INTERFONO E RICHIESTE](#telefono-interfono-e-richieste)
-  - [NOTE ⬆️](#note-️)
+  - [NOTE](#note)
 
----
+- - -
 
 ## ORARI 
 
-|TURNO|ORARIO|
-|---|---|
-| MATTINO | 08:00 - 14:00 |
-| POMERIGGIO | 14:00 - 20:00 |
-|GUARDIA FESTIVO | 08:00 - 20:00 |
+| TURNO           | ORARIO        |
+| --------------- | ------------- |
+| MATTINO         | 08:00 - 14:00 |
+| POMERIGGIO      | 14:00 - 20:00 |
+| GUARDIA FESTIVO | 08:00 - 20:00 |
+
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
 
 ---
 
@@ -36,6 +40,10 @@
 - Refertazione: n° interno 7005
 - TC/RX: n° interno 6392
 - Eco
+
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
 
 ---
 
@@ -65,10 +73,20 @@
 
 `Nel caso in cui il paziente non si presentasse potete chiamarlo per cognome, ma non usate mai il nome all'interfono per motivi di privacy.`
 
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
+
 ---
 
-## NOTE [⬆️](#pronto-soccorso)
+## NOTE
 
 - Non accettare le TC in PS &rarr; lo fanno i tecnici.
 - Nel weekend non si eseguono controlli ortopedici né esami dai reparti senza criterio di urgenza (per dimettere il Paziente).
 - In caso di richiesta di Angio-TC il clinico deve indicare se sospetta TEP o dissecazione aortica. Non si può impostare una Angio-TC diagnostica pe entrambi, in un caso la ROI va in polmonare mentre nell'altra va in addome.
+
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
+
+---

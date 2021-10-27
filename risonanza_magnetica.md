@@ -8,18 +8,20 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # RISONANZA MAGNETICA
 Gestione della sala di risonanza magnetica
 
----
-- [RISONANZA MAGNETICA](#risonanza-magnetica)
+- - -
+
+- [RISONANZA MAGNETICA]()
   - [Gestione del paziente (CUP - DS/DH)](#gestione-del-paziente-cup---dsdh)
     - [Domande importanti](#domande-importanti)
   - [Gestione del paziente (RICOVERATO)](#gestione-del-paziente-ricoverato)
+  - [NOTE](#note)
 
----
+- - -
 
 | Turno      | Orario        |
 | ---------- | ------------- |
@@ -29,6 +31,12 @@ Gestione della sala di risonanza magnetica
 L’agenda viene gestita dagli specializzandi assegnati stabilmente alla sala (II°anno), gli specializzandi in turnazione breve (I°anno) gestiscono il telefono e se c’è posto (chiedere SEMPRE allo STRUTTURATO) inseriscono la prenotazione in agenda. 
 Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il nome del paziente e discutere della prenotazione con gli specializzandi stabili della sala (II°anno).
 I turni della sala variano in base ad agenda - inserire i pazienti COVID infondo alla giornata e poi successivamente la Sanificazione.
+
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
+
+---
 
 ## Gestione del paziente (CUP - DS/DH)
 - Busta gialla + cartella bianca
@@ -58,11 +66,23 @@ I turni della sala variano in base ad agenda - inserire i pazienti COVID infondo
 - Controllare che le scansioni siano adeguate e non sia necessario eseguirne altre (in RM ogni strutturato ha tendenzialmente delle proprie preferenze specifiche, consultarsi sempre con lui)
 - Consegnare la pratica allo strutturato per la refertazione
 
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
+
+---
+
 ### Domande importanti
 - Se allergico → chiedere se ha eseguito la preparazione nel modo corretto
 - Se fa esame PROSTATA viene somministrato buscopan, quindi chiedere se ha:
   - ARITMIE (leggere in cartella l’APR perché spesso non sanno rispondere)
   - GLAUCOMA
+
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
+
+---
 
 ## Gestione del paziente (RICOVERATO)
 - Non è necessario preparare la busta gialla.
@@ -73,6 +93,17 @@ I turni della sala variano in base ad agenda - inserire i pazienti COVID infondo
   - altro
 - Terminato l’esame → programmare il rientro tramite [sito dei trasporti (PaMa)](https://trasportipama.dussmann.it/sanluigi) (interno 7004).
 
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
 
+---
+
+## NOTE
+
+
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
 
 ---

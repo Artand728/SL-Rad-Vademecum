@@ -8,11 +8,11 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # **RADIOLOGIA TRADIZIONALE**
 
----
+- - -
 
 - [**RADIOLOGIA TRADIZIONALE**](#radiologiatradizionale)
   - [ATTIVITA' SALA](#attivita-sala)
@@ -36,8 +36,10 @@
     - [Indicazioni](#indicazioni)
     - [Materiali](#materiali-2)
     - [Esecuzione](#esecuzione-3)
+  - [BIBLIOGRAFIA](#bibliografia)
+  - [NOTE](#note)
 
----
+- - -
 
 ## ATTIVITA' SALA
 
@@ -46,6 +48,10 @@ Orario: 8-16
 - Refertazione e telefono
 - Densitometria ossea
 - Esami contrastografici
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
 
 ---
 
@@ -56,11 +62,19 @@ Orario: 8-16
 
 > Se chiamano per prenotare una VFG (videofluorografia) prendete i dati del paziente, un numero di telefono e fatevi inviare tutta la documentazione. Contattate poi lo specializzando/strutturato di riferimento per le VFG di quel momento.
 
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
 ---
 
 ## DENSITOMETRIA OSSEA
 
 E' responsabilità degli specializzandi validare le densitometrie. 
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
 
 ---
 
@@ -92,8 +106,13 @@ Per ogni altro dubbio vedi i [vademecum contrastografici](radiologia_tradizional
 >
 >- *Nome dello specializzando*
 
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
 ---
 <!---
+
 ### Studio età ossea bambino
 
 Per refertare lo studio dell’età ossea di un paziente pediatrica servono due libri:
@@ -114,10 +133,21 @@ Sembra complicato, ma dovete “tradurre” passo passo ogni singola frase del p
 Infine, posato il libro dentro la vetrinetta della tradizionale, potete prendere l’atlante iconografico blu di Greulich & Pyle e fare un confronto diretto tra le immagini dell’atlante e quella della mano del paziente.
 
 A questo punto il vostro referto sarà completo e voi avrete finito.
--->
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
 ---
 
+-->
+
+
 # **CONTRASTOGRAFICI**
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
 
 ---
 
@@ -146,6 +176,10 @@ Raccogliere la documentazione clinica, che orienterà la scelta del mez
 (N.B.Lo **stomaco** va seguito **fino** al **completo svuotamento dell’esofago distale**) -->
 - Valutare il **reflusso gastroesofageo** inclinando il lettino in **Trendelenburg** (**-10°**) e facendo eseguire **manovra di Valsalva**
 - Eventualmente, se il quesito diagnostico riguarda l'esofago eseguire una **GRAFIA obliqua AP**
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
 
 ---
 
@@ -200,6 +234,10 @@ Si effettua l'esame con il **Gastrografin**
     - **Obliqua dx**
     - **Obliqua sx**
 
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
 ---
 
 ## **CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**
@@ -249,6 +287,10 @@ Si effettua l'esame con il **Gastrografin**
 - Se il paziente è un uomo con difficoltà di svuotamento vescicale, va mandato in bagno per tentare di svuotare completamente. 
   In seguito eseguire una **GRAFIA** in **AP** per valutare il  **residuo post-minzionale (RPM)**.
 
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
 ---
 
 
@@ -295,5 +337,24 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 - AP addome
 
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
 ---
 
+## BIBLIOGRAFIA
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
+---
+
+## NOTE
+
+<div style="text-align: right">
+<a href="#radiologia-tradizionale">⬆️</a>
+</div>
+
+---

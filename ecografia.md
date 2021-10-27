@@ -8,11 +8,12 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # ECOGRAFIA
 
----
+- - -
+
 - [ECOGRAFIA](#ecografia)
   - [GESTIONE SALA](#gestione-sala)
   - [GESTIONE DEI PAZIENTI](#gestione-dei-pazienti)
@@ -22,7 +23,7 @@
   - [ESAMI ECOGRAFICI](#esami-ecografici)
     - [NOTE](#note)
 
----
+- - -
 
 ## GESTIONE SALA
 
@@ -40,6 +41,12 @@ Entro la fine della giornata va preparata l'agenda per i giorni successivi.
 
 (*) Queste attività sono solitamente svolte dagli OSS di sala ma nel caso in cui per qualche motivo non siano presenti è importante non scordarsi di farlo.
 
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
+
+---
+
 ## GESTIONE DEI PAZIENTI
 - pazienti **ricoverati**
 - pazienti **Day Hospital (DH)**/**Day Service (DS)**: veniamo contattati dal collega del DH/DS (alcune strutture ospedaliere - come per esempio la nefrologia - sono solo DH e non hanno posti letto)
@@ -48,7 +55,11 @@ Entro la fine della giornata va preparata l'agenda per i giorni successivi.
 - **impegnativa urgente (U)** di un paziente esterno: valutare il quesito diagnostico insieme ad uno strutturato e nel caso contattare il medico richiedente, qualora sia ritenuta una effettiva urgenza programmare in agenda entro 72h dalla da quando è stata rilasciata l'impegnativa.
 - **richieste urgenti** per pazienti **ricoverati**: indirizzare alla radiologia del pronto soccorso (7005)
 
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
 
+---
 
 ## AGENDA
 L'agenda va compilata sempre entro fine giornata
@@ -71,6 +82,12 @@ Valutare sempre che il **quesito diagnostico** si appropiato e ben descritto.
 
 Prima di accettare l'esame considerare se è possibile visualizzare ecograficamente quello che ci viene richiesto, se possiamo rispondere al quesito clinico con l'ecografia o se è meglio convertire su un'altra metodica e sopratutto controllare che il paziente non abbia già fatto altre ecografie da pochi giorni o ulteriori esami di secondo livello per lo stesso quesito (è inutile valutare ecograficamente le dimensioni di una milza due giorni dopo che il paziente ha eseguito un TC addome, basta aprire lo studio precedente e misurare).
 
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
+
+---
+
 ### CASI PARTICOLARI
 - **pazinenti COVID+** o proveniente da reparto COVID o in isolamento → se urgenti indicare di contattare il pronto soccorso, se in elezione programmare.
 - **Eco-color doppler arterie renali** → viene svolto dal Prof e da pochi altri strutturai, da segnare preferibilmente venerdì mattina dopo essersi accertati dell'appropiatezza della richiesta (stenosi arterie renali con pregressa consulenza dei nefrologi) → chiedere all'infermiera dell'ecografia.
@@ -78,11 +95,23 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - **Posizionamento di PICC, PORT, ecc** → IGNORARE (sono procedure svolte dalla radiologia interventistica in Sala 1, se chiamano indicare di contattare l'interno 7003).
 - **Prestazioni della Neurologia per ECO-TSA** → guardare il medico che ha fatto la richiesta e in alcuni casi IGNORARE perché l'esame sarà svolto dal neurologo a venire a svolgere l'esame dopo aver concordato telefonicamente un'orario consono. 
 
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
+
+---
+
 ### ACCORTEZZE
 - Lasciare sempre uno spazio libero tra i posti dei ricoverati per eventuali emergenze, da riempire solo il giorno prima per il successivo
 - Se chiamano per delle procedure di cui si occupa il Prof passare il telefono all'infermiere di sala
 - Per **chiamare i numeri esterni** digitare lo 0 prima del numero. Il telefono dell’ecografia, come quello della RM, è autorizzato a chiamare numeri esterni.
 - Gli eco-doppler e gli eco-tsa per pazienti non ricoverati devono essere pronotati tramite il CUP, non inserire dei posti DH/DS eccetto nel caso di PRE-RICOVERO in quanto reale DH/DS. 
+
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
+
+---
 
 ## ESAMI ECOGRAFICI
 - [ECOGRAFIA ADDOME (ECO AC \| ECO AS \| ECO AI)](exam_flowchart/ECO/eco_addome.html)
@@ -98,9 +127,11 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - [ECOGRAFIA SCROTALE](exam_flowchart/ECO/eco_scrotale.html)
 - [ECOGRAFIA PENIENA](exam_flowchart/ECO/eco_peniena.html)
 
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
 
 ---
-
 
 ### NOTE
 
@@ -108,3 +139,9 @@ Prima di accettare l'esame considerare se è possibile visualizzare ecograficame
 - Non si rimanda una ecografia addome completo solo perché il paziente ha mangiato, tanto più se lo studio non riguarda colecisiti o pancreas.
 - Se arriva una cartella clinica per una consulenza per gli interventisti (tanto più se da un ospedale esterno) deve necessariamente passare prima in segretaria per essere registrata come consulenza.
 - Se uno degli ecografi smette di funzionare o da segni di malfunzionamento: spegnere l'apparecchio, staccare la spina finché le spie non si spengono, poi riattaccare e riavviare. Se contiua a dare segni di malfunzionamento contattare il capotecnico (6408) che contatterà i servizi informatici.
+
+<div style="text-align: right">
+<a href="#ecografia">⬆️</a>
+</div>
+
+---

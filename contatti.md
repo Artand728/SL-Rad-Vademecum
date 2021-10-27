@@ -8,7 +8,7 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # NUMERI INTERNI
 
@@ -94,6 +94,10 @@
 |        |                                              |                           |
 |        | TRASPORTI                                    |           7004            |
 
+<div style="text-align: right">
+<a href="#numeri-interni">⬆️</a>
+</div>
+
 ---
 
  | RADIOLOGIA                 |   INTERNO   |
@@ -114,7 +118,11 @@
  | MEDICINA NUCLEARE          |    6404     |
  | Servizi informatici        |    80999    |
 
- ---
+<div style="text-align: right">
+<a href="#numeri-interni">⬆️</a>
+</div>
+
+---
 
  | PRONTO SOCCORSO           |   INTERNO   |
  | ------------------------- | :---------: |
@@ -133,3 +141,9 @@
  | RADIOLOGIA (Refertazione) | 7135 - 7005 |
  | RADIOLOGIA (TSRM)         | 6392 - 7392 |
  | SALA GESSI                |    7136     |
+
+<div style="text-align: right">
+<a href="#numeri-interni">⬆️</a>
+</div>
+
+---

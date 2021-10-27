@@ -8,24 +8,33 @@
   <a href="contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
-- [Descrizione](#descrizione)
-- [Come inserire un file TC/RMN all'interno di PowerPoint?](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
-  - [How to Add Scrollable CT or MRI Images to a PowerPoint Slide](#how-to-add-scrollable-ct-or-mri-images-to-a-powerpoint-slide)
-    - [The basic steps on Mac:](#the-basic-steps-on-mac)
-    - [The basic steps for Windows:](#the-basic-steps-for-windows)
+# CASE*UAL* WEDNESDAY
 
----
+- - -
+
+- [CASE*UAL* WEDNESDAY](#caseual-wednesday)
+  - [Descrizione](#descrizione)
+  - [Come inserire un file TC/RMN all'interno di PowerPoint?](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
+    - [How to Add Scrollable CT or MRI Images to a PowerPoint Slide](#how-to-add-scrollable-ct-or-mri-images-to-a-powerpoint-slide)
+      - [The basic steps on Mac:](#the-basic-steps-on-mac)
+      - [The basic steps for Windows:](#the-basic-steps-for-windows)
+
+- - -
 
 ## Descrizione
 Ogni 2° mercoledì del mese dalle 15:30 alle 16:30 nella Biblioteca della Radiologia Centrale.
-Tre specializzandi presenterano un caso di 5 minuti chiascuno (5-6 Slide).
+Tre specializzandi presenterano un caso di 5-7 minuti chiascuno (6-10 Slide).
 Ogni mese cercheremo di coinvolgere uno strutturato per un quarto caso.
 Ogni incontro avrà un tema specifico che verrà di volta in volta proposto dallo strutturato che accetta di partecipare.
 
-Tutti i casi presentati (debitamente anonimizzati) verranno caricati in archivio:
+Tutti i casi presentati verranno caricati in archivio:
 [Caseual Wednesday Archive](case_archive.md)
+
+<div style="text-align: right">
+<a href="#caseual-wednesday">⬆️</a>
+</div>
 
 ---
 
@@ -75,5 +84,9 @@ How to export a perfect size and format for Carestream PACS users:
    - Size: As displayed on screen
 5. Click Save
 6. Navigate back to your images and import to PowerPoint as described above in the basic steps for Windows or Mac starting at step #3.
+
+<div style="text-align: right">
+<a href="#caseual-wednesday">⬆️</a>
+</div>
 
 ---
