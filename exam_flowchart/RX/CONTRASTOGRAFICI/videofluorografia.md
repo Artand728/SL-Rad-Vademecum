@@ -1,12 +1,28 @@
-- [VIDEOFLUOROGRAFIA](#videofluorografia)
-	- [INDICAZIONI](#indicazioni)
-	- [IL GIORNO DELL’ESAME](#il-giorno-dellesame)
-		- [BUROCRAZIA](#burocrazia)
-		- [MATERIALI](#materiali)
-		- [ESECUZIONE](#esecuzione)
-		- [CAVEAT](#caveat)
+<div class="topnav">
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html">Ecografia</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">Tomografia Computerizzata</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html">Risonanza Magnetica</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/pronto_soccorso.html">Pronto Soccorso</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
+</div>
+
+---
 
 # VIDEOFLUOROGRAFIA
+
+---
+
+- [VIDEOFLUOROGRAFIA](#videofluorografia)
+  - [INDICAZIONI](#indicazioni)
+  - [IL GIORNO DELL’ESAME](#il-giorno-dellesame)
+    - [BUROCRAZIA](#burocrazia)
+    - [MATERIALI](#materiali)
+    - [ESECUZIONE](#esecuzione)
+    - [CAVEAT](#caveat)
+
+---
 
 ## INDICAZIONI 
 

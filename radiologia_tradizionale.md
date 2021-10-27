@@ -20,8 +20,7 @@
   - [TRANSITI ESOFAGO-STOMACO](#transitiesofago-stomaco)
     - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
     - [Esecuzione](#esecuzione)
-  - [ILEOGRAFIA](#ileografia)
-  - [RETTOGRAFIA](#rettografia)
+  - [ILEOGRAFIA & RETTOGRAFIA](#ileografia--rettografia)
     - [Prenotazione](#prenotazione)
     - [Burocrazia](#burocrazia)
     - [Materiali](#materiali)
@@ -123,6 +122,8 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 ## TRANSITI ESOFAGO-STOMACO
 RX ESOFAGO STOMACO E DUODENO con codice 87.62
 
+> [TRANSITO ESOFAGEO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
+
 ### Preparazione e accoglienza del paziente
 
 Raccogliere la documentazione clinica, che orienterà la scelta del mezzo di contrasto:
@@ -146,13 +147,10 @@ NON FARE ACQUISIZIONI IN MOVIMENTO, CENTRARE IN SCOPIA E ACQUISIRE FER
 
 ---
 
-## ILEOGRAFIA
+## ILEOGRAFIA & RETTOGRAFIA
 TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
 
----
-
-## RETTOGRAFIA
-TUBO DIGERENTE CON MDC IDROSOLUBILE con codice 87.69.2
+> [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/ileostomia_&_rettografia.html)
 
 ---
 
@@ -248,6 +246,9 @@ Non è necessaria la sterilità.
 
 ## CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)
 
+> [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/cistografia_retrograda_minzionale.html)
+
+
 ### Materiali
 
 - **Catetere** `14F`
@@ -298,6 +299,8 @@ Non è necessaria la sterilità.
 
 ## STUDIO DEL TRANSITO INTESTINALE CON MARKER
 STUDIO INTESTINALE CON MARKERS con codice 87.63.1
+
+> [STUDIO DEL TRANSITO INTESTINALE CON MARKER &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/studio_del_tempo_di_transito_intenstinale_con_marker.html)
 
 ---
 
