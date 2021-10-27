@@ -15,12 +15,10 @@
 ---
 
 - [PRONTO SOCCORSO](#pronto-soccorso)
-	- [ORARI](#orari)
-	- [SALA REFERTAZIONE](#sala-refertazione)
-	- [SALA TC/RX](#sala-tcrx)
-	- [SALA ECOGRAFIA](#sala-ecografia)
-	- [TELEFONO, INTERFONO E PRENOTAZIONI](#telefono-interfono-e-prenotazioni)
-	- [NOTE](#note)
+  - [ORARI](#orari)
+  - [SALE](#sale)
+  - [TELEFONO, INTERFONO E PRENOTAZIONI](#telefono-interfono-e-prenotazioni)
+  - [NOTE](#note)
 
 ---
 
@@ -32,23 +30,22 @@
 | POMERIGGIO | 14:00 - 20:00 |
 |GUARDIA FESTIVO | 08:00 - 20:00 |
 
-## SALA REFERTAZIONE 
-Sala in cui si svolge l’attività di refertazione, a lato le salette degli ortopedici, e dove si trova sia l’interfono che eventualmente il telefono. La troverete sulla sinistra imboccando il corridoio che porta alla radiologia del PS.
-
-## SALA TC/RX 
-Sala in cui vengono eseguiti gli esami TC/RX ad opera dei tecnici e dove verrete a controllare se sono idonee le scansioni TC. 
-La troverete di fronte a voi imboccando il corridoio che porta alla radiologia del PS. 
-L’interno della sala è 6392.
-Chiaramente se l’esame è con mdc ricordate di chiedere creatinina e consenso firmato salvo che non ci sia una dichiarazione che attesti che l’esame è stato fatto in uno stato di necessità.
-
-## SALA ECOGRAFIA
-sala in cui si eseguono le ecografie (a vostra discrezione se bardati). La troverete sulla destra imboccando il corridoio che porta alla radiologia del PS.
+## SALE
+- Refertazione: n° interno 7005
+- TC/RX: n° interno 6392
+- Eco
 
 ## TELEFONO, INTERFONO E PRENOTAZIONI 
-Questa è forse la parte più difficile da gestire. 
-Per quanto riguarda il telefono dovete assicurarvi di recuperarlo da chi sta smontando dalla notte, l’interno del telefono è il 7005. 
-Quando vi chiamano per chiedere un esame, dovete valutare il quesito ma tendenzialmente si accetta tutto in regime d’urgenza. 
-Quello che dovete scrivere su un foglio è: tipo esame (es. ANGIO-TC) – dati paziente (anche in relazione ad un mdc) – nome medico richiedente con reparto ed interno del reparto – COVID positivo o negativo (questo è molto importante perché dopo ogni paziente covid va sanificata la sala e si impiega molto tempo). Dopodiché per l’orario accordatevi con i tecnici. Cercate, ove possibile, di fare esami in blocco (es tre TC covid positivi e poi tre TC covid negativi).
+- Al mattino bisogna recuperare il telefono dallo strutturato smontante notte
+- Gestione richieste di esami:
+  - Quesito diagnostico
+  - Quadro clinico
+  - Eventuali esami precedenti
+  - Medico richiedente
+  - N° interno del richiedente
+  - Covid +/-
+  - Per esame con mdc richiedere creatinina, allergie, accesso venoso valido e consenso informato
+- 
 
 Se vi chiamano per RX TORACE A LETTO, dite loro di chiamare direttamente i tecnici (6392). 
 
