@@ -370,7 +370,7 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 ### Ernie diaframmatiche
 
-<img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="25%" >
+<img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="50%" >
 
 #### Ernia di Bochdalek
 
