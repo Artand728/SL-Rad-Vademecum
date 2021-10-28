@@ -356,6 +356,8 @@ La funzione dello sfintere esofageo inferiore e la presenza di reflusso gastro-e
 #### Ernia iatale da para-esofagea da rotolamento (tipo 2)
 L’ernia da rotazione vede il fondo dello stomaco intrappolato al lato dell’esofago.
 
+<img src="..\..\..\img\netter-paraesophageal_hernia.png" width="50%" >
+
 #### Ernia iatale mista (tipo 3)
 L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da rotazione, risultando, comunque, più rara.
 
