@@ -370,17 +370,21 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 ### Ernie diaframmatiche
 
+<img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="25%" >
+
 #### Ernia di Bochdalek
 
-Le ernie di Bochdalek, note anche come ernie pleuroperitoneali, (plurale alternativo: ernie) sono il tipo più comune di ernia diaframmatica congenita. 
-Si verificano posteriormente e sono dovuti a un difetto nell'attacco posteriore del diaframma quando c'è un fallimento della chiusura della membrana pleuroperitoneale in utero. Le strutture retroperitoneali possono prolassare attraverso il difetto, ad esempio il grasso retroperitoneale o il rene sinistro.
-Presentazione clinica
+**L'ernia di Bochdalek**, nota anche come **ernia pleuro-peritoneale**, è il tipo **più comune** di **ernia diaframmatica congenita**.
 
-Le grandi ernie che si presentano tipicamente nell'infanzia, si dice che siano più frequentemente di lato sinistro, presumibilmente a causa degli effetti protettivi del fegato, anche se recentemente questo è stato messo in discussione, almeno negli adulti 1. L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fetale rispetto alla destra che può anche contribuire alla manifestazione asimmetrica. Le complicazioni sono solitamente dovute all'ipoplasia polmonare.
+Si verifica **posteriormente** ed è dovuta ad un **difetto nell'inserzione posteriore del diaframma** in seguito alla mancata chiusura della membrana pleuroperitoneale durante lo svuluppo intrauternino.
 
-Negli adulti, le ernie diaframmatiche posteriori scoperte incidentalmente sono rare (0,17% dei pazienti che hanno una TC addominale). Di queste, le ernie del lato destro sono più comuni (68%) e più frequenti nelle donne. La grande maggioranza è piccola, e solo il 27% contiene organi addominali come intestino, milza o fegato.
+Le **strutture retroperitoneali** quali ad esempio il grasso retroperitoneale o il rene sinistro possono prolassare attraverso il difetto di chiusura.
 
-Tradotto con www.DeepL.com/Translator (versione gratuita)
+Le grandi ernie che si presentano tipicamente nell'infanzia, si dice che siano più frequentemente di lato sinistro, presumibilmente a causa degli effetti protettivi del fegato. 
+
+L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fetale rispetto alla destra che può anche contribuire alla manifestazione asimmetrica. Le complicazioni sono solitamente dovute all'ipoplasia polmonare.
+
+**Negli adulti,** le ernie diaframmatiche posteriori **scoperte incidentalmente** sono **rare** (**0,17%** dei pazienti che hanno una TC addominale). Di queste, le ernie **del lato destro sono più comuni (68%)** e più frequenti nelle donne. La grande maggioranza è piccola, e **solo il 27% contiene organi addominali come intestino, milza o fegato.**
 
 #### Ernia di Morgani
 
