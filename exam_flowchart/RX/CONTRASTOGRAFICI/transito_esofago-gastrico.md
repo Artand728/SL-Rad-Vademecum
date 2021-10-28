@@ -187,18 +187,8 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 ## **FLOWCHART REFERTO**
 
 1. **QUESITO DIAGNOSTICO**
-   - peggioramento della disfagia in Paziente con verosimile **diverticolo di Killian-Jamieson**
-   - **disfagia** per i liquidi con sensazione di stop a livello dell'esofago cervicale in sospetto clinico di **diverticolo di Zenker**
-   - valutazione Paziente con **aumento dell'appetenza in pregressa chirurgia bariatrica (mini-bypass gastrico)**
-   - **valutazione** in **esiti di plastica secondo Nissen** per ernia iatale
-   paraesofagea
-   - valutazione di **acalasia esofagea** in Paziente con Morbo di Parkinson
-   - disfagia per i solidi con sensazione di stop a livello del terzo medio dell'esofago in Paziente con gastrite atrofica APCA+
-   - controllo in Paziente con nota voluminosa erniazione gastrica
-   - sospetto diverticolo esofageo in seguito a tentativo infruttuoso di ecocardiografia trans-esofagea
-   - controllo in intervento di by-pass gastrico
-   - studio della formazione diverticolare recentemente riscontrata al III superiore dell'esofago all'EGDS
-   - valutazione diverticolo del III distale dell'esofago in Paziente con ernia iatale e esofagite distale di grado A.
+
+<br>
 
 
 2. **TECNICA D'ESAME** 
@@ -206,42 +196,45 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
      - **bario** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
      - **gastrografin** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC idrosolubile per os (Gastrografin __ cc), previa acquizione di consenso informato, allegato in cartella.`
 
-
+<br>
 
 3. **RISCONTRI**
 
+<br>
+
 4. **REPERTI COLLATERALI**
+
+<br>
+
    - **POLMONE**
      - **noduli polmonari?** <br> `si evidenzia la nota lesione ripetitiva al segmento apicale del LIS` <br><br> `collateralmente si osservano i noduli secondari polmonari già noti in anamnesi, il maggiore dei quali al lobo ( inferiore / medio / superiore) ( DX / SN )`
-
       > Uno studio del transito esofageo porta ad una eccellente visualizzazione di larghe parti del polmone e la natura dinamica dello studio lo rende scevro da artefatti di sommazione, per questi motivi non segnalare un'eventuale lesione polmonare è un grave errore non solo perché poco difendibile ma soprattuto per il danno diagnostico a cui potenzialemente si espone il paziente.
-
      - **addensamenti polmonari?** <br> `collateralmente si conferma addensamento parenchimale a ( DX / SN ) basale, escavato.` 
-
      - **versamento pleurico?** <br> `si segnala impegno fluido dei seni costo-frenici, maggiormente a ( DX / SN )`
 
-   - **COLONNA VERTEBRALE**
+<br>
 
+   - **COLONNA VERTEBRALE**
      - **cedimenti vertebrali?** <br> `rilevabile (noto) cedimento vertebrale a carico di D__ / L__`
 
+<br>
+
    - **DEVICE**
-
      - **catetere cvc?** <br> `si osserva presenza di CVC con apice proiettante in vena cava superiore`
-
      - **SNG** <br> `è presente SNG con apice proiettantesi al livello del fondo gastrico.`
-
      - **stent esofagei** `ai radiogrammi basali si osserva la presenza di due stent esofagei (stent-in-stent)`
-
      - **PICC** `ai radiogrammi basali si rileva la presenza di PICC ad accesso ( DX / SN ) con apice proiettivamente in atrio destro`
-
      - **vertebroplastica** <br> `si segnalano inoltre esiti di vertebroplastica nel tratto D11-L5`
-
      - **pregresso mezzo di contrasto** <br> `nel radiogramma acquisito in condizioni basali si osserva la presenza di MdC idrosolubile residuo, somministrato per os dai Colleghi Chirurghi in data __/__ u.s. nel tentativo di canalazzazione. In particolare si apprezza MdC nel territorio di pertinenza della colostomia.`
+
+<br>
 
    - **INTESTINO TENUO O COLON**
      - **livelli idro-aerei?** <br> `In mesogastrio e fianco ( DX / SN ) si osservano plurime immagini di livello idroareo di probabile pertinenza colica. Si osserva importante distensione delle anse intestinali, in particolare del colon trasverso e del piccolo intestino in regione meso-gastrica.` <br><br> `si segnala la presenza di livelli idro-aerei a carico del piccolo e grosso intestino.`
 
 
+
+<br>
 
 5. **IPOFARINGE E LARINGE**
    - **scolo laringeo deglutitorio?** <br> `sono presenti segni di scolo laringeo deglutitorio e post-deglutitorio, senza attivazione dei riflessi di difesa delle vie aeree`
@@ -253,128 +246,72 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 
 
+<br>
+
 6. **ESOFAGO**
-
-
    - **lume esofageo**
-
-
      - ***regolare*** <br> `il MdC opacizza regolarmente il lume esofageo transitando regolarmente lungo la giunzione gastroesofagea`
-
      - ***restringimento (stenosi)?***
-
-
        - ***lieve*** <br> 
-
-
        - ***moderato*** <br> `il mdc procede lentamente verso lo stomaco con decorso filiforme, in presenza di nota stenosi dell'esofago distale`<br><br>`al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"` <br><br> `il mdc discende a valle faticosamente, in presenza di una stenosi distale e con apparente meccanismo a valvola a livello del LES.`
-
-
        - ***serrato*** <br> `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico` <br><br> `a livello della giunzione gastroesofagea si osserva marcata stenosi che determina significativa ectasia del viscere a monte, con concomitante ristagno del mdc in presenza di onde di peristalsi terziaria.` <br><br>`al terzo inferiore dell'esofago dove si osserva un transito filiforme per la presenza di un tratto stenotico subito seguito da una porzione ectasica con pareti irregolari.`
-
-
      - **ectasia** <br> `dopo somministrazione di MdC si osservano tratti esofagei ectasici, con rallentamento nel passaggio del mdc ma completo svotamento attraverso la giunzione gastroesofagea.` <br><br> `osservandosi ectasia e marcata tortuosità del viscere al terzo medio e inferiore.`
-
-
      - **svuotamento esofageo**
-
-
        - ***ristagno (assente)*** <br> `si rileva ristagno di mdc a livello dell'inginocchiatura al terzo inferiore con persistenza di mdc a 30 minuti dalla somministrazione del mdc. Al termine dell'esame si osserva solo parziale opacizzazione del lume gastrico, con persistenza della maggior parte del mdc somministrato ancora a livello del lume esofageo.`
-
-
    - **spandimento (perforazione)?** 
-
      - ***assente*** <br> `in assenza di spandimenti extraluminali`
-
      - ***presente***
-
        - ***su anastomosi*** <br> `fiiforme spandimento di mdc paramediano destro in corrispondenza della presunta anastomosi. Si decide di approfondire il dubbio spandimento con indagine TC.`
-
        - ***su stent*** <br> `si osserva passaggio del MdC tra la parete esofagea e lo stent più esterno. E' mal valutabile il passaggio di MdC nel lume dello stent. Si osserva formazione e opacizzazione di un falso lume con passaggio di MdC fra la parete esofagea e lo stent più esterno.`
-
-
    - **fistola?**
-
-
    - **deviazione?** <br> `laterodeviazione sinistra del decorso del terzo medio e inferiore dell'esofago`
-
-
    - **peristalsi terziaria?** <br> `in presenza di onde di peristalsi terziaria con conseguente risalita del MdC fino a livello del terzo medio del viscere e rallentamento della clearance.`
-
    - **presbiesofago**? <br> `ad ogni atto deglutitorio, la Paziente assume spontaneamente delle posture di compenso atte a facilitare il passaggio del bolo nei segmenti più distali del viscere configurando un quadro di presbiesofago con dismotilità esofagea e riduzione della velocità di transito.`
-
    - **ernia iatale?**
      - ***assente*** <br> `senza evidenza di segni diretti o indiretti di ernia iatale`
      - ***piccola*** <br> `in presenza di piccola ernia iatale`
      - ***voluminosa*** <br> `completa erniazione del viscere gastrico in torace che presenta morfologia ripiegata "a uncino"`
-
-
    - **diverticoli?**
      - **diverticolo III prossimale esofago (di Zenker)** <br> ` il mezzo di contrasto opacizza il lume del III prossimale dell'esofago evidenziando una voluminosa estroflessione diverticolare posteriore di __ x __ x __ mm al di sotto del UES.`
        - **ristagno mdc?**
          - *presente* <br> `si osserva marcato ristagno del MdC nella sacca diverticolare con minima quota di MdC che progredisce verso la cavità gastrica. Il mdc tende a ristagnare anche cranialmente sino ai processi piriformi.`
-
      - **diverticolo di Killian-Jamieson**
-
      - **diverticolo paraesofageo da trazione**
-
      - **diverticolo III distale (epifrenico da pulsione)** <br> `A livello del III distale si evidenzia la presenza di una formazione diverticolare del diametro massimo di __ x __ mm localizzata sul lato destro del viscere.`
-
-
        - **ristagno mdc?** <br> `La velocità di transito è regolare, mentre si assiste ad un ristagno di MdC a livello del diverticolo. Successivamente, vi è una parziale detersione della sacca diverticolare con rilascio del contenuto in direzione craniale, fino al III medio del viscere.`
-
-
        - **ristagno mdc durante la Manovra di Valsalva?** <br> `Sono state acquisite immagini durante manovra di Valsalva in paziente prono e in posizione di Trendelemburg, che non hanno evidenziato la presenza di reflusso gastroesofageo. In tali radiogrammi si assiste ad un'ulteriore detersione del diverticolo esofageo, senza mai arrivare al completo svuotamento.`
-
-
      - **pseudodiverticoli** <br> `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`<br><br>`evidenza di una formazione pseudo diverticolare posteriore del viscere di circa __ x __ x __ mm`
-
-
    - **lesioni aggettanti?** <br> `non si apprezzano grossolane lesioni aggettanti il lume`
-
-
    - **reflusso (MRGE)?** <br> `trascurabile risalita di MdC fino a livello del terzo medio del viscere subito dopo il passaggio del bolo baritato attraverso la giunzione gastroesofagea.`
 
+<br>
 
 7. **STOMACO**
    - **transito gastroesofageo**
-
      - ***fisiologico***
-
      - ***rallenato*** <br> `il passaggio di MdC attraverso la giunzione gastroesofagea avviene lentamente` <br><br> `Il passaggio di mdc attraverso la giunzione esofago-gastrica è nettamente rallentato e si osserva solo dopo alcuni minuti.`
-
    - **lume gastrico** 
-
      - ***regolare*** <br> `il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
-
      - **gastrectasia** <br> `Ai radiogrammi basali si rileva gastrectasia` 
        - **associata a livello idro-aereo?** <br> `in presenza di livello idro-aereo`
-
    - **morfologia**
-
      - ***regolare*** 
-
      - ***allungata*** <br> `morfologia allungata` <br><br> `la cavità gastrica, allungata, si opacizza regolarmente in assenza di grossolani difetti di riempimento`
-
    - **plicature gastriche** 
-
      - ***regolari*** <br> `plicature nei limiti di normalità`
-
    - **svuotamento gastrico**
-
      - ***regolare*** <br> `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
-
-
      - ***rallentato*** <br> `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc` <br><br>`Lo svuotamento gastrico è modicamente rallentato; dopo congrua attesa si assiste comunque a normale opacizzazione delle anse a valle.`
-
      - ***assente*** <br> `Il mdc discende a livello della cavità gastrica residua dove si osserva ristagno dello stesso e mancato svuotamento gastrico anche a 40 minuti dalla prima somministrazione. Non è possibile osservare l'opacizzazione dell'anastomosi e delle anse a valle.`
 
+<br>
 
 8. **DUODENO**
    - **opacizzazione**
      - *regolare* <br> `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
    - **stenosi** <br> `segnalandosi persistenza della già nota stenosi del lume duodenale al passaggio tra prima e seconda porzione.`
 
+<br>
 
 9.  **INTERVENTI CHIRURGICI**
    - **anastamosi gastro-enterica** <br> `L'anastomosi gastro-enterica L-L è ampia e pervia con rapido deflusso di mdc a valle sia a livello dell'ansa afferente sia efferente, mantenendo entrambe peristalsi conservata`
@@ -384,10 +321,12 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
        - ***regolare***
        - ***rallenato*** <br> `il mdc prosegue lentamente attraverso l'anastomosi chirurgica.`
 
+<br>
 
 10. **MANOVRA DI VALSALVA**
    - **reflusso esofageo (MRGE)?** <br> `sono stati acquisiti radiogrammi in posizione Trendelemburg durante manovra di Valsalva, che non hanno evidenziato immagini compatibili con reflusso gastroesofageo` <br><br> ``in seguito all'elicitazione del MRGE, attuato mediante manovra di Valsalva, si conferma la presenza di ernia iatale a cui si associa reflusso di MdC nel terzo inferiore dell'esofago.``
 
+<br>
 
 11. **CONCLUSIONI**
 
