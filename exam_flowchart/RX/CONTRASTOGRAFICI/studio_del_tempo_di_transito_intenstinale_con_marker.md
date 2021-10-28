@@ -8,9 +8,14 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
+- - -
+
+# **TEMPO DI TRANSITO (MARKERS)**
+
+- - -
+
 - [**TEMPO DI TRANSITO (MARKERS)**](#tempo-di-transito-markers)
-  - [**Indicazioni**](#indicazioni)
+  - [**Indicazioni*](#indicazioni)
   - [**Burocrazia**](#burocrazia)
   - [**Materiali**](#materiali)
   - [**Esecuzione**](#esecuzione)
@@ -19,9 +24,9 @@
     - [*III° giorno*](#iii-giorno)
     - [*V° giorno*](#v-giorno)
 
-# **TEMPO DI TRANSITO (MARKERS)**
+- - -
 
-## **Indicazioni**
+## **Indicazioni*
 - Stipsi
 
 ---
@@ -36,7 +41,8 @@ L'esame si prenota il **lunedì**, perchè sono previste acquisizioni nei giorni
 - Impegnativa del curante (`codice 87.63.1`)
 
 > Il paziente deve presentarsi a digiuno.
-- - -
+
+---
 
 ## **Materiali**
 

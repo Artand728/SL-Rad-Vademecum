@@ -15,16 +15,16 @@
 ---
 
 - [**TRANSITO ESOFAGO-GASTRICO**](#transito-esofago-gastrico)
-  - [**Prenotazione**](#prenotazione)
-  - [**Burocrazia**](#burocrazia)
-  - [**Materiali e preparazione**](#materiali-e-preparazione)
-    - [*Esame con Bario*](#esame-con-bario)
-    - [*Esame con Grafin*](#esame-con-grafin)
-  - [**Esecuzione**](#esecuzione)
-    - [*Posizione paziente*](#posizione-paziente)
-    - [*Acquisizioni*](#acquisizioni)
-  - [FLOWCHART REFERTO](#flowchart-referto)
-  - [PATOLOGIE](#patologie)
+  - [Prenotazione](#prenotazione)
+  - [Burocrazia](#burocrazia)
+  - [Materiali e preparazione](#materiali-e-preparazione)
+    - [Esame con Bario](#esame-con-bario)
+    - [Esame con Grafin](#esame-con-grafin)
+  - [Esecuzione](#esecuzione)
+    - [Posizione paziente](#posizione-paziente)
+    - [Acquisizioni](#acquisizioni)
+  - [**FLOWCHART REFERTO**](#flowchart-referto)
+  - [**PATOLOGIE**](#patologie)
     - [Diverticoli esofagei](#diverticoli-esofagei)
       - [Diverticolo di Zenker](#diverticolo-di-zenker)
       - [Diverticolo di Killian-Jamieson](#diverticolo-di-killian-jamieson)
@@ -45,7 +45,7 @@
 
 ---
 
-## **Prenotazione**
+## Prenotazione
 
 La richiesta viene effettuata direttamente dai *pazienti*.
 
@@ -87,7 +87,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 ---
 
-## **Burocrazia**
+## Burocrazia
 
 - Busta gialla + cartella bianca
 - Etichette
@@ -104,9 +104,9 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 ---
 
-## **Materiali e preparazione**
+## Materiali e preparazione
 
-### *Esame con Bario*
+### Esame con Bario
 
 > Si può usare nei pazienti allergici al MdC
 
@@ -114,7 +114,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 - Riempire il barattolo con acqua (diluizione 1:1)
 - Mescolare bene e versare in un bicchiere
 
-### *Esame con Grafin*
+### Esame con Grafin
 
 > Da utilizzare se:
 >
@@ -132,17 +132,17 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 ---
 
-## **Esecuzione**
+## Esecuzione
 
 > Avvisare l'interventista prima di iniziare
 
-### *Posizione paziente*
+### Posizione paziente
 
 - Far svestire il paziente e fornire camice usa e getta
 - Posizionare il paziente in posizione verticale sul lettino (se ne occupa il tecnico)
 - In caso di assoluta mancanza di compliance si può eseguire l'esame in posizione seduta (*chiedere prima all'interventista*)
 
-### *Acquisizioni*
+### Acquisizioni
 
 > Tutte le acquisizioni vanno eseguite in **GRAFIA 7,5**
 
@@ -180,7 +180,7 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 ---
 
-## FLOWCHART REFERTO
+## **FLOWCHART REFERTO**
 
 1. **QUESITO DIAGNOSTICO**
    - peggioramento della disfagia in Paziente con verosimile **diverticolo di Killian-Jamieson**
@@ -192,10 +192,15 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
    - disfagia per i solidi con sensazione di stop a livello del terzo medio dell'esofago in Paziente con gastrite atrofica APCA+
    - controllo in Paziente con nota voluminosa erniazione gastrica
    - sospetto diverticolo esofageo in seguito a tentativo infruttuoso di ecocardiografia trans-esofagea
-   - 
+   - controllo in intervento di by-pass gastrico
+   - studio della formazione diverticolare recentemente riscontrata al III superiore dell'esofago all'EGDS
+   - valutazione diverticolo del III distale dell'esofago in Paziente con ernia iatale e esofagite distale di grado A.
+
 
 2. **TECNICA D'ESAME** 
    - **mezzo di contrasto** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
+
+
 
 3. **RISCONTRI**
 
@@ -204,13 +209,18 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
      - **noduli polmonari?**
       > Uno studio del transito esofageo porta ad una eccellente visualizzazione di larghe parti del polmone e la natura dinamica dello studio lo rende scevro da artefatti di sommazione, per questi motivi non segnalare un'eventuale lesione polmonare è un grave errore non solo perché poco difendibile ma soprattuto per il danno diagnostico a cui potenzialemente si espone il paziente.
 
+
+
 5. **LARINGE**
    - **scolo laringeo deglutitorio?**
      - *presente* <br> `sono presenti segni di scolo laringeo deglutitorio e post-deglutitorio, senza attivazione dei riflessi di difesa delle vie aeree`
-       - *lieve* <br> `tale reperto risulta di entità ridotta durante la
-deglutizione con posizione di compenso`
+       - *lieve* <br> `tale reperto risulta di entità ridotta durante la deglutizione con posizione di compenso`
        - *moderato*
        - *avanzato*
+    - **osteofiti improntanti?**
+       - *presenti* <br> `in presenza di osteofiti cervicali che improntano il viscere`
+
+
 
 6. **ESOFAGO**
    - **lume esofageo**
@@ -219,25 +229,46 @@ deglutizione con posizione di compenso`
        - *lieve* <br> `al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"`
        - *moderato*
        - *serrato* <br> `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico`
+
+
    - **spandimento?** <br> `in assenza di spandimenti extraluminali`
+
+
    - **fistola?**
+
+
    - **deviazione?** <br> `laterodeviazione sinistra del decorso del terzo medio e inferiore dell'esofago`
+
+
    - **peristalsi terziaria?** <br> `in presenza di onde di peristalsi terziaria con conseguente risalita del MdC fino a livello del terzo medio del viscere e rallentamento della clearance.`
+
+   - **presbiesofago**? <br> `ad ogni atto deglutitorio, la Paziente assume spontaneamente delle posture di compenso atte a facilitare il passaggio del bolo nei segmenti più distali del viscere configurando un quadro di presbiesofago con dismotilità esofagea e riduzione della velocità di transito.`
+
    - **ernia iatale?**
      - *assente* <br> `senza evidenza di segni diretti o indiretti di ernia iatale`
+     - *piccola* <br> `in presenza di piccola ernia iatale`
      - *voluminosa* <br> `completa erniazione del viscere gastrico in torace che presenta morfologia ripiegata "a uncino"`
+
+
    - **diverticoli?**
-     - **diverticolo di Zenker**
+     - **diverticolo III prossimale esofago (di Zenker)** <br> ` il mezzo di contrasto opacizza il lume del III prossimale dell'esofago evidenziando una voluminosa estroflessione diverticolare posteriore di __ x __ x __ mm al di sotto del UES.`
+       - **ristagno mdc?**
+         - *presente* <br> `si osserva marcato ristagno del MdC nella sacca diverticolare con minima quota di MdC che progredisce verso la
+cavità gastrica. Il mdc tende a ristagnare anche cranialmente sino ai processi piriformi.`
      - **diverticolo di Killian-Jamieson**
      - **diverticolo paraesofageo da trazione**
      - **diverticolo da pulsione**
      - **diverticolo epifrenico**
      - **pseudodiverticoli** <br> `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`
+
+
    - **lesioni aggettanti?** <br> `non si apprezzano grossolane lesioni aggettanti il lume`
+
+
    - **reflusso?** <br> `trascurabile risalita di MdC fino a livello del terzo medio del viscere subito dopo il passaggio del bolo baritato attraverso la giunzione gastroesofagea.`
 
 
-7. **STOMACO**
+1. **STOMACO**
    - **transito gastroesofageo**
      - *fisiologico*
      - *rallenato* <br> `il passaggio di MdC attraverso la giunzione gastroesofagea avviene lentamente`
@@ -253,13 +284,15 @@ deglutizione con posizione di compenso`
      - *rallentato* <br> `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc`
 
 
-8. **DUODENO**
+2. **DUODENO**
    - **opacizzazione**
      - *regolare* <br> `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
 
 
-9.  **INTERVENTI CHIRURGICI**
+3.  **INTERVENTI CHIRURGICI**
    - **anastamosi gastro-enterica** <br> `L'anastomosi gastro-enterica L-L è ampia e pervia con rapido deflusso di mdc a valle sia a livello dell'ansa afferente sia efferente, mantenendo entrambe peristalsi conservata`
+   - **by-pass gastrico** 
+     - *regolari esiti*<br> `si osserva regolare opacizzazione della tasca gastrica residua e dell'ansa digiunale anastomotica in assenza di spandimenti di mdc a livello dell'anastomosi durante tutta l'esecuzione dell'esame.`
 
 
 10. **MANOVRA DI VALSALVA**
@@ -274,7 +307,7 @@ deglutizione con posizione di compenso`
 
 ---
 
-## PATOLOGIE
+## **PATOLOGIE**
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
