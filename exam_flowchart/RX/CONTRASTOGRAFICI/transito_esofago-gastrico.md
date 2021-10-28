@@ -390,7 +390,7 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ## **PATOLOGIE**
 
-<img src="..\..\..\img\schema_malattie_gel.png" width="50%" >
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-schema_malattie_gel.png">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
@@ -408,8 +408,8 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 #### Diverticolo di Zenker
 
-<img src="https://prod-images-static.radiopaedia.org/images/5921734/6c00384db697728441fa7d8572a9b0_jumbo.jpg" width="50%" >
-<img src="https://prod-images-static.radiopaedia.org/images/5921733/d919bff37aa2f81b3fb1ad00f75dd0_jumbo.jpg" width="50%" >
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921734/6c00384db697728441fa7d8572a9b0_jumbo.jpg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921733/d919bff37aa2f81b3fb1ad00f75dd0_jumbo.jpg">
 
 #### Diverticolo di Killian-Jamieson
 
@@ -421,15 +421,15 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 #### Diverticolo epifrenico
 
-<img src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg" width="50%" >
-<img src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg" width="50%" >
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg">
 
 #### Pseudodiverticolis
 
 [⤷Radiopaedia - Oesophageal Intramural Pseudodiverticulosis](https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis)
 
-<img src="https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG" width="50%" >
-<img src="https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png" width="50%" >
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
@@ -439,16 +439,16 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ### Ernie diaframmatiche
 
-<img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="50%" >
+<img style="max-width:400px; width:100%;" src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg">
 
-<img src="..\..\..\img\ernie_diaframmatiche.png" width="50%" >
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-ernie_diaframmatiche.png">
 
 
 ### Ernie iatale
 
 La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
 
-<img src="..\..\..\img\netter-hiatal_hernia.png" width="50%" >
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-hiatal_hernia.png">
 
 #### Ernia iatale da scivolamento (tipo 1)
 
@@ -475,7 +475,7 @@ La funzione dello sfintere esofageo inferiore e la presenza di reflusso gastro-e
 #### Ernia iatale da para-esofagea da rotolamento (tipo 2)
 L’ernia da rotazione vede il fondo dello stomaco intrappolato al lato dell’esofago.
 
-<img src="..\..\..\img\netter-paraesophageal_hernia.png" width="50%" >
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-paraesophageal_hernia.png">
 
 #### Ernia iatale mista (tipo 3)
 L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da rotazione, risultando, comunque, più rara.
@@ -485,9 +485,9 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 [⤷Radiopaedia - Fundoplication](https://radiopaedia.org/articles/fundoplication)
 
-<img src="https://prod-images-static.radiopaedia.org/images/52678567/dc0feb97a689a26f54e0d5b5e56cbb_big_gallery.jpeg" width="50%" >
-<img src="https://prod-images-static.radiopaedia.org/images/52678569/b2ddd040ac32f1c17a7107f3b0d578_big_gallery.jpeg" width="50%" >
-<img src="https://prod-images-static.radiopaedia.org/images/12251373/cc3b9f86315107bc990e0f4f24f402_big_gallery.jpg" width="50%" >
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/52678567/dc0feb97a689a26f54e0d5b5e56cbb_big_gallery.jpeg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/52678569/b2ddd040ac32f1c17a7107f3b0d578_big_gallery.jpeg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/12251373/cc3b9f86315107bc990e0f4f24f402_big_gallery.jpg">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
@@ -524,8 +524,8 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 ### Stenosi esofagea
 
-<img src="..\..\..\img\netter-esofagite_stenosi_esofagea.png " width="50%" >
-<img src="..\..\..\img\netter-stenosi_esofagea_ernia_iatale.png " width="50%" >
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-esofagite_stenosi_esofagea.png ">
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-stenosi_esofagea_ernia_iatale.png ">
 
 
 ---
