@@ -292,9 +292,8 @@ deglutizione con posizione di compenso`
 
 #### Diverticolo di Zenker
 
-| ![](../../../img/diverticolo_di_zenker_AP.jpg) | ![](../../../img/diverticolo_di_zenker_obliqua.jpg) |
-| ---------------------------------------------- | --------------------------------------------------- |
-
+<img src="https://prod-images-static.radiopaedia.org/images/5921734/6c00384db697728441fa7d8572a9b0_jumbo.jpg" width="50%" >
+<img src="https://prod-images-static.radiopaedia.org/images/5921733/d919bff37aa2f81b3fb1ad00f75dd0_jumbo.jpg" width="50%" >
 
 #### Diverticolo di Killian-Jamieson
 
