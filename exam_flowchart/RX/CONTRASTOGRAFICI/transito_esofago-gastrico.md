@@ -379,7 +379,7 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 - [RadioGrapics Fundamentals - Imaging Tips for Performing a Perfect Barium Swallow](https://pubs.rsna.org/do/10.1148/rg.2019190055.pres/full/)
 - [Radiology Assistant - Esophagus: anatomy, rings and inflammation](https://radiologyassistant.nl/head-neck/esophagus-1/esophagus-i-anatomy-rings-inflammation-1)
-- [Barium swallow](https://radiopaedia.org/articles/barium-swallow)
+- [Radiopaedia - Barium swallow](https://radiopaedia.org/articles/barium-swallow)
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
