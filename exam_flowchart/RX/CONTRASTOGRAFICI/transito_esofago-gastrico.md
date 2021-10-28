@@ -305,15 +305,15 @@ deglutizione con posizione di compenso`
 
 #### Diverticolo epifrenico
 
-| ![](https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg) | ![](https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg) |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+<img src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg" width="50%" >
+<img src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg" width="50%" >
 
 #### Pseudodiverticoli
 
 > https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis
 
-| ![](https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG) | ![](https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png) |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+<img src="https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG" width="50%" >
+<img src="https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png" width="50%" >
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
