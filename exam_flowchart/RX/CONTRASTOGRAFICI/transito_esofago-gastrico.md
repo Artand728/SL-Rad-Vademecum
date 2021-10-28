@@ -32,12 +32,12 @@
       - [Diverticolo da pulsione](#diverticolo-da-pulsione)
       - [Diverticolo epifrenico](#diverticolo-epifrenico)
       - [Pseudodiverticolis](#pseudodiverticolis)
-    - [Ernie iatale (ernia esofagea)](#ernie-iatale-ernia-esofagea)
+    - [Ernie diaframmatiche](#ernie-diaframmatiche)
+    - [Ernie iatale](#ernie-iatale)
       - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
       - [Ernia iatale da para-esofagea da rotolamento (tipo 2)](#ernia-iatale-da-para-esofagea-da-rotolamento-tipo-2)
       - [Ernia iatale mista (tipo 3)](#ernia-iatale-mista-tipo-3)
     - [Intervento di Fundiplicatio secondo Nissen](#intervento-di-fundiplicatio-secondo-nissen)
-    - [Ernie diaframmatiche](#ernie-diaframmatiche)
       - [Ernia di Bochdalek](#ernia-di-bochdalek)
       - [Ernia di Morgani](#ernia-di-morgani)
   - [BIBLIOGRAFIA](#bibliografia)
@@ -321,9 +321,15 @@ deglutizione con posizione di compenso`
 
 ---
 
-### Ernie iatale (ernia esofagea)
+### Ernie diaframmatiche
+
+<img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="50%" >
+
+### Ernie iatale
 
 La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
+
+<img src="img\netter-hiatal_hernia.png" width="50%" >
 
 #### Ernia iatale da scivolamento (tipo 1)
 
@@ -367,10 +373,6 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 </div>
 
 ---
-
-### Ernie diaframmatiche
-
-<img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="50%" >
 
 #### Ernia di Bochdalek
 
