@@ -146,10 +146,8 @@
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 10</div>
-    <video width="720" height="480" autoplay>
-      <source src="caseual wednesdays\2021-10-13\Gli_spazi_peritoneali.mp4" type="video/mp4">
-    </video>
-     <div class="text"></div>
+    <img src="Gli_spazi_peritoneali_3_of_10.png" style="width: 100%" />
+    <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
@@ -214,6 +212,13 @@
   <span class="dot" onclick="currentSlide(10)"></span>
 </div>
 
+<hr>
+<h2>ALLEGATI</h2>
+<div>
+    <video width="720" height="480" autoplay>
+       <source src="caseual wednesdays\2021-10-13\Gli_spazi_peritoneali.mp4" type="video/mp4">
+    </video>
+</div>
 <hr>
 
 <h2> BIBLIOGRAFIA </h2>

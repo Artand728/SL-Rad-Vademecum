@@ -16,21 +16,27 @@
 
 - [CASE*UAL* WEDNESDAY](#caseual-wednesday)
   - [Descrizione](#descrizione)
-  - [Come inserire un file TC/RMN all'interno di PowerPoint?](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
+  - [Case*ual* wednesday archive](#caseual-wednesday-archive)
+  - [Come inserire un file TC/RMN all'interno di PowerPoint](#come-inserire-un-file-tcrmn-allinterno-di-powerpoint)
     - [How to Add Scrollable CT or MRI Images to a PowerPoint Slide](#how-to-add-scrollable-ct-or-mri-images-to-a-powerpoint-slide)
-      - [The basic steps on Mac:](#the-basic-steps-on-mac)
-      - [The basic steps for Windows:](#the-basic-steps-for-windows)
+      - [The basic steps on Mac](#the-basic-steps-on-mac)
+      - [The basic steps for Windows](#the-basic-steps-for-windows)
 
 - - -
 
 ## Descrizione
 Ogni 2° mercoledì del mese dalle 15:30 alle 16:30 nella Biblioteca della Radiologia Centrale.
-Tre specializzandi presenterano un caso di 5-7 minuti chiascuno (6-10 Slide).
-Ogni mese cercheremo di coinvolgere uno strutturato per un quarto caso.
-Ogni incontro avrà un tema specifico che verrà di volta in volta proposto dallo strutturato che accetta di partecipare.
 
-Tutti i casi presentati verranno caricati in archivio:
-[Caseual Wednesday Archive](case_archive.md)
+Tre specializzandi presentano un caso di 5-7 minuti chiascuno (6-10 Slide).
+
+Ogni mese cerchiamo di coinvolgere uno strutturato per un quarto caso.
+
+Ogni incontro ha un tema specifico che può venire di volta in volta proposto dallo strutturato che accetta di partecipare.
+
+## Case*ual* wednesday archive
+
+Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
+[Caseual Wednesday &rarr; Archive](case_archive.md)
 
 <div style="text-align: right">
 <a href="#caseual-wednesday">⬆️</a>
@@ -38,7 +44,7 @@ Tutti i casi presentati verranno caricati in archivio:
 
 ---
 
-## Come inserire un file TC/RMN all'interno di PowerPoint?
+## Come inserire un file TC/RMN all'interno di PowerPoint
 
 ### How to Add Scrollable CT or MRI Images to a PowerPoint Slide
 Kevin M. Rice, MD
@@ -48,7 +54,7 @@ Kevin M. Rice, MD
 Have you ever wondered how to get a scrollable image stack of CT or MR images on a single PowerPoint slide. 
 There is a way to do it! Australian Emergency Medicine Specialist Dr. Andy Buck shares how to get a scrollable image stack on a single PowerPoint slide on a Mac.
 
-#### The basic steps on Mac:
+#### The basic steps on Mac
 1. Export the image stack from PACS as JPEG images. If your PACS can not export as JPEG, use Osirix to convert from DICOM to JPEG. Make sure the images are de-identified either with PACS or Osirix.
 2. Resize all images to 630 x 630 pixels.
 3. Copy and paste the entire set of JPEG images to a single blank slide.
@@ -61,7 +67,7 @@ There is a way to do it! Australian Emergency Medicine Specialist Dr. Andy Buck 
 Here is a video of the Windows version by senior editor at Radiopaedia.org, Dr. Matt Skalski:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1Wl9qlqNj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### The basic steps for Windows:
+#### The basic steps for Windows
 1. Export the image stack from PACS as JPEG images. If your PACS can not export as JPEG, use DICOM Converter to convert from DICOM to JPEG. Make sure the images are de-identified in PACS prior to download.
 2. Resize all images to 630 x 630 pixels.
 3. Copy and paste the entire set of JPEG images to a single blank slide.
