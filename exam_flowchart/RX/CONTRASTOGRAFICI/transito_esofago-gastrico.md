@@ -43,7 +43,8 @@
     - [Intervento di Fundiplicatio secondo Nissen](#intervento-di-fundiplicatio-secondo-nissen)
       - [Ernia di Bochdalek](#ernia-di-bochdalek)
       - [Ernia di Morgani](#ernia-di-morgani)
-      - [Dismotilità esofagea](#dismotilità-esofagea)
+    - [Dismotilità esofagea](#dismotilità-esofagea)
+    - [Stenosi esofagea](#stenosi-esofagea)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
@@ -389,6 +390,8 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ## **PATOLOGIE**
 
+<img src="..\..\..\img\schema_malattie_gel.png" width="50%" >
+
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
 </div>
@@ -437,6 +440,9 @@ Conclusioni: reperti radiologici nei limiti di norma.
 ### Ernie diaframmatiche
 
 <img src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg" width="50%" >
+
+<img src="..\..\..\img\ernie_diaframmatiche.png" width="50%" >
+
 
 ### Ernie iatale
 
@@ -510,11 +516,17 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 </div>
 
 ---
-#### Dismotilità esofagea
+### Dismotilità esofagea
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
 </div>
+
+### Stenosi esofagea
+
+<img src="..\..\..\img\netter-esofagite_stenosi_esofagea.png " width="50%" >
+<img src="..\..\..\img\netter-stenosi_esofagea_ernia_iatale.png " width="50%" >
+
 
 ---
 
