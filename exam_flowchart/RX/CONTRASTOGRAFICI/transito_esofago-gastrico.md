@@ -329,7 +329,7 @@ deglutizione con posizione di compenso`
 
 La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
 
-<img src="img\netter-hiatal_hernia.png" width="50%" >
+<img src="..\..\..\img\netter-hiatal_hernia.png" width="50%" >
 
 #### Ernia iatale da scivolamento (tipo 1)
 
