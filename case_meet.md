@@ -33,6 +33,12 @@ Ogni mese cerchiamo di coinvolgere uno strutturato per un quarto caso.
 
 Ogni incontro ha un tema specifico che può venire di volta in volta proposto dallo strutturato che accetta di partecipare.
 
+<div style="text-align: right">
+<a href="#caseual-wednesday">⬆️</a>
+</div>
+
+---
+
 ## Case*ual* wednesday archive
 
 Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
