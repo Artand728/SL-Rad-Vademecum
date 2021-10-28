@@ -193,7 +193,7 @@
 <hr>
 <h2>ALLEGATI</h2>
 <div style="text-align: center;">
-    <video width="720" height="480" controls>
+    <video width="100%" max-width="720px" controls>
        <source src="https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-10-13/groove_pancreatitis.mp4" type="video/mp4">
     </video>
 </div>

@@ -31,7 +31,7 @@
       - [Diverticolo paraesofageo da trazione](#diverticolo-paraesofageo-da-trazione)
       - [Diverticolo da pulsione](#diverticolo-da-pulsione)
       - [Diverticolo epifrenico](#diverticolo-epifrenico)
-      - [Pseudodiverticoli](#pseudodiverticoli)
+      - [Pseudodiverticolis](#pseudodiverticolis)
     - [Ernie iatale (ernia esofagea)](#ernie-iatale-ernia-esofagea)
       - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
       - [Ernia iatale da para-esofagea da rotolamento (tipo 2)](#ernia-iatale-da-para-esofagea-da-rotolamento-tipo-2)
@@ -308,7 +308,7 @@ deglutizione con posizione di compenso`
 <img src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg" width="50%" >
 <img src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg" width="50%" >
 
-#### Pseudodiverticoli
+#### Pseudodiverticolis
 
 [⤷Radiopaedia - Oesophageal Intramural Pseudodiverticulosis](https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis)
 
@@ -371,6 +371,16 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 ### Ernie diaframmatiche
 
 #### Ernia di Bochdalek
+
+Le ernie di Bochdalek, note anche come ernie pleuroperitoneali, (plurale alternativo: ernie) sono il tipo più comune di ernia diaframmatica congenita. 
+Si verificano posteriormente e sono dovuti a un difetto nell'attacco posteriore del diaframma quando c'è un fallimento della chiusura della membrana pleuroperitoneale in utero. Le strutture retroperitoneali possono prolassare attraverso il difetto, ad esempio il grasso retroperitoneale o il rene sinistro.
+Presentazione clinica
+
+Le grandi ernie che si presentano tipicamente nell'infanzia, si dice che siano più frequentemente di lato sinistro, presumibilmente a causa degli effetti protettivi del fegato, anche se recentemente questo è stato messo in discussione, almeno negli adulti 1. L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fetale rispetto alla destra che può anche contribuire alla manifestazione asimmetrica. Le complicazioni sono solitamente dovute all'ipoplasia polmonare.
+
+Negli adulti, le ernie diaframmatiche posteriori scoperte incidentalmente sono rare (0,17% dei pazienti che hanno una TC addominale). Di queste, le ernie del lato destro sono più comuni (68%) e più frequenti nelle donne. La grande maggioranza è piccola, e solo il 27% contiene organi addominali come intestino, milza o fegato.
+
+Tradotto con www.DeepL.com/Translator (versione gratuita)
 
 #### Ernia di Morgani
 
