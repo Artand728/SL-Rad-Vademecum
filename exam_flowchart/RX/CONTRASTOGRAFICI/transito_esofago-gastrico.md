@@ -26,7 +26,7 @@
   - [**FLOWCHART REFERTO**](#flowchart-referto)
   - [**REFERTI PREFATTI**](#referti-prefatti)
     - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1)
-  - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1-1)
+    - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1-1)
   - [**PATOLOGIE**](#patologie)
     - [Diverticoli esofagei](#diverticoli-esofagei)
       - [Diverticolo di Zenker](#diverticolo-di-zenker)
@@ -362,7 +362,7 @@ Conclusioni: reperti radiologici nei limiti di norma, in assenza di sicure immag
 
 ---
 
-## RX ESOFAGO STOMACO E DUODENO NEGATIVO #1
+### RX ESOFAGO STOMACO E DUODENO NEGATIVO #1
 
 Quesito diagnostico: ________________
 
