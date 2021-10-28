@@ -127,7 +127,7 @@
 
 <hr>
 
-<h1> GLI SPAZI PERITONEALI <\h1>
+<h1> GLI SPAZI PERITONEALI </h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -214,7 +214,7 @@
 
 <hr>
 
-<h2> BIBLIOGRAFIA <\h2>
+<h2> BIBLIOGRAFIA </h2>
 
 <script>
   var slideIndex = 1;
