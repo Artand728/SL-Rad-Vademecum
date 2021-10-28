@@ -310,7 +310,7 @@ deglutizione con posizione di compenso`
 
 #### Pseudodiverticoli
 
-> https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis
+[⤷Radiopaedia - Oesophageal Intramural Pseudodiverticulosis](https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis)
 
 <img src="https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG" width="50%" >
 <img src="https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png" width="50%" >
@@ -335,7 +335,7 @@ La **giunzione gastro-esofagea** è solitamente **spostata >2 cm** al di sopra d
 
 Lo **iato esofageo** è spesso anormalmente **allargato a 3-4 cm** (*VN < 1,5 cm*). 
 
-In fluoroscopia, se si vedono >3 pieghe gastriche sopra lo iato, è suggestivo di **ernia iatale da scivolamento**.
+**In fluoroscopia**, se si vedono **>3 pieghe gastriche sopra lo iato**, è suggestivo di ernia iatale da scivolamento.
 
 Il **fondo gastrico** può anche essere spostato **sopra il diaframma** e presentarsi come una **massa retrocardiaca** su una radiografia del torace. 
 
@@ -355,6 +355,12 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 
 ### Intervento di Fundiplicatio secondo Nissen
+
+[⤷Radiopaedia - Fundoplication](https://radiopaedia.org/articles/fundoplication)
+
+<img src="https://prod-images-static.radiopaedia.org/images/52678567/dc0feb97a689a26f54e0d5b5e56cbb_big_gallery.jpeg" width="50%" >
+<img src="https://prod-images-static.radiopaedia.org/images/52678569/b2ddd040ac32f1c17a7107f3b0d578_big_gallery.jpeg" width="50%" >
+<img src="https://prod-images-static.radiopaedia.org/images/12251373/cc3b9f86315107bc990e0f4f24f402_big_gallery.jpg" width="50%" >
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
