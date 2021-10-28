@@ -125,7 +125,9 @@
   >
 </div>
 
----
+<hr>
+
+# GLI SPAZI PERITONEALI
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -209,6 +211,10 @@
   <span class="dot" onclick="currentSlide(9)"></span>
   <span class="dot" onclick="currentSlide(10)"></span>
 </div>
+
+<hr>
+
+## BIBLIOGRAFIA
 
 <script>
   var slideIndex = 1;
