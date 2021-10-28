@@ -24,6 +24,9 @@
     - [Posizione paziente](#posizione-paziente)
     - [Acquisizioni](#acquisizioni)
   - [**FLOWCHART REFERTO**](#flowchart-referto)
+  - [**REFERTI PREFATTI**](#referti-prefatti)
+    - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1)
+  - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1-1)
   - [**PATOLOGIE**](#patologie)
     - [Diverticoli esofagei](#diverticoli-esofagei)
       - [Diverticolo di Zenker](#diverticolo-di-zenker)
@@ -198,7 +201,9 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 
 2. **TECNICA D'ESAME** 
-   - **mezzo di contrasto** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
+   - **mezzo di contrasto** 
+     - **bario** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC ( baritato / grafin ) ( ___ ml)`
+     - **gastrografin** <br> `sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC idrosolubile per os (Gastrografin __ cc), previa acquizione di consenso informato, allegato in cartella.`
 
 
 
@@ -209,6 +214,14 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
      - **noduli polmonari?**
       > Uno studio del transito esofageo porta ad una eccellente visualizzazione di larghe parti del polmone e la natura dinamica dello studio lo rende scevro da artefatti di sommazione, per questi motivi non segnalare un'eventuale lesione polmonare è un grave errore non solo perché poco difendibile ma soprattuto per il danno diagnostico a cui potenzialemente si espone il paziente.
 
+     - **versamento pleurico?** <br> `si segnala impegno fluido dei seni costo-frenici, maggiormente a destra`
+
+   - **COLONNA VERTEBRALE**
+   - 
+     - **cedimenti vertebrali?** <br> `rilevabile (noto) cedimento vertebrale a carico di D__ / L__`
+
+   - **DEVICE**
+     - **catetere cvc?** <br> `si osserva presenza di CVC con apice proiettante in vena cava superiore`
 
 
 5. **LARINGE**
@@ -225,10 +238,13 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 6. **ESOFAGO**
    - **lume esofageo**
      - *regolare* <br> `il MdC opacizza regolarmente il lume esofageo transitando regolarmente lungo la giunzione gastroesofagea`
-     - *restringimento*
+
+     - ***restringimento / stenosi***
        - *lieve* <br> `al terzo inferiore il viscere presenta aspetto "a cavaturacciolo"`
-       - *moderato*
-       - *serrato* <br> `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico`
+
+       - *moderato* 
+
+       - *serrato* <br> `evidente e serrata stenosi del LES con ristagno del Mdc e minimo opacamento del viscere gastrico` <br><br> `a livello della giunzione gastroesofagea si osserva marcata stenosi che determina significativa ectasia del viscere a monte, con concomitante ristagno del mdc in presenza di onde di peristalsi terziaria.`
 
 
    - **spandimento?** <br> `in assenza di spandimenti extraluminali`
@@ -253,13 +269,22 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
    - **diverticoli?**
      - **diverticolo III prossimale esofago (di Zenker)** <br> ` il mezzo di contrasto opacizza il lume del III prossimale dell'esofago evidenziando una voluminosa estroflessione diverticolare posteriore di __ x __ x __ mm al di sotto del UES.`
        - **ristagno mdc?**
-         - *presente* <br> `si osserva marcato ristagno del MdC nella sacca diverticolare con minima quota di MdC che progredisce verso la
-cavità gastrica. Il mdc tende a ristagnare anche cranialmente sino ai processi piriformi.`
+         - *presente* <br> `si osserva marcato ristagno del MdC nella sacca diverticolare con minima quota di MdC che progredisce verso la cavità gastrica. Il mdc tende a ristagnare anche cranialmente sino ai processi piriformi.`
+
      - **diverticolo di Killian-Jamieson**
+
      - **diverticolo paraesofageo da trazione**
-     - **diverticolo da pulsione**
-     - **diverticolo epifrenico**
-     - **pseudodiverticoli** <br> `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`
+
+     - **diverticolo III distale (epifrenico da pulsione)** <br> `A livello del III distale si evidenzia la presenza di una formazione diverticolare del diametro massimo di __ x __ mm localizzata sul lato destro del viscere.`
+
+
+       - **ristagno mdc?** <br> `La velocità di transito è regolare, mentre si assiste ad un ristagno di MdC a livello del diverticolo. Successivamente, vi è una parziale detersione della sacca diverticolare con rilascio del contenuto in direzione craniale, fino al III medio del viscere.`
+
+
+       - **ristagno mdc durante la Manovra di Valsalva?** <br> `Sono state acquisite immagini durante manovra di Valsalva in paziente prono e in posizione di Trendelemburg, che non hanno evidenziato la presenza di reflusso gastroesofageo. In tali radiogrammi si assiste ad un'ulteriore detersione del diverticolo esofageo, senza mai arrivare al completo svuotamento.`
+
+     - **pseudodiverticoli** <br> `si osserva immagine pseudodiverticolare maggiormente evidente nei radiogrammi LL, con ristagno di mdc a tale livello anche nelle acquisizioni tardive`<br><br>`evidenza di una formazione pseudo diverticolare posteriore del viscere di circa __ x __ x __ mm`
+
 
 
    - **lesioni aggettanti?** <br> `non si apprezzano grossolane lesioni aggettanti il lume`
@@ -268,31 +293,34 @@ cavità gastrica. Il mdc tende a ristagnare anche cranialmente sino ai processi 
    - **reflusso?** <br> `trascurabile risalita di MdC fino a livello del terzo medio del viscere subito dopo il passaggio del bolo baritato attraverso la giunzione gastroesofagea.`
 
 
-1. **STOMACO**
+7. **STOMACO**
    - **transito gastroesofageo**
-     - *fisiologico*
-     - *rallenato* <br> `il passaggio di MdC attraverso la giunzione gastroesofagea avviene lentamente`
+     - ***fisiologico***
+     - ***rallenato*** <br> `il passaggio di MdC attraverso la giunzione gastroesofagea avviene lentamente` <br><br> `Il passaggio di mdc attraverso la giunzione esofago-gastrica è nettamente rallentato e si osserva solo dopo alcuni minuti.`
    - **lume gastrico** 
-     - *regolare* <br> `il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
+     - ***regolare*** <br> `il bolo baritato procede nella cavità gastrica residua che presenta dimensioni`
    - **morfologia**
-     - *regolare* 
-     - *allungata* <br> `morfologia allungata`
+     - ***regolare*** 
+     - ***allungata*** <br> `morfologia allungata` <br><br> `la cavità gastrica, allungata, si opacizza regolarmente in assenza di grossolani difetti di riempimento`
    - **plicature gastriche** 
-     - *regolari* <br> `plicature nei limiti di normalità`
+     - ***regolari*** <br> `plicature nei limiti di normalità`
    - **svuotamento gastrico**
-     - *regolare* <br> `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
-     - *rallentato* <br> `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc`
+     - ***regolare*** <br> `lo svuotamento gastrico avviene in tempi fisiologici, opacizzando regolarmente le prime anse dell'intestino tenue`
+     - ***rallentato*** <br> `lo svuotamento gastrico risulta modicamente rallentato, dimostrandosi unicamente opacizzazione delle anse digiunali a valle ai radiogrammi acquisiti a circa __ minuti dalla prima somministrazione del mdc` <br><br>`Lo svuotamento gastrico è modicamente rallentato; dopo congrua attesa si assiste comunque a normale opacizzazione delle anse a valle.`
 
 
-2. **DUODENO**
+8. **DUODENO**
    - **opacizzazione**
      - *regolare* <br> `regolare opacizzazione della C duodenale (che presenta aspetto "stirato" nella sua prima porzione) e delle anse digiunali a valle`
 
 
-3.  **INTERVENTI CHIRURGICI**
+9.  **INTERVENTI CHIRURGICI**
    - **anastamosi gastro-enterica** <br> `L'anastomosi gastro-enterica L-L è ampia e pervia con rapido deflusso di mdc a valle sia a livello dell'ansa afferente sia efferente, mantenendo entrambe peristalsi conservata`
    - **by-pass gastrico** 
-     - *regolari esiti*<br> `si osserva regolare opacizzazione della tasca gastrica residua e dell'ansa digiunale anastomotica in assenza di spandimenti di mdc a livello dell'anastomosi durante tutta l'esecuzione dell'esame.`
+     - ***regolari esiti***<br> `si osserva regolare opacizzazione della tasca gastrica residua e dell'ansa digiunale anastomotica in assenza di spandimenti di mdc a livello dell'anastomosi durante tutta l'esecuzione dell'esame.`
+   - **transito mdc attraverso l'anastomosi chirurgica?**
+       - ***regolare***
+       - ***rallenato*** <br> `il mdc prosegue lentamente attraverso l'anastomosi chirurgica.`
 
 
 10. **MANOVRA DI VALSALVA**
@@ -300,6 +328,57 @@ cavità gastrica. Il mdc tende a ristagnare anche cranialmente sino ai processi 
 
 
 11. **CONCLUSIONI**
+
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
+
+## **REFERTI PREFATTI**
+
+---
+
+### RX ESOFAGO STOMACO E DUODENO NEGATIVO #1
+
+Quesito diagnostico: ________________
+
+Tecnica d'esame: sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC baritato / grafin ( ___ ml) per os.
+
+Riscontri: il mezzo di contrasto opacizza regolarmente il lume esofageo e discende regolarmente attraverso il LES, senza significativi ostacoli e lesioni aggettanti.
+
+Lo stomaco presenta dimensioni e morfologia nei limiti di normalità.
+Non sono evidenti segni franchi di ernia iatale.
+
+Sono state acquisite immagini durante manovra di Valsalva in Paziente prono e in posizione di Trendelemburg, che non hanno evidenziato la presenza di reflusso gastroesofageo.
+
+Lo svuotamento gastrico avviene rapidamente con corretta opacizzazione delle prime anse del piccolo intestino.
+
+Conclusioni: reperti radiologici nei limiti di norma, in assenza di sicure immagini riferibili a ______________________
+
+<div style="text-align: right">
+<a href="#transito-esofago-gastrico">⬆️</a>
+</div>
+
+---
+
+## RX ESOFAGO STOMACO E DUODENO NEGATIVO #1
+
+Quesito diagnostico: ________________
+
+Tecnica d'esame: sono stati acquisiti radiogrammi prima e dopo somministrazione di MdC baritato / grafin ( ___ ml) per os.
+
+Riscontri: il mezzo di contrasto opacizza regolarmente il lume esofageo e discende regolarmente attraverso il LES, senza significativi ostacoli e lesioni aggettanti. 
+
+Lo stomaco presenta dimensioni e morfologia nei limiti di normalità. 
+
+Non sono evidenti segni franchi di ernia iatale.
+
+Sono state acquisite immagini durante manovra di Valsalva in Paziente prono e in posizione di Trendelemburg, che non hanno evidenziato la presenza di reflusso gastroesofageo. 
+
+Lo svuotamento gastrico avviene regolarmente con corretta opacizzazione delle prime anse del piccolo intestino.
+
+Conclusioni: reperti radiologici nei limiti di norma.
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
