@@ -27,24 +27,24 @@
   - [**REFERTI PREFATTI**](#referti-prefatti)
     - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1)
     - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #2](#rx-esofago-stomaco-e-duodeno-negativo-2)
-  - [**PATOLOGIE**](#patologie)
-    - [Diverticoli esofagei](#diverticoli-esofagei)
-      - [Diverticolo di Zenker](#diverticolo-di-zenker)
-      - [Diverticolo di Killian-Jamieson](#diverticolo-di-killian-jamieson)
-      - [Diverticolo paraesofageo da trazione](#diverticolo-paraesofageo-da-trazione)
-      - [Diverticolo da pulsione](#diverticolo-da-pulsione)
-      - [Diverticolo epifrenico](#diverticolo-epifrenico)
-      - [Pseudodiverticolis](#pseudodiverticolis)
-    - [Ernie diaframmatiche](#ernie-diaframmatiche)
-    - [Ernie iatale](#ernie-iatale)
-      - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
-      - [Ernia iatale da para-esofagea da rotolamento (tipo 2)](#ernia-iatale-da-para-esofagea-da-rotolamento-tipo-2)
-      - [Ernia iatale mista (tipo 3)](#ernia-iatale-mista-tipo-3)
-    - [Intervento di Fundiplicatio secondo Nissen](#intervento-di-fundiplicatio-secondo-nissen)
-      - [Ernia di Bochdalek](#ernia-di-bochdalek)
-      - [Ernia di Morgani](#ernia-di-morgani)
-    - [Dismotilità esofagea](#dismotilità-esofagea)
-    - [Stenosi esofagea](#stenosi-esofagea)
+- [**PATOLOGIE ESOFAGEE**](#patologie-esofagee)
+  - [Diverticoli esofagei](#diverticoli-esofagei)
+    - [Diverticolo di Zenker](#diverticolo-di-zenker)
+    - [Diverticolo di Killian-Jamieson](#diverticolo-di-killian-jamieson)
+    - [Diverticolo paraesofageo da trazione](#diverticolo-paraesofageo-da-trazione)
+    - [Diverticolo da pulsione](#diverticolo-da-pulsione)
+    - [Diverticolo epifrenico](#diverticolo-epifrenico)
+    - [Pseudodiverticolis](#pseudodiverticolis)
+  - [Ernie diaframmatiche](#ernie-diaframmatiche)
+  - [Ernie iatale](#ernie-iatale)
+    - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
+    - [Ernia iatale da para-esofagea da rotolamento (tipo 2)](#ernia-iatale-da-para-esofagea-da-rotolamento-tipo-2)
+    - [Ernia iatale mista (tipo 3)](#ernia-iatale-mista-tipo-3)
+  - [Intervento di Fundiplicatio secondo Nissen](#intervento-di-fundiplicatio-secondo-nissen)
+    - [Ernia di Bochdalek](#ernia-di-bochdalek)
+    - [Ernia di Morgani](#ernia-di-morgani)
+  - [Dismotilità esofagea](#dismotilità-esofagea)
+  - [Stenosi esofagea](#stenosi-esofagea)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
@@ -388,7 +388,7 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ---
 
-## **PATOLOGIE**
+# **PATOLOGIE ESOFAGEE**
 
 <img style="max-width:400px; width:100%;" src="..\..\..\img\netter-schema_malattie_gel.png">
 
@@ -398,7 +398,7 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ---
 
-### Diverticoli esofagei
+## Diverticoli esofagei
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
@@ -406,25 +406,25 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ---
 
-#### Diverticolo di Zenker
+### Diverticolo di Zenker
 
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921734/6c00384db697728441fa7d8572a9b0_jumbo.jpg">
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921733/d919bff37aa2f81b3fb1ad00f75dd0_jumbo.jpg">
 
-#### Diverticolo di Killian-Jamieson
+### Diverticolo di Killian-Jamieson
 
 
 
-#### Diverticolo paraesofageo da trazione
+### Diverticolo paraesofageo da trazione
 
-#### Diverticolo da pulsione
+### Diverticolo da pulsione
 
-#### Diverticolo epifrenico
+### Diverticolo epifrenico
 
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg">
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg">
 
-#### Pseudodiverticolis
+### Pseudodiverticolis
 
 [⤷Radiopaedia - Oesophageal Intramural Pseudodiverticulosis](https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis)
 
@@ -437,20 +437,20 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ---
 
-### Ernie diaframmatiche
+## Ernie diaframmatiche
 
 <img style="max-width:400px; width:100%;" src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg">
 
 <img style="max-width:400px; width:100%;" src="..\..\..\img\netter-ernie_diaframmatiche.png">
 
 
-### Ernie iatale
+## Ernie iatale
 
 La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
 
 <img style="max-width:400px; width:100%;" src="..\..\..\img\netter-hiatal_hernia.png">
 
-#### Ernia iatale da scivolamento (tipo 1)
+### Ernia iatale da scivolamento (tipo 1)
 
 L’ernia da scivolamento è **la più comune (90%)** e risulta caratterizzata dall’ingresso e dall’uscita costante dello stomaco dalla cavità toracica. 
 
@@ -472,16 +472,16 @@ La semplice presenza di un'ernia iatale scorrevole ha un significato clinico lim
 
 La funzione dello sfintere esofageo inferiore e la presenza di reflusso gastro-esofageo patologico sono i fattori cruciali nel produrre sintomi e causare complicazioni.
 
-#### Ernia iatale da para-esofagea da rotolamento (tipo 2)
+### Ernia iatale da para-esofagea da rotolamento (tipo 2)
 L’ernia da rotazione vede il fondo dello stomaco intrappolato al lato dell’esofago.
 
 <img style="max-width:400px; width:100%;" src="..\..\..\img\netter-paraesophageal_hernia.png">
 
-#### Ernia iatale mista (tipo 3)
+### Ernia iatale mista (tipo 3)
 L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da rotazione, risultando, comunque, più rara.
 
 
-### Intervento di Fundiplicatio secondo Nissen
+## Intervento di Fundiplicatio secondo Nissen
 
 [⤷Radiopaedia - Fundoplication](https://radiopaedia.org/articles/fundoplication)
 
@@ -495,7 +495,7 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 ---
 
-#### Ernia di Bochdalek
+### Ernia di Bochdalek
 
 **L'ernia di Bochdalek**, nota anche come **ernia pleuro-peritoneale**, è il tipo **più comune** di **ernia diaframmatica congenita**.
 
@@ -509,20 +509,20 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 **Negli adulti,** le ernie diaframmatiche posteriori **scoperte incidentalmente** sono **rare** (**0,17%** dei pazienti che hanno una TC addominale). Di queste, le ernie **del lato destro sono più comuni (68%)** e più frequenti nelle donne. La grande maggioranza è piccola, e **solo il 27% contiene organi addominali come intestino, milza o fegato.**
 
-#### Ernia di Morgani
+### Ernia di Morgani
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
 </div>
 
 ---
-### Dismotilità esofagea
+## Dismotilità esofagea
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
 </div>
 
-### Stenosi esofagea
+## Stenosi esofagea
 
 <img style="max-width:400px; width:100%;" src="..\..\..\img\netter-esofagite_stenosi_esofagea.png ">
 <img style="max-width:400px; width:100%;" src="..\..\..\img\netter-stenosi_esofagea_ernia_iatale.png ">
