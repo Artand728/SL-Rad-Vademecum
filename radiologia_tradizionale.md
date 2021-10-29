@@ -364,6 +364,18 @@ STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 ## NOTE
 
+- Se viene richiesta una "RX Scheletro" prima di iniziare una terapia con bifosfonati vanno acquisite immagini di tutti i segmenti schelettrici: cranio, colonna, torace, bacino, arti superiori e arti inferiori. 
+
+  Non importa fare le proiezioni specifiche (tipo polso) a meno che non ci siano in anamensi elementi noti che portino a dover focalizzare l'attenzione su un determinato segmento in particolare, in tal caso tale segmento andrà approfondito con proiezioni aggiuntive specifiche.
+  Chiedere sempre: 
+  - per quale motivo inizia la terapia con i bifosfonati
+  - se per malattia oncologia, approfondire quale
+  - se ci sono elementi noti in anamnesi che possono portare a dover eseguire proiezioni specifiche mirate (pregresse fratture, metastasi ossee note, etc...)
+
+  Una richiesta ben impostata può essere: "RX Scheletro di controllo prima di iniziare terapia medica con bifosfonati in paziente ricoverato affetto da Mieloma Multiplo senza pregresse fratture in anamenesi e senza regioni ossee note che richiedano maggior attenzione a giudizio del clinico.
+
+- 
+
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>
 
