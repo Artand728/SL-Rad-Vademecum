@@ -390,7 +390,7 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 # **PATOLOGIE ESOFAGEE**
 
-<img style="max-width:400px; width:100%; .imageContainer > img:hover {max-width: 100%;}" src="..\..\..\img\netter-schema_malattie_gel.png">
+<img id="image_hover" style="max-width:400px; width:100%; .imagehover > img:hover {max-width: 100%;}" src="..\..\..\img\netter-schema_malattie_gel.png">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
