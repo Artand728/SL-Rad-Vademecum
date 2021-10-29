@@ -31,6 +31,7 @@
   - [ESOFAGO](#esofago)
   - [Spasmo esofageo diffuso](#spasmo-esofageo-diffuso)
   - [Acalsia](#acalsia)
+  - [Presbiesofago](#presbiesofago)
   - [Diverticoli esofagei](#diverticoli-esofagei)
     - [Diverticolo di Zenker](#diverticolo-di-zenker)
     - [Diverticolo di Killian-Jamieson](#diverticolo-di-killian-jamieson)
@@ -48,7 +49,7 @@
     - [Ernia di Morgani](#ernia-di-morgani)
   - [Dismotilità esofagea](#dismotilità-esofagea)
   - [Stenosi esofagea](#stenosi-esofagea)
-  - [REFLUSSO GASTROESOFAGEO](#reflusso-gastroesofageo)
+  - [Reflusso gastroesofageo (MRGE)](#reflusso-gastroesofageo-mrge)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
@@ -415,6 +416,9 @@ Conclusioni: reperti radiologici nei limiti di norma.
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14184461/9be84bbb5c98eed2a6331f5652a73a_big_gallery.jpg">
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14185044/56dd9aa6aaaac28d1a1c35b667ef54_big_gallery.jpg">
 
+## Presbiesofago
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/54301917/33_big_gallery.jpeg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/55881752/0._big_gallery.jpeg">
 
 ## Diverticoli esofagei
 
@@ -548,7 +552,7 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 ---
 
-## REFLUSSO GASTROESOFAGEO
+## Reflusso gastroesofageo (MRGE)
 
 <div style="text-align: center;">
     <video style ="width:100%; max-width:720px;" controls>
