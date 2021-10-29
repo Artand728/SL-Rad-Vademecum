@@ -91,7 +91,7 @@ I turni della sala variano in base ad agenda - inserire i pazienti COVID infondo
   - protesi dentarie rimovibili
   - apparecchi acustici
   - altro
-- Terminato l’esame → programmare il rientro tramite [sito dei trasporti (PaMa)](https://trasportipama.dussmann.it/sanluigi) (interno 7004).
+- Terminato l’esame → **programmare il rientro** tramite sito dei **trasporti (PaMa)** (interno 7004).
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
