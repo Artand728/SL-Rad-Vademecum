@@ -28,13 +28,16 @@
     - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #1](#rx-esofago-stomaco-e-duodeno-negativo-1)
     - [RX ESOFAGO STOMACO E DUODENO NEGATIVO #2](#rx-esofago-stomaco-e-duodeno-negativo-2)
 - [**PATOLOGIE ESOFAGEE**](#patologie-esofagee)
+  - [ESOFAGO](#esofago)
+  - [Spasmo esofageo diffuso](#spasmo-esofageo-diffuso)
+  - [Acalsia](#acalsia)
   - [Diverticoli esofagei](#diverticoli-esofagei)
     - [Diverticolo di Zenker](#diverticolo-di-zenker)
     - [Diverticolo di Killian-Jamieson](#diverticolo-di-killian-jamieson)
     - [Diverticolo paraesofageo da trazione](#diverticolo-paraesofageo-da-trazione)
     - [Diverticolo da pulsione](#diverticolo-da-pulsione)
     - [Diverticolo epifrenico](#diverticolo-epifrenico)
-    - [Pseudodiverticolis](#pseudodiverticolis)
+    - [Pseudodiverticoli](#pseudodiverticoli)
   - [Ernie diaframmatiche](#ernie-diaframmatiche)
   - [Ernie iatale](#ernie-iatale)
     - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
@@ -45,6 +48,7 @@
     - [Ernia di Morgani](#ernia-di-morgani)
   - [Dismotilità esofagea](#dismotilità-esofagea)
   - [Stenosi esofagea](#stenosi-esofagea)
+  - [REFLUSSO GASTROESOFAGEO](#reflusso-gastroesofageo)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
@@ -390,13 +394,27 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 # **PATOLOGIE ESOFAGEE**
 
-<img class="imagehover" style="max-width:400px; width:100%; .imagehover > img:hover {max-width: 100%;}" src="..\..\..\img\netter-schema_malattie_gel.png">
+<img class="imagehover" style="max-width:400px; width:100%;" src="..\..\..\img\netter-schema_malattie_gel.png">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
 </div>
 
 ---
+
+## ESOFAGO
+
+## Spasmo esofageo diffuso
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241337/399ef47719189a2bdc8e84250c8054_big_gallery.jpeg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241356/567f326f5fd1f6235d4ef3db54a714_big_gallery.jpeg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009662/d3c4b23bf237e1484445351f7835d2_big_gallery.jpg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009670/8a674c71796521320c184fa19a5a9c_big_gallery.jpgkV">
+<img style="max-width:200px; width:500%;" src="https://prod-images-static.radiopaedia.org/images/154361/f97b4bf14bac8b978c89915a4b6cdf_big_gallery.jpg">
+
+## Acalsia
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14184461/9be84bbb5c98eed2a6331f5652a73a_big_gallery.jpg">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14185044/56dd9aa6aaaac28d1a1c35b667ef54_big_gallery.jpg">
+
 
 ## Diverticoli esofagei
 
@@ -424,7 +442,7 @@ Conclusioni: reperti radiologici nei limiti di norma.
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg">
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg">
 
-### Pseudodiverticolis
+### Pseudodiverticoli
 
 [⤷Radiopaedia - Oesophageal Intramural Pseudodiverticulosis](https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis)
 
@@ -529,6 +547,15 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 
 ---
+
+## REFLUSSO GASTROESOFAGEO
+
+<div style="text-align: center;">
+    <video style ="width:100%; max-width:720px;" controls>
+       <source src="https://prod-images-static.radiopaedia.org/images/54190002/Media1_Trim.mp4" type="video/mp4">
+    </video>
+</div>
+
 
 ## BIBLIOGRAFIA
 
