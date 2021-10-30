@@ -10,7 +10,7 @@
 
 - - -
 
-# ECOGRAFIA
+# **ECOGRAFIA**
 
 - - -
 
@@ -115,7 +115,7 @@ Da compilare entro fine giornata.
 
 ---
 
-## ESAMI ECOGRAFICI
+## **ESAMI ECOGRAFICI**
 - [ECOGRAFIA ADDOME (ECO AC \| ECO AS \| ECO AI)](exam_flowchart/ECO/eco_addome.html)
 - [ECOGRAFIA RENO-VESCICALE (ECO RV)](exam_flowchart/ECO/eco_reno-vesicale.html)
 - [ECOGRAFIA TIROIDE E PARATIROIDI](exam_flowchart/ECO/eco_tiroide.html)

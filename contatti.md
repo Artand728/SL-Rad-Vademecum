@@ -10,11 +10,11 @@
 
 - - -
 
-# NUMERI INTERNI
+# **NUMERI INTERNI**
 
 - - -
 
-- [NUMERI INTERNI](#numeri-interni)
+- [**NUMERI INTERNI**](#numeri-interni)
   - [REPARTI](#reparti)
   - [RADIOLOGIA](#radiologia)
   - [PRONTO SOCCORSO](#pronto-soccorso)

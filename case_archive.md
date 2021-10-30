@@ -10,7 +10,7 @@
 
 ---
 
-# CASEUAL WEDNESDAY ARCHIVE
+# **CASEUAL WEDNESDAY ARCHIVE**
 Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
 
 ## 13 Ottobre 2021 | Gli spazi peritoneali
