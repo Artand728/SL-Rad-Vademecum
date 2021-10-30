@@ -28,9 +28,9 @@
 
 <br>
 
-- [Radiology](https://pubs.rsna.org/journal/radiology)
-- [Radiographics](https://pubs.rsna.org/journal/radiographics)
-- [The New England Journal of Medicine - Review](https://www.nejm.org/medical-articles/review-article?)
+- [Radiology](https://pubs.rsna.org/journal/radiology){:target="_blank"}
+- [Radiographics](https://pubs.rsna.org/journal/radiographics){:target="_blank"}
+- [The New England Journal of Medicine - Review](https://www.nejm.org/medical-articles/review-article?){:target="_blank"}
 
 <br>
 
