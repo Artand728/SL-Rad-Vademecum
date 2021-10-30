@@ -413,7 +413,7 @@ Conclusioni: reperti radiologici nei limiti di norma.
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241337/399ef47719189a2bdc8e84250c8054_big_gallery.jpeg">
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241356/567f326f5fd1f6235d4ef3db54a714_big_gallery.jpeg">
 <img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009662/d3c4b23bf237e1484445351f7835d2_big_gallery.jpg">
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009670/8a674c71796521320c184fa19a5a9c_big_gallery.jpgkV">
+<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009670/8a674c71796521320c184fa19a5a9c_big_gallery.jpg">
 <img style="max-width:200px; width:500%;" src="https://prod-images-static.radiopaedia.org/images/154361/f97b4bf14bac8b978c89915a4b6cdf_big_gallery.jpg">
 
 ## Acalsia
