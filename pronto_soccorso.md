@@ -90,6 +90,10 @@ Solitamente gli esami TC vengono seguiti dallo strutturato.
 
 [**Scansioni aggiuntive**](/tomografia_computerizzata.md#fasi-aggiuntive)
 
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
+
 ---
 
 ## ESAMI PARTICOLARI

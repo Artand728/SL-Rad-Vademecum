@@ -773,7 +773,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - **DILATAZIONE DELLE VIE ESCRETRICI**
 	- acquisire una `tardiva urologica a 10'`
 - **CRANIO**
-  - Se *mosso*: ripetere l'esame
+  - Se *mosso* (tavolato cranico sfumato): ripetere l'esame
   - Se *artefatti da indurimento del fascio*: ripetere scansioni assiali sull'area interessata facendo inclinare la TC
 - **POLMONE**
   - *Artefatti da respiro*: se un'area non è valutabile ripetere scansione nell'area di interesse.
