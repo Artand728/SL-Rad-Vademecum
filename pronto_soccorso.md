@@ -18,6 +18,7 @@
   - [ORARI](#orari)
   - [SALE](#sale)
   - [TELEFONO, INTERFONO E RICHIESTE](#telefono-interfono-e-richieste)
+  - [ESAMI PARTICOLARI](#esami-particolari)
   - [NOTE](#note)
 
 - - -
@@ -60,6 +61,7 @@
 - N° interno del richiedente
 - Covid +/-
 - Per esame con mdc richiedere creatinina, allergie, accesso venoso valido e consenso informato
+- Riportare tutte le informazioni sul foglio riassuntivo della giornata
 
 `Se vi chiamano per RX TORACE A LETTO, dite di richiamare i tecnici (6392).`
 
@@ -76,6 +78,12 @@
 <div style="text-align: right">
 <a href="#pronto-soccorso">⬆️</a>
 </div>
+
+---
+
+## ESAMI PARTICOLARI
+- **Rosso trombolisi**: unica vera urgenza indifferibile. Occorre avvisare subito i tecnici e lo strutturato.  
+  Al termine dell'esame, se positivo, occorre inviare le immagini su *TEMPORE* (portale che permette la visualizzazione dell'esame ai neurochirurghi). Questo passaggio viene spesso eseguito dai tecnici.
 
 ---
 
