@@ -85,7 +85,7 @@ Da compilare entro fine giornata.
 
 - **Quesito diagnostico** appropriato e chiaro
 - Assenza di **precedenti recenti** per lo stesso quesito (se sono presenti bisogna capire cosa è cambiato nel frattempo e perchè lo stiamo ripetendo)  
-  Ad esempio, è inutile valutare ecograficamente le dimensioni di una milza due giorni dopo che il paziente ha eseguito un TC addome, basta aprire lo studio precedente e misurarla.
+  Ad esempio, è inutile valutare ecograficamente le dimensioni di una milza due giorni dopo che il paziente ha eseguito una TC addome, basta aprire lo studio precedente e misurarla.
 - Accettare prima gli **esami urgenti**, i controlli possono aspettare qualche giorno (ma non troppo, i pazienti ricoverati sono un grande costo per l'ospedale)
 - Valutare se possibile rispondere al quesito con l'ecografia e non sia invece necessario uno studio con un'altra metodica
 
@@ -103,7 +103,7 @@ Da compilare entro fine giornata.
 - **Eco-color doppler arterie renali** → viene svolto dal Prof e da pochi altri strutturati, da segnare preferibilmente venerdì mattina dopo essersi accertati dell'appropriatezza della richiesta (stenosi arterie renali con pregressa consulenza dei nefrologi) → chiedere all'infermiera dell'ecografia.
 - **Eco-color doppler ARTERIOSO**: 
   - accettare SOLO se la richiesta proviene dalla Cardiologia dell'Ospedale (con richiesta telefonica esplicita) per controllo post o pre-chirurgico. 
-  - Per ogni altro motivo chiamare per annullare la richiesta indicando di contattare la chirurgia vascolare).
+  - Per ogni altro motivo chiamare per annullare la richiesta indicando di contattare la chirurgia vascolare.
 - **Posizionamento di PICC, PORT, ecc** → IGNORARE (sono procedure svolte dalla radiologia interventistica in Sala 1, se chiamano indicare di contattare l'interno 7003).
 - **Prestazioni della Neurologia per ECO-TSA** 
   - Vengono spesso eseguiti direttamente dai neurologi
@@ -152,7 +152,7 @@ Da compilare entro fine giornata.
 - Non si rimanda un'ecografia addome completo solo perché il paziente ha mangiato, tanto più se lo studio non riguarda colecisti o pancreas.
 - Se arriva una cartella clinica per una consulenza per gli interventisti (tanto più se da un ospedale esterno) deve necessariamente passare prima in segretaria per essere registrata come consulenza.
 - Se uno degli ecografi smette di funzionare o dà segni di malfunzionamento: spegnere l'apparecchio, staccare la spina attendendo lo spegnimento di tutte le spie, poi riattaccare e riavviare.  
-  Se contiua a dare segni di malfunzionamento contattare il capotecnico (6408) che contatterà i servizi informatici.
+  Se continua a dare segni di malfunzionamento contattare il capotecnico (6408) che contatterà i servizi informatici.
 
 <div style="text-align: right">
 <a href="#ecografia">⬆️</a>
