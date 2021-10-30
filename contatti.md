@@ -12,6 +12,16 @@
 
 # NUMERI INTERNI
 
+- - -
+
+- [NUMERI INTERNI](#numeri-interni)
+  - [REPARTI](#reparti)
+  - [RADIOLOGIA](#radiologia)
+  - [PRONTO SOCCORSO](#pronto-soccorso)
+  - [SERVIZI](#servizi)
+
+- - -
+
 ## REPARTI
 
 | CODICE | NOME REPARTO                                           |          INTERNO          |
