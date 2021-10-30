@@ -12,6 +12,8 @@
 
 # NUMERI INTERNI
 
+## REPARTI
+
 | CODICE | NOME REPARTO                                           |          INTERNO          |
 | ------ | ------------------------------------------------------ | :-----------------------: |
 | MET    | MEDICAL EMERGENCY TEAM                                 |           6959            |
@@ -92,13 +94,15 @@
 |        |                                                        |                           |
 
 |        |                                              |                           |
-|        | TRASPORTI                                    |           7004            |
+
 
 <div style="text-align: right">
 <a href="#numeri-interni">⬆️</a>
 </div>
 
 ---
+
+## RADIOLOGIA
 
  | RADIOLOGIA                 |   INTERNO   |
  | -------------------------- | :---------: |
@@ -116,13 +120,13 @@
  | SEGRETERIA RADIOLOGIA      | 6401 - 6833 |
  | RADIOTERAPIA               |    6043     |
  | MEDICINA NUCLEARE          |    6404     |
- | Servizi informatici        |    80999    |
 
 <div style="text-align: right">
 <a href="#numeri-interni">⬆️</a>
 </div>
 
 ---
+## PRONTO SOCCORSO
 
  | PRONTO SOCCORSO           |   INTERNO   |
  | ------------------------- | :---------: |
@@ -143,6 +147,17 @@
  | SALA GESSI                |    7136     |
 
 <div style="text-align: right">
+<a href="#numeri-interni">⬆️</a>
+</div>
+
+---
+
+## SERVIZI
+ 
+ |Servizi informatici         |    80999    |  
+ |TRASPORTI                   |     7004    |
+
+ <div style="text-align: right">
 <a href="#numeri-interni">⬆️</a>
 </div>
 
