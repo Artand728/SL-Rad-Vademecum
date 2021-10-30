@@ -26,7 +26,7 @@
 	- [SCANSIONI BASALI](#scansioni-basali)
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
 	- [FASI](#fasi)
-	- [PROTOCOLLI TC](#protocolli-tc)
+	- [PROTOCOLLI](#protocolli)
 		- [TRAUMA CRANICO](#trauma-cranico)
 		- [CIRCOLO DI WILLIS (ROSSO TROMBOLISI)](#circolo-di-willis-rosso-trombolisi)
 		- [TUMORE TIROIDE](#tumore-tiroide)
@@ -344,7 +344,7 @@ Fare sempre le scansioni basali se:
 
 ---
 
-## PROTOCOLLI TC
+## PROTOCOLLI
 
 Prima di impostare le fasi del protocollo controllare quali fasi sono state acquisite negli esami precedenti (soprattutto in caso di ri-stadiazione o follow-up)
 

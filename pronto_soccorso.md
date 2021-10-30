@@ -18,6 +18,7 @@
   - [ORARI](#orari)
   - [SALE](#sale)
   - [TELEFONO, INTERFONO E RICHIESTE](#telefono-interfono-e-richieste)
+  - [TC](#tc)
   - [ESAMI PARTICOLARI](#esami-particolari)
   - [NOTE](#note)
 
@@ -78,6 +79,16 @@
 <div style="text-align: right">
 <a href="#pronto-soccorso">⬆️</a>
 </div>
+
+---
+
+## TC
+
+Solitamente gli esami TC vengono seguiti dallo strutturato. 
+
+[**Protocolli**](/tomografia_computerizzata.md)
+
+[**Scansioni aggiuntive**]()
 
 ---
 
