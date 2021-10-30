@@ -194,6 +194,8 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 
 1. **QUESITO DIAGNOSTICO**
 
+    [&rarr; Storico dei quesiti diagnostici e delle conclusioni](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/RX/CONTRASTOGRAFICI/q&a_transito_gastro-esofageo.html)
+
 <br>
 
 
@@ -335,6 +337,8 @@ Si prenota l'esame il `lunedì` o il `giovedì`.
 <br>
 
 11. **CONCLUSIONI**
+
+    [&rarr; Storico dei quesiti diagnostici e delle conclusioni](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/RX/CONTRASTOGRAFICI/q&a_transito_gastro-esofageo.html)
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
