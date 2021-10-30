@@ -535,6 +535,8 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 **Negli adulti,** le ernie diaframmatiche posteriori **scoperte incidentalmente** sono **rare** (**0,17%** dei pazienti che hanno una TC addominale). Di queste, le ernie **del lato destro sono più comuni (68%)** e più frequenti nelle donne. La grande maggioranza è piccola, e **solo il 27% contiene organi addominali come intestino, milza o fegato.**
 
+<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-ernia_bochdalek.png">
+
 ### Ernia di Morgani
 
 <div style="text-align: right">
