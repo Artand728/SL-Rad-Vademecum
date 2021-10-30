@@ -41,6 +41,12 @@
 
 <br>
 
+- [Raccomandazioni SIRM - Gestione reazioni a mdc](https://sirm.org/wp-content/uploads/2021/04/312-Documento-intersocietario-SIRM-SIAARTI-2019-gestione-reazione-avversa-allergica-a-mdc.pdf){:target="_blank"}
+- [Linee Guida AIOM](https://www.aiom.it/linee-guida-aiom/){:target="_blank"}
+- [ACR Reporting and Data Systems (RADS)](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems){:target="_blank"}
+
+<br>
+
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}{:target="_blank"}
 - [Google Scholar](https://www.deepl.com/translator){:target="_blank"}
 
