@@ -86,9 +86,9 @@
 
 Solitamente gli esami TC vengono seguiti dallo strutturato. 
 
-[**Protocolli**](/tomografia_computerizzata/##PROTOCOLLI.md)
+[**Protocolli**](/tomografia_computerizzata.md/##PROTOCOLLI)
 
-[**Scansioni aggiuntive**]()
+[**Scansioni aggiuntive**](/tomografia_computerizzata.md/###FASI-AGGIUNTIVE)
 
 ---
 
