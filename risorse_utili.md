@@ -14,9 +14,6 @@
 
 - - -
 
-<div target="_blank" rel="noopener noreferrer">
+- [[Dynamed]](https://www.dynamed.com/){:target="_blank"}
 
-  - [[Dynamed]](https://www.dynamed.com/)
-
-</div>
 
