@@ -94,17 +94,18 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 ---
 
 ## PREMEDICAZIONE ANTIALLERGICA
-Da fare ogni volta che un paziente è allergico altrimenti l'esame deve essere rimandato.
-Nel caso di dubbia allergia a mezzo di contrasto non usare in nessun caso il mdc.
+
+Da eseguire ogni volta che ci sia un'allergia nota (anche non al mdc, come da linee guida aziendali).  
+Se in passato la reazione allergica è stata imputata a un preciso mdc si cerca di usarne uno differente.
 
 ### PREMEDICAZIONE ANTIALLERGICA RAPIDA
 
-Nel caso in cui sia necessario un esame in urgenza che non permette l'esecuzione di una adeguata preparazione anti-allergica.
+Se è necessario eseguire un esame in regime d'urgenza a un paziente allergico si esegue la premedicazione antiallergica fast.  
 1h prima di eseguire l'esame con la somministrazione di mezzo di contrasto il medico che richiede l'esame somministra al paziente:
-- 10mg di Trimeton (Clorfenamina - Anti H1 di prima generazione)
+- 10 mg di Trimeton (Clorfenamina - Anti H1 di prima generazione)
 - 125 mg di Solumedrol (Metilprednisolone)
 
-Non esiste un protocollo aziendale per la premedicazione rapida, il medico di reparto può modularla in base al suo giudizio posto che questa consiste di un cortisonico e un anti-istaminico.
+Non esiste un protocollo aziendale per la premedicazione rapida, il medico di reparto può modularla in base al suo giudizio, posto che questa consiste di un cortisonico e un anti-istaminico.
 
 >### PREMEDICAZIONE FARMACOLOGICA PER PAZIENTI A RISCHIO DI SVILUPPARE REAZIONI AVVERSE AI MEZZI DI CONTRASTO PER INDAGINI RADIOGRAFICHE
 >
@@ -141,7 +142,7 @@ Non esiste un protocollo aziendale per la premedicazione rapida, il medico di re
 >
 > ---
 >
->**ADRENALINA fiale** (_1 mg/ml_) da usare al bisogno in caso di comparsa della reazione di intolleranza (*0.3 -0.5 mg* = **1/3 - 1/2 di fila** eventualmente **ripetibili dopo pochi minuti**: a disposizione del Servizio di Radiologia per le emergenze.
+>**ADRENALINA fiale** (_1 mg/ml_) da usare al bisogno in caso di comparsa della reazione di intolleranza (*0.3 -0.5 mg* = **1/3 - 1/2 di fila**) eventualmente **ripetibili dopo pochi minuti**: a disposizione del Servizio di Radiologia per le emergenze.
 > 
 
 <div style="text-align: right">
@@ -156,8 +157,9 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
 
-
->**GFR** > **45 ml**/min/1.73 m²
+> ### FUNZIONALITA' RENALE
+>
+> **GFR** > **45 ml**/min/1.73 m²
 >
 >**Non** è **neccessaria** la **premedicazione**.
 >
@@ -179,7 +181,7 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 >
 > In alcuni casi quando la funzionalità renale è su valori border si può decidere di somministrare solo 500 cc di fisologica al posto di 1000 cc.
 >
->**Sopsendere Metformina** 48 ore prima dell'esame e riprendere l'assunzione 48 ore dopo l'esame.
+>**Sospendere Metformina** 48 ore prima dell'esame e riprendere l'assunzione 48 ore dopo l'esame.
 >
 >A giudizo del medico curante ricontrollare la funzionalità renale a 48-72 ore dalla somministrazione del mdc.
 >
@@ -200,25 +202,25 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 
 1.	Busta gialla + bianca
 2.	Prendere/stampare etichetta anagrafica
-3.	Chiedere al paziente il referto del medico che lo invia ad eseguire l'esame (oncologo, urologo et al.) + ultimi esami di imaging eseguiti in un centro esterno (soprattuto TC, ma nel caso anche RMN o ecografie)
-	- Se l'esame è stato eseguito presso un centro esterno assicurarsi di avere il CD e caricarlo su Telemis
+3.	Chiedere al paziente il **referto** del medico che lo invia ad eseguire l'esame (oncologo, urologo et al.) + **ultimi esami di imaging** eseguiti in un centro esterno (soprattuto TC, ma nel caso anche RMN o ecografie)
+	- Se l'esame è stato eseguito presso un centro esterno assicurarsi di avere il *CD* e *caricarlo su Telemis*
 	- Fotocopiare il referto dell'esame e allegarlo al plico da consegnare allo strutturato per la refertazione (alcuni preferiscono una foto via wp)
 	- Restituire gli esami precedenti al paziente (la visita oncologica è da tenere, verrà restituita alla consegna del referto)
-4.	Controllare creatinina (max 3 mesi precedenti):
+4.	Controllare **creatinina** (max 3 mesi precedenti):
 	- Se il pz la porta ok
 	- Se l’ha eseguita presso l'ospedale si può vedere sul portale Concerto:
 		- Aprire Concerto
 		- Referti → Interrogazione richieste
 		- Spuntare “Senza omonimi” e cercare il pz
-5.	Far FIRMARE IL CONSENSO INFORMATO (se esame con MdC)
+5.	Far **FIRMARE IL CONSENSO INFORMATO** (se esame con MdC)
 	- Casella dell’informativa → far firmare sempre se MdC
-	- Casella della preparazione. Compilare se fa qualche premedicazione:
+	- Casella della **preparazione**. Compilare se fa qualche premedicazione:
 		- Antiallergica
 		- Nefroprotettiva
 	- Domande importanti:
-		- Se allergico → premedicazione pure se è allergico alla kryptonite
-		- Se è diabetico (sospensione metformina 48h pre esame)
-		- Se pz monorene o ha eGFR al limite dovrà idratare → importante sapere se ha scompenso cardiaco
+		- Se **allergico** → premedicazione SEMPRE
+		- Se è **diabetico** (sospensione metformina 48h pre esame)
+		- Se pz **monorene** o ha **eGFR al limite** dovrà idratare → importante sapere se ha scompenso cardiaco
 		- Indagare se ha fatto la premedicazione nel modo corretto
 6.	Compilare modulo piccolo per l’esecuzione dell’esame
 	- Cognome pz
@@ -248,24 +250,24 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 
 Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica (circa 30cc). 
 Durante il lavaggio il tecnico o un medico sta accanto al paziente per valutare il vaso.
-Il lavaggio può essere avviato sia dall'iniettore nella sala della macchina che dalla console. 
-Sul monitor dell'iniettore del mdc alla console un grafico indica la pressione nelle canaline (e nel vaso), la pressione (psi) deve essere inferiore alla linea superiore.
-Un'eventuale fase basale va acquisita prima di provare l'accesso per evitare che del mdc rimasto nelle canaline passi in circolo e crei delle false immagini.
+Il lavaggio può essere avviato sia dall'iniettore nella sala della macchina che dalla console.  
+Sul monitor dell'iniettore del mdc alla console un grafico indica la pressione nelle canaline (e nel vaso), la pressione (psi) deve essere inferiore alla linea superiore.  
+> Un'eventuale fase basale va acquisita prima di provare l'accesso per evitare che del mdc rimasto nelle canaline passi in circolo e crei delle false immagini.
 
 ### Flusso accessi
 
-Gli esami arteriosi richiedono un flusso maggiore di mdc (fino a 5cc/min) e spesso in questi esami la somministrazione di mdc è seguita da un bolo di fisologica (30cc) che spinge il mezzo di contrasto. 
-Il volume in cui il mdc dovrà distribuirsi è minore e quindi si usano volumi inferiori di mdc.
-Nelle fasi venose non è necessario un bolo compatto di mdc e quindi si utilizzano flussi minori ma maggiori volumi di mdc (130cc).
+Gli **esami arteriosi** richiedono un *flusso maggiore* di mdc (fino a 5cc/min) e spesso in questi esami la somministrazione di mdc è seguita da un bolo di fisologica (30cc) che spinge il mezzo di contrasto. 
+Il volume in cui il mdc dovrà distribuirsi è minore e quindi si usano *volumi inferiori di mdc*.  
+Nelle **fasi venose** non è necessario un bolo compatto di mdc e quindi si utilizzano *flussi minori* ma *maggiori volumi di mdc* (130cc).
 
-- Fase arteriosa aorta: flusso mdc = 4cc/sec - 4,5cc/sec / - 5cc/sec
+- Fase arteriosa vascolare &rarr; flusso mdc = 4cc/sec - 4,5cc/sec / - 5cc/sec
   - Accesso verde o almeno rosa (18G o 20G)
-- Fase arteriosa: flusso mdc > 3,5cc/sec
+- Fase arteriosa parenchimale &rarr; flusso mdc > 3,5cc/sec
   - Accesso verde o almeno rosa (18G o 20G)
-- Fase venosa portale: flusso mdc = 2cc/sec - 2,5cc/sec
+- Fase venosa portale &rarr; flusso mdc = 2cc/sec - 2,5cc/sec
   - Accesso verde, rosa o azzurro (18G, 20G o anche 22G)
 
-Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è meramente indicativo, solitamente è così ma dipenende tutto dalle vene del paziente.
+Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è meramente indicativo, l'elemento discriminante sono le vene del paziente.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -275,7 +277,7 @@ Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è me
 
 ## STRAVASO MDC
 Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
-Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
+Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -291,6 +293,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 	1. **Interventi chirurgici**
 	2. **Radioterapia** (**RT**)
 	3. **Radiofrequnze** (**RF**)
+3. Episodio recente di **ematuria** (pazienti urologici/nefrologici)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -300,9 +303,9 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 
 ## CONCERTO - ESAMI LABORATORIO OSPEDALE
 
-- Il giorno dell'esame portare un esame della **creatinina** svolto nei **tre mesi** antecedenti l'esame TC, 
+- Esame della **creatinina** svolto nei **tre mesi** antecedenti l'esame TC, 
 	- se il paziente non ha portato gli esami ma questi sono stati eseguiti in ospedale si può risalire tramite Concerto 
-- Se il paziente soffre di **patologie renali** occorre un esame della **creatinina** risalente ad **al massimo 14 giorni prima** del esame TC.
+- Se il paziente soffre di **patologie renali** occorre un esame della **creatinina** risalente al massimo a **14 giorni prima**.
 	- secondo le Linee Guida dell'ospedale **massimo 7 giorni prima**
 
 <div style="text-align: right">
@@ -314,14 +317,15 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 ## FASI
 - Basale
 - Angio-TEP (Bolus-tracking)
-- Arteriosa Angio (6")
+- Arteriosa Angio per aorta(6")
+- Arteriosa vascolare (18"-20")
 - Arteriosa parenchimale (40")
 - Portale (80")
-	- deve essere visiibile la vena porta e il rene impregnato
+	- deve essere visibile la vena porta e il rene impregnato
 - Nefrografica (90")
 - Quadrifasica epatica (Tardiva a 180")
 - Tardiva colangio (6')
-- Tardiva urologica (10')
+- Tardiva urologica (10'-12')
 - Bolus Split:
 	- Venosa
 	- Escretrice urologica
@@ -335,12 +339,6 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in canula.
 ---
 
 ## PROTOCOLLI TC
-
-<div style="text-align: right">
-<a href="#tomografia-computerizzata">⬆️</a>
-</div>
-
----
 
 Prima di impostare le fasi del protocollo controllare quali fasi sono state acquisite negli esami precedenti (soprattutto in caso di ri-stadiazione o follow-up)
 
@@ -364,7 +362,7 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 - CR Basale
 	- valutare aree interessate 
 - Fase arteriosa a 18" (Bolus Tracking all'arco aortico con threshold a 100 HU)
-	- acquisizione ascendente in direzione craniale dall'arco aoritco fino al vertice
+	- acquisizione ascendente in direzione craniale dall'arco aortico fino al vertice
 - Ripassaggio immediato discendente dal vertice del cranio fino al livello dei nuclei della base
 
 <div style="text-align: right">
@@ -391,7 +389,7 @@ Per quesito diagnostico mirato a laringe o faringe
 		- a meno che non vi sia un coinvolgimento della rinofringe da parte del tumore → in tal caso assicurarsi che tutta la rinofaringe sia compresa nella scansione.
 
 Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
-- Basla collo
+- Basale collo
 - TOR + AC portale (80")
 - Ripassaggio su Collo con mdc (circa a 100")
 
@@ -404,7 +402,6 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 ### TUMORE LARINGE (follow-up)
 
 - Collo Basale
-- 
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -413,6 +410,7 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 ---
 
 ### TORACE
+
 - Basale
 
 <div style="text-align: right">
@@ -427,7 +425,7 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 	- Paziente poco collobarante che non esegue una buona inspirio
 		- per valutare guardare la trachea posteriore: se collabisce l'inspirazione non è adeguata, in una buona inspirazione dovrebbe assumere forma ovalare.
 
-	- Patologie Ostruttive:
+	- Patologie Ostruttive (valutare ultima spirometria):
 		- Asma
 		- BPCO
 			- valutare se evidente immagine a mosaico
@@ -477,7 +475,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ### TUMORE MAMMELLA (stadiazione)
 - TOR lungo (40")
 - AC portale (80")
-- CR (5'), eventualemente se richiesto
+- CR (5'), eventualmente se richiesto (sintomi)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -488,7 +486,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ### TUMORE MAMMELLA (ri-stadiazione)
 - TOR lungo (40")
 - AC portale (80")
-- CR (5'), eventualemente se richiesto
+- CR (5'), eventualmente se richiesto (sintomi)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -499,7 +497,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ### TUMORE EMATOLOGICO
 - TOR alto 
 - AC portale (80")
-- a volte viene richiesto CR
+- a volte viene richiesto CR (5')
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -508,7 +506,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ---
 
 ### ESOFAGEI
-- 2 bicchieri di H20 prima dell'esame
+- 2 bicchieri di H20 prima dell'esame (chiedere allo strutturato, alcuni non lo ritengono necessario)
 - TOR + AC portale (80")
 
 <div style="text-align: right">
@@ -518,7 +516,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ---
 
 ### GASTRICI
-- 2 bicchieri di H20 prima dell'esame
+- 2 bicchieri di H20 prima dell'esame (chiedere allo strutturato, alcuni non lo ritengono necessario)
 - TOR + AC portale (80")
 
 <div style="text-align: right">
@@ -530,8 +528,8 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ### FEGATO
 - Quadrifasica HCC (tardiva 180")
 	- AS basale
-	- AS aretriosa parenchimale (40")
-	- AC posrtale
+	- AS arteriosa parenchimale (40")
+	- AC portale
 	- AS tardiva a 180"
 - Colangiografica tardiva a (5'-10')
 - Se viene richiesto TOR eseguire in portale (80")
@@ -575,6 +573,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 - AS Basale
 - AS arterioso (40")
 - AC portale (80")
+  - Se è un follow-up può essere sufficiente la portale (chiedere allo strutturato)
 - (eventuale) AS a (180")
 
 <div style="text-align: right">
@@ -595,12 +594,11 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ### TUMORE RENE (stadiazione)
 - Arteriosa Cortico-Midollare (equivalente ad arteriosa parenchimale a 40")
-   - solo se tumori a cellule chiare (fortissima impregnazione arteriosa)
-	   - anche oncocitomi hanno una simile impreganazione arteriosa
+   - solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
 - Nefrografica (90")
-- Tardiva (10') - opzionale per valutare infiltrazione delle vie urinarie
+- Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
 
-Soltatnto i tumori a cellule chiare hanno una forte impregnazione in fare artriosa, i tumori papillari hanno una maggiore impreganzione tardiva.
+Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazione in fare arteriosa; i tumori papillari hanno una maggiore impregnazione tardiva.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -613,7 +611,7 @@ Soltatnto i tumori a cellule chiare hanno una forte impregnazione in fare artrio
 - TOR + AC nefrografica (90")
 - eventualmente Tardiva (10')
 
-Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase artriosa vascolare.
+Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase arteriosa vascolare.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
