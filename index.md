@@ -32,7 +32,10 @@
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://www.mdcalc.com/mdrd-gfr-equation" target="_blank" rel="noopener noreferrer"><img src="icons\MDCalc-logo.png" width="64px" /> &nbsp; MDRD GFR Calculator</a>
   <br>
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://dicomviewer.net/" target="_blank" rel="noopener noreferrer"><img src="icons\DICOM-viewer.png" width="64px" /> &nbsp; DICOM Viewer</a>
+  <br>
+  <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/risorse_utili.html"><img src="icons\risorse-utili.png" width="64px" /> &nbsp; Risorse utili</a>
 </div>
+
 <br>
 <br>
 <br>
