@@ -10,11 +10,11 @@
 
 - - -
 
-# **RADIOLOGIA TRADIZIONALE**
+# RADIOLOGIA TRADIZIONALE
 
 - - -
 
-- [**RADIOLOGIA TRADIZIONALE**](#radiologiatradizionale)
+- [RADIOLOGIA TRADIZIONALE](#radiologiatradizionale)
   - [ATTIVITA' SALA](#attivita-sala)
   - [REFERTAZIONE E TELEFONO](#refertazione-e-telefono)
   - [DENSITOMETRIA OSSEA](#densitometria-ossea)
