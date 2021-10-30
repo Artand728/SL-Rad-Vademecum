@@ -159,7 +159,7 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
 
-[Qui](https://www.mdcalc.com/mdrd-gfr-equation) potete calcolare l'eGFR.
+<a href="https://www.mdcalc.com/mdrd-gfr-equation" target="_blank" rel="noopener noreferrer"> Qui</a> potete calcolare l'eGFR.
 
 <br>
 
@@ -167,7 +167,7 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 >
 > **GFR** > **45 ml**/min/1.73 m²
 >
->**Non** è **neccessaria** la **premedicazione**.
+>**Non** è **necessaria** la **premedicazione**.
 >
 >---
 >
