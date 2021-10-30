@@ -11,7 +11,6 @@
 - - -
 
 # TOMOGRAFIA COMPUTERIZZATA
-GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 
 - - -
 
@@ -56,8 +55,8 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 		- [COLON TC (colonscopia virtuale)](#colon-tc-colonscopia-virtuale)
 		- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
 		- [TUMORE ENDOMETRIO](#tumore-endometrio)
-	- [PAZIENTI ONCOLOGICI](#pazienti-oncologici)
-	- [QUANDO FARE IL RIPASSAGGIO](#quando-fare-il-ripassaggio)
+		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
+	- [FASI AGGIUNTIVE](#fasi-aggiuntive)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [NOTE](#note)
 
@@ -69,8 +68,7 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 | 10A    | ONCOLOGIA MEDICA             |
 | 8A     | ONCOLOGIA POLMONARE          |
 | 5A     | EMATOLOGIA                   |
-| 9A     | UROLOGIA                     |
-| 9A     | DH AMBULATORIO UROLOGIA      |
+| 9A     | UROLOGIA REPARTO/DH          |
 | FPR    | FISIOPATOLOGIA RIABILITATIVA |
 | MURG   | MEDICINA D’URGENZA           |
 | URG    | URGENZE                      |
@@ -97,6 +95,8 @@ GESTIONE SALA TC (AGENDA / PROTOCOLLI)
 
 Da eseguire ogni volta che ci sia un'allergia nota (anche non al mdc, come da linee guida aziendali).  
 Se in passato la reazione allergica è stata imputata a un preciso mdc si cerca di usarne uno differente.
+  
+<br>
 
 ### PREMEDICAZIONE ANTIALLERGICA RAPIDA
 
@@ -106,6 +106,8 @@ Se è necessario eseguire un esame in regime d'urgenza a un paziente allergico s
 - 125 mg di Solumedrol (Metilprednisolone)
 
 Non esiste un protocollo aziendale per la premedicazione rapida, il medico di reparto può modularla in base al suo giudizio, posto che questa consiste di un cortisonico e un anti-istaminico.
+
+<br>
 
 >### PREMEDICAZIONE FARMACOLOGICA PER PAZIENTI A RISCHIO DI SVILUPPARE REAZIONI AVVERSE AI MEZZI DI CONTRASTO PER INDAGINI RADIOGRAFICHE
 >
@@ -156,6 +158,10 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 - idratazione 
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
+
+[Qui](https://www.mdcalc.com/mdrd-gfr-equation) potete calcolare l'eGFR.
+
+<br>
 
 > ### FUNZIONALITA' RENALE
 >
@@ -287,7 +293,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula
 
 ## SCANSIONI BASALI
 
-**Fare** sempre le **scansioni basali** se:
+Fare sempre le scansioni basali se:
 1. **Non** ci sono **esami precedenti**
 2. **Se dall'ultimo esame TC** il paziente si è sottoposto a:
 	1. **Interventi chirurgici**
@@ -531,7 +537,6 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 	- AS arteriosa parenchimale (40")
 	- AC portale
 	- AS tardiva a 180"
-- Colangiografica tardiva a (5'-10')
 - Se viene richiesto TOR eseguire in portale (80")
 
 <div style="text-align: right">
@@ -543,8 +548,8 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ### FEGATO (sospetto Colangiocarcinoma)
 - Quadrifasica HCC (tardiva 180")
 	- AS basale
-	- AS aretriosa parenchimale (40")
-	- AC posrtale
+	- AS arteriosa parenchimale (40")
+	- AC portale
 	- AS tardiva a 180"
 - Colangiografica tardiva a (5'-10')
 - Se viene richiesto TOR eseguire in portale (80")
@@ -558,9 +563,9 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ### TUMORE PANCREAS (Stadiazione)
 - AS basale
 - AS arterioso parenchimale (40")
-	- Se chiedono anche torace → TOR LUNGO
 - AC portale (80")
-- (eventuale) AS a (180") 
+	- Se chiedono anche torace → TOR LUNGO
+- (eventuale) AS a 180"
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -641,8 +646,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - AS basale
 - AS cortico-midollare (40")
 - AC nefrografica (90")
-- eventualmente tadiva 
-
+- eventualmente tardiva
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -664,7 +668,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ### TUMORE COLON
 - TOR + AC portale (80")
-- CR basale + CR tardiva (5')
+- CR basale + CR tardiva 5' (se richiesto)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -674,16 +678,22 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ### COLON TC (colonscopia virtuale)
 - 30mL Grafin in 1L di H20 2h prima dell'esame
-- Buscopan 1/2h prima dell'esame
+- Buscopan 30 min prima dell'esame
 
 > Fissare in agenda nel posto dedicato `COLON` il Martedì mattina oppure il Lunedì in posto dedicato `COLON CAS`
  
  > Richiesta da:
- > - gastroentrologi interni dell'ospedale
+ > - gastroenterologi interni dell'ospedale
  > - chirurgia generale dell'ospedale
  > - prevenzione serena
 
-> Il paziente deve arrivare 2h ore prima dell'esame con preparazione data dai gastrenterologi e la terminano qui in Radiologia Centrale.
+> Si prenota se:
+> - Tentativo infruttuoso di effettuare una colonscopia
+> - Si può prenotare per il giorno stesso se lo richiedono espressamente i gastroenterologi (chiedere sempre prima allo strutturato)
+
+> Il paziente deve arrivare 2h ore prima dell'esame con preparazione data dai gastrenterologi e la terminiamo qui in Radiologia Centrale.
+
+> Assicurarsi che il paziente abbia il referto dell'ultima visita GEL o chirurgica eseguita e dell'ultima colonscopia effettuata.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -693,7 +703,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ### TUMORE PROSTATA (stadiazione)
 - AS Basale 
-	- Attenzione ai surreini: sede tipica di metastasi da prostata (GS > 7)
+	- Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
 - TOR + AC portale (80")
 - CR basale + CR tardiva (5')
 	- **Gleason Score *inferiore* a 3+4**: solo AC portale
@@ -706,14 +716,28 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 ---
 
 ### TUMORE ENDOMETRIO
-- TOR
-- AC portale (80")
+- TOR e AC portale (80")
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+
+---
+
+### STUDIO ANGIOGRAFICO ARTI INFERIORI
+
+- Basale dal carrefour iliaco ai piedi
+- Fase arteriosa con bolus tracking (ROI in aorta addominale sotto-renale)
+- Fase venosa a 60"
+  - Da discutere sempre con lo strutturato, alcuni preferiscono la venosa a 120" (con eventuale ripassaggio a 180")
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
 </div>
 
 ---
+<!--  RIPETIZIONE
 
 ## PAZIENTI ONCOLOGICI
 - relazione oncologica
@@ -728,18 +752,30 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 </div>
 
 ---
+-->
+## FASI AGGIUNTIVE
 
-## QUANDO FARE IL RIPASSAGGIO
-Leggere gli esami precedenti e vedere le immagini.
+> Leggere gli esami precedenti e vedere le immagini.
+
 - **LESIONE IPODENSA DEL FEGATO DI NUOVO RISCONTRO**: Se appaiono delle lesioni non presenti ai precedenti esami
 	- Se il paziente è in follow-up oncologico e appaiono multiple lesioni ipodense compatibili con metastasi è possibile evitare il ripassaggio; è verosimile che siano metastasi. Nel caso in cui la lesione sia singola allora sarebbe necessario eseguire un ripassaggio perché può essere una singola metastasi oppure una formazione benigna (angioma) misconosciuta ad un esame precedente.
 	- Angioma ha la stessa densità della vena porta: indice di benignità 
-	- acquisire un eventuale ripassaggio a 3' 
-- **DILATAZIONE DELLE VIE EPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'. Allertare lo strutturato ed eventuale effettuare un ripassaggio a 6'.
-- **MILZA**: non valutare in fase arteriosa perché sembra disomogenea.
+	- acquisire un `eventuale ripassaggio a 3'` 
+- **DILATAZIONE DELLE VIE BILIARI INTRAEPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'.  
+  `Allertare lo strutturato ed eventualmente effettuare un ripassaggio a 6'.`
+<!-- In che senso? Cosa si deve valutare? Qual è l'eventuale fase da aggiungere?
+
 - Vasi del circolo venoso da arterie renali fino alla cava
-- Dilatazione delle vie escretrici
-	- acquisire una tardiva urologica a 10'
+
+-->
+- **DILATAZIONE DELLE VIE ESCRETRICI**
+	- acquisire una `tardiva urologica a 10'`
+- **CRANIO**
+  - Se *mosso*: ripetere l'esame
+  - Se *artefatti da indurimento del fascio*: ripetere scansioni assiali sull'area interessata facendo inclinare la TC
+- **POLMONE**
+  - *Artefatti da respiro*: se un'area non è valutabile ripetere scansione nell'area di interesse.
+  - *Suggerimento*: se il Paziente non ha un'apnea valida si può far partire la scansione dalle basi polmonari.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -749,7 +785,7 @@ Leggere gli esami precedenti e vedere le immagini.
 
 
 ## Differenza tra "TOR alto" e "TOR+COLLO"
-In TOR alto i pazienti restano con gli arti superiori allungati per evitare artefatti mentre in TOR+COLLO i pazienti acquisiscono prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando la tempistica.
+In TOR alto i pazienti tengono gli arti superiori sollevati sopra la testa per evitare artefatti sul torace, mentre in TOR+COLLO si acquisisce prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando i tempi (ma permettendo una miglior visualizzazione del collo).
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -758,8 +794,6 @@ In TOR alto i pazienti restano con gli arti superiori allungati per evitare arte
 ---
 
 ## NOTE
-- TC arti inferiori con mezzo di contrasto in fase vonosa (a due minuti - 2' con eventuale ripassaggio a 3')
-- Ripassaggio epatico su sospette mts epatiche per vedere se cambia l'enhancement: se fossero cisti  rimangono uguali. 
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
