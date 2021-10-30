@@ -763,11 +763,13 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 	- acquisire un `eventuale ripassaggio a 3'` 
 - **DILATAZIONE DELLE VIE BILIARI INTRAEPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'.  
   `Allertare lo strutturato ed eventualmente effettuare un ripassaggio a 6'.`
+
 <!-- In che senso? Cosa si deve valutare? Qual è l'eventuale fase da aggiungere?
 
 - Vasi del circolo venoso da arterie renali fino alla cava
 
 -->
+
 - **DILATAZIONE DELLE VIE ESCRETRICI**
 	- acquisire una `tardiva urologica a 10'`
 - **CRANIO**
