@@ -1,6 +1,18 @@
+<div class="topnav">
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html">Ecografia</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">Tomografia Computerizzata</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html">Risonanza Magnetica</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/pronto_soccorso.html">Pronto Soccorso</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
+</div>
+
+- - -
+
 # TC CRANIO PROTOCCOLO ROSSO TROMBOLISI
 
----
+- - -
 
 - [TC CRANIO PROTOCCOLO ROSSO TROMBOLISI](#tc-cranio-protoccolo-rosso-trombolisi)
   - [TC CRANIO BASALE](#tc-cranio-basale)
@@ -67,6 +79,8 @@ La presenza di aree iscehemiche deve essere valutata attraverso l'**ASPECTS Scor
     - 
 
 ## TC PERFUSION
+
+
 
 1. Aprire il portale Philips IntelliSpace.
 2. Selezionare la sequenza perfusionale del paziente.
