@@ -85,6 +85,10 @@
 - **Rosso trombolisi**: unica vera urgenza indifferibile. Occorre avvisare subito i tecnici e lo strutturato.  
   Al termine dell'esame, se positivo, occorre inviare le immagini su *TEMPORE* (portale che permette la visualizzazione dell'esame ai neurochirurghi). Questo passaggio viene spesso eseguito dai tecnici.
 
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
+
 ---
 
 ## NOTE
