@@ -131,5 +131,6 @@ Se sono entro le 4,5 ore dall’evento potrebbe essere sufficiente la TC basale 
 Nei pazienti anziani 
 Oltre tale periodo si entra nella finestra temporale in cui la perfusion TC diventa dirimente in quanto permette di valutare in maniera semi-quantitativa quanto tessuto di penombra è rimasto.
 
-Vengono definiti dei cut-off semi-quantitativi in base ai quali è possibile dire se la zona di penombra di grandi, medie o piccole dimensioni.
-Si fornisce un giudizo semi-quantitatico poiché i valori numerici che ci vengono forniti dalla macchina non sono validati in letteratura.
+Vengono definiti dei cut-off semi-quantitativi in base ai quali è possibile dire se la zona di penombra è di grandi, medie o piccole dimensioni.
+Si fornisce un giudizo semi-quantitatico poiché i valori numerici che vengono forniti dalla macchina non sono validati in letteratura, inoltre se il paziente non è collaborante, se ci sono corpi estranei che generano artefatti e in generale l'acquisizione delle immagini è subottimale tali valori potrebbero essere meno precisi.
+
