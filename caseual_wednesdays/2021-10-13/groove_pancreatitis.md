@@ -188,17 +188,6 @@
   <span class="dot" onclick="currentSlide(8)"></span>
   <span class="dot" onclick="currentSlide(9)"></span>
   <span class="dot" onclick="currentSlide(10)"></span>
-  <span class="dot" onclick="currentSlide(11)"></span>
-  <span class="dot" onclick="currentSlide(12)"></span>
-  <span class="dot" onclick="currentSlide(13)"></span>
-  <span class="dot" onclick="currentSlide(14)"></span>
-  <span class="dot" onclick="currentSlide(15)"></span>
-  <span class="dot" onclick="currentSlide(16)"></span>
-  <span class="dot" onclick="currentSlide(17)"></span>
-  <span class="dot" onclick="currentSlide(18)"></span>
-  <span class="dot" onclick="currentSlide(19)"></span>
-  <span class="dot" onclick="currentSlide(20)"></span>
-  <span class="dot" onclick="currentSlide(21)"></span>
 </div>
 
 <hr>
