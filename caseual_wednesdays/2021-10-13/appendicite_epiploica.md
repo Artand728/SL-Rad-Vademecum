@@ -1,6 +1,6 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-<title>SL Rad Vademecum | CASEual Wednesday - Gli spazi peritoneali</title>
+<title>SL Rad Vademecum | CASEual Wednesday - Appendicite epiploica</title>
 <style>
   * {
     box-sizing: border-box;
@@ -105,7 +105,7 @@
 
 <hr>
 
-<h1> GROOVE PANCREATITIS </h1>
+<h1> APPENDICITE EPIPLOICA </h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
