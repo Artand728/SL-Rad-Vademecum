@@ -307,4 +307,5 @@
     dots[slideIndex - 1].className += " active";
   }
 </script>
+
 </body>
