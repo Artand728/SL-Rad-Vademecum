@@ -8,11 +8,11 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # ECOGRAFIA SCROTALE
 
----
+- - -
 
 - [ECOGRAFIA SCROTALE](#ecografia-scrotale)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)

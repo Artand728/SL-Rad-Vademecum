@@ -10,11 +10,11 @@
 
 - - -
 
-# CASE*UAL* WEDNESDAY
+# **CASE*UAL* WEDNESDAY**
 
 - - -
 
-- [CASE*UAL* WEDNESDAY](#caseual-wednesday)
+- [**CASE*UAL* WEDNESDAY**](#caseual-wednesday)
   - [Cosa sono i Case*ual* Wendnesday?](#cosa-sono-i-caseual-wendnesday)
   - [Case*ual* Wednesday Archive](#caseual-wednesday-archive)
   - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)

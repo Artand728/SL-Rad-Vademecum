@@ -10,7 +10,7 @@
 
 - - -
 
-# PRONTO SOCCORSO
+# **PRONTO SOCCORSO**
 
 - - -
 
@@ -18,6 +18,7 @@
   - [ORARI](#orari)
   - [SALE](#sale)
   - [TELEFONO, INTERFONO E RICHIESTE](#telefono-interfono-e-richieste)
+  - [TC](#tc)
   - [ESAMI PARTICOLARI](#esami-particolari)
   - [NOTE](#note)
 
@@ -74,6 +75,20 @@
 - Riporre la cornetta
 
 `Nel caso in cui il paziente non si presentasse potete chiamarlo per cognome, ma non usate mai il nome all'interfono per motivi di privacy.`
+
+<div style="text-align: right">
+<a href="#pronto-soccorso">⬆️</a>
+</div>
+
+---
+
+## TC
+
+Solitamente gli esami TC vengono seguiti dallo strutturato. 
+
+[**Protocolli**](/tomografia_computerizzata.md#protocolli)
+
+[**Scansioni aggiuntive**](/tomografia_computerizzata.md#fasi-aggiuntive)
 
 <div style="text-align: right">
 <a href="#pronto-soccorso">⬆️</a>

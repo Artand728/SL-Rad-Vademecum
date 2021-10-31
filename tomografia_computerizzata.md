@@ -10,23 +10,23 @@
 
 - - -
 
-# TOMOGRAFIA COMPUTERIZZATA
+# **TOMOGRAFIA COMPUTERIZZATA**
 
 - - -
 
-- [TOMOGRAFIA COMPUTERIZZATA](#tomografia-computerizzata)
+- [**TOMOGRAFIA COMPUTERIZZATA**](#tomografia-computerizzata)
 	- [CONSENSO INFORMATO](#consenso-informato)
-	- [PREMEDICAZIONE ANTIALLERGICA](#premedicazione-antiallergica)
+	- [**PREMEDICAZIONE ANTIALLERGICA**](#premedicazione-antiallergica)
 		- [PREMEDICAZIONE ANTIALLERGICA RAPIDA](#premedicazione-antiallergica-rapida)
-	- [PREMEDICAZIONE NEFROPROTETTIVA](#premedicazione-nefroprotettiva)
+	- [**PREMEDICAZIONE NEFROPROTETTIVA**](#premedicazione-nefroprotettiva)
 	- [GESTIONE DEL PAZIENTE](#gestione-del-paziente)
 	- [ACCESSO VASCOLARE](#accesso-vascolare)
 		- [Flusso accessi](#flusso-accessi)
-	- [STRAVASO MDC](#stravaso-mdc)
+	- [**STRAVASO MDC**](#stravaso-mdc)
 	- [SCANSIONI BASALI](#scansioni-basali)
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
 	- [FASI](#fasi)
-	- [PROTOCOLLI TC](#protocolli-tc)
+	- [**PROTOCOLLI**](#protocolli)
 		- [TRAUMA CRANICO](#trauma-cranico)
 		- [CIRCOLO DI WILLIS (ROSSO TROMBOLISI)](#circolo-di-willis-rosso-trombolisi)
 		- [TUMORE TIROIDE](#tumore-tiroide)
@@ -56,7 +56,7 @@
 		- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
 		- [TUMORE ENDOMETRIO](#tumore-endometrio)
 		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
-	- [FASI AGGIUNTIVE](#fasi-aggiuntive)
+	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [NOTE](#note)
 
@@ -91,7 +91,7 @@
 
 ---
 
-## PREMEDICAZIONE ANTIALLERGICA
+## **PREMEDICAZIONE ANTIALLERGICA**
 
 Da eseguire ogni volta che ci sia un'allergia nota (anche non al mdc, come da linee guida aziendali).  
 Se in passato la reazione allergica è stata imputata a un preciso mdc si cerca di usarne uno differente.
@@ -153,13 +153,13 @@ Non esiste un protocollo aziendale per la premedicazione rapida, il medico di re
 
 ---
 
-## PREMEDICAZIONE NEFROPROTETTIVA
+## **PREMEDICAZIONE NEFROPROTETTIVA**
 Nel caso di pazienti MONORENE con GFR 45-50:
 - idratazione 
 	- PRE-ESAME: 500cc NaCl 0,9% 
 	- POST-ESAME: 500cc NaCl 0,9% 
 
-[Qui](https://www.mdcalc.com/mdrd-gfr-equation) potete calcolare l'eGFR.
+<a href="https://www.mdcalc.com/mdrd-gfr-equation" target="_blank" rel="noopener noreferrer"> Qui</a> potete calcolare l'eGFR.
 
 <br>
 
@@ -167,7 +167,7 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 >
 > **GFR** > **45 ml**/min/1.73 m²
 >
->**Non** è **neccessaria** la **premedicazione**.
+>**Non** è **necessaria** la **premedicazione**.
 >
 >---
 >
@@ -281,7 +281,7 @@ Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è me
 
 ---
 
-## STRAVASO MDC
+## **STRAVASO MDC**
 Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula.
 
@@ -344,7 +344,7 @@ Fare sempre le scansioni basali se:
 
 ---
 
-## PROTOCOLLI TC
+## **PROTOCOLLI**
 
 Prima di impostare le fasi del protocollo controllare quali fasi sono state acquisite negli esami precedenti (soprattutto in caso di ri-stadiazione o follow-up)
 
@@ -753,7 +753,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 -->
-## FASI AGGIUNTIVE
+## **FASI AGGIUNTIVE**
 
 > Leggere gli esami precedenti e vedere le immagini.
 
@@ -773,7 +773,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - **DILATAZIONE DELLE VIE ESCRETRICI**
 	- acquisire una `tardiva urologica a 10'`
 - **CRANIO**
-  - Se *mosso*: ripetere l'esame
+  - Se *mosso* (tavolato cranico sfumato): ripetere l'esame
   - Se *artefatti da indurimento del fascio*: ripetere scansioni assiali sull'area interessata facendo inclinare la TC
 - **POLMONE**
   - *Artefatti da respiro*: se un'area non è valutabile ripetere scansione nell'area di interesse.

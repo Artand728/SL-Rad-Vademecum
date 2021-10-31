@@ -27,8 +27,6 @@
     - [Prenotazione](#prenotazione)
     - [Materiali](#materiali)
     - [Esecuzione](#esecuzione-1)
-      - [Inserimento del catetere](#inserimentodelcatetere)
-      - [Acquisizioni](#acquisizioni)
   - [**CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**](#cistografia-retrograda-minzionale-maschile-femminile)
     - [Materiali](#materiali-1)
     - [Esecuzione](#esecuzione-2)
@@ -150,13 +148,6 @@ A questo punto il vostro referto sarà completo e voi avrete finito.
 
 # **CONTRASTOGRAFICI**
 
-<div style="text-align: right">
-<a href="#radiologiatradizionale">⬆️</a>
-
-</div>
-
----
-
 ## **TRANSITO ESOFAGO-GASTRICO**
 
 > [TRANSITO ESOFAGO-GASTRICO &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/transito_esofago-gastrico.html)
@@ -219,14 +210,13 @@ Si effettua l'esame con il **Gastrografin**
 
 ### Esecuzione
 
-#### Inserimento del catetere
+**Inserimento del catetere**
 
-- Inserimento catetere
   - Riconoscere l'**ansa efferente** (quella meno visibile, introflessa, da cui non escono feci)
   - Inserire il catetere con la punta ricoperta di gel (_luan_)
   - Gonfiare il palloncino con 7-8 mL di aria o fisiologica
 
-#### Acquisizioni
+**Acquisizioni**
 
 - **AP BASALE** - prima della preparazione del campo
 - **AP BASALE** - per valutare posizionamento del catetere
@@ -304,7 +294,6 @@ Si effettua l'esame con il **Gastrografin**
 
 
 ## **STUDIO DEL TRANSITO INTESTINALE CON MARKER**
-STUDIO INTESTINALE CON MARKERS con codice 87.63.1
 
 > [STUDIO DEL TRANSITO INTESTINALE CON MARKER &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/studio_del_tempo_di_transito_intenstinale_con_marker.html)
 

@@ -10,12 +10,12 @@
 
 ---
 
-# CASEUAL WEDNESDAY ARCHIVE
+# **CASEUAL WEDNESDAY ARCHIVE**
 Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
 
 ## 13 Ottobre 2021 | Gli spazi peritoneali
 
-- [13 Ottobre 2021 - Appendiciti epiploiche]()
+- [13 Ottobre 2021 - Appendiciti epiploiche](caseual_wednesdays/2021-10-13/appendicite_epiploica.html)
 - [13 Ottobre 2021 - Infarto omentale]()
 - [13 Ottobre 2021 - Groove Pancreatitis](caseual_wednesdays/2021-10-13/groove_pancreatitis.html)
 

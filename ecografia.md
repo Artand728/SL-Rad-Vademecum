@@ -10,7 +10,7 @@
 
 - - -
 
-# ECOGRAFIA
+# **ECOGRAFIA**
 
 - - -
 
@@ -19,10 +19,10 @@
   - [GESTIONE DEI PAZIENTI](#gestione-dei-pazienti)
   - [AGENDA](#agenda)
     - [Criteri per l'accettazione](#criteri-per-laccettazione)
-    - [CASI PARTICOLARI](#casi-particolari)
-    - [ACCORTEZZE](#accortezze)
+    - [Casi particolari](#casi-particolari)
+    - [Accortezze](#accortezze)
   - [ESAMI ECOGRAFICI](#esami-ecografici)
-    - [NOTE](#note)
+  - [NOTE](#note)
 
 - - -
 
@@ -89,13 +89,7 @@ Da compilare entro fine giornata.
 - Accettare prima gli **esami urgenti**, i controlli possono aspettare qualche giorno (ma non troppo, i pazienti ricoverati sono un grande costo per l'ospedale)
 - Valutare se possibile rispondere al quesito con l'ecografia e non sia invece necessario uno studio con un'altra metodica
 
-<div style="text-align: right">
-<a href="#ecografia">⬆️</a>
-</div>
-
----
-
-### CASI PARTICOLARI
+### Casi particolari
 
 - **pazienti COVID+** o provenienti da reparto COVID o in isolamento
   -  urgenti &rarr;  devono contattare il pronto soccorso
@@ -109,13 +103,7 @@ Da compilare entro fine giornata.
   - Vengono spesso eseguiti direttamente dai neurologi
   - contattare la NEUROLOGIA per identificare i pazienti effettivamente da programmare
 
-<div style="text-align: right">
-<a href="#ecografia">⬆️</a>
-</div>
-
----
-
-### ACCORTEZZE
+### Accortezze
 
 - Lasciare sempre uno spazio libero tra i posti dei ricoverati per eventuali emergenze, da riempire solo il giorno prima per il successivo
 - Se chiamano per delle procedure di cui si occupa il Prof passare il telefono all'infermiere di sala
@@ -127,7 +115,7 @@ Da compilare entro fine giornata.
 
 ---
 
-## ESAMI ECOGRAFICI
+## **ESAMI ECOGRAFICI**
 - [ECOGRAFIA ADDOME (ECO AC \| ECO AS \| ECO AI)](exam_flowchart/ECO/eco_addome.html)
 - [ECOGRAFIA RENO-VESCICALE (ECO RV)](exam_flowchart/ECO/eco_reno-vesicale.html)
 - [ECOGRAFIA TIROIDE E PARATIROIDI](exam_flowchart/ECO/eco_tiroide.html)
@@ -147,7 +135,7 @@ Da compilare entro fine giornata.
 
 ---
 
-### NOTE
+## NOTE
 
 - Non si rimanda un'ecografia addome completo solo perché il paziente ha mangiato, tanto più se lo studio non riguarda colecisti o pancreas.
 - Se arriva una cartella clinica per una consulenza per gli interventisti (tanto più se da un ospedale esterno) deve necessariamente passare prima in segretaria per essere registrata come consulenza.
