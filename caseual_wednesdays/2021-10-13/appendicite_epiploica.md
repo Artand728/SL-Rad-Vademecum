@@ -169,7 +169,6 @@
     <img src="appendicite_epiploica_10_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
-  <div class="slideshow-container">
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 21</div>
