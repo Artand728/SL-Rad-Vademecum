@@ -285,7 +285,7 @@ Index &rarr; indica la percentuale di penomabra rispetto al core nell'area toata
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12)-Tabella.png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12)-tabella.png" style="width: 100%; max-width: 720px" />
     <div class="text"></div>
   </div>
 
