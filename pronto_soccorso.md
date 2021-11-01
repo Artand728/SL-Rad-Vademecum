@@ -14,12 +14,13 @@
 
 - - -
 
-- [PRONTO SOCCORSO](#pronto-soccorso)
+- [**PRONTO SOCCORSO**](#pronto-soccorso)
   - [ORARI](#orari)
   - [SALE](#sale)
   - [TELEFONO, INTERFONO E RICHIESTE](#telefono-interfono-e-richieste)
   - [TC](#tc)
   - [ESAMI PARTICOLARI](#esami-particolari)
+    - [**PERFUSION TC (p-TC)**](#perfusion-tc-p-tc)
   - [NOTE](#note)
 
 - - -
@@ -99,6 +100,10 @@ Solitamente gli esami TC vengono seguiti dallo strutturato.
 ## ESAMI PARTICOLARI
 - **Rosso trombolisi**: unica vera urgenza indifferibile. Occorre avvisare subito i tecnici e lo strutturato.  
   Al termine dell'esame, se positivo, occorre inviare le immagini su *TEMPORE* (portale che permette la visualizzazione dell'esame ai neurochirurghi). Questo passaggio viene spesso eseguito dai tecnici.
+
+### **PERFUSION TC (p-TC)**
+
+[Pagina dedicata &rarr; Perfusion-TC (p-TC)](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
 
 <div style="text-align: right">
 <a href="#pronto-soccorso">⬆️</a>

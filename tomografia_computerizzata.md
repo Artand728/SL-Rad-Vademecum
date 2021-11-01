@@ -58,6 +58,7 @@
 		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
+	- [**PERFUSION-TC (p-TC)**](#perfusion-tc-p-tc)
 	- [NOTE](#note)
 
 - - -
@@ -788,6 +789,16 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ## Differenza tra "TOR alto" e "TOR+COLLO"
 In TOR alto i pazienti tengono gli arti superiori sollevati sopra la testa per evitare artefatti sul torace, mentre in TOR+COLLO si acquisisce prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando i tempi (ma permettendo una miglior visualizzazione del collo).
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+## **PERFUSION-TC (p-TC)**
+
+[Pagina dedicata &rarr; Perfusion-TC (p-TC)](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
