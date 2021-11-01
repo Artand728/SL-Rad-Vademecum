@@ -45,6 +45,7 @@
   /* Caption text */
   .text {
     color: #f2f2f2;
+    background-color: # ;
     font-size: 15px;
     padding: 8px 12px;
     position: absolute;
@@ -77,26 +78,6 @@
   }
   }
 </style>
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script>
-	document.getElementById('content').innerHTML =
-		marked('# Marked in browser\n\nRendered by **marked**.');
-</script>
-<script>
-	document.body.style.display = "none"; // Hide the page until it's finished rendering.
-	document.createElement("markdown");
-	var md_tags = document.getElementsByTagName("markdown"); // Returns array of all markdown tags.
-	for (var i = 0; i < md_tags.length; i++) { // Iterate through all the tags, and generate the HTML.
-		var md_text = md_tags[i].textContent.replace(/^[^\S\n]+/mg, ""); // I love regex, so shoot me.
-		var md_div = document.createElement("div"); // Make a new div to replace the fake tag.
-		md_div.id = "content";
-		md_div.innerHTML = marked(md_text);
-		md_tags[i].parentNode.appendChild(md_div); // Add remove the old raw markdown.
-		md_tags[i].parentNode.removeChild(md_tags[i]);
-	}
-	document.body.style.display = ""; // Show the rendered page.
-</script>
-
 </head>
 
 
@@ -113,106 +94,92 @@
 
 <hr>
 
-## TC PERFUSION (p-TC)
-
+<h2 id="tc-perfusion-p-tc-">TC PERFUSION (p-TC)</h2>
 <hr>
 
-- [TC PERFUSION (p-TC)](#tc-perfusion-p-tc)
-  - [Indicazioni](#indicazioni)
-  - [Esecuzione](#esecuzione)
-  - [Refertazione (Portale Philips)](#refertazione-portale-philips)
-- [BIBLIOGRAFIA](#bibliografia)
-- [NOTE](#note)
-
+<ul>
+<li><a href="#tc-perfusion-p-tc">TC PERFUSION (p-TC)</a><ul>
+<li><a href="#indicazioni">Indicazioni</a></li>
+<li><a href="#esecuzione">Esecuzione</a></li>
+<li><a href="#refertazione-portale-philips">Refertazione (Portale Philips)</a></li>
+</ul>
+</li>
+<li><a href="#bibliografia">BIBLIOGRAFIA</a></li>
+<li><a href="#note">NOTE</a></li>
+</ul>
 <hr>
 
-La **TC perfusion (p-TC)** è una metodica che attraverso l'acquisizione di **dati relativi all'emodinamica cerebrale** costruisce delle **mappe di perfusione** al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all'interno di una zona ischemica è ancora salvabile con una riperfusione.
-
-Attraverso la TC perfusion è possibile distinguere **l'area ischemica centrale (core)**, in cui si sono venuti a creare fenomeni di **necrosi** e che non è più recuperabile nemmeno con la perfusione, da una **zona ischemica periferica (penombra)**, nella quale il **tessuto cerebrale è in sofferenza ma non ancora necrotico** e che può dunque essere recuperata se riperfuso. 
-
-La TC perfusion permette quindi di **valutare quanto tessuto può essere salvato**, e quindi anche quanta funzione può essere preservata attraverso una riperfusione, permettendo di **determinare i potenziali benefici a fronte dei rischi emorragici di una trombolisi**.
-
+<p>La <strong>TC perfusion (p-TC)</strong> è una metodica che attraverso l&#39;acquisizione di <strong>dati relativi all&#39;emodinamica cerebrale</strong> costruisce delle <strong>mappe di perfusione</strong> al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all&#39;interno di una zona ischemica è ancora salvabile con una riperfusione.</p>
+<p>Attraverso la TC perfusion è possibile distinguere <strong>l&#39;area ischemica centrale (core)</strong>, in cui si sono venuti a creare fenomeni di <strong>necrosi</strong> e che non è più recuperabile nemmeno con la perfusione, da una <strong>zona ischemica periferica (penombra)</strong>, nella quale il <strong>tessuto cerebrale è in sofferenza ma non ancora necrotico</strong> e che può dunque essere recuperata se riperfuso. </p>
+<p>La TC perfusion permette quindi di <strong>valutare quanto tessuto può essere salvato</strong>, e quindi anche quanta funzione può essere preservata attraverso una riperfusione, permettendo di <strong>determinare i potenziali benefici a fronte dei rischi emorragici di una trombolisi</strong>.</p>
 <div style="text-align: right">
 <a href="#tc-perfusion-p-tc">⬆️</a>
 </div>
 
 <hr>
 
-### Indicazioni
-
-Da un punto di vista **dosimetrico** TC perfusion **raddoppia la dose** a cui è esposto il paziente, tutto ciò è giustificato dal vantaggio diagnostico e terapeutico che ne deriva per il paziente.
-
-Il nostro **obbiettivo** è dire al neurologo quanto **volume di tessuto cerebrale (in cc)** possiamo salvare se riperfondiamo il paziente.
-Se sono **entro le 4,5 ore dall’evento** potrebbe essere **sufficiente la TC basale e l’Angio-TC** per decidere se riperfondere il paziente e quindi potrebbe non essere indispensabile la perfusion perché la zona di penombra e di conseguenza di tessuto salvabile è statisticamente sempre abbastanza elevato da giustificare i rischi. 
-In questo range temporale non c’è un’indicazione univoca ed eseguire o meno la perfusion TC.
-
-Oltre tale periodo si entra nella finestra temporale in cui la perfusion TC diventa dirimente in quanto permette di valutare in maniera semi-quantitativa quanto tessuto di penombra è rimasto.
-
-Si ha quindi indicazione all'impego della TC perfusion tra le 9 ore e le 24 ore per l’arteriosa e le 4 ore e le 9 ore per la venosa così come nel caso di **ictus al risveglio (non databile)** dove si esegue una TC perfusion per determinare quanto è larga la zona di penombra e quanto può essere recuperato.
-
-Si può **riperfondere fino alla 9 ora dopo la venosa** e **fino a dopo a 24 ore dalla arteriosa** purché vi sia una **zona di penombra** che possa essere **recuperata** e che **giustifichi i rischi di una manovra di riperfusione**.
-
->E’ anche possibile valutare se un paziente presenta una lesione ischemica prima o dopo la 6° ora (come nel caso di ictus al risveglio) anche tramite la RMN dove si può valutare il mismatch tra sequenze FLAIR e Diffusion.
->In caso di ischemia le sequenze in Diffusion diventano subito positive mentre le sequenze FLAIR diventano positive dopo la 6° ora.
->Con la RMN è possibile valutare anche la penombra valutando il mismatch tra DWI e perfusion RM.
-
+<h3 id="indicazioni">Indicazioni</h3>
+<p>Da un punto di vista <strong>dosimetrico</strong> TC perfusion <strong>raddoppia la dose</strong> a cui è esposto il paziente, tutto ciò è giustificato dal vantaggio diagnostico e terapeutico che ne deriva per il paziente.</p>
+<p>Il nostro <strong>obbiettivo</strong> è dire al neurologo quanto <strong>volume di tessuto cerebrale (in cc)</strong> possiamo salvare se riperfondiamo il paziente.
+Se sono <strong>entro le 4,5 ore dall’evento</strong> potrebbe essere <strong>sufficiente la TC basale e l’Angio-TC</strong> per decidere se riperfondere il paziente e quindi potrebbe non essere indispensabile la perfusion perché la zona di penombra e di conseguenza di tessuto salvabile è statisticamente sempre abbastanza elevato da giustificare i rischi. 
+In questo range temporale non c’è un’indicazione univoca ed eseguire o meno la perfusion TC.</p>
+<p>Oltre tale periodo si entra nella finestra temporale in cui la perfusion TC diventa dirimente in quanto permette di valutare in maniera semi-quantitativa quanto tessuto di penombra è rimasto.</p>
+<p>Si ha quindi indicazione all&#39;impego della TC perfusion tra le 9 ore e le 24 ore per l’arteriosa e le 4 ore e le 9 ore per la venosa così come nel caso di <strong>ictus al risveglio (non databile)</strong> dove si esegue una TC perfusion per determinare quanto è larga la zona di penombra e quanto può essere recuperato.</p>
+<p>Si può <strong>riperfondere fino alla 9 ora dopo la venosa</strong> e <strong>fino a dopo a 24 ore dalla arteriosa</strong> purché vi sia una <strong>zona di penombra</strong> che possa essere <strong>recuperata</strong> e che <strong>giustifichi i rischi di una manovra di riperfusione</strong>.</p>
+<blockquote>
+<p>E’ anche possibile valutare se un paziente presenta una lesione ischemica prima o dopo la 6° ora (come nel caso di ictus al risveglio) anche tramite la RMN dove si può valutare il mismatch tra sequenze FLAIR e Diffusion.
+In caso di ischemia le sequenze in Diffusion diventano subito positive mentre le sequenze FLAIR diventano positive dopo la 6° ora.
+Con la RMN è possibile valutare anche la penombra valutando il mismatch tra DWI e perfusion RM.</p>
+</blockquote>
 <div style="text-align: right">
 <a href="#tc-perfusion-p-tc">⬆️</a>
 </div>
 
 <hr>
 
-### Esecuzione
-
-La TC perfusion viene eseguita **prima dell’acquisizione dell’Angio-TC**.
-L'acquisizione delle immagini per la TC perfusion avviene **subito dopo l'acquisizione delle immagini basali** ma prima della fase angiografica.
-
-La macchina acquisisce delle **scansioni ripetute** con **spessore di fetta di 4 cm**. 
-
-**Ogni secondo** la macchina **completa 2 rotazioni del gantry** **scorrendo leggermente il lettino tra le due acquisizioni (shuttle**) coprendo **nel complessivo uno spessore di fetta totale di 8 cm.**
-
-Parte **dall’apice del clivus (sella turcica)** in su di 8cm.
-
-Studiamo il **territorio di distribuzione** della **arteria celebrale media**.
-
-La macchina acquisisce per **70 secondi**.
-Il settaggio è a **80kV**.
-Per la TC perfusion **può essere usato ogni tipo di mezzo di contrasto**.
-
+<h3 id="esecuzione">Esecuzione</h3>
+<p>La TC perfusion viene eseguita <strong>prima dell’acquisizione dell’Angio-TC</strong>.
+L&#39;acquisizione delle immagini per la TC perfusion avviene <strong>subito dopo l&#39;acquisizione delle immagini basali</strong> ma prima della fase angiografica.</p>
+<p>La macchina acquisisce delle <strong>scansioni ripetute</strong> con <strong>spessore di fetta di 4 cm</strong>. </p>
+<p><strong>Ogni secondo</strong> la macchina <strong>completa 2 rotazioni del gantry</strong> <strong>scorrendo leggermente il lettino tra le due acquisizioni (shuttle</strong>) coprendo <strong>nel complessivo uno spessore di fetta totale di 8 cm.</strong></p>
+<p>Parte <strong>dall’apice del clivus (sella turcica)</strong> in su di 8cm.</p>
+<p>Studiamo il <strong>territorio di distribuzione</strong> della <strong>arteria celebrale media</strong>.</p>
+<p>La macchina acquisisce per <strong>70 secondi</strong>.
+Il settaggio è a <strong>80kV</strong>.
+Per la TC perfusion <strong>può essere usato ogni tipo di mezzo di contrasto</strong>.</p>
 <div style="text-align: right">
 <a href="#tc-perfusion-p-tc">⬆️</a>
 </div>
 
 <hr>
 
-### Refertazione (Portale Philips)
-
-Dalle acquisizioni si valuta il **mismatch tra MTT e CBV**:
--	Nel core il CBV è nettamente ridotto (tessuto necrotico avascolare)
--	Nella penombra il CBV è aumentato (perché ci sono fenomeni di vasodilatazione reattiva di compenso che ne portano ad un aumento)
-
-Vengono definiti dei **cut-off semi-quantitativi** in base ai quali è possibile dire se la **zona di penombra** è di **grandi**, **medie** o **piccole dimensioni**.
-
-Si fornisce un **giudizo semi-quantitativo** poiché i **valori numerici** che vengono forniti dalla macchina **non sono validati in letteratura**, inoltre se il paziente non è collaborante o vi sono corpi estranei che generano artefatti l'acquisizione delle immagini è subottimale tali valori potrebbero essere imprecisi.
-
-1. Aprire il **portale Philips IntelliSpace**.
-2. Selezionare la **sequenza perfusionale del paziente**.
-3. Cliccare **Brain Perfusion**.
-4. Il sistema seleziona autonomamente un'arteria ed una vena di riferimento.
-5. Correggere eventualmente l'arteria scelta (tipicamente si seleziona la cerebrale anteriore) e la vena scelta (tipicamente il seno cerebrale posteriore).
-6. Nel grafico di intensità HU in funzione del tempo si vedono due picchi che rappresentano il picco arterioso e venoso nelle due regioni selezionate dalla ROI.
-La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla venosa e più elevata in termini di intensità HU.
-7. Passare alle mappe di perfusione
-8. Il portale a partire dalle immagini ricostruisce 4 mappe di perfusione:
-  - CBV (Cerebral Blood Volume)
-  - CBF (Cerebral Blood Flow)
-  - MTT (Mean Transit Time)
-  - TTP (Time To Peak)
-9. Nella regione del core infartuale mi aspetto una diminuzione del volume medio di sangue (&darr;&darr;&darr;CBV), una drastica riduzione del flusso medio di sangue (&darr;&darr;&darr;CBF)
-
-Index &rarr; indica la percentuale di penomabra rispetto al core nell'area toatale della lesione presente in sezione. Vanno integrate le sezioni per avere il volume totale.
-
-
+<h3 id="refertazione-portale-philips-">Refertazione (Portale Philips)</h3>
+<p>Dalle acquisizioni si valuta il <strong>mismatch tra MTT e CBV</strong>:</p>
+<ul>
+<li>Nel core il CBV è nettamente ridotto (tessuto necrotico avascolare)</li>
+<li>Nella penombra il CBV è aumentato (perché ci sono fenomeni di vasodilatazione reattiva di compenso che ne portano ad un aumento)</li>
+</ul>
+<p>Vengono definiti dei <strong>cut-off semi-quantitativi</strong> in base ai quali è possibile dire se la <strong>zona di penombra</strong> è di <strong>grandi</strong>, <strong>medie</strong> o <strong>piccole dimensioni</strong>.</p>
+<p>Si fornisce un <strong>giudizo semi-quantitativo</strong> poiché i <strong>valori numerici</strong> che vengono forniti dalla macchina <strong>non sono validati in letteratura</strong>, inoltre se il paziente non è collaborante o vi sono corpi estranei che generano artefatti l&#39;acquisizione delle immagini è subottimale tali valori potrebbero essere imprecisi.</p>
+<ol>
+<li>Aprire il <strong>portale Philips IntelliSpace</strong>.</li>
+<li>Selezionare la <strong>sequenza perfusionale del paziente</strong>.</li>
+<li>Cliccare <strong>Brain Perfusion</strong>.</li>
+<li>Il sistema seleziona autonomamente un&#39;arteria ed una vena di riferimento.</li>
+<li>Correggere eventualmente l&#39;arteria scelta (tipicamente si seleziona la cerebrale anteriore) e la vena scelta (tipicamente il seno cerebrale posteriore).</li>
+<li>Nel grafico di intensità HU in funzione del tempo si vedono due picchi che rappresentano il picco arterioso e venoso nelle due regioni selezionate dalla ROI.
+La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla venosa e più elevata in termini di intensità HU.</li>
+<li>Passare alle mappe di perfusione</li>
+<li>Il portale a partire dalle immagini ricostruisce 4 mappe di perfusione:<ul>
+<li>CBV (Cerebral Blood Volume)</li>
+<li>CBF (Cerebral Blood Flow)</li>
+<li>MTT (Mean Transit Time)</li>
+<li>TTP (Time To Peak)</li>
+</ul>
+</li>
+<li>Nella regione del core infartuale mi aspetto una diminuzione del volume medio di sangue (&darr;&darr;&darr;CBV), una drastica riduzione del flusso medio di sangue (&darr;&darr;&darr;CBF)</li>
+</ol>
+<p>Index &rarr; indica la percentuale di penomabra rispetto al core nell&#39;area toatale della lesione presente in sezione. Vanno integrate le sezioni per avere il volume totale.</p>
 
 <div style="text-align: right">
 <a href="#tc-perfusion-p-tc">⬆️</a>
