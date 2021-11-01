@@ -7,7 +7,8 @@
   }
   /* Slideshow container */
   .slideshow-container {
-    max-width: 1000px;
+    max-width: 560px;
+    width: 100%;
     position: relative;
     margin: auto;
   }
