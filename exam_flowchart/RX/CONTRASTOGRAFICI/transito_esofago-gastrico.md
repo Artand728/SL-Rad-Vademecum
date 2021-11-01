@@ -399,7 +399,9 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 # **PATOLOGIE ESOFAGEE**
 
-<img class="imagehover" style="max-width:400px; width:100%;" src="..\..\..\img\netter-schema_malattie_gel.png">
+[&rarr; Patologie di interesse chirurgico dell'addome](https://sl-rad.github.io/SL-Rad-Vademecum/patologie/atlas-patologie-chirurgiche-addome.html#difetti-di-riempimento-del-colon.html)
+
+<img class="imagehover" style="max-width:750px; width:100%;" src="..\..\..\img\netter-schema_malattie_gel.png">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(1).jpg">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(2).jpg">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(3).jpg">
@@ -416,19 +418,19 @@ Conclusioni: reperti radiologici nei limiti di norma.
 ## ESOFAGO
 
 ## Spasmo esofageo diffuso
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241337/399ef47719189a2bdc8e84250c8054_big_gallery.jpeg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241356/567f326f5fd1f6235d4ef3db54a714_big_gallery.jpeg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009662/d3c4b23bf237e1484445351f7835d2_big_gallery.jpg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009670/8a674c71796521320c184fa19a5a9c_big_gallery.jpg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241337/399ef47719189a2bdc8e84250c8054_big_gallery.jpeg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/44241356/567f326f5fd1f6235d4ef3db54a714_big_gallery.jpeg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009662/d3c4b23bf237e1484445351f7835d2_big_gallery.jpg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5009670/8a674c71796521320c184fa19a5a9c_big_gallery.jpg"><br>
 <img style="max-width:200px; width:500%;" src="https://prod-images-static.radiopaedia.org/images/154361/f97b4bf14bac8b978c89915a4b6cdf_big_gallery.jpg">
 
 ## Acalsia
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14184461/9be84bbb5c98eed2a6331f5652a73a_big_gallery.jpg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14185044/56dd9aa6aaaac28d1a1c35b667ef54_big_gallery.jpg">
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14184461/9be84bbb5c98eed2a6331f5652a73a_big_gallery.jpg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/14185044/56dd9aa6aaaac28d1a1c35b667ef54_big_gallery.jpg">
 
 ## Presbiesofago
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/54301917/33_big_gallery.jpeg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/55881752/0._big_gallery.jpeg">
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/54301917/33_big_gallery.jpeg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/55881752/0._big_gallery.jpeg">
 
 ## Diverticoli esofagei
 
@@ -440,8 +442,8 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ### Diverticolo di Zenker
 
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921734/6c00384db697728441fa7d8572a9b0_jumbo.jpg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921733/d919bff37aa2f81b3fb1ad00f75dd0_jumbo.jpg">
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921734/6c00384db697728441fa7d8572a9b0_jumbo.jpg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/5921733/d919bff37aa2f81b3fb1ad00f75dd0_jumbo.jpg">
 
 ### Diverticolo di Killian-Jamieson
 
@@ -453,15 +455,15 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ### Diverticolo epifrenico
 
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg">
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550821/36ee7ceb3b35b47f76016d029ba225_jumbo.jpg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/2550765/6e698d20d3c055fd858393ac30f7cd_jumbo.jpg">
 
 ### Pseudodiverticoli
 
 [⤷Radiopaedia - Oesophageal Intramural Pseudodiverticulosis](https://radiopaedia.org/cases/oesophageal-intramural-pseudodiverticulosis)
 
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png">
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/633529/f74a6772b562bbf7f9c71276c3eac9_jumbo.JPG"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/633530/dd951ba0a32d27626a75601a9dacea_jumbo.png">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
@@ -471,16 +473,16 @@ Conclusioni: reperti radiologici nei limiti di norma.
 
 ## Ernie diaframmatiche
 
-<img style="max-width:400px; width:100%;" src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg">
+<img style="max-width:720px; width:100%;" src="https://www.onlinelibrary.wiley.com/cms/asset/81ef60b3-f131-40af-b0b8-550fd0d6e0a6/ajum00092-fig-0001-m.jpg">
 
-<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-ernie_diaframmatiche.png">
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-ernie_diaframmatiche.png">
 
 
 ## Ernie iatale
 
 La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
 
-<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-hiatal_hernia.png">
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-hiatal_hernia.png">
 
 ### Ernia iatale da scivolamento (tipo 1)
 
@@ -507,7 +509,7 @@ La funzione dello sfintere esofageo inferiore e la presenza di reflusso gastro-e
 ### Ernia iatale da para-esofagea da rotolamento (tipo 2)
 L’ernia da rotazione vede il fondo dello stomaco intrappolato al lato dell’esofago.
 
-<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-paraesophageal_hernia.png">
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-paraesophageal_hernia.png">
 
 ### Ernia iatale mista (tipo 3)
 L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da rotazione, risultando, comunque, più rara.
@@ -517,9 +519,9 @@ L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da
 
 [⤷Radiopaedia - Fundoplication](https://radiopaedia.org/articles/fundoplication)
 
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/52678567/dc0feb97a689a26f54e0d5b5e56cbb_big_gallery.jpeg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/52678569/b2ddd040ac32f1c17a7107f3b0d578_big_gallery.jpeg"><br>
-<img style="max-width:400px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/12251373/cc3b9f86315107bc990e0f4f24f402_big_gallery.jpg">
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/52678567/dc0feb97a689a26f54e0d5b5e56cbb_big_gallery.jpeg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/52678569/b2ddd040ac32f1c17a7107f3b0d578_big_gallery.jpeg"><br>
+<img style="max-width:720px; width:100%;" src="https://prod-images-static.radiopaedia.org/images/12251373/cc3b9f86315107bc990e0f4f24f402_big_gallery.jpg">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
@@ -541,7 +543,7 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 **Negli adulti,** le ernie diaframmatiche posteriori **scoperte incidentalmente** sono **rare** (**0,17%** dei pazienti che hanno una TC addominale). Di queste, le ernie **del lato destro sono più comuni (68%)** e più frequenti nelle donne. La grande maggioranza è piccola, e **solo il 27% contiene organi addominali come intestino, milza o fegato.**
 
-<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-ernia_bochdalek.png">
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-ernia_bochdalek.png">
 
 ### Ernia di Morgani
 
@@ -558,8 +560,8 @@ L'apertura sinistra del diaframma posteriore si chiude più tardi nella vita fet
 
 ## Stenosi esofagea
 
-<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-esofagite_stenosi_esofagea.png "><br>
-<img style="max-width:400px; width:100%;" src="..\..\..\img\netter-stenosi_esofagea_ernia_iatale.png ">
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-esofagite_stenosi_esofagea.png "><br>
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-stenosi_esofagea_ernia_iatale.png ">
 
 
 ---
