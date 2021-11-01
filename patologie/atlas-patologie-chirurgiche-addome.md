@@ -34,56 +34,154 @@
 
 ## RESTRINGIMENTI ESOFAGEI
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(1).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## DIVERTICOLI ESOFAGEI
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(2).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
 
 ## DIFETTI DI RIEMPIMENTO ESOFAGEI
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(3).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## DIFETTI DI RIEMPIMENTO GASTRICI
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(4).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
 
 ## DIFETTI DI RIEMPIMENTO DUODENALI
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(5).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## DIFETTI DI RIEMPIMENTO E MASSE DELL'INTESTINO TENUE
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(6).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
 
 ## DIFETTI DI RIEMPIMENTO DEL COLON
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(7).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## LESIONI EPATICHE
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(8).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
 
 ## ALTERAZIONI DELLE VIE BILIARI
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(9).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## MASSE DELLA COLECISTI
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(10).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
 
 ## LESIONI SOLIDE DEL PANCREAS
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(11).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## LESIONI CISTICHE DEL PANCREAS
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(12).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
 
 ## LESIONI SPLECNICHE
 
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(13).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
+
 ---
 
 ## LESIONI MESENTERICHE E PERITONEALI
+
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(14).jpg">
+
+
+<div style="text-align: right">
+<a href="#patologie-chirurgiche-delladdome">⬆️</a>
+</div>
 
 ---
