@@ -16,8 +16,8 @@
 
 - [**CASE*UAL* WEDNESDAY**](#caseual-wednesday)
   - [Cosa sono i Case*ual* Wendnesday?](#cosa-sono-i-caseual-wendnesday)
-  - [Case*ual* Wednesday Archive](#caseual-wednesday-archive)
   - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
+  - [**CASE*UAL* WEDNESDAY ARCHIVE**](#caseual-wednesday-archive)
 
 - - -
 
@@ -36,10 +36,9 @@ Ogni incontro ha un tema specifico che può venire di volta in volta proposto da
 
 ---
 
-## Case*ual* Wednesday Archive
+## Come preparsi al Case*ual* Wednesday?
 
-Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
-[Caseual Wednesday &rarr; Archive](case_archive.md)
+[Caseual Wednesday &rarr; How to be ready?](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/how_to_be_caseual_on_wednesday.html)
 
 <div style="text-align: right">
 <a href="#caseual-wednesday">⬆️</a>
@@ -47,9 +46,10 @@ Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
 
 ---
 
-## Come preparsi al Case*ual* Wednesday?
+## **CASE*UAL* WEDNESDAY ARCHIVE**
 
-[Caseual Wednesday &rarr; How to be ready?](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/how_to_be_caseual_on_wednesday.html)
+Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
+[**CASE*UAL* WEDNESDAY &rarr; ARCHIVE**](case_archive.md)
 
 <div style="text-align: right">
 <a href="#caseual-wednesday">⬆️</a>
