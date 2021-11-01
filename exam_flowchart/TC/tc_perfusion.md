@@ -367,19 +367,18 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
 
 <hr>
 
-## BIBLIOGRAFIA
-
-- [STUDIO NEUROVASCOLARE CON TOMOGRAFIA COMPUTERIZZATA: TECNOLOGIA E TECNICA DELLO STUDIO DI PERFUSIONE](http://consultatsrm.altervista.org/wp-content/uploads/2016/01/Biffi-studio-perfusionale-encefalo.pdf)
-
+<h2 id="bibliografia">BIBLIOGRAFIA</h2>
+<ul>
+<li><a href="http://consultatsrm.altervista.org/wp-content/uploads/2016/01/Biffi-studio-perfusionale-encefalo.pdf">STUDIO NEUROVASCOLARE CON TOMOGRAFIA COMPUTERIZZATA: TECNOLOGIA E TECNICA DELLO STUDIO DI PERFUSIONE</a></li>
+</ul>
 <div style="text-align: right">
 <a href="#tc-perfusion-p-tc">⬆️</a>
 </div>
 
 <hr>
 
-## NOTE
-
-
-
-
+<h2 id="note">NOTE</h2>
+<ul>
+<li><a href=""></a></li>
+</ul>
 </body>
