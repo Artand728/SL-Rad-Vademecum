@@ -400,6 +400,12 @@ Conclusioni: reperti radiologici nei limiti di norma.
 # **PATOLOGIE ESOFAGEE**
 
 <img class="imagehover" style="max-width:400px; width:100%;" src="..\..\..\img\netter-schema_malattie_gel.png">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(1).jpg">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(2).jpg">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(3).jpg">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(4).jpg">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(5).jpg">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Atlas_of_Upper_Gastrointestinal_and_Hepato-Pancreato-Biliary_Surgery_(6).jpg">
 
 <div style="text-align: right">
 <a href="#transito-esofago-gastrico">⬆️</a>
