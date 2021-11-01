@@ -66,13 +66,13 @@ La presenza di aree iscehemiche deve essere valutata attraverso l'**ASPECTS Scor
 
 ---
 
-## TC PERFUSION
+## TC PERFUSION (p-TC)
 
-La TC perfusion acquisisce dei dati attraverso i quali costruisce delle mappe che permettono di determinare lo stato di perfusione del parenchima cerebrale e determinare quanto tessuto all'interno di una zona ischemica è ancora salvabile con una riperfusione.
+La **TC perfusion (p-TC)** è una metodica che attraverso l'acquisizione di **dati relativi all'emodinamica cerebrale** costruisce delle **mappe di perfusione** al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all'interno di una zona ischemica è ancora salvabile con una riperfusione.
 
-Attraverso la TC perfusion è possibile distinguere l'area ischemica centrale (core) in cui si sono venuti a creare fenomeni di necrosi e che non è più recuperabile nemmeno con la perfusione, da una zona ischemica periferica (penombra) nella quale il tessuto cerebrale è in sofferenza ma non ancora necrotico e che può dunque essere recuperata se riperfuso. 
+Attraverso la TC perfusion è possibile distinguere **l'area ischemica centrale (core)**, in cui si sono venuti a creare fenomeni di **necrosi** e che non è più recuperabile nemmeno con la perfusione, da una **zona ischemica periferica (penombra)**, nella quale il **tessuto cerebrale è in sofferenza ma non ancora necrotico** e che può dunque essere recuperata se riperfuso. 
 
-La TC perfusion serve a sapere quanto tessuto può quindi essere salvato, e quindi anche quanta funzione può essere preservata, attraverso una riperfusione permettendoci quindi di valutare i potenziali benefici a fronte di una manovra a cui si associano dei rischi emorragici.
+La TC perfusion permette quindi di **valutare quanto tessuto può essere salvato**, e quindi anche quanta funzione può essere preservata attraverso una riperfusione, permettendo di **determinare i potenziali benefici a fronte dei rischi emorragici di una trombolisi**.
 
 <div style="text-align: right">
 <a href="#tc-cranio-protoccolo-rosso-trombolisi">⬆️</a>
@@ -82,22 +82,25 @@ La TC perfusion serve a sapere quanto tessuto può quindi essere salvato, e quin
 
 ### Indicazioni
 
-Da un punto di vista dosimetrico TC perfusion raddoppia la dose a cui è esposto il paziente, tutto ciò è giustificato dal vantaggio diagnostico e terapeutico che ne deriva per il paziente.
+Da un punto di vista **dosimetrico** TC perfusion **raddoppia la dose** a cui è esposto il paziente, tutto ciò è giustificato dal vantaggio diagnostico e terapeutico che ne deriva per il paziente.
 
-Si può riperfondere fino alla 9 ora dopo la venosa e fino a dopo a 24 ore dalla arteriosa purché vi sia una zona di penombra che possa essere recuperata e che giustifichi i rischi di una manovra di riperfusione.
-Tra le 9 ore e le 24 ore per l’arteriosa e le 4 ore e le 9 ore per la venosa 
-Ictus al risveglio (non databile) si esegue una TC perfusion per determinare quanto è larga la zona di penombra e quanto può essere recuperato.
+
+
+
 
 >E’ anche possibile valutare se un paziente presenta una lesione ischemica prima o dopo la 6° ora (come nel caso di ictus al risveglio) anche tramite la RMN dove si può valutare il mismatch tra sequenze FLAIR e Diffusion.
 >In caso di ischemia le sequenze in diffusione diventano subito positive mentre le sequenze FLAIR diventano positive dopo la 6° ora.
 >Con la RMN è possibile valutare anche la penombra valutando il mismatch tra DWI e perfusion RM.
 
-Il nostro obbiettivo è dire al neurologo quanto volume di tessuto cerebrale (in cc) possiamo salvare se riperfondiamo il paziente.
-Se sono entro le 4,5 ore dall’evento potrebbe essere sufficiente la TC basale e l’Angio-TC per decidere se riperfondere il paziente e quindi potrebbe non essere indispensabile la perfusion perché la zona di penombra e di conseguenza di tessuto salvabile è statisticamente sempre abbastanza elevato da giustificare i rischi. In questo range temporale non c’è un’indicazione univoca ed eseguire o meno la perfusion TC.
-
-Nei pazienti anziani [...]
+Il nostro **obbiettivo** è dire al neurologo quanto **volume di tessuto cerebrale (in cc)** possiamo salvare se riperfondiamo il paziente.
+Se sono **entro le 4,5 ore dall’evento** potrebbe essere **sufficiente la TC basale e l’Angio-TC** per decidere se riperfondere il paziente e quindi potrebbe non essere indispensabile la perfusion perché la zona di penombra e di conseguenza di tessuto salvabile è statisticamente sempre abbastanza elevato da giustificare i rischi. 
+In questo range temporale non c’è un’indicazione univoca ed eseguire o meno la perfusion TC.
 
 Oltre tale periodo si entra nella finestra temporale in cui la perfusion TC diventa dirimente in quanto permette di valutare in maniera semi-quantitativa quanto tessuto di penombra è rimasto.
+
+Si ha quindi indicazione all'impego della TC perfusion tra le 9 ore e le 24 ore per l’arteriosa e le 4 ore e le 9 ore per la venosa così come nel caso di **ictus al risveglio (non databile)** dove si esegue una TC perfusion per determinare quanto è larga la zona di penombra e quanto può essere recuperato.
+
+Si può **riperfondere fino alla 9 ora dopo la venosa** e **fino a dopo a 24 ore dalla arteriosa** purché vi sia una **zona di penombra** che possa essere **recuperata** e che **giustifichi i rischi di una manovra di riperfusione**.
 
 <div style="text-align: right">
 <a href="#tc-cranio-protoccolo-rosso-trombolisi">⬆️</a>
@@ -107,20 +110,20 @@ Oltre tale periodo si entra nella finestra temporale in cui la perfusion TC dive
 
 ### Esecuzione
 
-La TC perfusion viene fatta prima dell’acquisizione dell’Angio-TC.
-L'acquisizione delle immagini per la TC perfusion avviene subito dopo l'acquisizione delle immagini basali ma prima della fase angiografica.
+La TC perfusion viene eseguita **prima dell’acquisizione dell’Angio-TC**.
+L'acquisizione delle immagini per la TC perfusion avviene **subito dopo l'acquisizione delle immagini basali** ma prima della fase angiografica.
 
-La macchina acquisisce delle scansioni ripetute con spessore di fetta di 4 cm. 
+La macchina acquisisce delle **scansioni ripetute** con **spessore di fetta di 4 cm**. 
 
-Ogni secondo la macchina completa 2 rotazioni del gantry scorrendo leggermente il lettino tra le due acquisizione (shuttle) coprendo nel complessivo uno spessore di fetta totale di 8 cm.
+**Ogni secondo** la macchina **completa 2 rotazioni del gantry** **scorrendo leggermente il lettino tra le due acquisizioni (shuttle**) coprendo **nel complessivo uno spessore di fetta totale di 8 cm.**
 
-Parte dall’ apice del clivus (sella turcica) in su di 8cm.
+Parte **dall’apice del clivus (sella turcica)** in su di 8cm.
 
-Studiamo il territorio di distribuzione della arteria celebrale media
+Studiamo il **territorio di distribuzione** della **arteria celebrale media**.
 
-La macchina acquisisce per 70 secondi
-Il settaggio è a 80kV.
-per la TC perfusion si può usare ogni tipo di mezzo di contrasto.
+La macchina acquisisce per **70 secondi**.
+Il settaggio è a **80kV**.
+Per la TC perfusion **può essere usato ogni tipo di mezzo di contrasto**.
 
 <div style="text-align: right">
 <a href="#tc-cranio-protoccolo-rosso-trombolisi">⬆️</a>
@@ -130,18 +133,19 @@ per la TC perfusion si può usare ogni tipo di mezzo di contrasto.
 
 ### Refertazione
 
-Dalle acquisizioni 
-
-Mismatch tra MTT e CBV:
+Dalle acquisizioni si valuta il mismatch tra MTT e CBV:
 -	Nel core il CBV è nettamente ridotto (tessuto necrotico avascolare)
 -	Nella penombra il CBV è aumentato (perché ci sono fenomeni di vasodilatazione reattiva di compenso che ne portano ad un aumento)
 
-Vengono definiti dei cut-off semi-quantitativi in base ai quali è possibile dire se la zona di penombra è di grandi, medie o piccole dimensioni.
-Si fornisce un giudizo semi-quantitatico poiché i valori numerici che vengono forniti dalla macchina non sono validati in letteratura, inoltre se il paziente non è collaborante, se ci sono corpi estranei che generano artefatti e in generale l'acquisizione delle immagini è subottimale tali valori potrebbero essere meno precisi.
+Vengono definiti dei **cut-off semi-quantitativi** in base ai quali è possibile dire se la **zona di penombra** è di **grandi**, **medie** o **piccole dimensioni**.
 
-1. Aprire il portale Philips IntelliSpace.
-2. Selezionare la sequenza perfusionale del paziente.
-3. Cliccare Brain Perfusion.
+Si fornisce un **giudizo semi-quantitativo** poiché i **valori numerici** che vengono forniti dalla macchina **non sono validati in letteratura**, inoltre se il paziente non è collaborante o vi sono corpi estranei che generano artefatti l'acquisizione delle immagini è subottimale tali valori potrebbero essere imprecisi.
+
+### Esecuzione perfusion TC (Portale Philips)
+
+1. Aprire il **portale Philips IntelliSpace**.
+2. Selezionare la **sequenza perfusionale del paziente**.
+3. Cliccare **Brain Perfusion**.
 4. Il sistema seleziona autonomamente un'arteria ed una vena di riferimento.
 5. Correggere eventualmente l'arteria scelta (tipicamente si seleziona la cerebrale anteriore) e la vena scelta (tipicamente il seno cerebrale posteriore).
 6. Nel grafico di intensità HU in funzione del tempo si vedono due picchi che rappresentano il picco arterioso e venoso nelle due regioni selezionate dalla ROI.
@@ -193,3 +197,7 @@ Index &rarr; indica la percentuale di penomabra rispetto al core nell'area toata
 </div>
 
 ---
+
+## BIBLIOGRAFIA
+
+- [STUDIO NEUROVASCOLARE CON TOMOGRAFIA COMPUTERIZZATA: TECNOLOGIA E TECNICA DELLO STUDIO DI PERFUSIONE](http://consultatsrm.altervista.org/wp-content/uploads/2016/01/Biffi-studio-perfusionale-encefalo.pdf)
