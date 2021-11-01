@@ -225,109 +225,109 @@ Index &rarr; indica la percentuale di penomabra rispetto al core nell'area toata
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(2).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(2).png" style="width: 100%; max-width: 560px" />
     <div class="text">Selezionare</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(3).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(3).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(4).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(4).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(5).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(5).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(6).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(6).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(8)-grafici.png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(8)-grafici.png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(9).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(9).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">8 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(10).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(10).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">9 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(11).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(11).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">10 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12)-tabella.png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12)-tabella.png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">12 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(13).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(13).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">13 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(14).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(14).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(15).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(15).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">15 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(15)-tabella.png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(15)-tabella.png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">16 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/perfusion-tc_slices.gif" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/perfusion-tc_slices.gif" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">17 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(32).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(32).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">18 / 18</div>
-    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(27).png" style="width: 100%; max-width: 720px" />
+    <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(27).png" style="width: 100%; max-width: 560px" />
     <div class="text"></div>
   </div>
 
