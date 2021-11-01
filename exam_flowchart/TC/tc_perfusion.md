@@ -44,8 +44,8 @@
   }
   /* Caption text */
   .text {
-    color: #f2f2f2;
-    background-color: # ;
+    color: #000000;
+    background: rgba(176, 190, 197, 0.7) ;
     font-size: 15px;
     padding: 8px 12px;
     position: absolute;
