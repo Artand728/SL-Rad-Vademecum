@@ -94,14 +94,14 @@
 
 <hr>
 
-<h2 id="tc-perfusion-p-tc-">TC PERFUSION (p-TC)</h2>
+<h2 id="tcperfusion">TC PERFUSION (p-TC)</h2>
 <hr>
 
 <ul>
-<li><a href="#tc-perfusion-p-tc-">TC PERFUSION (p-TC)</a><ul>
+<li><a href="#tcperfusion">TC PERFUSION (p-TC)</a><ul>
 <li><a href="#indicazioni">Indicazioni</a></li>
 <li><a href="#esecuzione">Esecuzione</a></li>
-<li><a href="#refertazione-portale-philips">Refertazione (Portale Philips)</a></li>
+<li><a href="#refertazioneportalephilips">Refertazione (Portale Philips)</a></li>
 </ul>
 </li>
 <li><a href="#bibliografia">BIBLIOGRAFIA</a></li>
@@ -113,7 +113,7 @@
 <p>Attraverso la TC perfusion è possibile distinguere <strong>l&#39;area ischemica centrale (core)</strong>, in cui si sono venuti a creare fenomeni di <strong>necrosi</strong> e che non è più recuperabile nemmeno con la perfusione, da una <strong>zona ischemica periferica (penombra)</strong>, nella quale il <strong>tessuto cerebrale è in sofferenza ma non ancora necrotico</strong> e che può dunque essere recuperata se riperfuso. </p>
 <p>La TC perfusion permette quindi di <strong>valutare quanto tessuto può essere salvato</strong>, e quindi anche quanta funzione può essere preservata attraverso una riperfusione, permettendo di <strong>determinare i potenziali benefici a fronte dei rischi emorragici di una trombolisi</strong>.</p>
 <div style="text-align: right">
-<a href="#tc-perfusion-p-tc-">⬆️</a>
+<a href="#tcperfusion">⬆️</a>
 </div>
 
 <hr>
@@ -132,7 +132,7 @@ In caso di ischemia le sequenze in Diffusion diventano subito positive mentre le
 Con la RMN è possibile valutare anche la penombra valutando il mismatch tra DWI e perfusion RM.</p>
 </blockquote>
 <div style="text-align: right">
-<a href="#tc-perfusion-p-tc-">⬆️</a>
+<a href="#tcperfusion">⬆️</a>
 </div>
 
 <hr>
@@ -148,12 +148,12 @@ L&#39;acquisizione delle immagini per la TC perfusion avviene <strong>subito dop
 Il settaggio è a <strong>80kV</strong>.
 Per la TC perfusion <strong>può essere usato ogni tipo di mezzo di contrasto</strong>.</p>
 <div style="text-align: right">
-<a href="#tc-perfusion-p-tc-">⬆️</a>
+<a href="#tcperfusion">⬆️</a>
 </div>
 
 <hr>
 
-<h3 id="refertazione-portale-philips-">Refertazione (Portale Philips)</h3>
+<h3 id="refertazioneportalephilips">Refertazione (Portale Philips)</h3>
 <p>Dalle acquisizioni si valuta il <strong>mismatch tra MTT e CBV</strong>:</p>
 <ul>
 <li>Nel core il CBV è nettamente ridotto (tessuto necrotico avascolare)</li>
@@ -182,7 +182,7 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
 <p>Index &rarr; indica la percentuale di penomabra rispetto al core nell&#39;area toatale della lesione presente in sezione. Vanno integrate le sezioni per avere il volume totale.</p>
 
 <div style="text-align: right">
-<a href="#tc-perfusion-p-tc-">⬆️</a>
+<a href="#tcperfusion">⬆️</a>
 </div>
 
 <hr>
@@ -362,7 +362,7 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
 </script>
 
 <div style="text-align: right">
-<a href="#tc-perfusion-p-tc-">⬆️</a>
+<a href="#tcperfusion">⬆️</a>
 </div>
 
 <hr>
@@ -372,7 +372,7 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
 <li><a href="http://consultatsrm.altervista.org/wp-content/uploads/2016/01/Biffi-studio-perfusionale-encefalo.pdf" target="_blank" rel="noopener noreferrer">STUDIO NEUROVASCOLARE CON TOMOGRAFIA COMPUTERIZZATA: TECNOLOGIA E TECNICA DELLO STUDIO DI PERFUSIONE</a></li>
 </ul>
 <div style="text-align: right">
-<a href="#tc-perfusion-p-tc-">⬆️</a>
+<a href="#tcperfusion">⬆️</a>
 </div>
 
 <hr>
