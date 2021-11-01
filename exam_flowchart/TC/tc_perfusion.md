@@ -94,7 +94,7 @@
 
 ## TC PERFUSION (p-TC)
 
-- - -
+<hr>
 
 - [TC PERFUSION (p-TC)](#tc-perfusion-p-tc)
   - [Indicazioni](#indicazioni)
@@ -103,7 +103,7 @@
 - [BIBLIOGRAFIA](#bibliografia)
 - [NOTE](#note)
 
-- - -
+<hr>
 
 La **TC perfusion (p-TC)** è una metodica che attraverso l'acquisizione di **dati relativi all'emodinamica cerebrale** costruisce delle **mappe di perfusione** al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all'interno di una zona ischemica è ancora salvabile con una riperfusione.
 
