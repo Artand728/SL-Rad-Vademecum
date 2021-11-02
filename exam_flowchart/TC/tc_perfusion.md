@@ -45,7 +45,7 @@
   /* Caption text */
   .text {
     color: #000000;
-    background: rgba(176, 190, 197, 0.7) ;
+    background: rgba(176, 190, 197, 0.8) ;
     font-size: 15px;
     padding: 8px 12px;
     position: absolute;
@@ -259,7 +259,7 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
   <div class="mySlides fade">
     <div class="numbertext">12 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(13).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Tutto ciò può essere visto sulle mappe dove le regioni con parametri ischemici sono colorate in blu </div>
   </div>
 
   <div class="mySlides fade">
