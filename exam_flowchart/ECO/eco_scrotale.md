@@ -12,32 +12,51 @@
 
 # ECOGRAFIA SCROTALE
 
-- - -
-
 - [ECOGRAFIA SCROTALE](#ecografia-scrotale)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
 	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
 	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-		- [CAVEAT](#caveat)
+	- [REFERTAZIONE](#refertazione)
 	- [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
-		- [PITFALLS](#pitfalls)
-	- [CHECKLIST](#checklist)
-	- [REFERTI PREFATTI](#referti-prefatti)
-		- [NEGATIVO](#negativo)
+		- [REFERTI PREFATTI](#referti-prefatti)
+		- [PATOLOGIE](#patologie)
+			- [Patologia #1](#patologia-1)
+			- [Patologia #2](#patologia-2)
+			- [Patologia #3](#patologia-3)
+	- [BIBILIOGRAFIA](#bibiliografia)
+	- [NOTE](#note)
 
----
+- - -
 
 ## INDICAZIONI & LINEE GUIDA
 
+---
+
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
 
+---
+
 ## ESECUZIONE DELL'ESAME
-### CAVEAT
+
+---
+
+## REFERTAZIONE
+
+---
 
 ## FLOWCHART REFERTAZIONE
-### PITFALLS
 
-## CHECKLIST
+### REFERTI PREFATTI
+### PATOLOGIE
 
-## REFERTI PREFATTI
-### NEGATIVO
+#### Patologia #1
+#### Patologia #2
+#### Patologia #3
+
+---
+
+## BIBILIOGRAFIA
+
+---
+
+## NOTE

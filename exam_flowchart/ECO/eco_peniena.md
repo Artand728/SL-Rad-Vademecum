@@ -122,6 +122,7 @@ Nelle fasi più precoci della malattia (fibrosi ancora lieve), le lesioni si pos
 Alla valutazione ECD l'aumento del flusso intorno alle placche suggerisce la presenza di attività infiammatoria a livello della placca mentre l'assenza di flusso suggerisce la stabilità della malattia.
 
 ![](../../img/US-Malattia_di_Peyronie.jpg)
+<img style="max-width:720px; width:100%;" src="https://stpeteurology.com/wp-content/uploads/2011/11/peyronies-disease-1-300x241.jpg"><br>
 
 
 ### STENOSI DELL'URETRA

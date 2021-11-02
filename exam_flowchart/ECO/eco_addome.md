@@ -10,17 +10,17 @@
 
 ---
 
-# ECOGRAFIA ADDOMINALE
+# **ECOGRAFIA ADDOMINALE**
 
 ---
 
-- [ECOGRAFIA ADDOMINALE](#ecografia-addominale)
+- [**ECOGRAFIA ADDOMINALE**](#ecografia-addominale)
   - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
   - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
   - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
   - [REFERTAZIONE](#refertazione)
-  - [FLOWCHART](#flowchart)
-  - [REFERTI PREFATTI](#referti-prefatti)
+  - [**FLOWCHART**](#flowchart)
+  - [**REFERTI PREFATTI**](#referti-prefatti)
     - [ECO ADDOME SUPERIORE](#eco-addome-superiore)
     - [ECO ADDOME SUP ED INF MASCHILE](#eco-addome-sup-ed-inf-maschile)
     - [ECO ADDOME SUP ED INF FEMMINILE](#eco-addome-sup-ed-inf-femminile)
@@ -35,6 +35,21 @@
     - [ECO ADDOME INF NORMALE FEMMINILE](#eco-addome-inf-normale-femminile)
     - [ECO ADDOME INF FEMMINILE POST-MENOPAUSA](#eco-addome-inf-femminile-post-menopausa)
     - [ECO ADDOME FEMMINILE PER FIBROMATOSI](#eco-addome-femminile-per-fibromatosi)
+  - [PATOLOGIE & INTERVENTI CHIRURGICI](#patologie--interventi-chirurgici)
+    - [MILZA](#milza)
+    - [RENI & VIE URINARIE](#reni--vie-urinarie)
+      - [Cisti Renali](#cisti-renali)
+      - [Classificazione di Bosniak](#classificazione-di-bosniak)
+    - [AORTA](#aorta)
+    - [PANCREAS](#pancreas)
+    - [FEGATO](#fegato)
+    - [VIE BILIARI](#vie-biliari)
+    - [VESCICA](#vescica)
+    - [PROSTATA & VESCICHETTE SEMINALI](#prostata--vescichette-seminali)
+      - [Protatectomia Radicale](#protatectomia-radicale)
+      - [LINFOCELE](#linfocele)
+    - [UTERO & ANNESSI](#utero--annessi)
+    - [PELVI](#pelvi)
 
 ---
 
@@ -46,7 +61,7 @@
 
 ## REFERTAZIONE
 
-## FLOWCHART 
+## **FLOWCHART** 
 <!--- ` = ALT+96 -->
 
 1. **FEGATO**
@@ -149,7 +164,7 @@
      - ispessite per ipertrofia detrusoriale
      - irregolari
    - contenuto 
-     - fluido nella norma `[ "e lume libero" ]`
+     - fluido omogeneo nella norma `[ "e lume libero" ]`
      - sedimento
 
 
@@ -184,6 +199,7 @@
    - falde fluide perirenali?
    - falde fluide nello scavo pelvico (il cavo del Douglas)?
    - aneurisma aorta?
+   - linfocele in esiti di intervento chirurgico (urologico)?
 
 
 19. **LIMITI METODOLOGICI**
@@ -192,7 +208,7 @@
 
 ---
 
-## REFERTI PREFATTI
+## **REFERTI PREFATTI**
 
 ---
 
@@ -361,3 +377,119 @@ Le ovaie presentano aspetto US nei limiti di norma.
 Il cavo del Douglas è libero.
 
 ---
+
+## PATOLOGIE & INTERVENTI CHIRURGICI
+
+### MILZA
+
+---
+
+### RENI & VIE URINARIE
+
+---
+
+#### Cisti Renali
+La maggior parte delle lesioni cistiche del rene sono cisti epiteliali benigne e solo in rari casi si associano a patologie maligne come il carcinoma a cellule renali.
+
+Una cisti renale semplice è tipicamente un riscontro benigno che emerge nel 40% dei soggetti che si sottopongono ad esami di imaging.
+
+Le cisti renali vengono valutate in base alla complessità: una cisti "semplice" viene diagnosticata con sicurezza come un reperto benigno, mentre lesioni complicate o complesse con componenti che aumentano sono sospette di malignità.
+
+Le cisti renali possono essere sia congenite che acquisite; più comunemente sono acquisite e tendono ad aumentare con l'età.
+
+In base al numero e alla localizzazione una cisti renale può essere:
+- focale
+- multifocale
+- unilaterale
+- bilaterale
+
+**Caratteristiche ecografiche**
+
+- **Cisti renale non complicata**
+  - lesione anecogena con margini netti e pareti sottili
+  - possono essere presenti alcuni sottili setti (5% delle cisti)
+  - parete posteriore visibile
+  - tipicamente rilevabile rinforzo acustico posteriore, anche se non specifico e può non essere presente in cisti di piccole dimensioni
+  - possibile presenza di piccola quantità di emorragia/deposito intracistico che può richiedere un'ulteriore valutazione (5% delle cisti)
+- **Cisti complicata**
+  - lesioni cistiche con pareti e setti ispessiti o irregolari &rarr; sospette per Carcinoma a Cellule Renali (RCC)
+  - un incremento della vascolarizzazione dei setti all'esame ECD &rarr; sospetto per Carcinoma a Cellule Renali (RCC)
+
+All'interno delle cisti si possono verificare artefatti ecografici da riverbero.
+
+L'utilizzo di mezzo di contrasto ecografico permette di valutare meglio la vascolarizzazione dei setti o la presenza di protuberanze nodulari in una cisti renale e può aiutare a differenziare una cisti benigna da una cisti indeterminata o da una cisti maligna.
+
+**Caratteristiche TC**
+
+**Caratteristiche RMN**
+
+
+#### Classificazione di Bosniak
+![](https://i0.wp.com/nephropocus.com/wp-content/uploads/2019/06/diagram-bosniak-classification-of-renal-cysts.jpg?w=878&ssl=1)
+
+**Bibliografia**
+- [Radiopaedia - Renal Cyst](https://radiopaedia.org/articles/renal-cyst-1)
+- [PubMed Review - Renal Cyst ](https://pubmed.ncbi.nlm.nih.gov/29261909/)
+- [PubMedCentral - Guidelines on the management of renal cyst disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2845761/)
+
+---
+
+### AORTA
+
+### PANCREAS
+
+### FEGATO
+
+### VIE BILIARI
+
+### VESCICA
+
+---
+
+### PROSTATA & VESCICHETTE SEMINALI
+
+#### Protatectomia Radicale
+
+**Rimozione completa dell'intera prostata** associata alla rimozione **della capsula** e **delle vescichette seminali** seguita da **anastomosi vescico-uretrale**.
+
+In pazienti selezionati l'intervento può essere eseguito con **metodica nerve-sparing** preservando il fascio neurovascolare parasimpatico derivante dalle branche nervose efferenti del plesso pelvico in modo da preservare la funzione erettile.
+
+In pazienti selezionati con alta probabilità di coinvolgimento linfonodale (>2-5%) viene associata la **linfadenectomia pelvica (PLND)**.
+
+Può essere eseguita con diverse tecniche:
+- **ORP (Open Radical Prostatectomy)**
+- **LRP  (Laparoscopic Radical Prostatectomy)**
+- **RARP (Robot-Assisted Radical Prostatectomy)**
+
+<img style="max-width:720px; width:100%;" src="https://meetings.ami.org/2020/wp-content/uploads/2020/08/Morgan-Summerlin-I2_Robotic-As.jpg"><br>
+<img style="max-width:720px; width:100%;" src="https://images.squarespace-cdn.com/content/52eef366e4b07fbe88863483/1395087763820-I312RITCOAUNVLU8OGPS/uga+final.jpg?content-type=image%2Fjpeg"><br>
+
+**BIBLIOGRAFIA**
+- [Dynamed - Gestione del Cancro prostatico localmente avanzato](www.dynamed.com/topic/T905839)
+
+---
+
+#### LINFOCELE
+
+I linfoceli sono **raccolte di liquido linfatico** che si possono verificare **a seguito di interventi chirurgici** per lo più nella **regione retroperitoneale**.
+
+Sono solitamente raccolte semplici, contenenti creatinina, urea ed elettroliti in concentrazioni sieriche simili. 
+
+All'imaging i linfoceli si presentano come raccolte semplici di fluido a parete sottile.
+
+Zone tipiche di linfocele sono:
+- linfocele della testa e del collo
+- linfocele del dotto toracico
+- linfocele retroperitoneale
+-   linfocele perirenale: legato a reni trapiantati nello spazio extraperitoneale della pelvi
+-   
+
+**BIBLIOGRAFIA**
+
+- [Radiopaedia - Lymphocele](https://radiopaedia.org/articles/lymphocele)
+
+---
+
+### UTERO & ANNESSI
+
+### PELVI
