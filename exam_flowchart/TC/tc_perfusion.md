@@ -193,67 +193,67 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
   <div class="mySlides fade">
     <div class="numbertext">1 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(2).png" style="width: 100%; max-width: 560px" />
-    <div class="text">Selezionare la <b>sequenza "perfusione"</b></div>
+    <div class="text">Selezionare la <b>sequenza "perfusione"</b> del paziente e successivamente <b>selezionare "Brain Perfusion"</b> dalla sezione analisi</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(3).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Il software <b>seleziona automaticamente un'arteria di riferimento</b> ma volendo si può modificare manualmente</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(4).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text"><b>L'arteria scelta va confermata</b> con tasto destro del mouse e scegliendo la voce da menu</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(5).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Lo stesso va fatto con la <b>vena di rierimento</b> che prima va scelta automaticamente/manualmente</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(6).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">e successivamente deve essere confermata dal menu accessibile con il tasto destro del mouse</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(8)-grafici.png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">La scelta dell'arteria e della vena sono adeguate quando di ottiene un grafico simile di intensità nel tempo</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(9).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Successivamente si passa alla <b>creazione delle mappe di perfusione</b></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">8 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(10).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Le mappe di perfusione permettono di valutare <b>i valori di CBV, CBF, MTT, TTP</b></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">9 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(11).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Per procedere è necessario <b>indicare l'emisfero cerebrale</b> interessato dalla lesione</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">10 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">In questo modo vengono indicate le regioni del <b>core (rosso)</b> e della <b>penombra (verde)</b></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(12)-tabella.png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Vengono inoltre calcolate le aree di core e di penombra in cm^2 e in % sul totale dell'area cerebrale nelle varie sezioni</div>
   </div>
 
   <div class="mySlides fade">
@@ -265,37 +265,37 @@ La curva venosa deve normalmente essere ritardata di pochi secondi rispetto alla
   <div class="mySlides fade">
     <div class="numbertext">13 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(14).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Cliccando con il tasto destro sul riquadro al di sopra della colonna dei valori della penombra è possibile eseguire il calcolo sul volume derivante dalla somma delle sezioni</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(15).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">In questo modo sono indicati i valori di volume (mL) e di percentuale (%) sul totale del volume cerebrale</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">15 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(15)-tabella.png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Il valore di <b>index</b> rappresenta <b>la percentuale di penombra sul totale della lesione ischemica</b> ed è quello che <b>va indicato nel referto</b></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">16 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/perfusion-tc_slices.gif" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Le aree di lesione nelle varie sezioni</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">17 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(32).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Inoltre è possibile confrontare tra di loro i valori di perfusione della stessa area nei due emisferi tracciando una ROI tessuto</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">18 / 18</div>
     <img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/tc-perfusion_101_(27).png" style="width: 100%; max-width: 560px" />
-    <div class="text"></div>
+    <div class="text">Oppure è possibile valutare delle ROI preimpostate</div>
   </div>
 
   <!-- Next and previous buttons -->
