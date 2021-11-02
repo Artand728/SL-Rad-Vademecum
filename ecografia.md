@@ -14,14 +14,14 @@
 
 - - -
 
-- [ECOGRAFIA](#ecografia)
+- [**ECOGRAFIA**](#ecografia)
   - [GESTIONE SALA](#gestione-sala)
   - [GESTIONE DEI PAZIENTI](#gestione-dei-pazienti)
   - [AGENDA](#agenda)
     - [Criteri per l'accettazione](#criteri-per-laccettazione)
     - [Casi particolari](#casi-particolari)
     - [Accortezze](#accortezze)
-  - [ESAMI ECOGRAFICI](#esami-ecografici)
+  - [**ESAMI ECOGRAFICI**](#esami-ecografici)
   - [NOTE](#note)
 
 - - -
@@ -141,6 +141,8 @@ Da compilare entro fine giornata.
 - Se arriva una cartella clinica per una consulenza per gli interventisti (tanto più se da un ospedale esterno) deve necessariamente passare prima in segretaria per essere registrata come consulenza.
 - Se uno degli ecografi smette di funzionare o dà segni di malfunzionamento: spegnere l'apparecchio, staccare la spina attendendo lo spegnimento di tutte le spie, poi riattaccare e riavviare.  
   Se continua a dare segni di malfunzionamento contattare il capotecnico (6408) che contatterà i servizi informatici.
+- Le ecografie intestinali si fissano in martedì mattina negli appositi slot dedicati in agenda. Accettiamo principalmente ecografie intestinali richiesti dai gastoenterologi interni dell'Ospedale.
+Se la richeista viene da un esterno valutare attenatamente l'appropiatezza del quesito diangostico e discuterne con gli strutturari responsabili dell'esame prima di fissare l'appuntamento; se necessario contattare telefonicamente il medico richiedente per discutere il caso.
 
 <div style="text-align: right">
 <a href="#ecografia">⬆️</a>
