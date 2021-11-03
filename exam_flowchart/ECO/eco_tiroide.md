@@ -56,24 +56,30 @@ Il **legamento di Berry** è un'estensione posteriore della capsula tiroidea che
   - istmo < 0.5 cm
 
 ## FLOWCHART REFERTAZIONE & REPERTI
-- TIROIDE (isoecogena omogenea)
-  1. Misurare le dimensioni dei lobi e dell'istmo.
-  2. Ecostruttura della tiroide
-  3. Segnale ECD della ghiandola
-  4. Noduli
+1. TIROIDE (isoecogena omogenea)
+  - Misurare le dimensioni dei lobi e dell'istmo.
+  - Ecostruttura della tiroide
+  - Segnale ECD della ghiandola
+  - Noduli
 		- d
-  5. Cisti
-- PARATIROIDI (ipoecogene omogenee)
-  1. Valutare se sono rilevabili
-  2. Misurare il diametro
+  - Cisti
+2. PARATIROIDI (ipoecogene omogenee)
+  - Valutare se sono rilevabili
+  - Misurare il diametro
 		- Nel caso in cui le dimensioni sia aumentato valutare il dosaggio del PTH
-- CAROTIDI
-	1. Valutare collateralmente la presenza di placche emodinamicamente significative (> 50% del lume).
+3. CAROTIDI
+	- Valutare collateralmente la presenza di placche emodinamicamente significative (> 50% del lume).
 &nbsp;
 	> Una placca che interessa > 50% del vaso nell'uomo e del 70% nella donna sono elegibili al trattamento con endoarterectomia.
 
-- LINFONODI
-  1. Valutare le dimensioni (VN < 1 cm)
+4. LINFONODI
+  - Valutare le **dimensioni (VN < 1 cm)**
+  - **Linfonodi sospetti**:
+    - non rilevabile **ilo vascolare**
+    - morfologia **rotondeggiante**
+    - ipoecogeni ad **elevata cellularità**
+    - **elevata vascolarizzazione** all'ECD
+
 
 
 ## FLOWCHART REFERTAZIONE
