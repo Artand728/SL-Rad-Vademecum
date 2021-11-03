@@ -16,14 +16,24 @@
 
 - [**TC CRANIO PROTOCCOLO ROSSO TROMBOLISI**](#tc-cranio-protoccolo-rosso-trombolisi)
   - [TC CRANIO BASALE](#tc-cranio-basale)
-  - [TC PERFUSION](#tc-perfusion)
+  - [TC PERFUSION (p-TC)](#tc-perfusion-p-tc)
     - [Indicazioni](#indicazioni)
     - [Esecuzione](#esecuzione)
     - [Refertazione](#refertazione)
+    - [Esecuzione perfusion TC (Portale Philips)](#esecuzione-perfusion-tc-portale-philips)
   - [TC CRANIO CON MDC (ARCO AORTICO → APICE)](#tc-cranio-con-mdc-arco-aortico--apice)
   - [TC CRANIO CON MDC (APICE → NUCLEI DELLA BASE)](#tc-cranio-con-mdc-apice--nuclei-della-base)
+  - [BIBLIOGRAFIA](#bibliografia)
 
 ---
+
+Domande a cui rispondere:
+- **TC cranio basale**
+  - **Ictus emorragico** vs **ischemico**?
+- **Angio-TC**
+  - Occlusione dei grandi vasi?
+- **Perfusion TC**
+  - Quanto tessuto è infartuato (**core**) e quanto è ancora salvabile (**penumbra**)?
 
 ## TC CRANIO BASALE
 

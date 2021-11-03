@@ -141,7 +141,6 @@ Da compilare entro fine giornata.
 
 - [Slide SIUMB - L'ecografia in pediatria](https://doczz.it/viewer_next/web/viewer.html?file=%2F%2Fs1p.doczz.it%2Fstore%2Fdata%2F000687913.pdf%3Fk%3DAwAAAXzmpoLGAAACWJ5mog5w_cDE9tPHlWkPLaG8z9QZ#page=1){:target="_blank"}
 
-
 <div style="text-align: right">
 <a href="#ecografia">⬆️</a>
 </div>
