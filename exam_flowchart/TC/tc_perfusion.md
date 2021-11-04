@@ -92,6 +92,19 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
+- - -
+
+<h1>TC PERFUSION</h1>
+
+- - -
+
+- [TC PERFUSION](#tcperfusion)
+    - [Indicazioni](#indicazioni)
+    - [Esecuzione](#esecuzione)
+    - [Refertazione (Portale Philips)](#philips)
+
+- - -
+
 <hr><p>La <strong>TC perfusion (p-TC)</strong> è una metodica funzionale che attraverso l&#39;acquisizione di <strong>dati relativi all&#39;emodinamica cerebrale</strong> costruisce delle <strong>mappe di perfusione</strong> al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all&#39;interno di una zona ischemica è ancora salvabile con una riperfusione.</p>
 <p>Attraverso la TC perfusion è possibile distinguere <strong>l&#39;area ischemica centrale (core)</strong>, in cui si sono venuti a creare fenomeni di <strong>necrosi</strong> e che non è più recuperabile nemmeno con la perfusione, da una <strong>zona ischemica periferica (penombra)</strong>, nella quale il <strong>tessuto cerebrale è in sofferenza ma non ancora necrotico</strong> e che può dunque essere recuperata se riperfuso.</p>
 <p>La TC perfusion permette quindi di <strong>valutare quanto tessuto può essere salvato</strong>, e quindi anche quanta funzione può essere preservata attraverso una riperfusione, permettendo di <strong>determinare i potenziali benefici a fronte dei rischi emorragici di una trombolisi</strong>.</p>
@@ -120,7 +133,7 @@
 <p>Il paziente è posizionato supino con le <strong>braccia lungo i fianchi.</strong></p>
 <p><a href="#tcperfusion">⬆️</a></p>
 <hr>
-<h3 id="refertazione-portale-philips-">Refertazione (Portale Philips)</h3>
+<h3 id="philips">Refertazione (Portale Philips)</h3>
 <p>Dalle acquisizioni si valuta il <strong>mismatch tra MTT e CBV</strong>:</p>
 <ul>
 <li>Nel core il CBV è nettamente ridotto (tessuto necrotico avascolare)</li>

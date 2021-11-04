@@ -1,3 +1,14 @@
+# TC PERFUSION
+
+- - -
+
+- [TC PERFUSION](#tc-perfusion)
+    - [Indicazioni](#indicazioni)
+    - [Esecuzione](#esecuzione)
+    - [Refertazione (Portale Philips)](#refertazione-portale-philips)
+
+- - -
+
 La **TC perfusion (p-TC)** è una metodica funzionale che attraverso l'acquisizione di **dati relativi all'emodinamica cerebrale** costruisce delle **mappe di perfusione** al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all'interno di una zona ischemica è ancora salvabile con una riperfusione.
 
 Attraverso la TC perfusion è possibile distinguere **l'area ischemica centrale (core)**, in cui si sono venuti a creare fenomeni di **necrosi** e che non è più recuperabile nemmeno con la perfusione, da una **zona ischemica periferica (penombra)**, nella quale il **tessuto cerebrale è in sofferenza ma non ancora necrotico** e che può dunque essere recuperata se riperfuso.
