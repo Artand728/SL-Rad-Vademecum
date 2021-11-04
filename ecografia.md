@@ -123,7 +123,7 @@ Da compilare entro fine giornata.
 - [ECOGRAFIA TIROIDE E PARATIROIDI](exam_flowchart/ECO/eco_tiroide.html)
 - [ECOCOLORDOPPLER VENOSO](exam_flowchart/ECO/eco_color_doppler_venoso.html)
 - [ECOCOLORDOPPLER TRONCHI SOVRA-AORTICI (ECD-TSA)](exam_flowchart/ECO/eco_color_doppler_tsa.html)
-- [ECOGRAFIA MUSCOLO-SCHELETTRICA - SPALLA](exam_flowchart/ECO/eco_muscolo-schelettrica_(MSK).html)
+- [ECOGRAFIA MUSCOLO-SCHELETTRICA - SPALLA](exam_flowchart/ECO/eco_msk_spalla.html)
 - [ECOGRAFIA TESSUTI SUPERFICIALI](exam_flowchart/ECO/eco_tessuti_superficiali.html)
 - [ECOGRAFIA MAMMARIA](exam_flowchart/ECO/eco_mammaria.html)
 - [ECOCOLORDOPPLER ARTERIE RENALI](exam_flowchart/ECO/eco_color_doppler_arterie_renali.html)
