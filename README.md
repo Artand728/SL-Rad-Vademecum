@@ -1,14 +1,38 @@
-# Cos'è SL Rad?
+# SL Rad Vademecum
 
 ---
 
 
-- [READ ME](#read-me)
+- [SL Rad Vademecum](#sl-rad-vademecum)
+	- [Cos'è SL Rad?](#cosè-sl-rad)
+	- [Come fare a contirbuire?](#come-fare-a-contirbuire)
 	- [MARKDOWN](#markdown)
 		- [Cos'è Markdown?](#cosè-markdown)
 		- [Come usare Markdown?](#come-usare-markdown)
 
 ---
+
+## Cos'è SL Rad?
+
+SL Rad Vademecum è un progetto che nasce da un gruppo di specializzandi con l'obiettivo primario di rendere facilmente disponibile una serie di informazioni utili e protocolli necessari a svolgere efficientemente l’attività lavorativa di tutti i giorni.
+
+In secondo luogo, il Vademecum si propone di rendere più semplice lo scambio di informazioni utili all'organizzazione delle mansioni nelle varie sale del servizio tra i vari gruppi di specializzandi.
+
+Infine, il vademecum si prefigge di partire dall’attività diagnostica quotidiana per andare a ricercare nella letteratura scientifica e nelle linee guida il razionale delle scelte che facciamo in modo da poter migliorare la capacità di individuare l'appropriatezza del quesito diagnostico, l'appropriatezza della metodica da proporre al fine di rispondere a tale quesito ed i reperti da riconoscere per orientare la diagnosi della patologia ricercata e quelle collaterali.
+
+## Come fare a contirbuire?
+
+**Skill necessarie**
+- Conoscere il linguaggio **Markdown** *(5 minuti di apprendimento)*
+- Imparare le basi minime di **Github** e **Virtual Studio Code** *(15 minuti di apprendimento e un po' di tempo per abituarsi)*
+
+**Skill accessorie**
+- Impararea a usare **ScreentoGIF** *(5 minuti di apprendimento)*
+
+**Skill avanzate utili**
+- Conoscere **html**, **css**, **javascript**
+- Conoscere **python** o **R**
+
 
 ## MARKDOWN
 
