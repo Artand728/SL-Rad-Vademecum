@@ -92,23 +92,29 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
-- - -
+<hr>
 
-<h1>TC PERFUSION</h1>
+<h1 id="tcperfusion">TC PERFUSION</h1>
 
-- - -
+<hr>
 
-- [TC PERFUSION](#tcperfusion)
-    - [Indicazioni](#indicazioni)
-    - [Esecuzione](#esecuzione)
-    - [Refertazione (Portale Philips)](#philips)
+<ul>
+<li><a href="#tcperfusion">TC PERFUSION</a><ul>
+<li><a href="#indicazioni">Indicazioni</a></li>
+<li><a href="#esecuzione">Esecuzione</a></li>
+<li><a href="#philips">Refertazione (Portale Philips)</a></li>
+</ul>
+</li>
+</ul>
 
-- - -
+<hr>
 
-<hr><p>La <strong>TC perfusion (p-TC)</strong> è una metodica funzionale che attraverso l&#39;acquisizione di <strong>dati relativi all&#39;emodinamica cerebrale</strong> costruisce delle <strong>mappe di perfusione</strong> al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all&#39;interno di una zona ischemica è ancora salvabile con una riperfusione.</p>
+<p>La <strong>TC perfusion (p-TC)</strong> è una metodica funzionale che attraverso l&#39;acquisizione di <strong>dati relativi all&#39;emodinamica cerebrale</strong> costruisce delle <strong>mappe di perfusione</strong> al fine di determinare lo stato vascolare del parenchima cerebrale e determinare quanto tessuto all&#39;interno di una zona ischemica è ancora salvabile con una riperfusione.</p>
 <p>Attraverso la TC perfusion è possibile distinguere <strong>l&#39;area ischemica centrale (core)</strong>, in cui si sono venuti a creare fenomeni di <strong>necrosi</strong> e che non è più recuperabile nemmeno con la perfusione, da una <strong>zona ischemica periferica (penombra)</strong>, nella quale il <strong>tessuto cerebrale è in sofferenza ma non ancora necrotico</strong> e che può dunque essere recuperata se riperfuso.</p>
 <p>La TC perfusion permette quindi di <strong>valutare quanto tessuto può essere salvato</strong>, e quindi anche quanta funzione può essere preservata attraverso una riperfusione, permettendo di <strong>determinare i potenziali benefici a fronte dei rischi emorragici di una trombolisi</strong>.</p>
-<p><a href="#tcperfusion">⬆️</a></p>
+<div style="text-align: right">
+<a href="#tcperfusion">⬆️</a>
+</div>
 <hr>
 <h3 id="indicazioni">Indicazioni</h3>
 <p>Da un punto di vista <strong>dosimetrico</strong> TC perfusion <strong>raddoppia la dose</strong> a cui è esposto il paziente, tutto ciò è giustificato dal vantaggio diagnostico e terapeutico che ne deriva per il paziente.</p>
@@ -119,7 +125,9 @@
 <blockquote>
 <p>E’ anche possibile valutare se un paziente presenta una lesione ischemica prima o dopo la 6° ora (come nel caso di ictus al risveglio) anche tramite la RMN dove si può valutare il mismatch tra sequenze FLAIR e Diffusion. In caso di ischemia le sequenze in Diffusion diventano subito positive mentre le sequenze FLAIR diventano positive dopo la 6° ora. Con la RMN è possibile valutare anche la penombra valutando il mismatch tra DWI e perfusion RM.</p>
 </blockquote>
-<p><a href="#tcperfusion">⬆️</a></p>
+<div style="text-align: right">
+<a href="#tcperfusion">⬆️</a>
+</div>
 <hr>
 <h3 id="esecuzione">Esecuzione</h3>
 <p>La TC perfusion viene eseguita <strong>prima dell’acquisizione dell’Angio-TC</strong>. L&#39;acquisizione delle immagini per la TC perfusion avviene <strong>subito dopo l&#39;acquisizione delle immagini basali</strong> ma prima della fase angiografica.</p>
@@ -131,7 +139,9 @@
 <p>Il settaggio è a <strong>80kV</strong>.</p>
 <p>Per la TC perfusion <strong>può essere usato ogni tipo di mezzo di contrasto</strong>.</p>
 <p>Il paziente è posizionato supino con le <strong>braccia lungo i fianchi.</strong></p>
-<p><a href="#tcperfusion">⬆️</a></p>
+<div style="text-align: right">
+<a href="#tcperfusion">⬆️</a>
+</div>
 <hr>
 <h3 id="philips">Refertazione (Portale Philips)</h3>
 <p>Dalle acquisizioni si valuta il <strong>mismatch tra MTT e CBV</strong>:</p>
