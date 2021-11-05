@@ -69,17 +69,21 @@
 
 ## ANATOMIA VASCOLARE
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-superficie.png"/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-superficie.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi_vene_aass_anatomia_superficie.png"/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi_vene_aass_anatomia_superficie.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-spalla.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aass-arterie.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass2.png"/>
+
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano.png"/>
+
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano2.png"/>
 
 <img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
 
