@@ -79,33 +79,38 @@
 
 <img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aass-arterie.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass2.png"/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass2.png"/>
 
 <img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano.png"/>
 
-<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano2.png"/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-mano.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano2.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aaii-ante.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aaii-post.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia-ante.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia-post.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene_aaii.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aaii-superficie.png"/>
 
-<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-cross-section.png"/>
+
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aaii.png"/>
+
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-polpaccio.png"/>
+
+<img style="max-width:720px; width:45%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aaii-piede.png"/>
 
 <img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
 
