@@ -23,7 +23,6 @@
     - [Accortezze](#accortezze)
   - [**ESAMI ECOGRAFICI**](#esami-ecografici)
   - [BIBLIOGRAFIA](#bibliografia)
-  - [</div>](#div)
   - [NOTE](#note)
 
 - - -
@@ -144,6 +143,7 @@ Da compilare entro fine giornata.
 <div style="text-align: right">
 <a href="#ecografia">⬆️</a>
 </div>
+
 ---
 
 ## NOTE

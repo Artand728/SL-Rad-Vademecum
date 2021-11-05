@@ -28,6 +28,7 @@
   - [REFERTAZIONE](#refertazione)
   - [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
     - [REFERTI PREFATTI](#referti-prefatti)
+  - [ANATOMIA VASCOLARE](#anatomia-vascolare)
     - [PATOLOGIE](#patologie)
       - [Patologia #1](#patologia-1)
       - [Patologia #2](#patologia-2)
@@ -65,6 +66,48 @@
 ---
 
 ### REFERTI PREFATTI
+
+## ANATOMIA VASCOLARE
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-superficie.png"/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi_vene_aass_anatomia_superficie.png"/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>
+
+
 ### PATOLOGIE
 
 #### Patologia #1

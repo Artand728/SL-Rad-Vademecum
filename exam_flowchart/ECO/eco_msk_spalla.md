@@ -7,12 +7,13 @@
 	- [REFERTAZIONE](#refertazione)
 	- [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
 	- [REFERTI PREFATTI](#referti-prefatti)
-		- [ECOGRAFIA SPALLA PATOLOGICO](#ecografia-spalla-patologico)
+		- [ECOGRAFIA SPALLA NEGATIVO](#ecografia-spalla-negativo)
 	- [ANATOMIA](#anatomia)
 		- [PATOLOGIE](#patologie)
 			- [Patologia #1](#patologia-1)
 			- [Patologia #2](#patologia-2)
 			- [Patologia #3](#patologia-3)
+		- [PROCEDURE INTEVENSTISTICHE](#procedure-intevenstistiche)
 	- [BIBILIOGRAFIA](#bibiliografia)
 	- [NOTE](#note)
 
@@ -79,7 +80,7 @@
 
 ## REFERTI PREFATTI
 
-### ECOGRAFIA SPALLA PATOLOGICO
+### ECOGRAFIA SPALLA NEGATIVO
 
 Il tendine del capo lungo del bicipite, regolarmente contenuto nella doccia omerale, presenta regolare aspetto ecotomografico, senza distensione fluida della sua guaina.
 
@@ -99,6 +100,9 @@ Non si osserva significativo versamento articolare.
 
 <img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/WKS-0004-000035.png"/>
 
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-spalla_cuffia_rotatori.png"/>
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-spalla_cuffia_rotatori2.png"/>
 
 
 
@@ -108,6 +112,10 @@ Non si osserva significativo versamento articolare.
 #### Patologia #1
 #### Patologia #2
 #### Patologia #3
+
+### PROCEDURE INTEVENSTISTICHE
+
+<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-litoclasia_infiltrazioni_spalla.png"/>
 
 ---
 
