@@ -14,10 +14,6 @@
 
 - - -
 
-- [ECO COLOR DOPPLER (ECD) VENOSO](#eco-color-doppler-ecd-venoso)
-
-- - -
-
 # ESAME
 
 - [ECO COLOR DOPPLER (ECD) VENOSO](#eco-color-doppler-ecd-venoso)
@@ -36,7 +32,7 @@
   - [BIBILIOGRAFIA](#bibiliografia)
   - [NOTE](#note)
 
----
+- - -
 
 ## INDICAZIONI & LINEE GUIDA
 
