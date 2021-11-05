@@ -300,6 +300,8 @@ Si effettua l'esame con il **Gastrografin**
 ### Indicazioni
 - Stipsi
 
+- - -
+
 ### Materiali
 
 *Marker radiopachi*

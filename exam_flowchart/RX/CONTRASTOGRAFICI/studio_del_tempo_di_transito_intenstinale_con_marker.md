@@ -40,7 +40,8 @@ L'esame si prenota il **lunedì**, perchè sono previste acquisizioni nei giorni
 - Esami precedenti (studi RX, visita GEL, ecc)
 - Impegnativa del curante (`codice 87.63.1`)
 
-> Il paziente deve presentarsi a digiuno.
+> Il paziente deve presentarsi a digiuno.  
+> Il paziente deve SOSPENDERE ogni trattamento di tipo LASSATIVO una settimana prima dell'esame.
 
 ---
 
