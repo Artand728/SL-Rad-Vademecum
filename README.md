@@ -36,27 +36,24 @@ Tutto il materiale viene utilizzato esclusivametne al fine di illustarare nel de
 L'unico fine del progetto SL Rad Vademecum è contribuire alla formazione di medici in modo da poter essere più preparati a riconoscere la malattia e garantire la salute umana.
 <br>
 <br>
->*"No greater opportunity, responsibility, or obligation can fall to the lot of a human being than to become a physician.*
+> *"No greater opportunity, responsibility, or obligation can fall to the lot of a human being than to become a physician.*
+> *In the care of the suffering, the physician needs technical skill, scientific knowledge, and human understanding.*
+> *Tact, sympathy, and understanding are expected of the physician, for the patient is no mere collection of symptoms, signs, disordered functions, damaged organs, and disturbed emotions.*
+> *The patient is human, fearful, and hopeful, seeking relief, help, and reassurance."*
 >
->*In the care of the suffering, the physician needs technical skill, scientific knowledge, and human understanding.*
->
->*Tact, sympathy, and understanding are expected of the physician, for the patient is no mere collection of symptoms, signs, disordered functions, damaged organs, and disturbed emotions.*
->
->*The patient is human, fearful, and hopeful, seeking relief, help, and reassurance."*
->
->— Harrison’s Principles of Internal Medicine , 1950
+> — Harrison’s Principles of Internal Medicine , 1950
 
 ## Come fare a contribuire?
 
->AD ASTRA PER ASPERA
+> AD ASTRA PER ASPERA
 
 **Skill necessarie**
-- Aver voglia di fare cose: dare il massimo di quello che si pò dare e prendere il massimo di quello che il mondo ha da dare (*Work hard, live harder*)
+- Aver voglia di fare cose: dare il massimo di quello che si può dare e apprendere il massimo di quello che il mondo ha da insegnare <!--Work hard, live harder-->
 - Conoscere il linguaggio **Markdown** *(10 minuti di apprendimento)*
 - Imparare le basi minime di **Github** e **Virtual Studio Code** *(30 minuti di apprendimento e un po' di tempo per abituarsi)*
 
 **Skill accessorie**
-- Impararea a usare **ScreentoGIF** *(5 minuti di apprendimento)*
+- Impararea a usare **ScreenToGIF** *(5 minuti di apprendimento)*
 
 **Skill avanzate utili**
 - Conoscere **html**, **css**, **javascript**
@@ -75,6 +72,8 @@ Markdown è un **linguaggio** con una **sintassi** del testo **semplice** proget
 <div style="text-align: center;">
 <img src="https://s3.amazonaws.com/s.guides.co/uploads/222/images/ThemeSpectre_Markdown_CheatSheet-1024x682.jpg" width="75%"/>
 </div>
+
+##
 
 ---
 

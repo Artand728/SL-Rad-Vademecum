@@ -10,11 +10,11 @@
 
 - - -
 
-# ECOGRAFIA DELLA SPALLA
+# RX SPALLA
 
 - - -
 
-- [ECOGRAFIA DELLA SPALLA](#ecografia-della-spalla)
+- [RX SPALLA](#rx-spalla)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
 	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
 	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)

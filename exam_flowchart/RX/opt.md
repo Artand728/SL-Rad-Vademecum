@@ -37,7 +37,7 @@
 
 ## REFERTAZIONE
 
-**Suddivisione in quadrant**i di 8 denti l’uno **in senso orario** (**I-II-III-IV** se **adulto**;** V-VI-VII-VIII** se **pediatrico**)
+**Suddivisione in quadranti** di 8 denti l’uno **in senso orario** (**I-II-III-IV** se **adulto**;** V-VI-VII-VIII** se **pediatrico**)
 
 **Carie** &rarr; **lesioni radiotrasparenti**
 
