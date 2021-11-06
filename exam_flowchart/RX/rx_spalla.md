@@ -10,11 +10,11 @@
 
 - - -
 
-# RX CAVIGLIA
+# ECOGRAFIA DELLA SPALLA
 
 - - -
 
-- [RX CAVIGLIA](#rx-caviglia)
+- [ECOGRAFIA DELLA SPALLA](#ecografia-della-spalla)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
 	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
 	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
@@ -40,13 +40,19 @@
 
 ## ESECUZIONE DELL'ESAME
 
+Valutare:
+1. **rapporti articolari**
+   - *preservati*
+   - *alterati*
+2. Valutare **alterazioni globali**:
+   - osteopenia
+3. **alterazioni parziali**
+   - **Frattura** &rarr; discontinuità della corticale ossea con rima di radiotrasparenza (se si tratta di **normali strutture cartilaginee** agli estremi la corticale apparirà integra).
+
+
 ---
 
 ## REFERTAZIONE
-
-Nei **pazienti pediatrici** con **dolore alla caviglia** controllare sempre la **base metatarsale** perché spesso lì si nasconde la frattura.
-
-Non confondere però con le **cartilagini di accrescimento** che saranno **parallele all’asse lungo del metatarso** e **NON ortogonali**.
 
 ---
 

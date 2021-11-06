@@ -798,7 +798,7 @@ In TOR alto i pazienti tengono gli arti superiori sollevati sopra la testa per e
 
 ## **PERFUSION-TC (p-TC)**
 
-[Pagina dedicata &rarr; Perfusion-TC (p-TC)](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
+[**Pagina dedicata &rarr; Perfusion-TC (p-TC)**](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>

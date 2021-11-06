@@ -10,11 +10,11 @@
 
 - - -
 
-# RX CAVIGLIA
+# ECOGRAFIA ANSE INTESTINALI
 
 - - -
 
-- [RX CAVIGLIA](#rx-caviglia)
+- [ECOGRAFIA ANSE INTESTINALI](#ecografia-anse-intestinali)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
 	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
 	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
@@ -32,7 +32,7 @@
 
 ## INDICAZIONI & LINEE GUIDA
 
----
+- - -
 
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
 
@@ -40,13 +40,17 @@
 
 ## ESECUZIONE DELL'ESAME
 
+Analisi prima dell’intestino crasso e poi dell’intestino tenue avendo come obiettivo la ricerca di **ispessimenti parietali (> 3 mm)** che sono **segno di processo flogistico**.
+
+Prima di usare la sonda lineare è bene dare un’occhiata rapida con la sonda convessa per **eventuali reperti collaterali** (**versamenti**, ecc..).
+
+Sempre ideale **correlare i dati clinici-laboratoristici** (es. **PCR**; **calprotectina fecale**, **esame chimico-fisico delle feci**, ecc...).
+
+Nel caso di **anse pre-anastomotiche** il **cut-off di spessore parietale passa da 3 a 4 mm**.
+
 ---
 
 ## REFERTAZIONE
-
-Nei **pazienti pediatrici** con **dolore alla caviglia** controllare sempre la **base metatarsale** perché spesso lì si nasconde la frattura.
-
-Non confondere però con le **cartilagini di accrescimento** che saranno **parallele all’asse lungo del metatarso** e **NON ortogonali**.
 
 ---
 
@@ -66,3 +70,4 @@ Non confondere però con le **cartilagini di accrescimento** che saranno **paral
 ---
 
 ## NOTE
+

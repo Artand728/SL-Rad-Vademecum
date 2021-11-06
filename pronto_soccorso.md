@@ -103,7 +103,7 @@ Solitamente gli esami TC vengono seguiti dallo strutturato.
 
 ### **PERFUSION TC (p-TC)**
 
-[Pagina dedicata &rarr; Perfusion-TC (p-TC)](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
+[**Pagina dedicata &rarr; Perfusion-TC (p-TC)**](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
 
 <div style="text-align: right">
 <a href="#pronto-soccorso">⬆️</a>

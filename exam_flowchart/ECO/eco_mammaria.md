@@ -8,11 +8,11 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # ECOGRAFIA MAMMARIA
 
----
+- - -
 
 - [ECOGRAFIA MAMMARIA](#ecografia-mammaria)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
@@ -21,7 +21,6 @@
 	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
 		- [ANAMNESI](#anamnesi)
 		- [TECNICA ECOGRAFICA](#tecnica-ecografica)
-		- [CAVEAT](#caveat)
 	- [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
 	- [REPERTI](#reperti)
 		- [PITFALLS](#pitfalls)
@@ -64,28 +63,37 @@ E' sempre consigliabile eseguire l'esame presso lo stesso centro specialistico s
   - Ha eseguito precedenti interventi? Quale: mastectomia? quadrantectomia? nodulectomia? &rarr; cosa dice l'istologico? Ha eseguito uno svuotamento linfonodale (possibile causa di linfocele)?
 
 ### TECNICA ECOGRAFICA
-Bisogna fare attenzione al fine di valutare sempre tutta l'estensione della ghiandola mammaria.
 
-Chiedere alla paziente di posizionarsi sdraiata supina e di angolarsi a tre quarti sul lato sinistro per valutare la mammella sinistra e poi ripetere lo stesso con il seno destro.
+**L’approccio iniziale** può essere **un’esplorazione lungo i solchi della mammella** facendo **cambiare il decubito** alla paziente dopodiché **l’obiettivo principale** è **analizzare tutta la ghiandola** senza dimenticarne porzioni. 
+
+Ricordarsi sempre della **divisione anatomica in quadranti.**
+
+Se si osserva **una cisti** bisogna **cercarne altre perché è raro che si presentino come singole lesioni.**
+
+Fare attenzione alla fase palpatoria nonché **all’anamnesi**
+- **fase del ciclo** della paziente
+- eventuali **gravidanze**
+- **familiarità per k mammella**
+
+Ogni eventuale **nodulo** va visto anche con il **doppler** per valutare **vascolarizzazione**. 
+
+---
+
+Bisogna fare attenzione al fine di **valutare sempre tutta l'estensione della ghiandola mammaria.**
+
+Chiedere alla paziente di **posizionarsi sdraiata supina** e di **angolarsi a tre quarti sul lato** sinistro per valutare la mammella sinistra e poi ripetere lo stesso con il seno destro.
 
 Eisitono varie tecniche per esaminare le mammelle, sono tutte valide, basta che tutta sia valutata.
 
-Iniziare con delle scansioni trasversali partendo dalla linea emiascellare avendo cura di includere anche i recessi laterali della ghiandola mammaria nelle sezioni ecografiche.
+**Iniziare** con delle **scansioni trasversali** partendo dalla linea emiascellare avendo cura di **includere anche i recessi laterali della ghiandola mammaria** nelle sezioni ecografiche.
 
-Proseguire con delle scansioni cranio caudali avendo cura di valutare l'intera superficie di entrambi le mammelle.
+Proseguire con delle **scansioni cranio caudali** avendo cura di **valutare l'intera superficie** di entrambi le mammelle.
 
-In alternativa è possibile eseguire delle scansioni "a raggera" partendo dall'esterno andando verso l'areola oppure scorrere per quadranti.
+In alternativa è possibile eseguire delle **scansioni "a raggera"** partendo dall'esterno andando verso l'areola oppure scorrere per quadranti.
 
-Valutare attentamente la regione areolare (Q5).
+Valutare attentamente la **regione areolare (Q5)**.
 
-Nello studio deve sempre essere incluso il cavo ascellare.
-
-
-
-
-
-### CAVEAT
-- Comprendere sempre tutto il parenchima mammario.
+Nello studio deve **sempre essere incluso il cavo ascellare.**
 
 
 ## FLOWCHART REFERTAZIONE

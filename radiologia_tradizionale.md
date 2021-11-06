@@ -56,6 +56,8 @@ Orario: 8-16
 
 ## REFERTAZIONE E TELEFONO
 
+[**&rarr; Guide Refertazione RX**](exam_flowchart/RX/guide_refertazione_rx.html)
+
 - Sollecito referti
 - Prenotazione contrastografici (vedi [vademecum contrastografici](radiologia_tradizionale.html#contrastografici))
 

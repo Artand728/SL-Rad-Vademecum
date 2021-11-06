@@ -8,11 +8,11 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 # **ECOGRAFIA ADDOMINALE**
 
----
+- - -
 
 - [**ECOGRAFIA ADDOMINALE**](#ecografia-addominale)
   - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
@@ -58,6 +58,18 @@
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
 
 ## ESECUZIONE DELL'ESAME
+
+Il **fegato** si può esplorare con **approccio** sia **intercostale** che **sottocostale**. 
+
+Per quanto concerne la **divisione in segmenti** bisogna fare **riferimento alle vene sovraepatiche.** 
+
+**In senso cranio-caudale** possiamo vedere:
+1. **Vena Porta**
+2. **Arteria Epatica**
+3. **Via Biliare Principale**
+4. **Vene Sovraepatiche**/**Vena Cava Inferiore**
+
+Il **cut-off di diametro della vena porta** è **12 mm**. 
 
 ## REFERTAZIONE
 
