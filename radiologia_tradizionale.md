@@ -16,7 +16,7 @@
 
 - [**RADIOLOGIA TRADIZIONALE**](#radiologiatradizionale)
   - [ATTIVITA' SALA](#attivita-sala)
-  - [REFERTAZIONE E TELEFONO](#refertazione-e-telefono)
+  - [**REFERTAZIONE** E TELEFONO](#refertazione-e-telefono)
   - [DENSITOMETRIA OSSEA](#densitometria-ossea)
   - [ESAMI CONTRASTOGRAFICI](#esami-contrastografici)
 - [**CONTRASTOGRAFICI**](#contrastografici)
@@ -54,7 +54,7 @@ Orario: 8-16
 
 ---
 
-## REFERTAZIONE E TELEFONO
+## **REFERTAZIONE** E TELEFONO
 
 [**&rarr; Guide Refertazione RX**](exam_flowchart/RX/guide_refertazione_rx.html)
 
