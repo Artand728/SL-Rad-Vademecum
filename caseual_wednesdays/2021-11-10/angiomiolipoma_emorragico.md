@@ -226,7 +226,7 @@
 
   <div class="mySlides fade">
     <div class="numbertext">20 / 20</div>
-    <img src="Angiomiolipoma_emorragico_(19).PNG" style="width: 100%" />
+    <img src="Angiomiolipoma_emorragico_(20).PNG" style="width: 100%" />
     <div class="text"></div>
   </div>
   <!-- Next and previous buttons -->

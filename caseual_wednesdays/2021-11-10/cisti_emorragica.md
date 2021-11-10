@@ -111,153 +111,89 @@
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 25</div>
-    <img src="Cisti_emorragica_(0).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 25</div>
+    <div class="numbertext">1 / 14</div>
     <img src="Cisti_emorragica_(1).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 25</div>
+    <div class="numbertext">2 / 14</div>
     <img src="Cisti_emorragica_(2).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">4 / 25</div>
+    <div class="numbertext">3 / 14</div>
     <img src="Cisti_emorragica_(3).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">5 / 25</div>
+    <div class="numbertext">4 / 14</div>
     <img src="Cisti_emorragica_(4).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">6 / 25</div>
+    <div class="numbertext">5 / 14</div>
     <img src="Cisti_emorragica_(5).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">7 / 25</div>
+    <div class="numbertext">6 / 14</div>
     <img src="Cisti_emorragica_(6).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">8 / 25</div>
+    <div class="numbertext">7 / 14</div>
     <img src="Cisti_emorragica_(7).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">9 / 25</div>
+    <div class="numbertext">8 / 14</div>
     <img src="Cisti_emorragica_(8).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">10 / 25</div>
+    <div class="numbertext">9 / 14</div>
     <img src="Cisti_emorragica_(9).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">11 / 25</div>
+    <div class="numbertext">10 / 14</div>
     <img src="Cisti_emorragica_(10).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">12 / 25</div>
+    <div class="numbertext">11 / 14</div>
     <img src="Cisti_emorragica_(11).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">13 / 25</div>
+    <div class="numbertext">12 / 14</div>
     <img src="Cisti_emorragica_(12).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">14 / 25</div>
+    <div class="numbertext">13 / 14</div>
     <img src="Cisti_emorragica_(13).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">15 / 25</div>
+    <div class="numbertext">14 / 14</div>
     <img src="Cisti_emorragica_(14).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
-  <div class="mySlides fade">
-    <div class="numbertext">16 / 25</div>
-    <img src="Cisti_emorragica_(15).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">17 / 25</div>
-    <img src="Cisti_emorragica_(16).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">18 / 25</div>
-    <img src="Cisti_emorragica_(17).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">19 / 25</div>
-    <img src="Cisti_emorragica_(18).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">20 / 25</div>
-    <img src="Cisti_emorragica_(19).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">21 / 25</div>
-    <img src="Cisti_emorragica_(20).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">22 / 25</div>
-    <img src="Cisti_emorragica_(21).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">23 / 25</div>
-    <img src="Cisti_emorragica_(22).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">24 / 25</div>
-    <img src="Cisti_emorragica_(23).png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">25 / 25</div>
-    <img src="Cisti_emorragica_(24).png" style="width: 100%" />
-    <div class="text"></div>
   </div>
 
   <!-- Next and previous buttons -->
@@ -282,17 +218,6 @@
   <span class="dot" onclick="currentSlide(12)"></span>
   <span class="dot" onclick="currentSlide(13)"></span>
   <span class="dot" onclick="currentSlide(14)"></span>
-  <span class="dot" onclick="currentSlide(15)"></span>
-  <span class="dot" onclick="currentSlide(16)"></span>
-  <span class="dot" onclick="currentSlide(17)"></span>
-  <span class="dot" onclick="currentSlide(18)"></span>
-  <span class="dot" onclick="currentSlide(19)"></span>
-  <span class="dot" onclick="currentSlide(20)"></span>
-  <span class="dot" onclick="currentSlide(21)"></span>
-  <span class="dot" onclick="currentSlide(22)"></span>
-  <span class="dot" onclick="currentSlide(23)"></span>
-  <span class="dot" onclick="currentSlide(24)"></span>
-  <span class="dot" onclick="currentSlide(25)"></span>
 </div>
 
 <hr>
