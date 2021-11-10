@@ -22,6 +22,6 @@ Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
 
 ## 10 Novembre 2021 | Sanguinamenti
 
-- [10 Novembre 2021 - Cisti emorragica]()
-- [10 Novembre 2021 - Angiomiolipoma emorragico](caseual_wednesdays/2021-10-13/aniomiolipoma_emorragico.html)
-- [10 Novembre 2021 - Tamponamento pericardico da ematoma rifornito]()
+- [10 Novembre 2021 - Cisti emorragica](caseual_wednesdays/2021-11-10/cisti_emorragica.html)
+- [10 Novembre 2021 - Angiomiolipoma emorragico](caseual_wednesdays/2021-11-10/angiomiolipoma_emorragico.html)
+- [10 Novembre 2021 - Tamponamento pericardico da ematoma rifornito](caseual_wednesdays/2021-11-10/tamponamento_pericardico.html)
