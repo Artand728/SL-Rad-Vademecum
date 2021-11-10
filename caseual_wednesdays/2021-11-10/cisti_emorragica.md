@@ -224,11 +224,11 @@
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
-<p>HertzbergBS, Kliewer MA, Paulson EK. Ovarian cyst rupture causing hemoperitoneum: imaging features and potential for misdiagnosis. Abdom Imaging1999; 24: 304–308. Crossref, Medline,
+<p>HertzbergBS, Kliewer MA, Paulson EK. <br>Ovarian cyst rupture causing hemoperitoneum: imaging features and potential for misdiagnosis. <br>Abdom Imaging1999; 24: 304–308. Crossref, Medline,
 </p>
-<p>HertzbergBS, Kliewer MA, Bowie JD. Adnexal ring sign and hemoperitoneum caused by hemorrhagic ovarian cyst: pitfall in the sonographic diagnosis of ectopic pregnancy. AJR Am J Roentgenol1999; 173: 1301–1302. Crossref, Medline,
+<p>HertzbergBS, Kliewer MA, Bowie JD. <br>Adnexal ring sign and hemoperitoneum caused by hemorrhagic ovarian cyst: pitfall in the sonographic diagnosis of ectopic pregnancy. <br>AJR Am J Roentgenol1999; 173: 1301–1302. Crossref, Medline,
 </p>
-<p>Raziel A, Ron-El R, Pansky M, et al. Current management of ruptured corpus luteum. Eur J Obstet Gynecol Reprod Biol 1993; 13:549-555.
+<p>Raziel A, Ron-El R, Pansky M, et al. <br>Current management of ruptured corpus luteum. <br>Eur J Obstet Gynecol Reprod Biol 1993; 13:549-555.
 </p>
 
 <script>

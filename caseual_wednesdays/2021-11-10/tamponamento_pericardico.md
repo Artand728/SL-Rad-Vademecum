@@ -284,10 +284,10 @@
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
-<p>Tsang TS, Barnes ME, Hayes SN, Freeman WK, Dearani JA, Butler SL, Seward JB. Clinical and echocardiographic characteristics of significant pericardial effusions following cardiothoracic surgery and outcomes of echo-guided pericardiocentesis for management: Mayo Clinic experience, 1979-1998. Chest. 1999 Aug;116(2):322-31. doi: 10.1378/chest.116.2.322. PMID: 10453858.</p>
-<p>Restrepo CS, Lemos DF, Lemos JA, Velasquez E, Diethelm L, Ovella TA, Martinez S, Carrillo J, Moncada R, Klein JS. Imaging findings in cardiac tamponade with emphasis on CT. Radiographics. 2007 Nov-Dec;27(6):1595-610. doi: 10.1148/rg.276065002. PMID: 18025505.</p>
-<p>Maldow DJ, Chaturvedi A, Kaproth-Joslin K. Every second counts: signs of a failing heart on thoracic CT in the ED. Emerg Radiol. 2017 Jun;24(3):311-317. doi: 10.1007/s10140-017-1485-7. Epub 2017 Feb 27. PMID: 28243766.</p>
-<p>Fadl SA, Nasrullah A, Harris A, Edwards R, Kicska G. Comprehensive review of pericardial diseases using different imaging modalities. Int J Cardiovasc Imaging. 2020 May;36(5):947-969. doi: 10.1007/s10554-020-01784-x. Epub 2020 Feb 11. PMID: 32048125.</p>
+<p>Tsang TS, Barnes ME, Hayes SN, Freeman WK, Dearani JA, Butler SL, Seward JB. <br>Clinical and echocardiographic characteristics of significant pericardial effusions following cardiothoracic surgery and outcomes of echo-guided pericardiocentesis for management: Mayo Clinic experience, 1979-1998. <br>Chest. 1999 Aug;116(2):322-31. <br>doi: 10.1378/chest.116.2.322. <br>PMID: 10453858.</p>
+<p>Restrepo CS, Lemos DF, Lemos JA, Velasquez E, Diethelm L, Ovella TA, Martinez S, Carrillo J, Moncada R, Klein JS. <br>Imaging findings in cardiac tamponade with emphasis on CT. <br>Radiographics. 2007 Nov-Dec;27(6):1595-610. <br>doi: 10.1148/rg.276065002. <br>PMID: 18025505.</p>
+<p>Maldow DJ, Chaturvedi A, Kaproth-Joslin K. <br>Every second counts: signs of a failing heart on thoracic CT in the ED. <br>Emerg Radiol. 2017 Jun;24(3):311-317. <br>doi: 10.1007/s10140-017-1485-7. <br>Epub 2017 Feb 27. <br>PMID: 28243766.</p>
+<p>Fadl SA, Nasrullah A, Harris A, Edwards R, Kicska G. <br>Comprehensive review of pericardial diseases using different imaging modalities. <br>Int J Cardiovasc Imaging. 2020 May;36(5):947-969. <br>doi: 10.1007/s10554-020-01784-x. <br>Epub 2020 Feb 11. <br>PMID: 32048125.</p>
 
 <script>
   var slideIndex = 1;
