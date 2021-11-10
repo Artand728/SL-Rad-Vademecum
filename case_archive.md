@@ -20,8 +20,8 @@ Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
 - [13 Ottobre 2021 - Groove Pancreatitis](caseual_wednesdays/2021-10-13/groove_pancreatitis.html)
 
 
-## 10 Novembre 2021 | Sanguinamenti addominali
+## 10 Novembre 2021 | Sanguinamenti
 
-- []()
-- []()
-- []()
+- [10 Novembre 2021 - Cisti emorragica]()
+- [10 Novembre 2021 - Angiomiolipoma emorragico](caseual_wednesdays/2021-10-13/aniomiolipoma_emorragico.html)
+- [10 Novembre 2021 - Tamponamento pericardico da ematoma rifornito]()
