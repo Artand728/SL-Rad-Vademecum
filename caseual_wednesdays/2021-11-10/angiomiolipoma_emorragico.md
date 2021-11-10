@@ -112,121 +112,121 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 20</div>
-    <img src="angiomiolipoma_emorragico_(1)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(1).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 20</div>
-    <img src="angiomiolipoma_emorragico_(2)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(2).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 20</div>
-    <img src="angiomiolipoma_emorragico_(3)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(3).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 20</div>
-    <img src="angiomiolipoma_emorragico_(4)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(4).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 20</div>
-    <img src="angiomiolipoma_emorragico_(5)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(5).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 20</div>
-    <img src="angiomiolipoma_emorragico_(6)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(6).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 20</div>
-    <img src="angiomiolipoma_emorragico_(7)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(7).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">8 / 20</div>
-    <img src="angiomiolipoma_emorragico_(8)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(8).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">9 / 20</div>
-    <img src="angiomiolipoma_emorragico_(9)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(9).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">10 / 20</div>
-    <img src="angiomiolipoma_emorragico_(10)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(10).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 20</div>
-    <img src="angiomiolipoma_emorragico_(11)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(11).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">12 / 20</div>
-    <img src="angiomiolipoma_emorragico_(12)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(12).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">13 / 20</div>
-    <img src="angiomiolipoma_emorragico_(13)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(13).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 20</div>
-    <img src="angiomiolipoma_emorragico_(14)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(14).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">15 / 20</div>
-    <img src="angiomiolipoma_emorragico_(15)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(15).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">16 / 20</div>
-    <img src="angiomiolipoma_emorragico_(16)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(16).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">17 / 20</div>
-    <img src="angiomiolipoma_emorragico_(17)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(17).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">18 / 20</div>
-    <img src="angiomiolipoma_emorragico_(18)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(18).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">19 / 20</div>
-    <img src="angiomiolipoma_emorragico_(19)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(19).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">20 / 20</div>
-    <img src="angiomiolipoma_emorragico_(19)png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(19).png" style="width: 100%" />
     <div class="text"></div>
   </div>
   <!-- Next and previous buttons -->
