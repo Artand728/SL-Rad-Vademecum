@@ -1,6 +1,6 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-<title>SL Rad Vademecum | CASEual Wednesday - Cisti emorragic</title>
+<title>SL Rad Vademecum | CASEual Wednesday - Tamponamento pericardico da ematoma rifornito</title>
 <style>
   * {
     box-sizing: border-box;
