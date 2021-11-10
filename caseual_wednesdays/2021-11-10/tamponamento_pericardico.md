@@ -112,115 +112,115 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 19</div>
-    <img src="tamponamento_pericardico_(1).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(1).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 19</div>
-    <img src="tamponamento_pericardico_(2).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(2).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 19</div>
-    <img src="tamponamento_pericardico_(3).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(3).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 19</div>
-    <img src="tamponamento_pericardico_(4).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(4).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 19</div>
-    <img src="tamponamento_pericardico_(5).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(5).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 19</div>
-    <img src="tamponamento_pericardico_(6).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(6).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 19</div>
-    <img src="tamponamento_pericardico_(7).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(7).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">8 / 19</div>
-    <img src="tamponamento_pericardico_(8).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(8).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">9 / 19</div>
-    <img src="tamponamento_pericardico_(9).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(9).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">10 / 19</div>
-    <img src="tamponamento_pericardico_(10).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(10).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 19</div>
-    <img src="tamponamento_pericardico_(11).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(11).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">12 / 19</div>
-    <img src="tamponamento_pericardico_(12).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(12).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">13 / 19</div>
-    <img src="tamponamento_pericardico_(13).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(13).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 19</div>
-    <img src="tamponamento_pericardico_(14).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(14).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">15 / 19</div>
-    <img src="tamponamento_pericardico_(15).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(15).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">16 / 19</div>
-    <img src="tamponamento_pericardico_(16).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(16).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">17 / 19</div>
-    <img src="tamponamento_pericardico_(17).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(17).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">18 / 19</div>
-    <img src="tamponamento_pericardico_(18).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(18).png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">19 / 19</div>
-    <img src="tamponamento_pericardico_(19).PNG" style="width: 100%" />
+    <img src="tamponamento_pericardico_(19).png" style="width: 100%" />
     <div class="text"></div>
   </div>
   <!-- Next and previous buttons -->
@@ -271,14 +271,14 @@
 <h3>FASE PORTALE (80")</h3>
 <div style="text-align: center;">
     <video style ="width:100%; max-width:720px;" controls>
-       <source src="https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-10-13/portale.mp4" type="video/mp4">
+       <source src="https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-11-10/portale.mp4" type="video/mp4">
     </video>
 </div>
 
 <h3>FASE TARDIVA (180")</h3>
 <div style="text-align: center;">
     <video style ="width:100%; max-width:720px;" controls>
-       <source src="https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-10-13/portale_tardiva.mp4" type="video/mp4">
+       <source src="https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-11-10/portale_tardiva.mp4" type="video/mp4">
     </video>
 </div>
 
