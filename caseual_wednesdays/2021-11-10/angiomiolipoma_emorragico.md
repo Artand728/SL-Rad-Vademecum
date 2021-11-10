@@ -112,7 +112,7 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 20</div>
-    <img src="angiomiolipoma_emorragico_(1).png" style="width: 100%" />
+    <img src="angiomiolipoma_emorragico_(1).PNG" style="width: 100%" />
     <div class="text"></div>
   </div>
 
