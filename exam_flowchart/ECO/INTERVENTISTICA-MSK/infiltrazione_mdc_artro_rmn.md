@@ -19,13 +19,6 @@
   - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
   - [MATERIALE](#materiale)
   - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-  - [REFERTAZIONE](#refertazione)
-  - [REFERTI PREFATTI](#referti-prefatti)
-    - [NEGATIVO](#negativo)
-  - [PATOLOGIE](#patologie)
-    - [Patologia #1](#patologia-1)
-    - [Patologia #2](#patologia-2)
-    - [Patologia #3](#patologia-3)
   - [BIBILIOGRAFIA](#bibiliografia)
   - [NOTE](#note)
 
@@ -60,10 +53,7 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - Stendere il telo sterile su allievo
 - Disporre il materiale in sterilità sul telo
 - Prendere repere anatomico col pennarello
-<!---
-  - Qual è il repere?
-  - è sempre lo stesso?
- -->
+<!---Qual è il repere? è sempre lo stesso?-->
 - Disinfettare la cute (**Neoxinal alcolico**)
 
 DA QUI PROCEDERE IN STERILITÀ
@@ -86,26 +76,6 @@ DA QUI PROCEDERE IN STERILITÀ
 Adesso si può precedere ad acquisire scansioni in risonanza.
 
 [**&rarr; ARTRO-RMN**]()
-
----
-
-## REFERTAZIONE
-
----
-
-## REFERTI PREFATTI
-
-### NEGATIVO
-
----
-
-## PATOLOGIE
-
-### Patologia #1
-### Patologia #2
-### Patologia #3
-
----
 
 ## BIBILIOGRAFIA
 
