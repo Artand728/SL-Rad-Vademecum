@@ -155,6 +155,12 @@ Il referto tipo deve contenere queste informazioni:
 Esempio:
  -- Inserire prefatto --
 
+
+ #### Bibliografia 
+ https://radiopaedia.org/articles/tanner-whitehouse-method
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628949/
+ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8660640
+
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>
 
