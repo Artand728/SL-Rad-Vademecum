@@ -119,24 +119,41 @@ Per ogni altro dubbio vedi i [vademecum contrastografici](radiologia_tradizional
 
 ### Studio età ossea bambino
 
-Per refertare lo studio dell’età ossea di un paziente pediatrica servono due libri:
+#### Analisi
+- Tanner-Whitehouse: si basa sulla valutazione di 20 segmenti ossei
+- Greulich & Pyle (comparativo): su basa sulla comparazione dell'esame con un atlante di riferimento.
 
-1. Il libro fotocopiato e rilegato con le immagini dei 20 segmenti scheletrici della mano da analizzare e comparare + le tabelle
-2. L’atlante di Greulich & Pyle
+*Tanner-Whitehouse*
+Valuta il grado di sviluppo di 20 segmenti ossei, da cui si ottiene un punteggio che permette di identificare l'età ossea del Paziente.
+L'analisi può essere svolta utilizzando il libro fotocopiato presente nella vetrinetta (segnando i punteggi in un file di testo) o utilizzando [questo sito](http://vl.academicdirect.ro/medical_informatics/bone_age/v1.0/).
 
-Dovrete munirvi di un terzo elemento che trovate sia sul drive che sul desktop dei pc della tradizionale ovvero il file .xls ; .ods ; .odt intitolato “Studio Età ossea” che è un foglio di calcolo che vi servirà passo passo per annotare i punteggi e fare la somma totale.
+> Ricordatevi di segnare sempre il sesso del Paziente, perchè comporta punteggi differenti.
 
-Per iniziare troverete il prefatto su PRIAMO cercando tra i modelli “Età ossea”.
+Per ogni segmento occorre confrontare l'esame con i modelli di riferimento e segnare il punteggio corrispettivo (se utilizzate il libro fotocopiato sono i punteggi sotto la dicitura TW2 - Tanner-Whitehouse seconda edizione).
+Sommando tutti i punteggi si ottiene un numero da ... a 1000, il quale permette di identificare l'età ossea del Paziente e il percentile nel quale si trova secondo il suo grado di sviluppo.
 
-La prima parte del lavoro la svolgerete con il foglio di calcolo ed il libro fotocopiato. Dovrete prendere le immagini dei 20 segmenti (radio, ulna , il complesso carpale; le falangi, ecc..), confrontarle con le immagini del paziente ed assegnare un punteggio secondo il Sesso del paziente (attenzione a non sbagliare a pescare i punteggi tra M e F) e la metodica TW2 (Tanner-Whitehouse – seconda edizione). Per ogni segmento troverete ai due lati del libro il punteggio a seconda del sesso nelle due metodiche (TW2 e RUS). A voi interessa solo il metodo TW2. Presi tutti e 20 i punteggi otterrete la somma tramite foglio di calcolo: questo è il vostro score TW2 da riportare nel prefatto.
+- Età ossea: si determina con una tabella (inserire immagine)
+- Percentile: si determina con una tabella previa divisione per 10 del numero iniziale (inserire tabella)
 
-Adesso, sia nel libro fotocopiato che a parte dentro una busta trasparente, troverete delle tabelle per maschi e femmine in cui vi sono dei percentili ed in ascisse c’è l’età anagrafica (ogni tacca corrisponde a circa 2 mesi), mentre in ordinata c’è lo score TW2 (il numero ottenuto deve essere diviso per 10: ad es. 830/10 -> 83). Dovrete fare due calcoli diversi: il primo consiste nel prendere in ordinata il TW2 da voi ottenuto, farlo incrociare con il 50esimo percentile e vedere che età vi rimanda (età scheletrica) ; il secondo consiste nel prendere in ascisse l’età anagrafica del paziente , farla incrociare con il TW2 e vedere che percentile vi restituisce.
+*Greulich & Pyle*
 
-Sembra complicato, ma dovete “tradurre” passo passo ogni singola frase del prefatto ed a poco a poco sarà tutto più chiaro.
+Si effettua un confronto tra la radiografia del paziente e delle immagini di riferimento divise per sesso ed età prese dall'atlante Greulich & Pyle.
+Potete anche effettuare il confronto attraverso [questo sito](https://kerbyradres.github.io/BoneAge/) andando a selezionare la data di nascita del paziente per generare delle immagini da utilizzare come confronto.
 
-Infine, posato il libro dentro la vetrinetta della tradizionale, potete prendere l’atlante iconografico blu di Greulich & Pyle e fare un confronto diretto tra le immagini dell’atlante e quella della mano del paziente.
+> Fan fact: i pediatri prediligono il metodo Tanner-Whitehous perchè ritenuto più preciso
 
-A questo punto il vostro referto sarà completo e voi avrete finito.
+#### Refertazione
+
+Il referto tipo deve contenere queste informazioni:
+- Metodo TW2:
+  - Punteggio complessivo
+  - Età ossea del paziente
+  - Percentile
+- Metodo comparativo (G&P)
+  - Età ossea stimata
+
+Esempio:
+ -- Inserire prefatto --
 
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>
