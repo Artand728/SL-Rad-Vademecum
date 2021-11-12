@@ -155,6 +155,9 @@ Il referto tipo deve contenere queste informazioni:
 
 Esempio:
  -- Inserire prefatto --
+ L'età scheletrica, valutata alla mano sinistra con il metodo TW2 (830), corrisponde al 50° percentile ad un'età anagrafica di 10 anni e 10 mesi. 
+ L'età anagrafica corrisponde all'età scheletrica per un valore pari al 50° percentile.
+Il rilievo ha riconferma al raffronto dell'iconografia su Atlante Greulich and Pyle in un'età scheletrica pari a 12 anni.
 
 
  #### Bibliografia 
