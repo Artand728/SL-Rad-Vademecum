@@ -1,0 +1,1 @@
+![](img/codice-simboli-md.png)

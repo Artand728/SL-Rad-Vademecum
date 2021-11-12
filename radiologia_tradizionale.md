@@ -34,6 +34,7 @@
     - [Indicazioni](#indicazioni)
     - [Materiali](#materiali-2)
     - [Esecuzione](#esecuzione-3)
+  - [VIDEOFLUOROGRAFIA (VFG)](#videofluorografia-vfg)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
@@ -265,7 +266,7 @@ Si effettua l'esame con il **Gastrografin**
 
 ## **CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**
 
-> [ILEOGRAFIA & RETTOGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/cistografia_retrograda_minzionale.html)
+> [CISTOGRAFIA RETROGRADA MINZIONALE &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/cistografia_retrograda_minzionale.html)
 
 
 ### Materiali
@@ -361,6 +362,19 @@ Si effettua l'esame con il **Gastrografin**
  ***V° giorno***
 
 - AP addome
+
+<div style="text-align: right">
+<a href="#radiologiatradizionale">⬆️</a>
+
+</div>
+
+---
+
+## VIDEOFLUOROGRAFIA (VFG)
+
+> [VIDEOFLUOROGRAFIA &rarr; versione estesa](exam_flowchart/RX/CONTRASTOGRAFICI/videofluorografia.html)
+
+Esame seguito dagli specializzandi del II°-III° anno.
 
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>

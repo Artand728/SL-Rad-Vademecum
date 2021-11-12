@@ -19,6 +19,7 @@
     - [*Acquisizioni*](#acquisizioni)
   - [**Refertazione**](#refertazione)
 - [**RETTOGRAFIA**](#rettografia)
+  - [Preparazione del paziente alla rettografia](#preparazione-del-paziente-alla-rettografia)
 
 # **ILEOSTOMIE**
 
@@ -123,4 +124,20 @@ Non è necessaria la sterilità.
 
 # **RETTOGRAFIA**
 
-Valgono le stesse indicazioni date per il controllo delle ileostomie.
+Valgono le stesse indicazioni date per il controllo delle ileostomie tranne che per la preparazione.
+
+## Preparazione del paziente alla rettografia
+
+**Il mattino dell'esame** è necessario che il paziente esegua un **clisma** per **liberare il retto.**
+
+Non è necessaria alcuna preparazione farmacologica né una dieta particolare.
+
+Il clisma al domicilio **potrebbe essere controindicato** nel caso di **diverticolite acuta** o di studi per **sospetta perdita su anastomosi ricanalizzata da poco**.
+
+In questi casi conviene **contattare** la **chirurgia generale** (interno **6224**).
+
+Una anastomosi non recente su cui venga sospettata stenosi non rappresenta ua controindicazione al clisma.
+
+> La presenza di materiale fecale al momento del riempimento con mdc crea un'immagine di minus di riempimento e non è possibile distiguere feci da eventuali foramzioni aggettanti.
+> E' importante che al momento dell'esecuzione dell'esame il retto sia vuoto.
+
