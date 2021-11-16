@@ -1,4 +1,4 @@
-::: mermaid
+``` mermaid
 graph TD;
 	NuovoPazienteInterno[Arriva un nuovo paziente interno]-->Agenda
 	Agenda[C'è in agenda?]--sì-->AgendaSì[Ha la cartella clinica?];
@@ -11,4 +11,4 @@ graph TD;
 	EsameMdC --> Consenso[C'è il consenso informato firmato?]
 	Consenso --> ConsensoSì[Ha allergie?]
 	Consenso --> SpiegazioniNO
-:::
+```
