@@ -12,9 +12,20 @@
 
 # **TOMOGRAFIA COMPUTERIZZATA**
 
+Guida completa alla gestione della sala di tomografia computerizzata.
+
 - - -
 
 - [**TOMOGRAFIA COMPUTERIZZATA**](#tomografia-computerizzata)
+	- [**GESTIONE AGENDA**](#gestione-agenda)
+		- [SLOT AMBULATORIALI](#slot-ambulatoriali)
+		- [SLOT RICOVERATI](#slot-ricoverati)
+		- [SLOT CARDIO-TC](#slot-cardio-tc)
+		- [SLOT COLONSCOPIE VIRTUALI:](#slot-colonscopie-virtuali)
+		- [ESAMI ULTRASPECIALISTICI](#esami-ultraspecialistici)
+		- [ATTIVITA' AGGIUNTIVA:](#attivita-aggiuntiva)
+		- [CONSIGLI UTILI GESTIONE SALA](#consigli-utili-gestione-sala)
+		- [CONSEGNA REFERTO ESAMI](#consegna-referto-esami)
 	- [CONSENSO INFORMATO](#consenso-informato)
 	- [**PREMEDICAZIONE ANTIALLERGICA**](#premedicazione-antiallergica)
 		- [PREMEDICAZIONE ANTIALLERGICA RAPIDA](#premedicazione-antiallergica-rapida)
@@ -73,6 +84,205 @@
 | FPR    | FISIOPATOLOGIA RIABILITATIVA |
 | MURG   | MEDICINA D’URGENZA           |
 | URG    | URGENZE                      |
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+## **GESTIONE AGENDA**
+
+### SLOT AMBULATORIALI
+- I **posti già attribuiti (ONCO MED, URO, FPR, CUP, etc..)** sono da considerarsi occupati fino a
+prova contraria. NON occuparli con altri pazienti, NON segnare nomi per conto dei
+rispettivi reparti &rarr; prenotano direttamente sulle loro agende (problemi informatici?
+Devono rivolgersi agli informatici o alle segretarie del CUP).
+- I **posti bianchi** vanno destinati a tutti, precedenza a chi non ha altri posti assegnati (es.
+Orto, GEL, Pneumo, etc…).
+- Chi ha già posti accordati (es. oncologia, urologia, …) può legittimamente chiedere posti in
+più, ma ove possibile meglio indirizzarli a effettuare un’inversione tra i loro pazienti in base
+alla maggior urgenza.
+- Per ogni paziente:
+1. **Esame da eseguire**
+2. **Numero di telefono**
+3. **Allergie** e/o **Insufficienza Renale** Sì/No
+4. Nella **pagina bianca** (retro del giorno precedente) segnare **appunti sull’esame**
+(accordi/note/etc..)
+- **NON prenotare ambulatoriali nei posti del pomeriggio riservati ai ricoverati**, se non previ
+accordi con uno strutturato in casi di estrema eccezione
+- **NON prenotiamo** le **classi U (72 ore)**
+	> Secondo i LEA un paziente con una richiesta di prestazione diagnostica strumentale urgente ha diritto a eseguire tale prestazione entro 72h dall'emissione della ricetta presso un qualsiasi centro pubblico o privato convenzionato. Non viene indicato che questi può scegliere quale centro deve erogare la prestazione. Quindi, in presenza di una richiesta urgente (U), il paziente deve rivolgersi al CUP che provvederà ad assegnarli la prima struttura con un posto utile e può al più chiedere se la nostra struttura è disponibile ma non siamo tenuti ad essere necessariamente noi ad erogare la prestazione.
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### SLOT RICOVERATI
+- Hanno **posti prestabiliti** solo la **Medicina d’Urgenza** e la **Neurologia**
+- Prenotare in base all’urgenza, al tipo d’esame (con o senza MDC), alle modalità di trasporto
+(carrozzina/letto), alla presenza di manutenzioni sulle macchine.
+- Avvisare la Responsabile della TC se le prenotazioni dei ricoverati eccedono i 3 giorni
+- Le **urgenze mediche** &rarr; **in PS**
+- Le **urgenze logistiche** &rarr; **in TC centrale**:
+  - **pre-dimisisone del paziente**
+  - da **fare in giornata** o al massimo **il mattino dopo per intervento** 
+  - ecc… 
+- Prima di prenotare i ricoverati **verificare la richiesta** e lo **storico del PACS**
+  - Quesito sensato?
+  - Non presenti precedenti recenti o equivalenti tipo RM?
+- Discutere sempre con gli strutturati le **richieste non chiare** o su cui si hanno **dubbi**.
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### SLOT CARDIO-TC
+- Le eseguono **solo due strutturate**, in loro assenza non vanno prenotate.
+- **Ambulatoriali**: *mercoledì mattina*.
+- **Ricoverati/Urgenze**: *da concordare* con una delle due strutturate.
+- Prenotare solo le cardio-TC prescritte dai **cardiologi interni dell'Ospedale**.
+- Il **codice** per prescrivere una **cardio-TC** è **87.41.3**
+- I **pazienti** devono essere:
+  - **Collaboranti**
+  - in **ritmo sinusale** (NO FA!)
+  - **bradicardizzati**
+  - **creatininemia &lt; 3 mesi**
+  - Se **allergici**, con **preparazione**
+  - **a digiuno** 
+    - **OK farmaci di routine**, 
+    - **OK benzodiazepine**, 
+    - **NO caffè/Tè tachicardizzanti**
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### SLOT COLONSCOPIE VIRTUALI:
+- Le seguono **solo due strutturate**: in loro assenza, si eseguono lasciando debita
+documentazione alla responsabile della TC.
+- C’è **un posto ambulatoriale** *ogni martedì pomeriggio alle 13-13.30* 
+  - *il posto del lunedì
+pomeriggio* è **solo per eventuali colonscopie virtuali del CAS**); 
+  - **i ricoverati eventuali** *devono essere
+concordati con una delle due strutturate*.
+- **Prenotazione**:
+  - solo se richieste dalla **Gastroenetrologia** o dalla **Chirurgia Generale interna dell'Ospedale**
+  - valutare l’età 
+    - più il paziente è **giovane** maggiore è l'indicazione e la qualità diagnostica della **colonscopia convenzionale (CC)**
+
+La **colonscopia virtuale** è indicata se:
+  - il **paziente è fragile**
+    - in **ASA** 
+    - in **TAO/NAO** 
+      - che interromperà solo se
+dovesse andare ad eseguire la colonscopia convenzionale (CC)
+  - il **paziente rifiuta categoricamente** la colonscopia convenzionale (CC)
+  - si è in presenza di
+**impedimenti fisici** alla colonscopia convenzionale (CC) quali:
+    - **ernie** 
+    - **aderenze**
+    - **dolicocolon**
+    - etc...
+
+**Spiegare la preparazione**: 
+  - è la **stessa della colonscopia convenzionale**
+  - si effettua sempre **distensione gassosa** 
+  - se
+si trova una **sospetta lesione neoplastica** o **l’esame non raggiunge una adeguata qualità diagnostica** dovrà essere necessariamente eseguita la **colonscopia convenzionale (CC)**.
+
+**Completamento colonscopia convenzionale**: 
+  - i **gastroenterologi interni dell'Ospedale** devono chiamare e **far arrivare il
+paziente non più tardi delle 13:00** per **eseguire l’esame non più tardi delle 15:00**. 
+    >- la radiologia non è obbligata ad eseguire l'esame in giornata ma nello spettro del possibile si cerca di farlo nell'interesse del paziente.
+
+In una TC per **colonscopia virtuale** eseguire **SEMPRE**:
+- **TC addome basale** 
+  - per escludere perforazione prima di iniziare la preparazione
+- I pazienti devono essere :
+  - **collaboranti**
+  - **continenti**
+  - in grado di assumere **due decubiti differenti** (**supino/prono**)
+  - eseguono **preparazione**
+  - **presentarsi 2 ore prima dell’esame** *(11-11.30)*
+    -  bevono **1L d’acqua + 30 cc di
+Gastrografin** nel minor tempo possibile *(20-30 minuti)*;
+  - Somministrare **Buscopan e.v.** *mezz’ora prima dell’indagine* 
+    - a meno che non sussistano **controindicazioni** quali:
+      - **ARITMIE**
+      - **GLAUCOMA**
+  - *Esecuzione esame ore 13-13.30*
+    - **NON si esegue** la colonscopia virtuale se c’è un **elevato rischio di perforazione**.
+    - Se il paziente è **allergico al mdc** &rarr; beve **solo acqua** oppure **premedica**.
+    - La colonscopia virtuale è un **esame basale** ma il **paziente firma comunque il consenso**; solo in casi
+selezionati si fa con mdc e.v.
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### ESAMI ULTRASPECIALISTICI
+- Si eseguono **solo se richiesti dagli specialisti interni** all'Ospedale.
+- NON si eseguono su richiesta del CUP.
+- **Angio-TC pre-TAVI**: 
+  - se **pazienti ambulatoriali** &rarr; si usano i posti cardio-TC del mercoledì mattina 
+  - se **pazienti ricoverati** &rarr; prenotarle in accordo con le tre strutturate responsabili.
+- **Angio-TC AAII**: Prenotabili solo previ accordi con strutturat* che referterà l'esame.
+- **DentaScan**: non sono più nel nomenclatore regionale &rarr; si eseguono solo previ accordi ad
+hoc, il paziente deve avere una richiesta per "**TC massiccio facciale**".
+- **TC Cone Beam**: non la facciamo, non abbiamo l’apparecchiatura.
+- **TC ginocchio TILT rotuleo/TAGT o TC per vizi torsionali AAII**: Se richiesti da interni, accordarsi
+con la responsabile TC. Di rado capitano in aggiuntiva CUP, segnalare allo strutturato.
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### ATTIVITA' AGGIUNTIVA:
+
+Porre il **foglio “aggiuntiva”** fornito dalla segreteria, con relative segnalazioni, **nella “Tasca”
+apposita**, segnare:
+1. Pazienti **presentati**
+2. Pazienti **NON presentati**
+3. Pazienti **spostati** e relativa data
+4. Esame **eseguito**, se corrisponde al richiesto o se sono state aggiunte prestazioni
+5. Eventuali **scambi tra pazienti**
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### CONSIGLI UTILI GESTIONE SALA
+- Andare **in ordine di prenotazione**
+- In caso di **ritardo sostanzioso** **avvisare** periodicamente in **sala d’attesa**
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### CONSEGNA REFERTO ESAMI
+- **TC dei pazienti ambulatoriali** in consegna *dopo 4 giorni lavorativi*
+- **Colonscopie virtuali** e **Cardio-TC** *dopo 5 giorni lavorativi*
+- Tenere sempre **documentazione dei pazienti** e **insistete per avere i precedenti**
+- Busta + cartellina per gli esterni 
+  - non necessari per ricoverati, pre-ricoveri e DH
+- **Ogni dubbio** va **discusso** con gli **strutturati in turno**
+
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
