@@ -65,9 +65,16 @@
 - [Github](https://github.com){:target="_blank"}
 - [Dillinger](https://dillinger.io){:target="_blank"}
 - [Stackedit](https://stackedit.io/app#){:target="_blank"}
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
 - [Regex 101](https://regex101.com){:target="_blank"}
 - [DeepL](https://www.deepl.com/translator){:target="_blank"}
 - [Reveal.js](https://revealjs.com/){:target="_blank"}
 - [R Studio Cloud](https://rstudio.cloud/){:target="_blank"}
 - [Jupyter](https://jupyter.org/){:target="_blank"}
 - [D3.js](https://d3js.org/){:target="_blank"}
+
+<!--- TRASPORTI PAMA -->
+<!--- https://trasportipama.dussmann.it/SanLuigi/Account/Login?ReturnUrl=%2FSanLuigi%2FTrasporto%2FwbAgenda -->
+
+<!--- GITHUB REPOSITORY | SL-RAD-VADEMECUM -->
+<!--- https://github.com/SL-Rad/SL-Rad-Vademecum -->

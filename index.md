@@ -42,5 +42,3 @@
 <div style="text-align: center;" class="qr-code">
 <img src="qr code\QR_code_SL-Rad.png" width="256px"/>
 </div>
-
-<!--- https://trasportipama.dussmann.it/SanLuigi/Account/Login?ReturnUrl=%2FSanLuigi%2FTrasporto%2FwbAgenda -->
