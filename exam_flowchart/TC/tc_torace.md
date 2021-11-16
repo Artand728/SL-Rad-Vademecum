@@ -44,6 +44,46 @@
 
 ## REFERTAZIONE
 
+INTRODUZIONE
+`Indagine eseguita nelle sole scansioni basali`
+`Indagine eseguita previa somministrazione di MdC organo iodato e.v. (____________, ___mL) e confrontata con precedente indagine TC eseguita in data __/__/____ presso altra sede`
+
+AORTA TORACICA
+- calibro?
+- spessore della parete?
+- 
+
+ARTERIE POLMONARI
+- embolia polmonare?
+
+LINFONODI
+
+POLMONE
+- rinforzo trama interstiziale?
+
+PLEURA
+- Versamento pleurico?
+  - dx / sn / bilaterale
+- Pleurite?
+
+MEDIASTINO
+- formazioni linfonodali?
+  - diametro > 1cm?
+
+CUORE
+
+PERICARDIO
+- Versamento pericardico?
+  - spessore (mm)
+  - segni di rifornimento?
+
+COLONNA VERTEBRALE
+- cedimento vertebrale?
+  - n(soma vertebrale)
+
+
+
+
 ---
 
 ## REFERTI PREFATTI

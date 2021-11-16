@@ -998,7 +998,19 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 
 ## Differenza tra "TOR alto" e "TOR+COLLO"
-In TOR alto i pazienti tengono gli arti superiori sollevati sopra la testa per evitare artefatti sul torace, mentre in TOR+COLLO si acquisisce prima con arti superiori sollevati per il TORACE e poi con arti superiori abbassati per il COLLO allungando i tempi (ma permettendo una miglior visualizzazione del collo).
+
+- In **TOR alto** i pazienti tengono gli **arti superiori sollevati sopra la testa** per evitare artefatti sul torace. 
+
+- In **TOR+COLLO** si acquisisce: 
+  - *prima* con **arti superiori sollevati per il TORACE**
+  - *poi* con **arti superiori abbassati per il COLLO** 
+
+	allungando i tempi di acquisizione ma permettendo una miglior visualizzazione del collo.
+
+**L'acquisizione in TOR alto** parte dalla **base delle orbite** in giù fino ad acquisire **tutto il torace**.
+
+**TOR alto** <br>
+**base delle orbite** &rarr; **recessi costo-frenici**
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
