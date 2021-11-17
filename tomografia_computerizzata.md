@@ -46,6 +46,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TORACE](#torace)
 		- [TORACE ALTA RISOLUZIONE](#torace-alta-risoluzione)
 		- [CARDIO-TC (CORO-TC)](#cardio-tc-coro-tc)
+			- [ESECUZIONE ESAME CARDIO-TC (CORO-TC)](#esecuzione-esame-cardio-tc-coro-tc)
 		- [TUMORE POLMONE](#tumore-polmone)
 		- [TUMORE MAMMELLA (stadiazione & ristadiazione)](#tumore-mammella-stadiazione--ristadiazione)
 		- [TUMORE EMATOLOGICO](#tumore-ematologico)
@@ -290,6 +291,21 @@ apposita**, segnare:
 ---
 
 ## CONSENSO INFORMATO
+
+Valutare se il paziente 
+- ha già eseguito esami con mdc e se ha mai avuto reazioni gravi
+- soffre di 
+  - insufficienza renale &rarr; se GFR 30-45 deve aver premedicato, GRF<30 senza una consulenza nefrologica e la premedicazione non esegue l'esame.
+  - insufficienza epatica
+  - insufficienza cardiaca &rarr; è una controindicazione solo per FE molto ridotte (20-30)
+- soffre di diabete complicato da nefropatia diabetica grave
+- potrebbe essere in gravidanza
+
+Valutare se il paziente doveva svolgere delle premedicazioni e nel caso far firmare il box dedicato:
+- antiallergica
+- nefroprotettiva
+
+Dove allegare il consenso informato:
 - pz. ricoverato → si allega in cartella
 - pz. pre-ricovero → si allega in cartella
 - pz. DH → si allega in cartella
@@ -654,24 +670,62 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 
 ### CARDIO-TC (CORO-TC)
 
-La Coro-TC viene principalmente eseguita per lo studio delle coronarie.
-In alcuni casi trova indicazione anche per la valutazione di lesioni neoplasitiche endocavitarie.
+La Coro-TC viene principalmente eseguita per lo **studio delle coronarie**.
+In alcuni casi trova indicazione anche per la valutazione di **lesioni neoplasitiche endocavitarie**.
 
-Prenotare nei 3 posti disponibili il Mercoledì mattina, richiesta dai:
-- Cardiologi interni dell'Ospedale
-- Cardiologi Ospedale Rivoli
+Prenotare nei **3 posti disponibili** il *Mercoledì mattina*, richiesta dai:
+- **Cardiologi interni** dell'Ospedale
+- **Cardiologi Ospedale Rivoli**
 Chiama direttamente la caposala della cardiologia, riportare sempre: 
-- il numero del medico richiedente 
-- il numero di telefono del paziente
+- il **numero del medico richiedente **
+- il **numero di telefono del paziente**
 
-- Se tachicardia somministrare beta-bloccante (metorololo - seloken), tranne se: 
-	- Asma
-	- BPCO
-	- BBDx
+#### ESECUZIONE ESAME CARDIO-TC (CORO-TC)
 
-- ECG con elettrodi Gi-Ro-Ne-VE
+- Ritirare il **referto del cardiologo**
+- Il paziente deve firmare il **consenso per il mezzo di contrasto**.
+  - Se è **allergico** &rarr; premedica (**antiallergica**) <br>
+  - Se è **nefropatico** &rarr; premedica (**nefroprotettiva**)
 
->Si inietta a 5cc/sec, serve accesso vascolare verde (18G).
+- Serve un **accesso vascolare verde (18G)** per sostenere un **flusso di 5cc/sec**.
+
+- Si posiziona la paziente sul lettino con i **piedi in direzione del gantry**.
+
+- Posizionare il **manicotto** per la **rilevazione della PAO**
+	> Non posizionare il manicotto sul braccio in cui è stato inserito l'accesso vascolare.
+
+- Posizionare gli **elettrodi periferici (ECG)**
+	> Seguire il Gi-Ro-Ne-Ve senza posizionare il nero.
+
+- Posizionare il **saturimetro**.
+
+- La **frequenza cardiaca (FR)** in condizioni ideali deve essere sui **55-60 bpm**.
+  - Se **FR < 60 bpm** &rarr; può eseguire l'esame **senza beta-bloccanti**
+  - Se **FR > 75 bpm** &rarr; somministrare **beta-bloccante**
+	> Se il paziente **non presenta controindicazioni** alla somministrazione di beta-bloccanti, quali:
+	> - **Asma**
+	> - **BPCO**
+	> - **BBDx**
+	>
+	> Somministrare **Seloken (metoprololo - fiale da 5mL (1mg/mL))** **diluito 1:1 con soluzione fisiologica**.
+	> 
+	>Si somministra prima **mezza siringa in e.v.** usando l'accesso vascolare (**2,5 mg di metoprololo**), si attendono alcuni minuti (onset rapido), se non si è raggiunta una FR < 75 bpm si somministra l'**altra mezza siringa** (**ulteriori 2,5 mg di metoprololo** - **5mg di dose totale**).
+	>
+	> Il metoprololo ha un **effetto bradicardizzante** e può **indurre ipotensione** &rarr; **controllare la PAO** dopo la somministrazione.
+	>
+	>Teoricamente si possono somministrare fino a tre fiale di metoprololo (3 siringhe diluite - 15mg di metoprololo) ma in pratica **non somministriamo mai più di una siringa (5mg)**.
+	>
+  - Se **FR >>> 75bpm (80-90 bpm)** &rarr; frequenza eccessivamente elevata per svolgere l'esame, provare a utilizzare il beta-bloccante, se la frequnza non scende sotto 75 bpm non si svolge l'esame.
+<!--- Se bradicardizzo troppo o ipotendo posso usare 1mg di atropina? -->
+- Acquisire la **SCOUT in due proiezioni**
+- Acquisire le **SCANSIONI BASALI A BASSA DOSE** dose per il **Calcium-Score**
+- Somministrare **1 puff sublinguale di nitroglicerina (natispray)**; valutare eventuali **controindicazioni** alla somministrazione di nitroglicerina:
+  - **ipotensione** &rarr; la nitroglicerina ha **un effetto ipotensivizzante** come anche il metoprololo, fare attenzione a non ipotendere troppo il paziente.
+  - **tachicardia** &rarr; la nitroglicerina tende a **tachicardizzare paziente** rendendo più difficoltose le acquisizioni.
+- Acquisire le **SCANSIONI CON MEZZO DI CONTRASTO**
+  - in **prospettico**: la TC acqusisce solo la parte del ciclo cardiaco di interesse (dose minore &rarr; indicato nei pazienti giovani) ma è necessario che il paziente abbia un ritmo ottimale.
+  - in **retrospettivo**: la TC acquisisce tutto il ciclo cardiaco e retroricostuisce le fasi desiderate (dose maggiore), da preferire nei casi di frequenza cardiaca non ottimale (>55-60bpm).
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
