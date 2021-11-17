@@ -45,10 +45,9 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE LARINGE (follow-up)](#tumore-laringe-follow-up)
 		- [TORACE](#torace)
 		- [TORACE ALTA RISOLUZIONE](#torace-alta-risoluzione)
-		- [CARDIO-TC](#cardio-tc)
+		- [CARDIO-TC (CORO-TC)](#cardio-tc-coro-tc)
 		- [TUMORE POLMONE](#tumore-polmone)
-		- [TUMORE MAMMELLA (stadiazione)](#tumore-mammella-stadiazione)
-		- [TUMORE MAMMELLA (ri-stadiazione)](#tumore-mammella-ri-stadiazione)
+		- [TUMORE MAMMELLA (stadiazione & ristadiazione)](#tumore-mammella-stadiazione--ristadiazione)
 		- [TUMORE EMATOLOGICO](#tumore-ematologico)
 		- [ESOFAGEI](#esofagei)
 		- [GASTRICI](#gastrici)
@@ -653,21 +652,26 @@ Se nella richiesta oltre al COLLO viene richiesto TOR + AC:
 
 ---
 
-### CARDIO-TC
+### CARDIO-TC (CORO-TC)
+
+La Coro-TC viene principalmente eseguita per lo studio delle coronarie.
+In alcuni casi trova indicazione anche per la valutazione di lesioni neoplasitiche endocavitarie.
 
 Prenotare nei 3 posti disponibili il Mercoledì mattina, richiesta dai:
-- Cardiologi interni
+- Cardiologi interni dell'Ospedale
 - Cardiologi Ospedale Rivoli
 Chiama direttamente la caposala della cardiologia, riportare sempre: 
 - il numero del medico richiedente 
 - il numero di telefono del paziente
 
-- Se tachicardia somministrare beta-bloccante, tranne se: 
+- Se tachicardia somministrare beta-bloccante (metorololo - seloken), tranne se: 
 	- Asma
 	- BPCO
 	- BBDx
 
 - ECG con elettrodi Gi-Ro-Ne-VE
+
+>Si inietta a 5cc/sec, serve accesso vascolare verde (18G).
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -689,21 +693,14 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### TUMORE MAMMELLA (stadiazione)
+### TUMORE MAMMELLA (stadiazione & ristadiazione)
 - TOR lungo (40")
 - AC portale (80")
 - CR (5'), eventualmente se richiesto (sintomi)
 
-<div style="text-align: right">
-<a href="#tomografia-computerizzata">⬆️</a>
-</div>
-
----
-
-### TUMORE MAMMELLA (ri-stadiazione)
-- TOR lungo (40")
-- AC portale (80")
-- CR (5'), eventualmente se richiesto (sintomi)
+>Il **tumore mammario** da **metastasi epatiche** con vascolarizzazione arteriosa che si presenta con **enhancement in fase arteriosa**. 
+>
+>Per questo motivo si esegue una scansione del **torace lunga (TOR lungo)** che comprende **anche il fegato in fase arteriosa parenchimale a 40"** seguita da una scansione del addome in fase portale a 80".
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
