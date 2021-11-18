@@ -1084,6 +1084,11 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 **TOR alto** <br>
 **base delle orbite** &rarr; **recessi costo-frenici**
 
+Una TC COLLO "VERO" prevede un'acquisizione che va:
+dalla base delle orbite alla carina con le braccia abbassate
+**base delle orbite** &rarr; **carina**
+
+
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
 </div>
