@@ -85,12 +85,12 @@
 |        | GASTROENTEROLOGIA                                      |        6351 - 6324        |
 |        | ENDOSCOPIA (medici)                                    |    6537 - 6548 - 6449     |
 |        |                                                        |                           |
-|        |                                                        |                           |
-|        |                                                        |                           |
-|        |                                                        |                           |
-|        |                                                        |                           |
-|        |                                                        |                           |
-|        |                                                        |                           |
+|        | AMBULATORIO ONCOLOGIA GASTRO-ENTERO - VISITE           |           6526            |
+|        | AMBULATORIO ONCOLOGIA GASTRO-ENTERO - DH/TERAPIA       |           6017            |
+|        | AMBULATORIO ONCOLOGIA GENITO-URINARIO                  |        6993 - 6534        |
+|        | AMBULATORIO ONCOLOGIA TESTA/COLLO & GINECO/MAMMARIA    |           6038            |
+|        | AMBULATORIO ONCOLOGIA - Infermieri                     |        6310 - 6350        |
+|        | AMBULATORIO ONCOLOGIA - Segreteria                     |        6310 - 6350        |
 |        |                                                        |                           |
 |        |                                                        |                           |
 |        |                                                        |                           |
