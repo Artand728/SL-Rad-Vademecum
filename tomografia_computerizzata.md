@@ -987,9 +987,10 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - AS Basale 
 	- Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
 - TOR + AC portale (80")
-- CR basale + CR tardiva (5')
-	- **Gleason Score *inferiore* a 3+4**: solo AC portale
-	- **Gleason Score *superiore* a 3+4**: TOR + AC portale 
+>**Gleason Score *inferiore* a 3+4**: solo AC portale <br>
+>**Gleason Score *superiore* a 3+4**: TOR + AC portale
+
+<!--- Prima c'era anche [CR basale + CR tardiva (5')] ma non capisco perché -->
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
