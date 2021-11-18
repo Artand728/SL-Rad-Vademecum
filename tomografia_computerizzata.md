@@ -20,6 +20,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [**GESTIONE AGENDA**](#gestione-agenda)
 		- [SLOT AMBULATORIALI](#slot-ambulatoriali)
 		- [SLOT RICOVERATI](#slot-ricoverati)
+		- [SLOT PRE-RICOVERO](#slot-pre-ricovero)
 		- [SLOT CARDIO-TC](#slot-cardio-tc)
 		- [SLOT COLONSCOPIE VIRTUALI:](#slot-colonscopie-virtuali)
 		- [ESAMI ULTRASPECIALISTICI](#esami-ultraspecialistici)
@@ -134,6 +135,25 @@ accordi con uno strutturato in casi di estrema eccezione
   - Quesito sensato?
   - Non presenti precedenti recenti o equivalenti tipo RM?
 - Discutere sempre con gli strutturati le **richieste non chiare** o su cui si hanno **dubbi**.
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### SLOT PRE-RICOVERO
+
+Il **prericovero non viene fissato in agenda da noi** ma **ha un'agenda propria** che gestisce in autonomia.
+
+**Non occupare mai i posti dei ricoverati con il prericovero**; hanno un loro posto al mattino.
+
+**La richiesta deve essere un'impegnativa dematerializzata** che andrà registrata in segreteria <br>
+e **non una richiesta interna (AREAS)** di pre-ricovero.
+
+Fare attenzione al quesito diagnostico: gli **esami del pre-ricovero devono essere finalizzati all'intervento chirurgico** per cui vengono ricoverati.
+
+>Se il paziente deve fare un intervento chirurgico per ernia inguinale l'esame deve essere un'addome per ernia inguinale o motivazioni affini, non uno studio di cranio, torace e addome per stadiazione di tumore del colon di IV stadio fuori da ogni previsione di intervento chirurgico.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
