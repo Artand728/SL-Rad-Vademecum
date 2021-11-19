@@ -144,7 +144,7 @@ Il Venerdì pomeriggio l'attività in sala ecografica termina all'ora di pranzo,
 
 Il progetto si occupa di radiologia interventistica ecoguidata del distretto muscoloschelettrico.
 
-Le principali procedure svolte sono le infiltrazioni di spalla, di anca e di ginocchio con acido ialuronico, cortisone o Platted-Rich Plasma (PRP) e la litoclasia percutanea ecoguidata.
+Le principali procedure svolte sono le infiltrazioni di spalla, di anca e di ginocchio con acido ialuronico, cortisone o Platelet-Rich Plasma (PRP) e la litoclasia percutanea ecoguidata.
 
 ### PROCEDURE INTERVENTISTICA MSK
 
