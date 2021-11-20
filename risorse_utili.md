@@ -68,6 +68,7 @@
 - [Stackedit](https://stackedit.io/app#){:target="_blank"}
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/){:target="_blank"}
 - [Regex 101](https://regex101.com){:target="_blank"}
+- [Alt Codes](https://www.alt-codes.net/){:target="_blank"}
 - [DeepL](https://www.deepl.com/translator){:target="_blank"}
 - [Reveal.js](https://revealjs.com/){:target="_blank"}
 - [R Studio Cloud](https://rstudio.cloud/){:target="_blank"}
