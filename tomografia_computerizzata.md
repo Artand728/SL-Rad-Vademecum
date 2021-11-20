@@ -71,6 +71,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [**PERFUSION-TC (p-TC)**](#perfusion-tc-p-tc)
+	- [FLOWCHART DI REFERTAZIONE TC](#flowchart-di-refertazione-tc)
 	- [BIBLIOGRAFIA](#bibliografia)
 	- [NOTE](#note)
 
@@ -1099,6 +1100,17 @@ dalla base delle orbite alla carina con le braccia abbassate
 ## **PERFUSION-TC (p-TC)**
 
 [**Pagina dedicata &rarr; Perfusion-TC (p-TC)**](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/tc_perfusion.html)
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+## FLOWCHART DI REFERTAZIONE TC
+
+[**Pagina dedicata &rarr; FLOWCHART REFERTAZIONE GENERALE TC**](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/flowchart_tc_generale.html)
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>

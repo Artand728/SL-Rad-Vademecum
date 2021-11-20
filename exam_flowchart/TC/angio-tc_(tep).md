@@ -44,7 +44,7 @@
 
 ## REFERTAZIONE
 
-- **Difetti di riempimento?** <br> `Si riconoscono alcuni difetti di riempimento di natura tromboembolica a livello di rami
+- **Difetti di riempimento? (embolia polmonare)** <br> `Si riconoscono alcuni difetti di riempimento di natura tromboembolica a livello di rami
 segmentari e subsegmentari al lobo superiore sinistro e subsegmentari al lobo superiore destro.`
 
 ---
