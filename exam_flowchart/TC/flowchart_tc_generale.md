@@ -111,7 +111,7 @@
 
 - **aree a vetro smerigliato? (ground-glass)** <br>
 `(Ad entrambi gli emitoraci) si riconoscono plurime sfumate aree "a vetro smerigliato", maggiormente estese a sinistra;`<br><br>
-` si osserva (incremento) dimensionale delle aree di addensamento parenchimale con aspetto "a vetro smerigliato" localizzate in sede (perilare destra).`
+`si osserva (incremento) dimensionale delle aree di addensamento parenchimale con aspetto "a vetro smerigliato" localizzate in sede (perilare destra).`
   - **associato a consolidamento?** <br>
   `a cui si associa un'area di addensamento parenchimale con aspetto maggiormente consolidativo.`
   - **comparsa di nuove aree?**<br>
@@ -238,7 +238,7 @@
 
 
 
-## **FOLLOW-UP LESIONI NEOPLASTICHE**
+## FOLLOW-UP LESIONI NEOPLASTICHE
 - **lesioni note, numero e dimensione:**
   - ***aumentate*** <br>
   ` si osserva (incremento) dimensionale della lesione (solida disomogenea) caratterizzata da fenomeni di colliquazione centrale precedentemente descritta in stretta contiguità con (la porzione posteriore del muscolo pettorale di destra, in prossimità del cavo ascellare,) del diametro massimo attuale di __ mm.`
