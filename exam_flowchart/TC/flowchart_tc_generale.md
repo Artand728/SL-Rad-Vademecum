@@ -241,7 +241,7 @@
 ## FOLLOW-UP LESIONI NEOPLASTICHE
 - **lesioni note, numero e dimensione:**
   - ***aumentate*** <br>
-  ` si osserva (incremento) dimensionale della lesione (solida disomogenea) caratterizzata da fenomeni di colliquazione centrale precedentemente descritta in stretta contiguità con (la porzione posteriore del muscolo pettorale di destra, in prossimità del cavo ascellare,) del diametro massimo attuale di __ mm.`
+  `si osserva (incremento) dimensionale della lesione (solida disomogenea) caratterizzata da fenomeni di colliquazione centrale precedentemente descritta in stretta contiguità con (la porzione posteriore del muscolo pettorale di destra, in prossimità del cavo ascellare,) del diametro massimo attuale di __ mm.`
   <br><br>
 `Si evidenzia inoltre (incremento) dimensionale dell'analoga lesione precedentemente descritta in sede (inter-spleno-diaframmatica), del diametro massimo attuale di __ mm.`
   - ***stabili***<br>
@@ -250,7 +250,7 @@
 - **linfoadenopaite note, numero e dimensione:**
   - ***aumentate***
   - ***stabili*** <br>
-  ` immodificate per numero e dimensioni le linfoadenopatie precedentemente descritte in ambito mediastinico, prevalenti in sede paratracheale destra, parzialmente confluenti e del diametro massimo complessivo sempre di poco superiore a 2 cm.`
+  `immodificate per numero e dimensioni le linfoadenopatie precedentemente descritte in ambito mediastinico, prevalenti in sede paratracheale destra, parzialmente confluenti e del diametro massimo complessivo sempre di poco superiore a 2 cm.`
   - ***ridotte***
 - **nuove masse secondarie?** 
   - ***presenti***
