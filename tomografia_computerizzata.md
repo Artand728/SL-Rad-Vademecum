@@ -71,6 +71,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [**PERFUSION-TC (p-TC)**](#perfusion-tc-p-tc)
+	- [BIBLIOGRAFIA](#bibliografia)
 	- [NOTE](#note)
 
 - - -
@@ -1105,7 +1106,29 @@ dalla base delle orbite alla carina con le braccia abbassate
 
 ---
 
+## BIBLIOGRAFIA
+
+- [Documento di consenso SIRM-SIAAIC - Gestione dei pazienti a rischio di reazione avversa a MdC](https://sirm.org/wp-content/uploads/2021/04/308-Documento-intersocietario-SIRM-SIAAIC-2018-gestione-pazienti-a-rischio-reazione-avversa-a-mdc.pdf){:target="_blank"}
+
+- [SIRM-SIP-SIN - Raccomandazioni per la donna che allatta sottoposta a esami radiologici con l’impiego di MdC endovascolare](https://sirm.org/wp-content/uploads/2021/04/314-Documento-intersocietario-SIRM-SIN-SIP-2020-Raccomandazioni-mdc-e-allattamento.pdf){:target="_blank"}
+
+
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
 ## NOTE
+
+- MDC E ALLATTAMENTO
+	
+	Al seguente link è possibile consultare le linee guida SIRM in relazione a mcd endovenosi e allattamento (la SIRM ha confermato via mail che le stesse considerazioni possono tranquillamente essere fatte per i mdc per os): https://sirm.org/2020/01/19/documento-intersocietario-mdc-endovascolare-in-allattamento/
+	
+	Al seguente sito è possibile verificare il rischio effettivo del passaggio del farmaco nel latte materno: https://www.e-lactation.com/en/
+
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
