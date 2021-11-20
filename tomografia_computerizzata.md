@@ -1107,7 +1107,7 @@ dalla base delle orbite alla carina con le braccia abbassate
 
 ---
 
-## FLOWCHART DI REFERTAZIONE TC
+## **FLOWCHART DI REFERTAZIONE TC**
 
 [**Pagina dedicata &rarr; FLOWCHART REFERTAZIONE GENERALE TC**](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/flowchart_tc_generale.html)
 
