@@ -71,7 +71,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [**PERFUSION-TC (p-TC)**](#perfusion-tc-p-tc)
-	- [FLOWCHART DI REFERTAZIONE TC](#flowchart-di-refertazione-tc)
+	- [**FLOWCHART DI REFERTAZIONE TC**](#flowchart-di-refertazione-tc)
 	- [BIBLIOGRAFIA](#bibliografia)
 	- [NOTE](#note)
 
