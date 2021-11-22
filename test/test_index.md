@@ -29,7 +29,7 @@
 <br>
 <br>
 <div class="hot-topics">
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/hot-topic_vascular_anatomy.jpg" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/hot-topic_vascular_anatomy.jpg" width="256px" /></a>
 </div>
 <br>
 <br>
