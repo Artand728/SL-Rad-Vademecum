@@ -1,3 +1,2 @@
-<DIV ONMOUSEOVER="document.getElementById('Logo').style.display='block'" ONMOUSEOUT="document.getElementById('Logo').style.display='none'">prova cuore img</DIV>
-
-<IMG ID="Logo" SRC="https://affordablescan.com/blog/wp-content/uploads/2018/07/cardiacCT.png" ALT="Pilgaard Publishing" STYLE="display:none">
+<DIV ONMOUSEOVER="document.getElementById('Logo').style.display='block'" ONMOUSEOUT="document.getElementById('Logo').style.display='none'"><img src="https://radiologyassistant.nl/img/containers/main/anatomy-of-the-liver-segments/a56349709c8cc4_transversale-anatomie-1B.jpg/b3cc64823124d861675838abdbb2ec07.jpg"></DIV>
+<IMG ID="Logo" SRC="https://radiologyassistant.nl/img/containers/main/anatomy-of-the-liver-segments/a56349709c8cc4_transversale-anatomie-1B.jpg/b3cc64823124d861675838abdbb2ec07.jpg" ALT="Pilgaard Publishing" STYLE="display:none">
