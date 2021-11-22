@@ -25,7 +25,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [SLOT COLONSCOPIE VIRTUALI](#slot-colonscopie-virtuali)
 		- [ESAMI ULTRASPECIALISTICI](#esami-ultraspecialistici)
 		- [ATTIVITA' AGGIUNTIVA](#attivita-aggiuntiva)
-		- [SLOT COVID](#slot-covid)
+		- [**SLOT COVID**](#slot-covid)
 		- [**ESAME DA NON PRENOTARE**](#esame-da-non-prenotare)
 	- [CONSIGLI UTILI GESTIONE SALA](#consigli-utili-gestione-sala)
 	- [CONSEGNA REFERTO ESAMI](#consegna-referto-esami)
@@ -288,26 +288,26 @@ apposita**, segnare:
 
 ---
 
-### SLOT COVID
+### **SLOT COVID**
 
-I pazienti COVID devono essere prenotati nei seguenti slot orari:
-- 08.30
-- 10.30
-- 14.30
+I **ricoverati COVID** devono essere **prenotati nell'agenda dalla TC della Radiologia Centrale** (**interno 6785**) solo nei seguenti slot orari:
+- **08.30**
+- **10.30**
+- **14.30**
 
-Il paziente viene trasportato dal reparto di provenienza in PS previa comunicazione telefonica ai tecnici (**interno 6392**).
+Il paziente viene trasportato dal reparto di provenienza **presso la TC del Pronto Soccorso** previa **comunicazione telefonica ai tecnici** (**interno 6392**).
 
-L'esame viene seguito dallo specializzando del PS oppure dallo specializzando della TC che si stacca per seguire l'esame.
+L'esame viene **seguito dallo specializzando del Pronto Soccorso** oppure dallo specializzando della TC che si stacca per seguire l'esame.
 
-L'esame viene refertato dallo strutturato della TC.
+L'esame viene **refertato dallo strutturato della TC**.
 
 > Una TC nei pazienti COVID viene eseguita per motivi direttamente legati alla gestione della malattia e delle sue complicanze. 
 > 
-> Ogni esame diagnostico che non presenta criteri di brevità o urgenza oppure legato a comorbidità differibili a dopo la negativizzazione del paziente deve essre posticipato. 
+> Ogni esame diagnostico che non presenta criteri di brevità o urgenza oppure legato a comorbidità differibili a dopo la negativizzazione del paziente deve essere posticipato a dopo la guarigione o per lo meno la negativizzazione del tampone. 
 > 
 > Non si esegue una stadiazione di tumore in paziente covid, si aspetta la sua negativizzazione.
 > 
-> Non si esegue diagnostica in un pazinte con cirticità cliniche, organizzative e di rischio biologico come il paziente COVID se questa non è finalizzata a un diretto intervento terapeutico.
+> Non si esegue diagnostica in un pazinte con criticità cliniche, organizzative e di rischio biologico come il paziente COVID se questa non è finalizzata a un diretto intervento terapeutico.
 
 
 
@@ -319,9 +319,10 @@ L'esame viene refertato dallo strutturato della TC.
 
 ### **ESAME DA NON PRENOTARE**
 
-Non prenotare mai esami 
-
-
+- **Non prenotare mai esami** provenienti dalla **RIA (Rianimazione)** &rarr; si organizzano direttamente con la **radiologia del PS (interno 7005)**. 
+- **Non prenotare mai** i pazienti del **PRE-RICOVERO negli SLOT RICOVERATI** &rarr; il paziente del **PRE-RICOVERO è equivalente ad un paziente ambulatoriale** che dovrà presentarsi con l'impegnativa del medico del pre-ricovero e fare l'accettazione in segreteria. **Il prericovero ha una sua agenda** che **non seguiamo noi**.
+- I **RICOVERATI della NEURO** hanno dei loro SLOT nel pomeriggio e l'agenda è gestita direttamente dalla neurologia &rarr; **non occupare SLOT RICOVERATI con i ricoverati della NEURO**.
+- La **MED URG (Medicina d'urgenza) ha uno SLOT RICOVERATI ogni giorno nel pomeriggio** &rarr; Sono loro a contattarci per informarci se intendono utilizzarlo e nel caso **i loro pazienti ricoverati vanno fissati in tale SLOT**.
 
 
 <div style="text-align: right">
