@@ -29,8 +29,17 @@
 <br>
 <br>
 <div class="hot-topics">
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/hot-topic_vascular_anatomy.jpg" width="256px" /></a>
+  <a href=""><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/hot-topic_vascular_anatomy.jpg" width="128px" /></a>
 </div>
+
+
+
+
+
+<div style="text-align: center;" class="usefull-links">
+  <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\vascular.png" width="64px" /> &nbsp; Anatomia Vascolare</a>
+  <br>
+  <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/segmenti_epatici.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\liver.png" width="64px" /> &nbsp; Segmenti epatici</a>
 <br>
 <br>
 <br>
