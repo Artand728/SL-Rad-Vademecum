@@ -28,6 +28,12 @@
 <br>
 <br>
 <br>
+<div class="hot-topics">
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/hot-topic_vascular_anatomy.jpg" /></a>
+</div>
+<br>
+<br>
+<br>
 <div style="text-align: center;" class="usefull-links">
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://www.mdcalc.com/mdrd-gfr-equation" target="_blank" rel="noopener noreferrer"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\MDCalc-logo.png" width="64px" /> &nbsp; MDRD GFR Calculator</a>
   <br>
