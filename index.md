@@ -25,9 +25,11 @@
   <a href="case_meet.html"><img src="icons\presentation.png" /></a>
   <a href="contatti.html"><img src="icons\phone-book.png" /></a>
 </div>
+
 <br>
 <br>
 <br>
+
 <div style="text-align: center;" class="usefull-links">
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://www.mdcalc.com/mdrd-gfr-equation" target="_blank" rel="noopener noreferrer"><img src="icons\MDCalc-logo.png" width="64px" /> &nbsp; MDRD GFR Calculator</a>
   <br>
@@ -39,6 +41,7 @@
 <br>
 <br>
 <br>
+
 <div style="text-align: center;" class="qr-code">
 <img src="qr code\QR_code_SL-Rad.png" width="256px"/>
 </div>
