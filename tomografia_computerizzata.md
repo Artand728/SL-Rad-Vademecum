@@ -22,11 +22,13 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [SLOT RICOVERATI](#slot-ricoverati)
 		- [SLOT PRE-RICOVERO](#slot-pre-ricovero)
 		- [SLOT CARDIO-TC](#slot-cardio-tc)
-		- [SLOT COLONSCOPIE VIRTUALI:](#slot-colonscopie-virtuali)
+		- [SLOT COLONSCOPIE VIRTUALI](#slot-colonscopie-virtuali)
 		- [ESAMI ULTRASPECIALISTICI](#esami-ultraspecialistici)
-		- [ATTIVITA' AGGIUNTIVA:](#attivita-aggiuntiva)
-		- [CONSIGLI UTILI GESTIONE SALA](#consigli-utili-gestione-sala)
-		- [CONSEGNA REFERTO ESAMI](#consegna-referto-esami)
+		- [ATTIVITA' AGGIUNTIVA](#attivita-aggiuntiva)
+		- [SLOT COVID](#slot-covid)
+		- [**ESAME DA NON PRENOTARE**](#esame-da-non-prenotare)
+	- [CONSIGLI UTILI GESTIONE SALA](#consigli-utili-gestione-sala)
+	- [CONSEGNA REFERTO ESAMI](#consegna-referto-esami)
 	- [CONSENSO INFORMATO](#consenso-informato)
 	- [**PREMEDICAZIONE ANTIALLERGICA**](#premedicazione-antiallergica)
 		- [PREMEDICAZIONE ANTIALLERGICA RAPIDA](#premedicazione-antiallergica-rapida)
@@ -186,7 +188,7 @@ Fare attenzione al quesito diagnostico: gli **esami del pre-ricovero devono esse
 
 ---
 
-### SLOT COLONSCOPIE VIRTUALI:
+### SLOT COLONSCOPIE VIRTUALI
 - Le seguono **solo due strutturate**: in loro assenza, si eseguono lasciando debita
 documentazione alla responsabile della TC.
 - C’è **un posto ambulatoriale** *ogni martedì pomeriggio alle 13-13.30* 
@@ -270,7 +272,7 @@ con la responsabile TC. Di rado capitano in aggiuntiva CUP, segnalare allo strut
 
 ---
 
-### ATTIVITA' AGGIUNTIVA:
+### ATTIVITA' AGGIUNTIVA
 
 Porre il **foglio “aggiuntiva”** fornito dalla segreteria, con relative segnalazioni, **nella “Tasca”
 apposita**, segnare:
@@ -286,7 +288,49 @@ apposita**, segnare:
 
 ---
 
-### CONSIGLI UTILI GESTIONE SALA
+### SLOT COVID
+
+I pazienti COVID devono essere prenotati nei seguenti slot orari:
+- 08.30
+- 10.30
+- 14.30
+
+Il paziente viene trasportato dal reparto di provenienza in PS previa comunicazione telefonica ai tecnici (**interno 6392**).
+
+L'esame viene seguito dallo specializzando del PS oppure dallo specializzando della TC che si stacca per seguire l'esame.
+
+L'esame viene refertato dallo strutturato della TC.
+
+> Una TC nei pazienti COVID viene eseguita per motivi direttamente legati alla gestione della malattia e delle sue complicanze. 
+> 
+> Ogni esame diagnostico che non presenta criteri di brevità o urgenza oppure legato a comorbidità differibili a dopo la negativizzazione del paziente deve essre posticipato. 
+> 
+> Non si esegue una stadiazione di tumore in paziente covid, si aspetta la sua negativizzazione.
+> 
+> Non si esegue diagnostica in un pazinte con cirticità cliniche, organizzative e di rischio biologico come il paziente COVID se questa non è finalizzata a un diretto intervento terapeutico.
+
+
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### **ESAME DA NON PRENOTARE**
+
+Non prenotare mai esami 
+
+
+
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+## CONSIGLI UTILI GESTIONE SALA
 - Andare **in ordine di prenotazione**
 - In caso di **ritardo sostanzioso** **avvisare** periodicamente in **sala d’attesa**
 
@@ -296,7 +340,7 @@ apposita**, segnare:
 
 ---
 
-### CONSEGNA REFERTO ESAMI
+## CONSEGNA REFERTO ESAMI
 - **TC dei pazienti ambulatoriali** in consegna *dopo 4 giorni lavorativi*
 - **Colonscopie virtuali** e **Cardio-TC** *dopo 5 giorni lavorativi*
 - Tenere sempre **documentazione dei pazienti** e **insistete per avere i precedenti**
