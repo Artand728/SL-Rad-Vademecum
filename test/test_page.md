@@ -18,12 +18,12 @@
 ---
 
 <div class="homepage-icons">
-  <a href="radiologia_tradizionale.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/x-rays.png" /></a>
-  <a href="ecografia.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/ultrasound.png" /></a>
-  <a href="tomografia_computerizzata.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\ct-scan.png" /></a>
-  <a href="risonanza_magnetica.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\mri.png" /></a>
-  <a href="case_meet.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\presentation.png" /></a>
-  <a href="contatti.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\phone-book.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/x-rays.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/ultrasound.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\ct-scan.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\mri.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/case_meet.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\presentation.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\phone-book.png" /></a>
 </div>
 <br>
 <br>
