@@ -42,6 +42,8 @@
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\vascular.png" width="64px" /> &nbsp; Anatomia Vascolare</a>
   <br>
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/segmenti_fegato.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\liver.png" width="64px" /> &nbsp; Segmenti epatici</a>
+  <br>
+  <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/segmenti_polmone.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\lungs.png" width="64px" /> &nbsp; Segmenti epatici</a>
 <br>
 <br>
 <br>
