@@ -15,19 +15,23 @@
 - - -
 
 - [ANATOMIA POLMONE](#anatomia-polmone)
-  - [BIBLIOGRAFIA](#bibliografia)
+  - [SEGMENTI POLMONARI](#segmenti-polmonari)
+  - [VIE RESPIRATORIE](#vie-respiratorie)
+- [BIBLIOGRAFIA](#bibliografia)
 
 - - -
 
+## SEGMENTI POLMONARI
+
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone_segmenti-1.png"/>
 
-<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie.png.png"/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-segmenti-2.png"/>
 
-<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone_segmenti.png"/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-segmenti-3.png"/>
 
-<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone_segmenti-2.png"/>
+## VIE RESPIRATORIE
 
-<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone_segmenti-3.png"/>
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie.png"/>
 
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie-dx.png"/>
 
@@ -35,6 +39,6 @@
 
 --- 
 
-## BIBLIOGRAFIA
+# BIBLIOGRAFIA
 
 - The Netter Collection of Medical Illustrations: Respiratory System: Volume 3
