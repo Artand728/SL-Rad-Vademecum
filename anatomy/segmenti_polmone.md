@@ -25,17 +25,51 @@
 
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone_segmenti-1.png"/>
 
+<div style="text-align: right">
+<a href="#anatomia-polmone">⬆️</a>
+</div>
+
+---
+
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-segmenti-2.png"/>
 
+<div style="text-align: right">
+<a href="#anatomia-polmone">⬆️</a>
+</div>
+
+---
+
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-segmenti-3.png"/>
+
+<div style="text-align: right">
+<a href="#anatomia-polmone">⬆️</a>
+</div>
+
+---
 
 ## VIE RESPIRATORIE
 
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie.png"/>
 
+<div style="text-align: right">
+<a href="#anatomia-polmone">⬆️</a>
+</div>
+
+---
+
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie-dx.png"/>
 
+<div style="text-align: right">
+<a href="#anatomia-polmone">⬆️</a>
+</div>
+
+---
+
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie-sn.png"/>
+
+<div style="text-align: right">
+<a href="#anatomia-polmone">⬆️</a>
+</div>
 
 --- 
 
