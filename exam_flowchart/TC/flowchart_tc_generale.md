@@ -48,6 +48,7 @@
   - [FEMORE](#femore)
   - [ALTRI REPERTI](#altri-reperti)
   - [FOLLOW-UP LESIONI NEOPLASTICHE](#follow-up-lesioni-neoplastiche)
+- [THESAURUS](#thesaurus)
 - [MEZZO DI CONTRASTO](#mezzo-di-contrasto)
   - [Ultravist 370](#ultravist-370)
   - [Iomeron 350](#iomeron-350)
@@ -438,6 +439,12 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
   - ***presenti***
   - ***assenti*** <br>
 `Non sono comparse per il resto lesioni focali o linfoadenopatie riferibili a localizzazioni secondarie della malattia di base in ambito cervico-toracico ed addominale.`
+
+---
+
+# THESAURUS
+
+[&rarr; Thesaurus Refertazione](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/thesaurus.html)
 
 
 ---
