@@ -63,7 +63,7 @@
 
 <br>
 
-- [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010)
+- [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
 
 <br>
 
