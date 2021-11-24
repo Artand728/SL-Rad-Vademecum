@@ -23,7 +23,10 @@
 
 ## SEGMENTI POLMONARI
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone_segmenti-1.png"/>
+</div>
+
 
 <div style="text-align: right">
 <a href="#anatomia-polmone">⬆️</a>
@@ -31,7 +34,9 @@
 
 ---
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-segmenti-2.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-polmone">⬆️</a>
@@ -39,7 +44,9 @@
 
 ---
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-segmenti-3.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-polmone">⬆️</a>
@@ -49,7 +56,9 @@
 
 ## VIE RESPIRATORIE
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-polmone">⬆️</a>
@@ -57,7 +66,9 @@
 
 ---
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie-dx.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-polmone">⬆️</a>
@@ -65,7 +76,9 @@
 
 ---
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-polmone-vie_respiratorie-sn.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-polmone">⬆️</a>
