@@ -38,8 +38,18 @@
 - - -
 
 ## **ARTO SUPERIORE**
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-superficie.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi_vene_aass_anatomia_superficie.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -50,10 +60,18 @@
 ### **SPALLA**
 
 #### ARTERIA ASCELLARE &rarr; ARTERIA RADIALE
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-spalla.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
 
 #### VENA BASILICA & CEFALICA
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -64,10 +82,18 @@
 ### **BRACCIO** / **AVAMBRACCIO** 
 
 #### ARTERIA BRACHIALE &rarr; ARTERIA RADIALE & ULNARE
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aass-arterie.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
 
 #### VENA CUBITALE & BASILICA & CEFALICA
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass2.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -76,9 +102,25 @@
 ---
 
 ### **MANO**
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-mano.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano2.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -87,7 +129,9 @@
 ---
 
 ## **ARTO INFERIORE**
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -98,10 +142,33 @@
 ### **COSCIA**
 
 #### ARTERIE & VENE FEMORALI
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia-ante.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia-post.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene_aaii.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -110,7 +177,9 @@
 ---
 
 #### ANATOMIA SEZIONALE
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-cross-section.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -120,7 +189,9 @@
 
 #### VENA GRANDE SAFENA
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aaii-ante.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -132,7 +203,9 @@
 
 #### ANATOMIA DI SUPERIFCIE
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aaii-superficie.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -141,7 +214,9 @@
 ---
 
 #### VENA POPLITEA & PICCOLA SAFENA
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aaii-post.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -153,8 +228,17 @@
 
 #### ARTERIA & VENA TIBIALE
 
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aaii.png"/>
+</div>
+
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
+
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-polpaccio.png"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
@@ -163,7 +247,12 @@
 ---
 
 ### **PIEDE**
+<div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aaii-piede.png"/>
+</div>
 
+<div style="text-align: right">
+<a href="#anatomia-vascolare">⬆️</a>
+</div>
 
 
