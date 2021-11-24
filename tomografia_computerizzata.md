@@ -66,7 +66,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
 		- [TUMORE UROTELIALE](#tumore-uroteliale)
 		- [TUMORE COLON](#tumore-colon)
-		- [COLON TC (colonscopia virtuale)](#colon-tc-colonscopia-virtuale)
+		- [COLON TC - COLONSCOPIA VIRTUALE (CV)](#colon-tc---colonscopia-virtuale-cv)
 		- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
 		- [TUMORE ENDOMETRIO](#tumore-endometrio)
 		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
@@ -192,10 +192,8 @@ Fare attenzione al quesito diagnostico: gli **esami del pre-ricovero devono esse
 - Le seguono **solo due strutturate**: in loro assenza, si eseguono lasciando debita
 documentazione alla responsabile della TC.
 - C’è **un posto ambulatoriale** *ogni martedì pomeriggio alle 13-13.30* 
-  - *il posto del lunedì
-pomeriggio* è **solo per eventuali colonscopie virtuali del CAS**); 
-  - **i ricoverati eventuali** *devono essere
-concordati con una delle due strutturate*.
+  - *il posto del lunedì pomeriggio* è **solo per eventuali colonscopie virtuali del CAS**); 
+  - **i ricoverati eventuali** *devono essere concordati con una delle due strutturate*.
 - **Prenotazione**:
   - solo se richieste dalla **Gastroenetrologia** o dalla **Chirurgia Generale interna dell'Ospedale**
   - valutare l’età 
@@ -205,47 +203,25 @@ La **colonscopia virtuale** è indicata se:
   - il **paziente è fragile**
     - in **ASA** 
     - in **TAO/NAO** 
-      - che interromperà solo se
-dovesse andare ad eseguire la colonscopia convenzionale (CC)
+      - che interromperà solo se dovesse andare ad eseguire la colonscopia convenzionale (CC)
   - il **paziente rifiuta categoricamente** la colonscopia convenzionale (CC)
-  - si è in presenza di
-**impedimenti fisici** alla colonscopia convenzionale (CC) quali:
+  - si è in presenza di **impedimenti fisici** alla colonscopia convenzionale (CC) quali:
     - **ernie** 
     - **aderenze**
     - **dolicocolon**
-    - etc...
 
 **Spiegare la preparazione**: 
   - è la **stessa della colonscopia convenzionale**
   - si effettua sempre **distensione gassosa** 
-  - se
-si trova una **sospetta lesione neoplastica** o **l’esame non raggiunge una adeguata qualità diagnostica** dovrà essere necessariamente eseguita la **colonscopia convenzionale (CC)**.
+  - se si trova una **sospetta lesione neoplastica** o **l’esame non raggiunge una adeguata qualità diagnostica** dovrà essere necessariamente eseguita la **colonscopia convenzionale (CC)**.
 
 **Completamento colonscopia convenzionale**: 
   - i **gastroenterologi interni dell'Ospedale** devono chiamare e **far arrivare il
 paziente non più tardi delle 13:00** per **eseguire l’esame non più tardi delle 15:00**. 
     >- la radiologia non è obbligata ad eseguire l'esame in giornata ma nello spettro del possibile si cerca di farlo nell'interesse del paziente.
 
-In una TC per **colonscopia virtuale** eseguire **SEMPRE**:
-- **TC addome basale** 
-  - per escludere perforazione prima di iniziare la preparazione
-- I pazienti devono essere :
-  - **collaboranti**
-  - **continenti**
-  - in grado di assumere **due decubiti differenti** (**supino/prono**)
-  - eseguono **preparazione**
-  - **presentarsi 2 ore prima dell’esame** *(11-11.30)*
-    -  bevono **1L d’acqua + 30 cc di
-Gastrografin** nel minor tempo possibile *(20-30 minuti)*;
-  - Somministrare **Buscopan e.v.** *mezz’ora prima dell’indagine* 
-    - a meno che non sussistano **controindicazioni** quali:
-      - **ARITMIE**
-      - **GLAUCOMA**
-  - *Esecuzione esame ore 13-13.30*
-    - **NON si esegue** la colonscopia virtuale se c’è un **elevato rischio di perforazione**.
-    - Se il paziente è **allergico al mdc** &rarr; beve **solo acqua** oppure **premedica**.
-    - La colonscopia virtuale è un **esame basale** ma il **paziente firma comunque il consenso**; solo in casi
-selezionati si fa con mdc e.v.
+La colonscopia virtuale **non richiede contrasto endovascolare** &rarr; non richiede premedicazione antiallergica  o nefroprotettiva.
+**L'ernia inguinale** **non** rappresenta una **controindicazione all'esame**.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -851,7 +827,9 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ---
 
 ### GASTRICI
-- 2 bicchieri di H20 prima dell'esame (chiedere allo strutturato, alcuni non lo ritengono necessario)
+
+- 2 bicchieri di H20 prima dell'esame &rarr; per distendere lo stomaco <br>(chiedere allo strutturato, alcuni non lo ritengono necessario)
+- AS arteriosa (40")
 - TOR + AC portale (80")
 
 <div style="text-align: right">
@@ -1005,9 +983,30 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### COLON TC (colonscopia virtuale)
+### COLON TC - COLONSCOPIA VIRTUALE (CV)
 - 30mL Grafin in 1L di H20 2h prima dell'esame
 - Buscopan 30 min prima dell'esame
+
+In una TC per **colonscopia virtuale** eseguire **SEMPRE**:
+- **TC addome basale** 
+  - per escludere perforazione prima di iniziare la preparazione
+- I pazienti devono essere :
+  - **collaboranti**
+  - **continenti**
+  - in grado di assumere **due decubiti differenti** (**supino/prono**)
+  - eseguono **preparazione**
+  - **presentarsi 2 ore prima dell’esame** *(11-11.30)*
+    -  bevono **1L d’acqua + 30 cc di
+Gastrografin** nel minor tempo possibile *(20-30 minuti)*;
+  - Somministrare **Buscopan e.v.** *mezz’ora prima dell’indagine* 
+    - a meno che non sussistano **controindicazioni** quali:
+      - **ARITMIE**
+      - **GLAUCOMA**
+  - *Esecuzione esame ore 13-13.30*
+    - **NON si esegue** la colonscopia virtuale se c’è un **elevato rischio di perforazione**.
+    - Se il paziente è **allergico al mdc** &rarr; beve **solo acqua** oppure **premedica**.
+    - La colonscopia virtuale è un **esame basale** ma il **paziente firma comunque il consenso**; solo in casi
+selezionati si fa con mdc e.v.
 
 > Fissare in agenda nel posto dedicato `COLON` il Martedì mattina oppure il Lunedì in posto dedicato `COLON CAS`
  
@@ -1087,10 +1086,14 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 > Leggere gli esami precedenti e vedere le immagini.
 
+- **STOMACO VUOTO ISPESSITO**: Se lo stomaco non è disteso può mimare un'ispessimento di parete non differenziabile da una possibile neoplasia &rarr; somministrare 2 bicchieri di H20 per distendere le pareti gastriche.
+
 - **LESIONE IPODENSA DEL FEGATO DI NUOVO RISCONTRO**: Se appaiono delle lesioni non presenti ai precedenti esami
 	- Se il paziente è in follow-up oncologico e appaiono multiple lesioni ipodense compatibili con metastasi è possibile evitare il ripassaggio; è verosimile che siano metastasi. Nel caso in cui la lesione sia singola allora sarebbe necessario eseguire un ripassaggio perché può essere una singola metastasi oppure una formazione benigna (angioma) misconosciuta ad un esame precedente.
 	- Angioma ha la stessa densità della vena porta: indice di benignità 
 	- acquisire un `eventuale ripassaggio a 3'` 
+
+
 - **DILATAZIONE DELLE VIE BILIARI INTRAEPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'.  
   `Allertare lo strutturato ed eventualmente effettuare un ripassaggio a 6'.`
 
@@ -1108,6 +1111,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 - **POLMONE**
   - *Artefatti da respiro*: se un'area non è valutabile ripetere scansione nell'area di interesse.
   - *Suggerimento*: se il Paziente non ha un'apnea valida si può far partire la scansione dalle basi polmonari.
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
