@@ -63,6 +63,10 @@
 
 <br>
 
+- [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010)
+
+<br>
+
 - [Github](https://github.com){:target="_blank"}
 - [Dillinger](https://dillinger.io){:target="_blank"}
 - [Stackedit](https://stackedit.io/app#){:target="_blank"}
