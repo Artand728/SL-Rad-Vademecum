@@ -47,6 +47,8 @@
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
 
+---
+
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi_vene_aass_anatomia_superficie.png"/>
 </div>
@@ -110,6 +112,8 @@
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
 
+---
+
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene-aass-mano.png"/>
 </div>
@@ -117,6 +121,8 @@
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
+
+---
 
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-arterie-aass-mano2.png"/>
@@ -150,6 +156,8 @@
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
 
+---
+
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia-post.png"/>
 </div>
@@ -158,6 +166,8 @@
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
 
+---
+
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-vene_aaii.png"/>
 </div>
@@ -165,6 +175,8 @@
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
+
+---
 
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-coscia.png"/>
@@ -235,6 +247,8 @@
 <div style="text-align: right">
 <a href="#anatomia-vascolare">⬆️</a>
 </div>
+
+---
 
 <div style="text-align: center">
 <img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/netter-vasi-aaii-polpaccio.png"/>
