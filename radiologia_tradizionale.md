@@ -388,6 +388,8 @@ Esame seguito dagli specializzandi del II°-III° anno.
 
 ## BIBLIOGRAFIA
 
+- [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
+
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>
 
