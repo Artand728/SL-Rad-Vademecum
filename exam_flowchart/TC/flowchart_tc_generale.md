@@ -31,6 +31,7 @@
   - [PARETE TORACICA](#parete-toracica)
   - [COLONNA VERTEBRALE](#colonna-vertebrale)
   - [AORTA ADDOMINALE](#aorta-addominale)
+  - [ARTERIE & VENA MESENTERICA SUPERIORE & INFERIORE](#arterie--vena-mesenterica-superiore--inferiore)
   - [FEGATO](#fegato)
   - [COLECISTI](#colecisti)
   - [VIE BILIARI](#vie-biliari)
@@ -38,7 +39,11 @@
   - [SURRENI](#surreni)
   - [RENI](#reni)
   - [URETELI](#ureteli)
+  - [VESCICA](#vescica)
+  - [PROSTATA](#prostata)
+  - [ILEO](#ileo)
   - [COLON](#colon)
+  - [TESSUTO ADIPOSO INTRADDOMINALE](#tessuto-adiposo-intraddominale)
   - [PARETE ADDOMINALE](#parete-addominale)
   - [ARTERIE ILIACHE (INTERNE / ESTERNE)](#arterie-iliache-interne--esterne)
   - [VENE ILIACHE](#vene-iliache)
@@ -47,6 +52,7 @@
   - [SACRO](#sacro)
   - [FEMORE](#femore)
   - [ALTRI REPERTI](#altri-reperti)
+  - [NEGATIVI GENERICI](#negativi-generici)
   - [FOLLOW-UP LESIONI NEOPLASTICHE](#follow-up-lesioni-neoplastiche)
 - [THESAURUS](#thesaurus)
 - [MEZZO DI CONTRASTO](#mezzo-di-contrasto)
@@ -87,10 +93,18 @@
 
 ## CRANIO
 
+- **lesioni ischemiche?**
+  - ***assenti*** <br> `Non si osservano alterazioni parenchimali in sede sovra e sottotentoriale riferibili a lesioni ischemiche di data recente`
+  - ***presenti***<br> 
 
+- **segni di sanguinamento?** <br> `(Non si rilevano / né) segni di sanguinamento intra ed extra-assiale.`
 
+- **lesioni occupanti spazio?** <br> `(Tenuto conto dell'assenza di mdc) non si evidenziano immagini riferibili a processi occupanti spazio.`
 
+- **Linea mediana in asse?** <br> `Le strutture della linea mediana sono in asse.`
 
+- **sistema venticolare?** 
+  - ***regolare*** <br> `Il sistema ventricolare e gli spazi subaracnoidei della convessità e della base conservano regolare morfologia ed ampiezza.`
 
 ## TIROIDE
 
@@ -164,11 +178,14 @@
 
 - **aree a vetro smerigliato? (ground-glass)** <br>
 `(Ad entrambi gli emitoraci) si riconoscono plurime sfumate aree "a vetro smerigliato", maggiormente estese a sinistra;`<br><br>
-`si osserva (incremento) dimensionale delle aree di addensamento parenchimale con aspetto "a vetro smerigliato" localizzate in sede (perilare destra).`
+`si osserva (incremento) dimensionale delle aree di addensamento parenchimale con aspetto "a vetro smerigliato" localizzate in sede (perilare destra).`<br><br>
+`(Rispetto al controllo di riferimento) si apprezza la comparsa, (da ambo i lati), di (limitate) aree parenchimali con aspetto a vetro smerigliato, (non precedentemente apprezzabili).`<br><br>
+`si osserva (netto) (incremento) dei fenomeni di addensamento parenchimale con aspetto prevalente "a vetro smerigliato" ad interessare (entrambi gli emitoraci)`
   - **associato a consolidamento?** <br>
   `a cui si associa un'area di addensamento parenchimale con aspetto maggiormente consolidativo.`
   - **comparsa di nuove aree?**<br>
   `Sono comparse inoltre manifestazioni di analogo aspetto in sede (lingulare).`
+  - **aree di risparmio?**<br>`con (minimo) risparmio del segmento (apicale) del lobo (superiore ed inferiore) (di sinistra).`
 
 - **consolidamento?** <br>
 `(al segmento anteriore del lobo inferiore sinistro, in sede periscissurale), si associa una (limitata / modesta / estesa) area di addensamento parenchimale con aspetto (maggiormente) consolidativo.`<br><br>
@@ -281,7 +298,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `Permangono sfumate aree di alterazione osteostrutturale addensante a livello del soma vertebrale di (C_ / D__ / L_ ).`
 
 - **spondilartrosi osteofitaria?** <br>
-`in quadro di (grossolana) spondiloartrosi a carattere osteofitario.`
+`in quadro di (grossolana) spondiloartrosi a carattere osteofitario.`<br><br>
+`Sono presenti (grossolane) manifestazioni spondiloartrosiche a carattere osteofitario in sede
+(dorso-lombare).`
 
 
 
@@ -291,7 +310,14 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 
+
+## ARTERIE & VENA MESENTERICA SUPERIORE & INFERIORE
+- **difetti di riempimento?**<br>
+`L'arteria e la vena mesenterica superiore ed inferiore sono pervie e di calibro regolare, ove attendibilmente esplorabili.`
+
+
 ## FEGATO
+
 
 
 
@@ -304,9 +330,13 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 
+
 ## VIE BILIARI
-- **ectasia?** <br>
+- **ectasia?** 
+  - ***assente*** <br> `Le vie biliari non sono dilatate.`
+  - ***presente***<br>
 `(Persiste) (lieve) ectasia delle vie biliari intra ed extraepatiche.`
+
 
 
 
@@ -314,7 +344,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 ## MILZA
 
 - **milza accessoria?** <br>
-`(Si conferma) la presenza di una milza accessoria di __ mm,`
+`(Si conferma) la presenza di una milza accessoria di __ mm,`<br><br>
+`segnalandosi la presenza di due milze accessorie del diametro massimo di __ e __ mm`
+
 
 
 
@@ -326,9 +358,13 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 
+
+
 ## RENI
 - **cisti renali?** <br>
-`si segnala la presenza di multiple cisti (corticali e parapieliche) a livello di entrambi i reni`
+`si segnala la presenza di multiple cisti (corticali e parapieliche) a livello di entrambi i reni`<br><br>
+`una cisti (mesorenale) (sinistra) del diametro massimo di __ mm.`
+
   - **diametro** <br>
   `del diametro massimo sino a 75 mm (a destra).`
 - **calcoli renali?**<br>
@@ -339,18 +375,61 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 ## URETELI
-- **esctasia?** <br>
+- **esctasia?**
+  - ***assente*** <br> 
+  `Le vie escretrici urinarie non sono dilatate.`
+  - ***presente***<br>
 `(Persiste) (lieve) ectasia dei bacinetti renali.`
 
 
 
 
+
+## VESCICA
+- **deplezione?** <br>
+`La vescica è depleta`
+- **catetere vescicale?**<br>
+`in presenza di catetere urinario.`
+
+
+
+
+
+## PROSTATA
+- **dimensione?**<br>
+`La prostata ha dimensioni (nella norma / incrementate), diametro trasverso massimo di __ mm.`
+
+
+
+
+
+## ILEO
+
+
+
+
+
 ## COLON
+- **ispessimento di parete?** <br>
+`Si riconosce (diffuso) ispessimento delle pareti del colon (destro), del colon (discendente) e del (sigma),`
+  - **ipotesi diagnostiche?** <br>
+`reperto da ascrivere a quadro di colite aspecifica (ischemica da interessamento del piccolo circolo? Su base flogistica?).`
+
+- **coprostasi?**<br>
+`Sono presenti (limitati) fenomeni di coprostasi nel colon (trasverso) e in (ampolla rettale).`
+
 - **interventi chirurgici** 
   - **emicolectomia (destra /sinistra)** <br>
 `si confermano gli esiti di pregresso intervento chirurgico di emicolectomia (destra).`
 
 
+## TESSUTO ADIPOSO INTRADDOMINALE
+- **imbibizione?**<br>
+`Si osserva (minima) imbibizione fluida del tessuto adiposo intra-addominale`
+- **falde fluide?**<br>
+`in assenza di chiare falde fluide`
+- **linfoadenopatie?**<br>
+`in assenza di linfoadenopatie.`
 
 
 ## PARETE ADDOMINALE
@@ -418,7 +497,10 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `È presente protesi al tratto prossimale dell'arteria (succlavia sinistra).`
 
 
-
+## NEGATIVI GENERICI
+- **organi parenchimatosi addome superiore**<br>`Gli organi parenchimatosi dell'addome superiore conservano regolare aspetto TC`
+- **vie biliari e urinarie non dilatate**<br>
+`Le vie biliari e le vie escretrici urinarie non sono dilatate.`
 
 
 ## FOLLOW-UP LESIONI NEOPLASTICHE
