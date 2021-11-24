@@ -744,7 +744,7 @@ Prenotare nei **3 posti disponibili** il *Mercoledì mattina*, richiesta dai:
 - **Cardiologi interni** dell'Ospedale
 - **Cardiologi Ospedale Rivoli**
 Chiama direttamente la caposala della cardiologia, riportare sempre: 
-- il **numero del medico richiedente **
+- il **numero del medico richiedente**
 - il **numero di telefono del paziente**
 
 #### ESECUZIONE ESAME CARDIO-TC (CORO-TC)
@@ -782,7 +782,7 @@ Chiama direttamente la caposala della cardiologia, riportare sempre:
 	>
 	>Teoricamente si possono somministrare fino a tre fiale di metoprololo (3 siringhe diluite - 15mg di metoprololo) ma in pratica **non somministriamo mai più di una siringa (5mg)**.
 	>
-  - Se **FR >>> 75bpm (80-90 bpm)** &rarr; frequenza eccessivamente elevata per svolgere l'esame, provare a utilizzare il beta-bloccante, se la frequnza non scende sotto 75 bpm non si svolge l'esame.
+  - Se **FR > > 75bpm (80-90 bpm)** &rarr; frequenza eccessivamente elevata per svolgere l'esame, provare a utilizzare il beta-bloccante, se la frequnza non scende sotto 75 bpm non si svolge l'esame.
 <!--- Se bradicardizzo troppo o ipotendo posso usare 1mg di atropina? -->
 - Acquisire la **SCOUT in due proiezioni**
 - Acquisire le **SCANSIONI BASALI A BASSA DOSE** dose per il **Calcium-Score**
