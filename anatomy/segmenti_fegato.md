@@ -38,13 +38,18 @@
 
 | Fegato destro posteriore |                     | Fegato destro anteriore |  Linea di Cantlie  | Fegato sinistro mediale |                      | Fegato sinistro laterale |
 | :----------------------: | :-----------------: | :---------------------: | :----------------: | :---------------------: | :------------------: | :----------------------: |
+|     **Lobo destro**      |                     |     **Lobo destro**     |                    |     **Lobo destro**     |                      |    **Lobo sinistro**     |
 |          **S7**          | Vena epatica destra |         **S8**          | Vena epatica media |         **S4a**         | Legamento Falciforme |          **S2**          |
 |    Vena porta destra     |      *caudale*      |    Vena porta destra    |                    |   Vena porta sinistra   |      *craniale*      |   Vena porta sinistra    |
 |          **S6**          | Vena epatica destra |         **S5**          | Fossa colecistica  |         **S4b**         | Legamento Falciforme |          **S3**          |
 
 > La diramazione portale di destra è leggermente più caudale della diramazione portale di sinistra.
->
-> Cirrosi epatica &rarr; Ipertrofia del lobo caudato (S1)
+> 
+> Il segmento S1 corrisponde al lobo caudato, si colloca nella faccia posteriore del fegato, dorsalmente rispetto ad S4.
+> Lateralmente si colloca S7, distinto dalla vena cava inferiore che decorre nel proprio solco, medialmente il II segmento, da cui è diviso dal solco del legamento venoso. 
+> Riceve rami dalla vena epatica media, dall'arteria epatica sinistra e destra, drena nella vena cava inferiore.
+> 
+> Cirrosi epatica &rarr; Ipertrofia del lobo caudato (S1).
 
 <table>
   <tr>
@@ -92,10 +97,17 @@
 </table>
 
 
-<img src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Netter-segmenti_epatici.png">
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Netter-segmenti_epatici.png"/>
+</div>
 
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Liver_04_Couinaud_classification.svg/langit-1920px-Liver_04_Couinaud_classification.svg.png"/>
+</div>
 
-
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Liver_04_Couinaud_classification_animation.gif"/>
+</div>
 
 <div style="text-align: right">
 <a href="#anatomia-segmentale-fegato">⬆️</a>
