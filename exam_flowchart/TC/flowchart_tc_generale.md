@@ -17,13 +17,14 @@
 - [FLOWCHART REFERTAZIONE GENERALE TC](#flowchart-refertazione-generale-tc)
   - [INTRODUZIONE](#introduzione)
   - [CRANIO](#cranio)
+  - [RACHIDE CERVICALE](#rachide-cervicale)
   - [TIROIDE](#tiroide)
   - [AORTA TORACICA](#aorta-toracica)
   - [ARTERIE POLMONARI](#arterie-polmonari)
   - [LINFONODI](#linfonodi)
   - [POLMONE](#polmone)
   - [PLEURA](#pleura)
-  - [VIE RESPIRATORIE](#vie-respiratorie)
+  - [TRACHEA E GROSSI BRONCHI](#trachea-e-grossi-bronchi)
   - [MEDIASTINO](#mediastino)
   - [CUORE](#cuore)
   - [PERICARDIO](#pericardio)
@@ -93,18 +94,41 @@
 
 ## CRANIO
 
-- **lesioni ischemiche?**
+- **lesioni ischemiche? (ictus)**
   - ***assenti*** <br> `Non si osservano alterazioni parenchimali in sede sovra e sottotentoriale riferibili a lesioni ischemiche di data recente`
   - ***presenti***<br> 
 
-- **segni di sanguinamento?** <br> `(Non si rilevano / né) segni di sanguinamento intra ed extra-assiale.`
+- **segni di sanguinamento (emorragia)?** <br> `(Non si rilevano / né) segni di sanguinamento intra ed extra-assiale.`
 
-- **lesioni occupanti spazio?** <br> `(Tenuto conto dell'assenza di mdc) non si evidenziano immagini riferibili a processi occupanti spazio.`
+>**Non lesioni ischemiche o emorragiche** <br>
+>Non si osservano alterazioni tomodensitometriche, sovra o sottotentoriali, a carattere iperdenso od ipodenso riferibili, rispettivamente, ad emorragie o ad aree ischemiche recenti.
 
-- **Linea mediana in asse?** <br> `Le strutture della linea mediana sono in asse.`
+- **lesioni occupanti spazio?** <br> 
+`(Tenuto conto dell'assenza di mdc) non si evidenziano immagini riferibili a processi occupanti spazio.`
+
+- **linea mediana in asse?** <br> 
+`Le strutture della linea mediana sono in asse.`
 
 - **sistema venticolare?** 
-  - ***regolare*** <br> `Il sistema ventricolare e gli spazi subaracnoidei della convessità e della base conservano regolare morfologia ed ampiezza.`
+  - **regolare** <br> `Il sistema ventricolare e gli spazi subaracnoidei della convessità e della base conservano regolare morfologia ed ampiezza.`
+  <br><br>
+  `Le cisterne liquorali hanno ampiezza regolare.`
+
+  - **spazi subaracnoidei?**<br>
+  `gli spazi subaracnoidei della convessità e della base sono lievemente ampliati su base atrofica.`
+
+- **trauma &rarr; lesioni post-traumatiche?**
+  - **assenti**<br>
+`Non lesioni ossee post-traumatiche.`
+
+
+## RACHIDE CERVICALE
+- **disallinementi muri somaitici?** <br>
+`Rachide cervicale privo di disallineamenti dei muri somatici posteriori.`
+
+
+
+
 
 ## TIROIDE
 
@@ -139,31 +163,37 @@
 
 
 ## LINFONODI
-- **linfoadenopatia?**<br>
-`Si rileva (incremento / stabilità / decremento) dimensionale di (molteplici / alcune / limitate) linfoadenopatie`
-  - **dimensione**<br>
-  `del diametro massimo fino a __ mm` <br>
-  `del diametro massimo di __ mm`
-  - **localizzazione** <br>
-  `in sede _______ (sinistra / destra / bilaterale)`
-    - sovraclaveare
-    - ascellare
-    - mediastinica
-    - inguinale
+- **linfoadenopatia?**
+  - ***assente*** <br>
+  `Non si riconoscono adenopatie in sede (latero-cervicale e sovraclaveare) (bilateralmente)`
+  - ***presente*** <br>
+  `Si rileva (incremento / stabilità / decremento) dimensionale di (molteplici / alcune / limitate) linfoadenopatie`
+    - **dimensione**<br>
+    `del diametro massimo fino a __ mm` <br>
+    `del diametro massimo di __ mm`
+    - **localizzazione** <br>
+      `in sede _______ (sinistra / destra / bilaterale)`
+      - sovraclaveare
+      - ascellare
+      - mediastinica
+      - inguinale
 
 
 
 
 
 ## POLMONE
+
 - **lesioni polmonari?** 
   - **assenti** <br> 
   `Non si evidenziano (per il resto) lesioni pleuro-parenchimali con caratteristiche TC di attività o evolutività.`
+
 
 - **lesioni addensanti?** <br>
 `Risultano (incrementate / invariate / parzialmente risolte / risolte) le aree di addensamento parenchimale precedentemente descritte al lobo (medio), con formazione pseudonodulare a margini spiculati adesa alla piccola scissura del diametro massimo di 16 mm.`
 <br><br>
 `Sono (stabili) le (grossolane) aree di addensamento parenchimale.`
+
 
   - **calcifiche?** <br>
   `in parte calcifico`
@@ -172,8 +202,6 @@
        - superiore
        - medio
        - inferiore
-
-
 
 
 - **aree a vetro smerigliato? (ground-glass)** <br>
@@ -187,6 +215,7 @@
   `Sono comparse inoltre manifestazioni di analogo aspetto in sede (lingulare).`
   - **aree di risparmio?**<br>`con (minimo) risparmio del segmento (apicale) del lobo (superiore ed inferiore) (di sinistra).`
 
+
 - **consolidamento?** <br>
 `(al segmento anteriore del lobo inferiore sinistro, in sede periscissurale), si associa una (limitata / modesta / estesa) area di addensamento parenchimale con aspetto (maggiormente) consolidativo.`<br><br>
 `Si evidenzia (lieve) (incremento) dei fenomeni di consolidamento parenchimale` 
@@ -196,6 +225,7 @@
     `reperti di significato flogistico-disventilativo` 
   - **con reazione pleurica?** <br>
   `cui concomitano fenomeni di reazione pleurica (bilateralmente), dello spessore massimo sino a __ mm (a sinistra).`
+
 
 - **nodularità (nodulo polmonare)?**
   - **presente** <br> `(Al lobo inferiore sinistro, in sede mantellare,) si riconosce una nodularità parenchimale  `
@@ -209,7 +239,27 @@
         - singolo, piccole dimensioni, margini netti, densistà negativa (lipdica) &rarr; **amartoma**<br>
 	  `reperto compatibile con amartoma.`
 
+
 - **lesioni neoproduttive (massa)?**
+  - **lesione neoproduttiva di nuovo riscontro**<br>
+  `si rileva la comparsa di un'area di addensamento parenchimale`
+    - **margini** <br>
+    `a margini disomogenei` 
+    - **localizzazione** <br> 
+    `localizzata in sede (subpleurica) nel segmento (lingulare superiore),`
+    - **dimensioni** <br>
+    `delle dimensioni massime di circa __ x __ mm.`
+      - **concomitante atelettasia?** <br>
+    `concomita consolidamento atelettasico del segmento (posteriore) del (LIS), conseguente ad ostruzione del bronco segmentario tributario,` 
+      - **ispessimento interstiziale?** <br>
+      `se (diffuso) ispessimento a carattere nodulare dell'interstizio inter e intralobulare dei segmenti (lingulari) (del LSS e del LIS),`
+         - **eziologia?** <br>
+       `sospetto per linfangite carcinomatosa.`
+           - **ipotesi diagnostica** <br>
+       `Tali reperti depongono per (progressione) polmonare della nota malattia di base.`
+
+
+
   - **rivalutazione dimensioni lesione neoproduttiva nota** <br>
 `Rispetto al precedente controllo del __/__/____ si riconosce (riduzione / stabilità / incremento) dimensionale del tessuto solido di natura neoproduttiva precedentemente descritto in prossimità (del corno ilare inferiore destro), del diametro massimo attuale di __ mm.`<br><br>
 
@@ -228,9 +278,12 @@
 
 ## PLEURA
 - **versamento pleurico?**
-  - **saccato?** <br>
-  `presenza di una quota di versamento pleurico saccato in sede (intrascissurale destra)` 
-  - **localizzazione (dx / sn / bilaterale)**
+  - **presente** <br>
+  `falda di versamento pleurico (apico-parieto-basale) (a sinistra), con impegno intrascissurale ed aspetti di saccatura,` 
+    - **spessore** <br>
+    `con spessore massimo di circa __ cm in sede (basale).`
+  - **versamento pleurico saccato?** <br>
+  `presenza di una quota di versamento pleurico saccato in sede (intrascissurale) (destra)` 
 
 - **pleurite?**
 
@@ -246,7 +299,7 @@
 
 
 
-## VIE RESPIRATORIE
+## TRACHEA E GROSSI BRONCHI
 - **regolari** <br>
 `La trachea ed i grossi bronchi sono pervi e di calibro regolare.`
 
@@ -258,8 +311,10 @@
 - **linfadenopatie?** 
   - **assenti** <br>
   `Non si osservano linfoadenopatie in sede ilare o mediastinica.`
-  - **presenti**
-    - **diametro > 1cm?**
+  - **presenti** <br>
+  `Si rileva la comparsa di (alcuni) linfonodi mediastinici a livello (della finestra aorto-polmonare)` ed in sede (ilare) (sinistra)
+    - **dimensioni** <br>`di dimensioni massime di circa __ x __ mm` 
+    - **core ipodenso &rarr; colliquazione necrotica?** `con core centrale di aspetto ipodenso per possibili fenomeni di colliquazione necrotica;`
   - **linfonodi rispetto a un precedente controllo**<br>
   `I linfonodi a sede mediastinica, hanno dimensioni (aumentate / ridotte), con asse corto fino a massimo __ mm.`
 
