@@ -71,6 +71,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE ENDOMETRIO](#tumore-endometrio)
 		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
+		- [COMPLETAMENTO ECOGRAFICO CISTI RENALE ISODENSA](#completamento-ecografico-cisti-renale-isodensa)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [**PERFUSION-TC (p-TC)**](#perfusion-tc-p-tc)
 	- [**FLOWCHART DI REFERTAZIONE TC**](#flowchart-di-refertazione-tc)
@@ -1105,12 +1106,22 @@ selezionati si fa con mdc e.v.
 
 - **DILATAZIONE DELLE VIE ESCRETRICI**
 	- acquisire una `tardiva urologica a 10'`
+
+
 - **CRANIO**
   - Se *mosso* (tavolato cranico sfumato): ripetere l'esame
   - Se *artefatti da indurimento del fascio*: ripetere scansioni assiali sull'area interessata facendo inclinare la TC
+
+
 - **POLMONE**
   - *Artefatti da respiro*: se un'area non è valutabile ripetere scansione nell'area di interesse.
   - *Suggerimento*: se il Paziente non ha un'apnea valida si può far partire la scansione dalle basi polmonari.
+
+- **RENE**
+  - **Lesione nodulare isoecogena di nuovo riscontro**: effettuare completamento diagnostico con ecografia estemporanea (prendere l'ecografo portatile dell'interventistica). Se in ecografia la formazione è anecogena è una cisti e non occorre fare altro, se possibile acquisire immagini e allegare alla pratica (con l'ecografo portatile non è possibile), se si presenta come una formazione solida, completare l'esame con acquisizione e venosa nefrografica.
+
+
+### COMPLETAMENTO ECOGRAFICO CISTI RENALE ISODENSA
 
 
 <div style="text-align: right">
