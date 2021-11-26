@@ -1118,7 +1118,7 @@ selezionati si fa con mdc e.v.
   - *Suggerimento*: se il Paziente non ha un'apnea valida si può far partire la scansione dalle basi polmonari.
 
 - **RENE**
-  - **Lesione nodulare isoecogena di nuovo riscontro**: effettuare completamento diagnostico con ecografia estemporanea (prendere l'ecografo portatile dell'interventistica). Se in ecografia la formazione è anecogena è una cisti e non occorre fare altro, se possibile acquisire immagini e allegare alla pratica (con l'ecografo portatile non è possibile), se si presenta come una formazione solida, completare l'esame con acquisizione e venosa nefrografica.
+  - **Lesione nodulare isoecogena di nuovo riscontro**: effettuare completamento diagnostico con ecografia estemporanea (prendere l'ecografo portatile dell'interventistica). Se in ecografia la formazione è anecogena è una cisti e non occorre fare altro, se possibile acquisire immagini e allegare alla pratica (con l'ecografo portatile non è possibile), se si presenta come una formazione solida, completare l'esame con acquisizione arteriosa cortico midollare (arteriosa parenchimale a 40") e venosa nefrografica, nel caso di rapporti con i calici anche una fase escretrice a 10', se la lesione è solo parenchimale bastano l'arteriosa e la venosa.
 
 
 ### COMPLETAMENTO ECOGRAFICO CISTI RENALE ISODENSA
