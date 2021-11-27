@@ -55,7 +55,7 @@
   - [FEMORE](#femore)
   - [ALTRI REPERTI](#altri-reperti)
   - [NEGATIVI GENERICI](#negativi-generici)
-  - [FOLLOW-UP (RISTADIAZIONE) LESIONI NEOPLASTICHE](#follow-up-ristadiazione-lesioni-neoplastiche)
+  - [FOLLOW-UP LESIONI NEOPLASTICHE](#follow-up-lesioni-neoplastiche)
 - [THESAURUS](#thesaurus)
 - [MEZZO DI CONTRASTO](#mezzo-di-contrasto)
   - [Ultravist 370](#ultravist-370)
@@ -202,8 +202,6 @@
   `Non si riconoscono adenopatie in sede (latero-cervicale e sovraclaveare) (bilateralmente)`
   - ***presente*** <br>
   `Si rileva (incremento / stabilità / decremento) dimensionale di (molteplici / alcune / limitate) linfoadenopatie`
-  - ***stabile*** <br>
-  `Persiste (limitato) tessuto linfonodale in sede _______.`
     - **dimensione**<br>
     `del diametro massimo fino a __ mm` <br>
     `del diametro massimo di __ mm`
@@ -212,7 +210,6 @@
       - sovraclaveare
       - ascellare
       - mediastinica
-      - ilare
       - inguinale
 
 
@@ -238,7 +235,7 @@
   -  **localizzazione** <br> 
   `a livello del _________.` <br> 
   `ad entrambi i _________.` <br> 
-  `la maggiore delle quali al _________.` <br>
+  `la maggiore delle quali al _________` <br>
      - lobo polmonare 
        - superiore
        - medio
@@ -599,52 +596,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `Le vie biliari e le vie escretrici urinarie non sono dilatate.`
 
 
-
-
-
-## FOLLOW-UP (RISTADIAZIONE) LESIONI NEOPLASTICHE
-
-> Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
->
->1. **Lesione primitiva**
->     - *singola* / *multiple*
->       - *risolta* / *risolte*
->       - *persiste* / *persistono*
->         - *incrementata* / *incrementate*
->         - stabile /stabili
->         - ridotta / ridotte
->
->2. **Linfoadenopatie**
->     - assenti / **presenti**
->       - di **nuovo riscontro**
->        - **note**
->           - **numero**
->              - *aumentato*
->              - *stabile*
->              - *diminuito*
->           - **dimensioni**
->              - *incrementate*
->              - *stabili*
->              - *ridotte*
->
->3. **Lesioni secondarie**
->     - assenti / presenti
->       - note
->          - dimensioni
->            - incrementate
->            - stabili
->            - ridotte
->       - di nuovo riscontro
->         - localizzazione
->         - dimensioni
->            - incrementate
->            - stabili
->            - ridotte
-
-
-
-
-
+## FOLLOW-UP LESIONI NEOPLASTICHE
 - **lesioni note, numero e dimensione:**
   - ***aumentate*** <br>
   `si osserva (incremento) dimensionale della lesione (solida disomogenea) caratterizzata da fenomeni di colliquazione centrale precedentemente descritta in stretta contiguità con (la porzione posteriore del muscolo pettorale di destra, in prossimità del cavo ascellare,) del diametro massimo attuale di __ mm.`
@@ -661,7 +613,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **nuove masse secondarie?** 
   - ***presenti***
   - ***assenti*** <br>
-`Non sono comparse per il resto lesioni focali o linfoadenopatie riferibili a localizzazioni secondarie della malattia di base in ambito (cervico-toracico) ed (addominale).`
+`Non sono comparse per il resto lesioni focali o linfoadenopatie riferibili a localizzazioni secondarie della malattia di base in ambito cervico-toracico ed addominale.`
 
 ---
 

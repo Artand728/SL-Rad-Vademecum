@@ -607,39 +607,29 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 > Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
 >
 >1. **Lesione primitiva**
->     - *singola* / *multiple*
->       - *risolta* / *risolte*
->       - *persiste* / *persistono*
->         - *incrementata* / *incrementate*
+>     - singola / multiple
+>       - risolta / risolte
+>       - persiste / persistono
+>         - incrementata / incrementate
 >         - stabile /stabili
 >         - ridotta / ridotte
 >
 >2. **Linfoadenopatie**
->     - assenti / **presenti**
->       - di **nuovo riscontro**
->        - **note**
->           - **numero**
->              - *aumentato*
->              - *stabile*
->              - *diminuito*
->           - **dimensioni**
->              - *incrementate*
->              - *stabili*
->              - *ridotte*
+>     - assenti / presenti
+>       - di nuovo riscontro
+>        - note
+>           - dimensioni
+>              - incrementate
+>              - stabili
+>             - ridotte
 >
 >3. **Lesioni secondarie**
->     - assenti / presenti
->       - note
->          - dimensioni
->            - incrementate
->            - stabili
->            - ridotte
->       - di nuovo riscontro
->         - localizzazione
->         - dimensioni
->            - incrementate
->            - stabili
->            - ridotte
+>  - assenti / presenti
+>    - di nuovo riscontro / note
+>      - dimensioni
+>        - incrementate
+>        - stabili
+>        - ridotte
 
 
 

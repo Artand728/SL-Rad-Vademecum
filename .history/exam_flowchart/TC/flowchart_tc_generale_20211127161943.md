@@ -599,52 +599,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `Le vie biliari e le vie escretrici urinarie non sono dilatate.`
 
 
-
-
-
 ## FOLLOW-UP (RISTADIAZIONE) LESIONI NEOPLASTICHE
-
-> Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
->
->1. **Lesione primitiva**
->     - *singola* / *multiple*
->       - *risolta* / *risolte*
->       - *persiste* / *persistono*
->         - *incrementata* / *incrementate*
->         - stabile /stabili
->         - ridotta / ridotte
->
->2. **Linfoadenopatie**
->     - assenti / **presenti**
->       - di **nuovo riscontro**
->        - **note**
->           - **numero**
->              - *aumentato*
->              - *stabile*
->              - *diminuito*
->           - **dimensioni**
->              - *incrementate*
->              - *stabili*
->              - *ridotte*
->
->3. **Lesioni secondarie**
->     - assenti / presenti
->       - note
->          - dimensioni
->            - incrementate
->            - stabili
->            - ridotte
->       - di nuovo riscontro
->         - localizzazione
->         - dimensioni
->            - incrementate
->            - stabili
->            - ridotte
-
-
-
-
-
 - **lesioni note, numero e dimensione:**
   - ***aumentate*** <br>
   `si osserva (incremento) dimensionale della lesione (solida disomogenea) caratterizzata da fenomeni di colliquazione centrale precedentemente descritta in stretta contiguità con (la porzione posteriore del muscolo pettorale di destra, in prossimità del cavo ascellare,) del diametro massimo attuale di __ mm.`

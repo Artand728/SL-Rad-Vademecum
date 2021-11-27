@@ -10,11 +10,11 @@
 
 - - -
 
-# ESAME
+# ESAM / PATHOLOGY / ANATOMY
 
 - - -
 
-- [ESAME](#esame)
+- [ESAM / PATHOLOGY / ANATOMY](#esam--pathology--anatomy)
   - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
   - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
   - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
