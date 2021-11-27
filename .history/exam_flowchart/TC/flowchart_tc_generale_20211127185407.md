@@ -608,7 +608,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 >
 >1. **Lesione primitiva**
 >     - *singola* / *multiple*
->       - *risolta* / *risolte* &rarr; che intervento chirurgico è stato fatto?
+>       - *risolta* / *risolte* &rarr; quale intervento chirurgico?
 >       - *persiste* / *persistono*
 >         - *incrementata* / *incrementate* &rarr; non risponde alla terapia medica
 >         - stabile /stabili &rarr; risponde alla terapia medica ma potrebbe sfuggire al controllo
