@@ -704,28 +704,17 @@ Controindicazioni:
 ---
 
 ### REAZIONI ALLERGICHE
-
 (allergic-like, anafilattoidi, idiosincrasiche, simil-anafilattiche)
-
-
+Reazioni avverse da mezzo di contrasto
 È attualmente condivisa l'opinione che possano essere distinti
-**due tipi di reazioni**:
-- **Lievi**
-  - di gran lunga più frequenti, caratterizzate dalla liberazione dei mediatori dell'anafilassi a livelli non elevati,in soggetti sensibili; 
-    - tale liberazione avverrebbe attraverso un **meccanismo non Ig-E mediato**, ma per **tossicità diretta della molecola di MdC sui mastociti (*"allergic-like"*)**
-- **Gravi** 
-  - connesse alla **liberazione di istamina** e degli altri mediatori **attraverso un meccanismo Ig-E mediato** *(reazioni allergiche propriamente dette*); 
-    - questo tipo di reazioni **sono ad alto rischio di ricorrenza e non prevenibili con i corticosteroidi.**
+due tipi di reazioni
+- lievi, di gran lunga più frequenti, caratterizzate dalla liberazione dei mediatori dell'anafilassi a livelli non elevati,in soggetti sensibili; tale liberazione avverrebbe attraverso un meccanismo non Ig-E mediato, ma per tossicità diretta della molecola di MdC sui mastociti ("allergic-like")
+- gravi, connesse alla liberazione di istamina e degli altri mediatori attraverso un meccanismo Ig-E mediato ( reazioni allergiche
+propriamente dette); questo tipo di reazioni sono ad alto rischio di
+ricorrenza e non prevenibili con i corticosteroidi.
 
-> Non vi è alcun test in vivo od in vitro capace di predire il manifestarsi di tossicità sistemica anafilattoide
-
-**Identificazione dei soggetti a rischio:**
-- soggetti con **allergia nota ai MdC** (nei quali ***la frequenza di reazioni avverse è 5 volte maggiore*** che nei soggetti con anamnesi negativa)
-- soggetti **asmatici**
-- soggetti **allergici a diversi tipi di sostanze** che facciano ricorso a trattamento farmacologico continuo o periodico
-- soggetti con **allergia al lattice**
-
-Premedicazione (?)
+Non vi è alcun test in vivo od in vitro capace di predire il
+manifestarsi di tossicità sistemica anafilattoide
 
 ---
 
