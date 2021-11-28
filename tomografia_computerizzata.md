@@ -140,7 +140,8 @@ Guida completa alla gestione della sala di tomografia computerizzata.
   - Discutere sempre con gli strutturati le **richieste non chiare** o su cui si hanno **dubbi**.
 - Avvisare la Responsabile della TC se le prenotazioni dei ricoverati eccedono i 3 giorni
 - **Gestione urgenze**:
-  - **urgenze mediche** &rarr; **in PS**
+  - **urgenze mediche** &rarr;
+  -  **in PS**
   - **urgenze logistiche** &rarr; **in TC centrale**:
     - *pre-dimisisone del paziente*
     - da *fare in giornata* o al massimo *il mattino dopo per intervento* 
@@ -153,14 +154,12 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 
 ### SLOT PRE-RICOVERO
 
-Il **prericovero non viene fissato in agenda da noi** ma **ha un'agenda propria** che gestisce in autonomia.
+- Viene **gestito** direttamente **dagli specialisti**.
 
-**Non occupare mai i posti dei ricoverati con il prericovero**; hanno un loro posto al mattino.
+- Il paziente deve presentarsi con **un'impegnativa dematerializzata** che andrà registrata in segreteria <br>
+e **non con una richiesta interna (AREAS)** di pre-ricovero.
 
-**La richiesta deve essere un'impegnativa dematerializzata** che andrà registrata in segreteria <br>
-e **non una richiesta interna (AREAS)** di pre-ricovero.
-
-Fare attenzione al quesito diagnostico: gli **esami del pre-ricovero devono essere finalizzati all'intervento chirurgico** per cui vengono ricoverati.
+- Attenzione al quesito diagnostico: gli **esami del pre-ricovero devono essere finalizzati all'intervento chirurgico** per cui vengono ricoverati.
 
 >Se il paziente deve fare un intervento chirurgico per ernia inguinale l'esame deve essere un'addome per ernia inguinale o motivazioni affini, non uno studio di cranio, torace e addome per stadiazione di tumore del colon di IV stadio fuori da ogni previsione di intervento chirurgico.
 
@@ -171,10 +170,12 @@ Fare attenzione al quesito diagnostico: gli **esami del pre-ricovero devono esse
 ---
 
 ### SLOT CARDIO-TC
-- Le eseguono **solo due strutturate**, in loro assenza non vanno prenotate.
-- **Ambulatoriali**: *mercoledì mattina*.
-- **Ricoverati/Urgenze**: *da concordare* con una delle due strutturate.
-- Prenotare solo le cardio-TC prescritte dai **cardiologi interni dell'Ospedale**.
+
+> Le eseguono **solo due strutturate** &rarr; in loro assenza non vanno prenotate.
+
+- Prenotare solo le cardio-TC prescritte dai **cardiologi interni dell'Ospedale**
+  - **Ambulatoriali**: *mercoledì mattina*.
+  - **Ricoverati/Urgenze**: *da concordare* con una delle due strutturate.
 - Il **codice** per prescrivere una **cardio-TC** è **87.41.3**
 - I **pazienti** devono essere:
   - **Collaboranti**
@@ -194,39 +195,40 @@ Fare attenzione al quesito diagnostico: gli **esami del pre-ricovero devono esse
 ---
 
 ### SLOT COLONSCOPIE VIRTUALI
-- Le seguono **solo due strutturate**: in loro assenza, si eseguono lasciando debita
-documentazione alla responsabile della TC.
-- C’è **un posto ambulatoriale** *ogni martedì pomeriggio alle 13-13.30* 
-  - *il posto del lunedì pomeriggio* è **solo per eventuali colonscopie virtuali del CAS**); 
-  - **i ricoverati eventuali** *devono essere concordati con una delle due strutturate*.
-- **Prenotazione**:
-  - solo se richieste dalla **Gastroenetrologia** o dalla **Chirurgia Generale interna dell'Ospedale**
-  - valutare l’età 
-    - più il paziente è **giovane** maggiore è l'indicazione e la qualità diagnostica della **colonscopia convenzionale (CC)**
 
-La **colonscopia virtuale** è indicata se:
-  - il **paziente è fragile**
-    - in **ASA** 
-    - in **TAO/NAO** 
-      - che interromperà solo se dovesse andare ad eseguire la colonscopia convenzionale (CC)
-  - il **paziente rifiuta categoricamente** la colonscopia convenzionale (CC)
-  - si è in presenza di **impedimenti fisici** alla colonscopia convenzionale (CC) quali:
-    - **ernie** 
-    - **aderenze**
-    - **dolicocolon**
+> Le seguono **solo due strutturate** &rarr; in loro assenza si eseguono lasciando debita documentazione alla responsabile della TC.
 
-**Spiegare la preparazione**: 
-  - è la **stessa della colonscopia convenzionale**
-  - si effettua sempre **distensione gassosa** 
-  - se si trova una **sospetta lesione neoplastica** o **l’esame non raggiunge una adeguata qualità diagnostica** dovrà essere necessariamente eseguita la **colonscopia convenzionale (CC)**.
+**Prenotazione**
+- **Slot ambulatoriale** *ogni martedì pomeriggio alle 13-13.30* 
+  - solo se richieste dalla **Gastroenterologia** o dalla **Chirurgia Generale interna dell'Ospedale**
+  - valutare l’età &rarr; più il paziente è **giovane** maggiore è l'indicazione e la qualità diagnostica della **colonscopia convenzionale (CC)**
+- **Colonscopie virtuali del CAS**: *lunedì pomeriggio* 
+- **Pazienti ricoverati** *devono essere concordati con una delle due strutturate*.
+
+
+**Indicazioni**
+- **paziente fragile**
+  - in **ASA** 
+  - in **TAO/NAO** 
+    - che interromperà solo se dovesse andare ad eseguire la colonscopia convenzionale (CC)
+- il **paziente rifiuta categoricamente** la colonscopia convenzionale (CC)
+- si è in presenza di **impedimenti fisici** alla colonscopia convenzionale (CC) quali:
+  - **ernie** 
+  - **aderenze**
+  - **dolicocolon**
+
+**Preparazione**: 
+- la **stessa della colonscopia convenzionale**
+- si effettua sempre **distensione gassosa** 
+- La colonscopia virtuale **non richiede contrasto endovascolare** &rarr; non richiede premedicazione antiallergica  o nefroprotettiva.
+- se si trova una **sospetta lesione neoplastica** o **l’esame non raggiunge una adeguata qualità diagnostica** dovrà essere necessariamente eseguita la **colonscopia convenzionale (CC)**.
 
 **Completamento colonscopia convenzionale**: 
   - i **gastroenterologi interni dell'Ospedale** devono chiamare e **far arrivare il
 paziente non più tardi delle 13:00** per **eseguire l’esame non più tardi delle 15:00**. 
-    >- la radiologia non è obbligata ad eseguire l'esame in giornata ma nello spettro del possibile si cerca di farlo nell'interesse del paziente.
+    >- la radiologia non è obbligata ad eseguire l'esame in giornata, ma, se possibile, si cerca di farlo nell'interesse del paziente.
 
-La colonscopia virtuale **non richiede contrasto endovascolare** &rarr; non richiede premedicazione antiallergica  o nefroprotettiva.
-**L'ernia inguinale** **non** rappresenta una **controindicazione all'esame**.
+> **L'ernia inguinale** **non** rappresenta una **controindicazione all'esame**.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -238,14 +240,15 @@ La colonscopia virtuale **non richiede contrasto endovascolare** &rarr; non rich
 - Si eseguono **solo se richiesti dagli specialisti interni** all'Ospedale.
 - NON si eseguono su richiesta del CUP.
 - **Angio-TC pre-TAVI**: 
-  - se **pazienti ambulatoriali** &rarr; si usano i posti cardio-TC del mercoledì mattina 
-  - se **pazienti ricoverati** &rarr; prenotarle in accordo con le tre strutturate responsabili.
+  - **pazienti ambulatoriali** &rarr; si usano i posti cardio-TC del mercoledì mattina 
+  - **pazienti ricoverati** &rarr; prenotarle in accordo con le strutturate responsabili.
 - **Angio-TC AAII**: Prenotabili solo previ accordi con strutturat* che referterà l'esame.
-- **DentaScan**: non sono più nel nomenclatore regionale &rarr; si eseguono solo previ accordi ad
-hoc, il paziente deve avere una richiesta per "**TC massiccio facciale**".
+- **DentaScan**: non sono più nel nomenclatore regionale &rarr; si eseguono solo previ accordi ad hoc
+  -  il paziente deve avere una richiesta per "**TC massiccio facciale**".
 - **TC Cone Beam**: non la facciamo, non abbiamo l’apparecchiatura.
-- **TC ginocchio TILT rotuleo/TAGT o TC per vizi torsionali AAII**: Se richiesti da interni, accordarsi
-con la responsabile TC. Di rado capitano in aggiuntiva CUP, segnalare allo strutturato.
+- **TC ginocchio TILT rotuleo/TAGT o TC per vizi torsionali AAII**
+  - Pazienti interni: accordarsi con la responsabile TC.
+  - Pazienti di aggiuntiva CUP &rarr; segnalare allo strutturato.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -255,12 +258,11 @@ con la responsabile TC. Di rado capitano in aggiuntiva CUP, segnalare allo strut
 
 ### ATTIVITA' AGGIUNTIVA
 
-Porre il **foglio “aggiuntiva”** fornito dalla segreteria, con relative segnalazioni, **nella “Tasca”
-apposita**, segnare:
+Porre il **foglio “aggiuntiva”** fornito dalla segreteria, con relative segnalazioni, **nella “Tasca” apposita** e segnare:
 1. Pazienti **presentati**
 2. Pazienti **NON presentati**
 3. Pazienti **spostati** e relativa data
-4. Esame **eseguito**, se corrisponde al richiesto o se sono state aggiunte prestazioni
+4. Esame **eseguito**: se corrisponde alla richiesta o se sono state aggiunte prestazioni
 5. Eventuali **scambi tra pazienti**
 
 <div style="text-align: right">
@@ -288,7 +290,7 @@ L'esame viene **refertato dallo strutturato della TC**.
 > 
 > Non si esegue una stadiazione di tumore in paziente covid, si aspetta la sua negativizzazione.
 > 
-> Non si esegue diagnostica in un pazinte con criticità cliniche, organizzative e di rischio biologico come il paziente COVID se questa non è finalizzata a un diretto intervento terapeutico.
+> Non si esegue diagnostica in un paziente con criticità cliniche, organizzative e di rischio biologico come il paziente COVID se questa non è finalizzata a un diretto intervento terapeutico.
 
 
 
