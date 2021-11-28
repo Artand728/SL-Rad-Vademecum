@@ -126,6 +126,7 @@ Queste agende vengono gestite direttamente dagli specialisti tramite prenotazion
   - Defeco RM
   - Encefalo Oncologia Polmonare
 
+> CAVEAT: in caso di estrema necessità può essere utilizzato uno degli slot riservati agli specialisti, solo nel caso in cui non sia stato riempito, previa verifica telefonica al reparto/ambulatorio di pertinenza.
 
 ### Agende specializzandi
 
