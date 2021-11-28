@@ -25,6 +25,7 @@
     - [Accortezze](#accortezze)
   - [CASI PARTICOLARI](#casi-particolari)
     - [PaceMaker](#pacemaker)
+  - [ESAMI](#esami)
   - [NOTE](#note)
 
 - - -
@@ -183,6 +184,38 @@ Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
 - Certificazione del tipo di apparecchio PM
   - RM safe (non ci sono limiti di SAR)
   - RM compatibile (deve essere indicato il limite di SAR)
+
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
+
+---
+
+## ESAMI
+
+- RM Encefalo
+  - Sclerosi Multipla
+  - Metastasi
+  - Studio Angio
+- Colangio RM
+- Defeco RM
+- Entero RM
+- RM Retto
+- RM Prostata
+- PNA (PieloNefrite Acuta)
+- RM Bacino
+- RM Colonna
+- Studio Accumulo Marziale (cuore + addome superiore)
+- RM Collo
+- RM Massiccio Faciale
+- RM Spalla
+- RM Ginocchio
+- RM Caviglia
+- RM pene
+- PieloRM
+- RM Torace
+  - Ernia
+  - Timoma
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
