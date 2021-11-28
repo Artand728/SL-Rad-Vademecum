@@ -14,10 +14,17 @@
 
 - - -
 
-- [RISONANZA MAGNETICA]()
-  - [Gestione del paziente (CUP - DS/DH)](#gestione-del-paziente-cup---dsdh)
-    - [Domande importanti](#domande-importanti)
-  - [Gestione del paziente (RICOVERATO)](#gestione-del-paziente-ricoverato)
+- [**RISONANZA MAGNETICA**](#risonanza-magnetica)
+  - [Gestione del paziente](#gestione-del-paziente)
+    - [CUP - DS/DH](#cup---dsdh)
+  - [RICOVERATO](#ricoverato)
+  - [AGENDA](#agenda)
+    - [Agende AREAS](#agende-areas)
+    - [Agende specializzandi](#agende-specializzandi)
+    - [Ulteriori slot](#ulteriori-slot)
+    - [Accortezze](#accortezze)
+  - [CASI PARTICOLARI](#casi-particolari)
+    - [PaceMaker](#pacemaker)
   - [NOTE](#note)
 
 - - -
@@ -25,7 +32,7 @@
 | Turno      | Orario        |
 | ---------- | ------------- |
 | Mattino    | 8:00 - 14:00  |
-| Pomeriggio | 14:00 - 19:30 |
+| Pomeriggio | 14:00 - 20:00 |
 
 L’agenda viene gestita dagli specializzandi assegnati stabilmente alla sala (II°anno), gli specializzandi in turnazione breve (I°anno) gestiscono il telefono e se c’è posto (chiedere SEMPRE allo STRUTTURATO) inseriscono la prenotazione in agenda.  
 Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il nome del paziente e discutere della prenotazione con gli specializzandi stabili della sala (II°anno).  
@@ -36,7 +43,9 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
 
 ---
 
-## Gestione del paziente (CUP - DS/DH)
+## Gestione del paziente 
+
+### CUP - DS/DH
 
 - Busta gialla + cartella bianca
 - Stampare etichette
@@ -65,7 +74,7 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
 - Controllare che le scansioni siano adeguate e non sia necessario eseguirne altre (in RM ogni strutturato ha tendenzialmente delle proprie preferenze specifiche, consultarsi sempre con lui)
 - Consegnare la pratica allo strutturato per la refertazione
 
-### Domande importanti
+**Domande importanti**
 
 - Allergie → chiedere se ha eseguito la preparazione nel modo corretto
 - Se fa esame PROSTATA viene somministrato Buscopan, quindi chiedere se ha:
@@ -74,13 +83,7 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
   - ASMA GRAVE
   - GRAVE RITENZIONE URINARIA
 
-<div style="text-align: right">
-<a href="#risonanza-magnetica">⬆️</a>
-</div>
-
----
-
-## Gestione del paziente (RICOVERATO)
+## RICOVERATO
 
 - Il paziente ricoverato deve arrivare **già munito di consenso firmato e di accesso venoso**.
 - **Verificare** che **non abbia indosso oggetti di metallo**: 
@@ -149,6 +152,37 @@ Questi slot vengono gestiti direttamente dai radiologi.
   - Avvisare nel pomeriggio la Sanificazione e richiamarli quando si sta terminando l'esame
 - Pazienti in isolamento da contatto
   - Programmare nell'ultimo posto della giornata
+
+<div style="text-align: right">
+<a href="#risonanza-magnetica">⬆️</a>
+</div>
+
+---
+
+## CASI PARTICOLARI
+
+### PaceMaker
+
+> Si esegue l'esame RM con PM solo se questi è stato impiantato dalla nostra Cardiologia.
+
+Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
+- Apparecchio RM safe o compatibile
+- Escludere che non siano presenti vecchi elettrodi non RM compatibili
+- Capire il grado di rischio del paziente:
+  - Basso rischio: non è necessario il cardiologo in sala (sufficiente monitoraggio con elettrodi e saturimetro)
+  - Alto rischio: necessario il cardiologo in sala
+
+**Prenotazione**
+- Si prenota giorno e ora dell'esame in accordo con la cardiologia
+- Il paziente, un'ora prima dell'esame, deve andare nell'ambulatorio di cardiologia per disattivare il PM
+- Dopo l'esame bisogna rimandare il paziente agli ambulatori
+- Nel caso di un paziente esterno questi deve presentarsi con doppia impegnativa per visita cardiologica (la prima per la disattivazione, la seconda per la riattivazione)
+
+**Cosa serve il giorno dell'esame**
+- Referto della visita cardiologica per la disattivazione, con definizione del profilo di rischio del paziente
+- Certificazione del tipo di apparecchio PM
+  - RM safe (non ci sono limiti di SAR)
+  - RM compatibile (deve essere indicato il limite di SAR)
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
