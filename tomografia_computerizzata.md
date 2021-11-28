@@ -101,19 +101,19 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 
 ### SLOT AMBULATORIALI
 
-- Slot con denominazione (ONCO MED, URO, FPR, CUP, etc..)
+- **Slot con denominazione** (ONCO MED, URO, FPR, CUP, etc..)
   - Da considerare occupati fino a prova contraria
   - Vengono gestiti direttamente dagli specialisti
   - Se chiamano per prenotare in uno di questi posti, a causa di loro problemi informatici, la gestione del problema spetta a loro &rarr; si rivolgono agli informatici o alle segreterie del CUP
-- Slot bianchi
-  - Si possono dare a tutti gli specialisti, dando la priorità a chi non ha altri slot (es. Orto, GEL, Pneumo, etc…)
+- **Slot bianchi**
+  - Si possono dare *a tutti* gli specialisti, dando la *priorità a chi non ha altri slot* (es. Orto, GEL, Pneumo, etc…)
   - Possono essere usati anche per chi ha già posti accordati (es. oncologia, urologia, ecc), ma ove possibile meglio indirizzarli a effettuare un’inversione tra i loro pazienti in base alla maggior urgenza.
-- Dati per la prenotazione:
-1. **Esame da eseguire**
-2. **Numero di telefono**
-3. **Allergie** e/o **Insufficienza Renale** Sì/No
-4. Nella **pagina bianca** (retro del giorno precedente) segnare **appunti sull’esame** (accordi/note/etc..)
-- CAVEAT
+- **Dati per la prenotazione**:
+1. *Esame da eseguire*
+2. *Numero di telefono*
+3. *Allergie* e/o *Insufficienza Renale* Sì/No
+4. Nella *pagina bianca* (retro del giorno precedente) segnare *appunti sull’esame* (accordi/note/etc..)
+- **CAVEAT**
   - **NON prenotare ambulatoriali nei posti del pomeriggio riservati ai ricoverati**, salvo accordi con uno strutturato (eccezione estrema)
   - **NON prenotiamo** le **classi U (72 ore)**
 	> Secondo i LEA un paziente con una richiesta di prestazione diagnostica strumentale urgente ha diritto a eseguire tale prestazione entro 72h dall'emissione della ricetta presso un qualsiasi centro pubblico o privato convenzionato. Non viene indicato che questi può scegliere quale centro deve erogare la prestazione. Quindi, in presenza di una richiesta urgente (U), il paziente deve rivolgersi al CUP che provvederà ad assegnarli la prima struttura con un posto utile e può al più chiedere se la nostra struttura è disponibile ma non siamo tenuti ad essere necessariamente noi ad erogare la prestazione.
@@ -125,19 +125,25 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 ---
 
 ### SLOT RICOVERATI
-- Hanno **posti prestabiliti** solo la **Medicina d’Urgenza** e la **Neurologia**
-- Prenotare in base all’urgenza, al tipo d’esame (con o senza MDC), alle modalità di trasporto
-(carrozzina/letto), alla presenza di manutenzioni sulle macchine.
-- Avvisare la Responsabile della TC se le prenotazioni dei ricoverati eccedono i 3 giorni
-- Le **urgenze mediche** &rarr; **in PS**
-- Le **urgenze logistiche** &rarr; **in TC centrale**:
-  - **pre-dimisisone del paziente**
-  - da **fare in giornata** o al massimo **il mattino dopo per intervento** 
-  - ecc… 
+
+- **Slot**
+  - Prestabiliti: **Medicina d’Urgenza** e **Neurologia**
+  - Bianchi (pomeridiani)
+- **Criteri per la prenotazione**
+  - Urgenza
+  - Tipo di esame (con o senza MdC)
+  - Modalità di trasporto (carrozzina/letto)
+  - Manutenzione delle macchine
 - Prima di prenotare i ricoverati **verificare la richiesta** e lo **storico del PACS**
   - Quesito sensato?
   - Non presenti precedenti recenti o equivalenti tipo RM?
-- Discutere sempre con gli strutturati le **richieste non chiare** o su cui si hanno **dubbi**.
+  - Discutere sempre con gli strutturati le **richieste non chiare** o su cui si hanno **dubbi**.
+- Avvisare la Responsabile della TC se le prenotazioni dei ricoverati eccedono i 3 giorni
+- **Gestione urgenze**:
+  - **urgenze mediche** &rarr; **in PS**
+  - **urgenze logistiche** &rarr; **in TC centrale**:
+    - *pre-dimisisone del paziente*
+    - da *fare in giornata* o al massimo *il mattino dopo per intervento* 
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
