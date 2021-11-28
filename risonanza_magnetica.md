@@ -44,13 +44,13 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
   - Se RM eseguita fuori dall'Ospedale assicurarsi di avere il CD e caricarlo sul portale Philips e, eventualmente, su Telemis
   - Fotocopiare il referto dell'ultima RM eseguita fuori dall'ospedale e dell’ultima visita. Allegare entrambe le fotocopie alle buste e all'etichetta
 - Restituire gli originali degli esami precedenti
-- Controllare **creatinina** (**max 3 mesi precedenti**) e riportare valori su fotocopia della visita:
+- Controllare la **creatinina** (**max 3 mesi precedenti**) e riportare i valori sulla fotocopia della visita:
   - Se l’ha eseguita presso l'Ospedale è possibile ricercare l'esame sul portale **Concerto** (andare in sala TC a verificare):
     - Accedere a Concerto
     - Referti → Interrogazione richieste
     - Spuntare “Senza omonimi” e cercare il paziente
 - Far **FIRMARE IL CONSENSO INFORMATO**
-  - **MODULO A** se risonanza magentica **SENZA MDC**
+  - **MODULO A** se risonanza magnetica **SENZA MDC**
   - **MODULO A + MODULO B** se risonanza magnetica **CON MDC**
   - **MODULO C** se prevista somministrazione di Buscopan
 - Casella della preparazione → Compilare se esegue **premedicazione**
@@ -71,6 +71,8 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
 - Se fa esame PROSTATA viene somministrato Buscopan, quindi chiedere se ha:
   - ARITMIE (leggere in cartella l’APR perché spesso non sanno rispondere)
   - GLAUCOMA
+  - ASMA GRAVE
+  - GRAVE RITENZIONE URINARIA
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
@@ -81,10 +83,10 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
 ## Gestione del paziente (RICOVERATO)
 
 - Il paziente ricoverato deve arrivare **già munito di consenso firmato e di accesso venoso**.
-- Far entrare in sala il paziente allettato su **BARELLA AMAGNETICA** presente nella zona dei camerini e **verificare** che **non abbia indosso oggetti di metallo**: 
+- **Verificare** che **non abbia indosso oggetti di metallo**: 
   - protesi dentarie rimovibili
   - apparecchi acustici
-  - altro
+  - anelli, collane, ecc
 - Terminato l’esame → **programmare il rientro** tramite sito dei **trasporti (PaMa)** (interno 7004).
 
 <div style="text-align: right">
@@ -97,10 +99,55 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
 
 > Viene gestita dagli specializzandi del II anno.
 
+### Agende AREAS
+
+Queste agende vengono gestite direttamente dagli specialisti tramite prenotazione su AREAS (nominativi visualizzabili il giorno prima su Priamo) o tramite telefonata.
+
+- Protocollo EMATOLOGIA (chiamano per prenotare)
+- mpMRI (RM Prostata MultiParametrica)
+- Microcitemia
+- Cresm
+- CUP
+- Ortopedia AREAS
+- ORL (chiamano per prenotare)
+  - Odonto
+  - Rivoli-Pinerolo
+- Colangio GEL: chiamano i GEL per prenotare
+- Endocrino
+- Retto (chiamano per prenotare)
+- Ricoverati
+  - Neuro
+  - Cresm
+  - Neuro DEMENZE
+- DH/DS
+  - Microcitemia
+  - Neuro
+  - Entero RM
+  - Defeco RM
+  - Encefalo Oncologia Polmonare
+
+
+### Agende specializzandi
+
+Questi slot vengono gestiti direttamente dai radiologi. 
+
+- Ricoverati (slot senza denominazioni aggiuntive)
+- DH/DS (slot senza denominazioni aggiuntive)
+  - Priorità a Nefrologia e Oncologia
+
+### Ulteriori slot
+
+- Vuoto: da lasciare vuoto per riassorbire eventuali ritardi
+  - Può essere occupato in casi eccezionali previo accordo con lo strutturato in sala quel giorno
+- Jolly: utilizzabile per assorbire ritardo o prenotare urgenze dal PS
+
+### Accortezze
+
 - Pazienti COVID
   - Programmare nell'ultimo posto della giornata
   - Avvisare nel pomeriggio la Sanificazione e richiamarli quando si sta terminando l'esame
-
+- Pazienti in isolamento da contatto
+  - Programmare nell'ultimo posto della giornata
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
