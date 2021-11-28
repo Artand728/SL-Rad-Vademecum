@@ -217,13 +217,13 @@ e **non con una richiesta interna (AREAS)** di pre-ricovero.
   - **aderenze**
   - **dolicocolon**
 
-**Preparazione**: 
+**Preparazione**
 - la **stessa della colonscopia convenzionale**
 - si effettua sempre **distensione gassosa** 
 - La colonscopia virtuale **non richiede contrasto endovascolare** &rarr; non richiede premedicazione antiallergica  o nefroprotettiva.
 - se si trova una **sospetta lesione neoplastica** o **l’esame non raggiunge una adeguata qualità diagnostica** dovrà essere necessariamente eseguita la **colonscopia convenzionale (CC)**.
 
-**Completamento colonscopia convenzionale**: 
+**Completamento colonscopia convenzionale**
   - i **gastroenterologi interni dell'Ospedale** devono chiamare e **far arrivare il
 paziente non più tardi delle 13:00** per **eseguire l’esame non più tardi delle 15:00**. 
     >- la radiologia non è obbligata ad eseguire l'esame in giornata, ma, se possibile, si cerca di farlo nell'interesse del paziente.
