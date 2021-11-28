@@ -100,24 +100,22 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 ## **GESTIONE AGENDA**
 
 ### SLOT AMBULATORIALI
-- I **posti già attribuiti (ONCO MED, URO, FPR, CUP, etc..)** sono da considerarsi occupati fino a
-prova contraria. NON occuparli con altri pazienti, NON segnare nomi per conto dei
-rispettivi reparti &rarr; prenotano direttamente sulle loro agende (problemi informatici?
-Devono rivolgersi agli informatici o alle segretarie del CUP).
-- I **posti bianchi** vanno destinati a tutti, precedenza a chi non ha altri posti assegnati (es.
-Orto, GEL, Pneumo, etc…).
-- Chi ha già posti accordati (es. oncologia, urologia, …) può legittimamente chiedere posti in
-più, ma ove possibile meglio indirizzarli a effettuare un’inversione tra i loro pazienti in base
-alla maggior urgenza.
-- Per ogni paziente:
+
+- Slot con denominazione (ONCO MED, URO, FPR, CUP, etc..)
+  - Da considerare occupati fino a prova contraria
+  - Vengono gestiti direttamente dagli specialisti
+  - Se chiamano per prenotare in uno di questi posti, a causa di loro problemi informatici, la gestione del problema spetta a loro &rarr; si rivolgono agli informatici o alle segreterie del CUP
+- Slot bianchi
+  - Si possono dare a tutti gli specialisti, dando la priorità a chi non ha altri slot (es. Orto, GEL, Pneumo, etc…)
+  - Possono essere usati anche per chi ha già posti accordati (es. oncologia, urologia, ecc), ma ove possibile meglio indirizzarli a effettuare un’inversione tra i loro pazienti in base alla maggior urgenza.
+- Dati per la prenotazione:
 1. **Esame da eseguire**
 2. **Numero di telefono**
 3. **Allergie** e/o **Insufficienza Renale** Sì/No
-4. Nella **pagina bianca** (retro del giorno precedente) segnare **appunti sull’esame**
-(accordi/note/etc..)
-- **NON prenotare ambulatoriali nei posti del pomeriggio riservati ai ricoverati**, se non previ
-accordi con uno strutturato in casi di estrema eccezione
-- **NON prenotiamo** le **classi U (72 ore)**
+4. Nella **pagina bianca** (retro del giorno precedente) segnare **appunti sull’esame** (accordi/note/etc..)
+- CAVEAT
+  - **NON prenotare ambulatoriali nei posti del pomeriggio riservati ai ricoverati**, salvo accordi con uno strutturato (eccezione estrema)
+  - **NON prenotiamo** le **classi U (72 ore)**
 	> Secondo i LEA un paziente con una richiesta di prestazione diagnostica strumentale urgente ha diritto a eseguire tale prestazione entro 72h dall'emissione della ricetta presso un qualsiasi centro pubblico o privato convenzionato. Non viene indicato che questi può scegliere quale centro deve erogare la prestazione. Quindi, in presenza di una richiesta urgente (U), il paziente deve rivolgersi al CUP che provvederà ad assegnarli la prima struttura con un posto utile e può al più chiedere se la nostra struttura è disponibile ma non siamo tenuti ad essere necessariamente noi ad erogare la prestazione.
 
 <div style="text-align: right">
