@@ -14,20 +14,23 @@
 
 - - -
 
-- [Radiopaedia](https://radiopaedia.org/){:target="_blank"}
-- [Radiology Assistant](https://radiologyassistant.nl/){:target="_blank"}
-- [IMAIOS](https://www.imaios.com/en){:target="_blank"}
+- [**RISORSE UTILI**](#risorse-utili)
+  - [FONTI AUTOREVOLI](#fonti-autorevoli)
+  - [LINEE GUIDA](#linee-guida)
+  - [RICERCA](#ricerca)
+  - [LEGISLAZIONE](#legislazione)
+  - [PROGRAMMAZIONE](#programmazione)
+  - [MRI](#mri)
 
-<br>
+- - -
+
+## FONTI AUTOREVOLI
 
 - [Società Italiana di Radiologia Medica e Interventistica (SIRM)](https://areasoci.sirm.org/u/login){:target="_blank"}
 - [European Society of Radiology (ESR)](https://www.myesr.org/){:target="_blank"}
 - [European Society of Thoracic Imaging (ESTI)](https://www.myesti.org/){:target="_blank"}
 - [Radiological Society of North America (RSNA)](https://www.rsna.org){:target="_blank"}
 - [American College of Radiology (ACR)](https://www.acr.org){:target="_blank"}
-
-<br>
-
 - [Radiology](https://pubs.rsna.org/journal/radiology){:target="_blank"}
 - [Radiographics](https://pubs.rsna.org/journal/radiographics){:target="_blank"}
 - [The New England Journal of Medicine - Review](https://www.nejm.org/medical-articles/review-article?){:target="_blank"}
@@ -41,31 +44,31 @@
 
 <br>
 
-- [Raccomandazioni SIRM - Gestione reazioni a mdc](https://sirm.org/wp-content/uploads/2021/04/312-Documento-intersocietario-SIRM-SIAARTI-2019-gestione-reazione-avversa-allergica-a-mdc.pdf){:target="_blank"}
-- [Linee Guida AIOM](https://www.aiom.it/linee-guida-aiom/){:target="_blank"}
-- [ACR Reporting and Data Systems (RADS)](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems){:target="_blank"}
-
-<br>
-
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}{:target="_blank"}
-- [Google Scholar](https://www.deepl.com/translator){:target="_blank"}
-
-<br>
-
+- [Radiopaedia](https://radiopaedia.org/){:target="_blank"}
+- [Radiology Assistant](https://radiologyassistant.nl/){:target="_blank"}
+- [IMAIOS](https://www.imaios.com/en){:target="_blank"}
 - [Lord of the Rays](http://www.lordoftherays.it){:target="_blank"}
 - [Radiologia Ortopedica](https://radiologiaortopedica.it){:target="_blank"}
 - [Imaging Anatomy](https://www.castlemountain.dk/atlas/index.php){:target="_blank"}
 - [EmPills](https://www.empillsblog.com){:target="_blank"}
+- [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
 
-<br>
+## LINEE GUIDA
+
+- [Raccomandazioni SIRM - Gestione reazioni a mdc](https://sirm.org/wp-content/uploads/2021/04/312-Documento-intersocietario-SIRM-SIAARTI-2019-gestione-reazione-avversa-allergica-a-mdc.pdf){:target="_blank"}
+- [Linee Guida AIOM](https://www.aiom.it/linee-guida-aiom/){:target="_blank"}
+- [ACR Reporting and Data Systems (RADS)](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems){:target="_blank"}
+
+## RICERCA
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}{:target="_blank"}
+- [Google Scholar](https://www.deepl.com/translator){:target="_blank"}
+
+## LEGISLAZIONE
 
 - [Medico e Leggi - Decreto Legislativo n.101, 31 Luglio 2020](https://www.medicoeleggi.com/argomenti000/italia2020/412492.htm){:target="_blank"}
 
-<br>
-
-- [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
-
-<br>
+## PROGRAMMAZIONE
 
 - [Github](https://github.com){:target="_blank"}
 - [Dillinger](https://dillinger.io){:target="_blank"}
@@ -78,6 +81,15 @@
 - [R Studio Cloud](https://rstudio.cloud/){:target="_blank"}
 - [Jupyter](https://jupyter.org/){:target="_blank"}
 - [D3.js](https://d3js.org/){:target="_blank"}
+
+
+## MRI
+
+- [MRI Q&A](https://mriquestions.com/index.html){:target="_blank"}
+- [Forum TSRM](http://fermononrespiri.com/){:target="_blank"}
+
+<!--- ## CT -->
+
 
 <!--- TRASPORTI PAMA -->
 <!--- https://trasportipama.dussmann.it/SanLuigi/Account/Login?ReturnUrl=%2FSanLuigi%2FTrasporto%2FwbAgenda -->
