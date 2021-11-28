@@ -167,23 +167,28 @@ Questi slot vengono gestiti direttamente dai radiologi.
 > Si esegue l'esame RM con PM solo se questi è stato impiantato dalla nostra Cardiologia.
 
 Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
-- Apparecchio RM safe o compatibile
+- Apparecchio MR safe, conditional o unsafe
 - Escludere che non siano presenti vecchi elettrodi non RM compatibili
 - Capire il grado di rischio del paziente:
-  - Basso rischio: non è necessario il cardiologo in sala (sufficiente monitoraggio con elettrodi e saturimetro)
-  - Alto rischio: necessario il cardiologo in sala
+  - *Basso rischio*: non è necessario il cardiologo in sala (sufficiente monitoraggio con elettrodi e saturimetro)
+  - *Alto rischio*: necessario il cardiologo in sala
 
 **Prenotazione**
 - Si prenota giorno e ora dell'esame in accordo con la cardiologia
 - Il paziente, un'ora prima dell'esame, deve andare nell'ambulatorio di cardiologia per disattivare il PM
 - Dopo l'esame bisogna rimandare il paziente agli ambulatori
-- Nel caso di un paziente esterno questi deve presentarsi con doppia impegnativa per visita cardiologica (la prima per la disattivazione, la seconda per la riattivazione)
+- Nel caso di un *paziente esterno* questi deve presentarsi con *doppia impegnativa per visita cardiologica* (la prima per la disattivazione, la seconda per la riattivazione)
 
 **Cosa serve il giorno dell'esame**
 - Referto della visita cardiologica per la disattivazione, con definizione del profilo di rischio del paziente
 - Certificazione del tipo di apparecchio PM
-  - RM safe (non ci sono limiti di SAR)
-  - RM compatibile (deve essere indicato il limite di SAR)
+  - MR safe (non ci sono limiti di SAR)
+  - MR conditional (deve essere indicato il limite di SAR)
+  - MR unsafe (**controindicazione assoluta**)
+
+> La classe di compatibilità dell'apparecchio si può trovare [a questo link](http://www.mrisafety.com/List.html){:target="_blank"}.
+> 
+> Per ogni dubbio riguardante la lista cercate [qui](http://www.mrisafety.com/Terminology.html){:target="_blank"}.
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>

@@ -87,6 +87,9 @@
 
 - [MRI Q&A](https://mriquestions.com/index.html){:target="_blank"}
 - [Forum TSRM](http://fermononrespiri.com/){:target="_blank"}
+- [MRI Safety](http://www.mrisafety.com/index.html){:target="_blank"}
+  - [Lista apparecchi RM compatibili](http://www.mrisafety.com/List.html){:target="_blank"}
+  - [Come interpretare la lista](http://www.mrisafety.com/Terminology.html){:target="_blank"}
 
 <!--- ## CT -->
 
