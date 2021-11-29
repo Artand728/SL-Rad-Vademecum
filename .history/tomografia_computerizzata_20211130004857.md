@@ -1103,7 +1103,7 @@ selezionati si fa con mdc e.v.
   	- Angioma ha la stessa densità della vena porta: indice di benignità 
   	- acquisire un `eventuale ripassaggio a 3'` 
 
-  - **DISTINZIONE METASTASI EPATICHE DA CISTI EPATICHE**
+  - **DISTINZIONE METASTASI DA CISTI EPATICHE**
     - La **cisti** è:
       - marcatamente ipodensa
       - a margini netti

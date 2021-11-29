@@ -1103,16 +1103,14 @@ selezionati si fa con mdc e.v.
   	- Angioma ha la stessa densità della vena porta: indice di benignità 
   	- acquisire un `eventuale ripassaggio a 3'` 
 
-  - **DISTINZIONE METASTASI EPATICHE DA CISTI EPATICHE**
-    - La **cisti** è:
+  - **DISTINZIONE METASTASI DA CISTI EPATICHE**
+    - La cisti è:
       - marcatamente ipodensa
       - a margini netti
       - talvolta polilobulata
       - stabile nel tempo
-    - La **metastasi** è:
+    - La metastasi è:
       - lievemente ipodensa / marcatamente ipodensa centralmente &rarr; colliquazione necrotica centrale
-      - lieve enhancement ad anello lungo la lesione colliquata centrale che si riduce col tempo &rarr; mttivo del ripassaggio.
-      - variabili per numero e dimensione nel tempo
 
 
   - **DILATAZIONE DELLE VIE BILIARI INTRAEPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'.  
