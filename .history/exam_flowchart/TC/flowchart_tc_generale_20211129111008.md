@@ -624,14 +624,14 @@ Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
 >
 >2. **Linfoadenopatie**
 >     - assenti
->     - ***presenti***
->       - *di **nuovo riscontro*** <br>&rarr; sono partite delle **cellule metastatiche** <br> oppure <br>&rarr; sono cresciute **lesioni minime precedentemente non percebili** con la metodica
->        - ***note***
->           - ***numero***
+>     - **presenti**
+>       - di **nuovo riscontro** <br>&rarr; sono partite delle **cellule metastatiche** <br> oppure <br>&rarr; sono cresciute **lesioni minime precedentemente non percebili** con la metodica
+>        - **note**
+>           - **numero**
 >              - *aumentato*
 >              - *stabile*
 >              - *diminuito*
->           - **555555555**
+>           - **dimensioni**
 >              - *incrementate*
 >              - *stabili*
 >              - *ridotte*

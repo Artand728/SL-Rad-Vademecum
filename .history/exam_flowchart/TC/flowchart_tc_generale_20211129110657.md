@@ -615,23 +615,22 @@ Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
   -  tumore ematologico (linfoma)
 
 >1. **Lesione primitiva**
->     - ***singola*** / ***multiple***
+>     - *singola* / *multiple*
 >       - ***risolta*** / *risolte* <br>&rarr; che ***intervento chirurgico*** è stato fatto?
 >       - ***persiste*** / *persistono*
->         - ***incrementata*** / *incrementate* <br>&rarr; ***non risponde*** alla terapia medica
->         - ***stabile*** /*stabili* <br>&rarr; ***controllata*** dalla terapia medica ma potrebbe sfuggire al controllo
->         - ***ridotta*** / *ridotte* <br>&rarr; ***risponde*** alla terapia
+>         - *incrementata* / *incrementate* <br>&rarr; ***non risponde*** alla terapia medica
+>         - stabile /stabili <br>&rarr; ***risponde*** alla terapia medica ma potrebbe sfuggire al controllo
+>         - ridotta / ridotte <br>&rarr; ***risponde*** alla terapia
 >
 >2. **Linfoadenopatie**
->     - assenti
->     - ***presenti***
->       - *di **nuovo riscontro*** <br>&rarr; sono partite delle **cellule metastatiche** <br> oppure <br>&rarr; sono cresciute **lesioni minime precedentemente non percebili** con la metodica
->        - ***note***
->           - ***numero***
+>     - assenti / **presenti**
+>       - di **nuovo riscontro** <br>&rarr; sono partite delle **cellule metastatiche** oppure sono cresciute lesioni minime precedentemente non percebili con la metodica
+>        - **note**
+>           - **numero**
 >              - *aumentato*
 >              - *stabile*
 >              - *diminuito*
->           - **555555555**
+>           - **dimensioni**
 >              - *incrementate*
 >              - *stabili*
 >              - *ridotte*

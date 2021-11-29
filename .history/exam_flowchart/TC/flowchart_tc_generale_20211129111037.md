@@ -631,7 +631,7 @@ Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
 >              - *aumentato*
 >              - *stabile*
 >              - *diminuito*
->           - **555555555**
+>           - ***dimensioni***
 >              - *incrementate*
 >              - *stabili*
 >              - *ridotte*

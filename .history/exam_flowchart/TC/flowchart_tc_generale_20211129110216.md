@@ -608,30 +608,29 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 Quesito diagnostico: " ( follow-up / ristadiazione ) di ____________"
 
-- L'esame di stadiazione è eseguito solitamente con mezzo di contrasto.
+- Esame solitamente con mezzo di contrasto
 
-- L'esame di stadiazione può essere eseguita senza mezzo di contrasto nel caso di:
-  -  allergia grave a mezzo di contrasto non controllabile con la premedicazione anti-allergica
+- La stadiazione può essere eseguita senza mezzo di contrasto nel caso di:
+  -  allergia grave a mezzo di contrasto
   -  tumore ematologico (linfoma)
 
 >1. **Lesione primitiva**
->     - ***singola*** / ***multiple***
->       - ***risolta*** / *risolte* <br>&rarr; che ***intervento chirurgico*** è stato fatto?
->       - ***persiste*** / *persistono*
->         - ***incrementata*** / *incrementate* <br>&rarr; ***non risponde*** alla terapia medica
->         - ***stabile*** /*stabili* <br>&rarr; ***controllata*** dalla terapia medica ma potrebbe sfuggire al controllo
->         - ***ridotta*** / *ridotte* <br>&rarr; ***risponde*** alla terapia
+>     - *singola* / *multiple*
+>       - *risolta* / *risolte* &rarr; che intervento chirurgico è stato fatto?
+>       - *persiste* / *persistono*
+>         - *incrementata* / *incrementate* &rarr; non risponde alla terapia medica
+>         - stabile /stabili &rarr; risponde alla terapia medica ma potrebbe sfuggire al controllo
+>         - ridotta / ridotte &rarr; risponde alla terapia
 >
 >2. **Linfoadenopatie**
->     - assenti
->     - ***presenti***
->       - *di **nuovo riscontro*** <br>&rarr; sono partite delle **cellule metastatiche** <br> oppure <br>&rarr; sono cresciute **lesioni minime precedentemente non percebili** con la metodica
->        - ***note***
->           - ***numero***
+>     - assenti / **presenti**
+>       - di **nuovo riscontro** &rarr; sono partite delle cellule metastatiche
+>        - **note**
+>           - **numero**
 >              - *aumentato*
 >              - *stabile*
 >              - *diminuito*
->           - **555555555**
+>           - **dimensioni**
 >              - *incrementate*
 >              - *stabili*
 >              - *ridotte*
