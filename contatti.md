@@ -164,6 +164,8 @@
 
 ## SERVIZI
  
+ | PRONTO SOCCORSO            |   INTERNO   |
+ | -------------------------- | :---------: |
  |Servizi informatici         |    80999    |  
  |TRASPORTI                   |     7004    |
 
