@@ -16,6 +16,7 @@
 
 - [ESAME](#esame)
 	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
+	- [PREPARAZIONE PAZIENTE](#preparazione-paziente)
 	- [SEQUENZE](#sequenze)
 	- [REFERTAZIONE](#refertazione)
 	- [REFERTI PREFATTI](#referti-prefatti)
@@ -30,6 +31,10 @@
 - - -
 
 ## INDICAZIONI & LINEE GUIDA
+
+---
+
+## PREPARAZIONE PAZIENTE
 
 ---
 
@@ -60,5 +65,3 @@
 ---
 
 ## NOTE
-
-
