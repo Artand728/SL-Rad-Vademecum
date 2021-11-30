@@ -92,7 +92,7 @@
 |        | AMBULATORIO ONCOLOGIA - Infermieri                     |        6310 - 6350        |
 |        | AMBULATORIO ONCOLOGIA - Segreteria                     |        6310 - 6350        |
 |        |                                                        |                           |
-|        |                                                        |                           |
+|        | COVID 4                                                |           7133            |
 |        |                                                        |                           |
 |        |                                                        |                           |
 |        |                                                        |                           |
