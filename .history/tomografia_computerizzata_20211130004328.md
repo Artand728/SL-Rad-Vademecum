@@ -1095,34 +1095,20 @@ selezionati si fa con mdc e.v.
 
 - **STOMACO VUOTO ISPESSITO**: Se lo stomaco non è disteso può mimare un'ispessimento di parete non differenziabile da una possibile neoplasia &rarr; somministrare 2 bicchieri di H20 per distendere le pareti gastriche.
 
-- **FEGATO**
-  - **LESIONE IPODENSA DEL FEGATO DI NUOVO RISCONTRO**: 
-  <br />
-  Se appaiono delle lesioni non presenti ai precedenti esami
-  	- Se il paziente è in follow-up oncologico e appaiono multiple lesioni ipodense compatibili con metastasi è possibile evitare il ripassaggio; è verosimile che siano metastasi. Nel caso in cui la lesione sia singola allora sarebbe necessario eseguire un ripassaggio perché può essere una singola metastasi oppure una formazione benigna (angioma) misconosciuta ad un esame precedente.
-  	- Angioma ha la stessa densità della vena porta: indice di benignità 
-  	- acquisire un `eventuale ripassaggio a 3'` 
-
-  - **DISTINZIONE METASTASI EPATICHE DA CISTI EPATICHE**
-    - La **cisti** è:
-      - marcatamente ipodensa
-      - a margini netti
-      - talvolta polilobulata
-      - stabile nel tempo
-    - La **metastasi** è:
-      - lievemente ipodensa / marcatamente ipodensa centralmente &rarr; colliquazione necrotica centrale
-      - lieve enhancement ad anello lungo la lesione colliquata centrale che si riduce col tempo &rarr; mttivo del ripassaggio.
-      - variabili per numero e dimensione nel tempo
+- **LESIONE IPODENSA DEL FEGATO DI NUOVO RISCONTRO**: Se appaiono delle lesioni non presenti ai precedenti esami
+	- Se il paziente è in follow-up oncologico e appaiono multiple lesioni ipodense compatibili con metastasi è possibile evitare il ripassaggio; è verosimile che siano metastasi. Nel caso in cui la lesione sia singola allora sarebbe necessario eseguire un ripassaggio perché può essere una singola metastasi oppure una formazione benigna (angioma) misconosciuta ad un esame precedente.
+	- Angioma ha la stessa densità della vena porta: indice di benignità 
+	- acquisire un `eventuale ripassaggio a 3'` 
 
 
-  - **DILATAZIONE DELLE VIE BILIARI INTRAEPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'.  
-    `Allertare lo strutturato ed eventualmente effettuare un ripassaggio a 6'.`
+- **DILATAZIONE DELLE VIE BILIARI INTRAEPATICHE DI NUOVO RISCONTRO**: Possono essere legate a neoplasia delle vie biliari per la cui diagnosi è necessaria una fase epatica tardiva a 6'.  
+  `Allertare lo strutturato ed eventualmente effettuare un ripassaggio a 6'.`
 
-  <!-- In che senso? Cosa si deve valutare? Qual è l'eventuale fase da aggiungere?
+<!-- In che senso? Cosa si deve valutare? Qual è l'eventuale fase da aggiungere?
 
-  - Vasi del circolo venoso da arterie renali fino alla cava
+- Vasi del circolo venoso da arterie renali fino alla cava
 
-  -->
+-->
 
 - **DILATAZIONE DELLE VIE ESCRETRICI**
 	- acquisire una `tardiva urologica a 10'`
@@ -1141,7 +1127,7 @@ selezionati si fa con mdc e.v.
   - **Lesione nodulare isoecogena di nuovo riscontro**: effettuare completamento diagnostico con ecografia estemporanea (prendere l'ecografo portatile dell'interventistica). Se in ecografia la formazione è anecogena è una cisti e non occorre fare altro, se possibile acquisire immagini e allegare alla pratica (con l'ecografo portatile non è possibile), se si presenta come una formazione solida, completare l'esame con acquisizione arteriosa cortico midollare (arteriosa parenchimale a 40") e venosa nefrografica, nel caso di rapporti con i calici anche una fase escretrice a 10', se la lesione è solo parenchimale bastano l'arteriosa e la venosa.
 
 - **VIE URINARIE IN FASE TARDIVA (10')**
-  - Se le **vie urinarie non** sono **completamente opacizzate in tardiva** può essere dovuto alla **peristalsi ureterale** 
+  - Se le **vie urinarie non sono completamente opacizzate in tardiva** può essere dovuto alla **peristalsi ureterale** 
     - a meno che il quesito non sia esplicitamente mirato a escludere una ostruzione (magari neoplastica) **potrebbe non essere necessario** eseguire un **ripassaggio**. 
       - sentire comunque lo strutturato che segue l'esame.
 
