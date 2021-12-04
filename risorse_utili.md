@@ -52,6 +52,7 @@
 - [Imaging Anatomy](https://www.castlemountain.dk/atlas/index.php){:target="_blank"}
 - [EmPills](https://www.empillsblog.com){:target="_blank"}
 - [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
+- [AO Surgery Reference](https://surgeryreference.aofoundation.org/){:target="_blank"}
 
 ## LINEE GUIDA
 
