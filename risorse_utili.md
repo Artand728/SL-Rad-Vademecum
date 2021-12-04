@@ -93,6 +93,8 @@
   - [Come interpretare la lista](http://www.mrisafety.com/Terminology.html){:target="_blank"}
 - [Linee guida sicurezza in RM](https://mriquestions.com/uploads/3/4/5/7/34572113/acr_manual_on_mr_safety__2000_.pdf){:target="_blank"}
 - [Corso online di RM - youtube](https://www.youtube.com/watch?v=35gfOtjRcic&list=PLPcImQzEnTpz-5TzxyyoYSbiAa9xdd89l&index=1){:target="_blank"}
+- [Appunti di RM](http://www.andreaforneris.com/appunti-rm/2009/index.php){:target="_blank"}
+
 <!-- - [Protocolli RM](https://www.rmnonline.it/tipi-di-risonanza-magnetica/){:target="_blank"}  
 DA INDAGARE -->
 

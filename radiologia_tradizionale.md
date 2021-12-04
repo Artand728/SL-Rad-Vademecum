@@ -37,6 +37,11 @@
   - [VIDEOFLUOROGRAFIA (VFG)](#videofluorografia-vfg)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
+    - [**"RX Scheletro"**](#rx-scheletro)
+    - [**Studio età ossea**](#studio-età-ossea)
+      - [**Analisi**](#analisi)
+      - [**Refertazione**](#refertazione)
+      - [**Bibliografia**](#bibliografia-1)
 
 - - -
 
@@ -116,64 +121,6 @@ Per ogni altro dubbio vedi i [vademecum contrastografici](radiologia_tradizional
 </div>
 
 ---
-<!---
-
-### Studio età ossea bambino
-
-#### Analisi
-- Tanner-Whitehouse: si basa sulla valutazione di 20 segmenti ossei
-- Greulich & Pyle (comparativo): su basa sulla comparazione dell'esame con un atlante di riferimento.
-
-*Tanner-Whitehouse*
-Valuta il grado di sviluppo di 20 segmenti ossei, da cui si ottiene un punteggio che permette di identificare l'età ossea del Paziente.
-L'analisi può essere svolta utilizzando il libro fotocopiato presente nella vetrinetta (segnando i punteggi in un file di testo) o utilizzando [questo sito](http://vl.academicdirect.ro/medical_informatics/bone_age/v1.0/).
-
-> Ricordatevi di segnare sempre il sesso del Paziente, perchè comporta punteggi differenti.
-
-Per ogni segmento occorre confrontare l'esame con i modelli di riferimento e segnare il punteggio corrispettivo (se utilizzate il libro fotocopiato sono i punteggi sotto la dicitura TW2 - Tanner-Whitehouse seconda edizione).
-Sommando tutti i punteggi si ottiene un numero da ... a 1000, il quale permette di identificare l'età ossea del Paziente e il percentile nel quale si trova secondo il suo grado di sviluppo.
-
-- Età ossea: si determina con una tabella (inserire immagine)
-- Percentile: si determina con una tabella previa divisione per 10 del numero iniziale (inserire tabella)
-
-*Greulich & Pyle*
-
-Si effettua un confronto tra la radiografia del paziente e delle immagini di riferimento divise per sesso ed età prese dall'atlante Greulich & Pyle.
-Potete anche effettuare il confronto attraverso [questo sito](https://kerbyradres.github.io/BoneAge/) andando a selezionare la data di nascita del paziente per generare delle immagini da utilizzare come confronto.
-
-> Fan fact: i pediatri prediligono il metodo Tanner-Whitehous perchè ritenuto più preciso
-
-#### Refertazione
-
-Il referto tipo deve contenere queste informazioni:
-- Metodo TW2:
-  - Punteggio complessivo
-  - Età ossea del paziente
-  - Percentile
-- Metodo comparativo (G&P)
-  - Età ossea stimata
-
-Esempio:
- -- Inserire prefatto --
- L'età scheletrica, valutata alla mano sinistra con il metodo TW2 (830), corrisponde al 50° percentile ad un'età anagrafica di 10 anni e 10 mesi. 
- L'età anagrafica corrisponde all'età scheletrica per un valore pari al 50° percentile.
-Il rilievo ha riconferma al raffronto dell'iconografia su Atlante Greulich and Pyle in un'età scheletrica pari a 12 anni.
-
-
- #### Bibliografia 
- https://radiopaedia.org/articles/tanner-whitehouse-method
- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628949/
- https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8660640
-
-<div style="text-align: right">
-<a href="#radiologiatradizionale">⬆️</a>
-
-</div>
-
----
-
--->
-
 
 # **CONTRASTOGRAFICI**
 
@@ -399,7 +346,9 @@ Esame seguito dagli specializzandi del II°-III° anno.
 
 ## NOTE
 
-- Se viene richiesta una **"RX Scheletro"** prima di iniziare una *terapia con bifosfonati* vanno acquisite immagini di tutti i segmenti schelettrici: cranio, colonna, torace, bacino, arti superiori e arti inferiori. 
+### **"RX Scheletro"** 
+
+Prima di iniziare una *terapia con bifosfonati* vanno acquisite immagini di tutti i segmenti schelettrici: cranio, colonna, torace, bacino, arti superiori e arti inferiori. 
 
   Non importa fare le proiezioni specifiche (tipo polso) a meno che non ci siano in anamensi elementi noti che portino a dover focalizzare l'attenzione su un determinato segmento in particolare, in tal caso tale segmento andrà approfondito con proiezioni aggiuntive specifiche.  
 
@@ -409,6 +358,53 @@ Esame seguito dagli specializzandi del II°-III° anno.
   - se ci sono elementi noti in anamnesi che possono portare a dover eseguire proiezioni specifiche mirate (pregresse fratture, metastasi ossee note, etc...)
 
   Una richiesta ben impostata può essere: "RX Scheletro di controllo prima di iniziare terapia medica con bifosfonati in paziente ricoverato affetto da Mieloma Multiplo senza pregresse fratture in anamnesi e senza regioni ossee note che richiedano maggior attenzione a giudizio del clinico."
+
+---
+
+### **Studio età ossea**
+
+#### **Analisi**
+
+- Tanner-Whitehouse: si basa sulla valutazione di 20 segmenti ossei
+- Greulich & Pyle (comparativo): su basa sulla comparazione dell'esame con un atlante di riferimento.
+
+*Tanner-Whitehouse*
+Valuta il grado di sviluppo di 20 segmenti ossei, da cui si ottiene un punteggio che permette di identificare l'età ossea del Paziente.
+L'analisi può essere svolta utilizzando il libro fotocopiato presente nella vetrinetta (segnando i punteggi in un file di testo) o utilizzando [questo sito](http://vl.academicdirect.ro/medical_informatics/bone_age/v1.0/).
+
+> Ricordatevi di segnare sempre il sesso del Paziente, perchè comporta punteggi differenti.
+
+Per ogni segmento occorre confrontare l'esame con i modelli di riferimento e segnare il punteggio corrispettivo (se utilizzate il libro fotocopiato sono i punteggi sotto la dicitura TW2 - Tanner-Whitehouse seconda edizione).
+Sommando tutti i punteggi si ottiene un numero, il quale permette di identificare l'età ossea del Paziente e il percentile nel quale si trova secondo il suo grado di sviluppo.
+
+- Età ossea: si determina con una tabella (inserire immagine)
+- Percentile: si determina con una tabella previa divisione per 10 del numero iniziale (inserire tabella)
+
+*Greulich & Pyle*
+
+Si effettua un confronto tra la radiografia del paziente e delle immagini di riferimento divise per sesso ed età prese dall'atlante Greulich & Pyle.
+Potete anche effettuare il confronto attraverso [questo sito](https://kerbyradres.github.io/BoneAge/) andando a selezionare la data di nascita del paziente per generare delle immagini da utilizzare come confronto.
+
+#### **Refertazione**
+
+Il referto tipo deve contenere queste informazioni:
+- Metodo TW2:
+  - Punteggio complessivo
+  - Età ossea del paziente
+  - Percentile
+- Metodo comparativo (G&P)
+  - Età ossea stimata
+
+*Esempio:*
+
+ L'età scheletrica, valutata alla mano sinistra con il metodo TW2 (830), corrisponde al 50° percentile ad un'età anagrafica di 10 anni e 10 mesi. 
+ L'età anagrafica corrisponde all'età scheletrica per un valore pari al 50° percentile.
+Il rilievo ha riconferma al raffronto dell'iconografia su Atlante Greulich and Pyle in un'età scheletrica pari a 11 anni.
+
+ #### **Bibliografia** 
+ https://radiopaedia.org/articles/tanner-whitehouse-method
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628949/
+ https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8660640
 
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>
