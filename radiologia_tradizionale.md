@@ -39,9 +39,9 @@
   - [NOTE](#note)
     - [**"RX Scheletro"**](#rx-scheletro)
     - [**Studio età ossea**](#studio-età-ossea)
-      - [**Analisi**](#analisi)
-      - [**Refertazione**](#refertazione)
-      - [**Bibliografia**](#bibliografia-1)
+      - [Analisi](#analisi)
+      - [Refertazione](#refertazione)
+      - [Bibliografia](#bibliografia-1)
 
 - - -
 
@@ -363,7 +363,7 @@ Prima di iniziare una *terapia con bifosfonati* vanno acquisite immagini di tutt
 
 ### **Studio età ossea**
 
-#### **Analisi**
+#### Analisi
 
 - Tanner-Whitehouse: si basa sulla valutazione di 20 segmenti ossei
 - Greulich & Pyle (comparativo): su basa sulla comparazione dell'esame con un atlante di riferimento.
@@ -385,7 +385,7 @@ Sommando tutti i punteggi si ottiene un numero, il quale permette di identificar
 Si effettua un confronto tra la radiografia del paziente e delle immagini di riferimento divise per sesso ed età prese dall'atlante Greulich & Pyle.
 Potete anche effettuare il confronto attraverso [questo sito](https://kerbyradres.github.io/BoneAge/) andando a selezionare la data di nascita del paziente per generare delle immagini da utilizzare come confronto.
 
-#### **Refertazione**
+#### Refertazione
 
 Il referto tipo deve contenere queste informazioni:
 - Metodo TW2:
@@ -401,7 +401,7 @@ Il referto tipo deve contenere queste informazioni:
  L'età anagrafica corrisponde all'età scheletrica per un valore pari al 50° percentile.
 Il rilievo ha riconferma al raffronto dell'iconografia su Atlante Greulich and Pyle in un'età scheletrica pari a 11 anni.
 
- #### **Bibliografia** 
+ #### Bibliografia 
  https://radiopaedia.org/articles/tanner-whitehouse-method
  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628949/
  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8660640
