@@ -41,7 +41,6 @@
     - [**Studio età ossea**](#studio-età-ossea)
       - [Analisi](#analisi)
       - [Refertazione](#refertazione)
-      - [Bibliografia](#bibliografia-1)
 
 - - -
 
@@ -401,10 +400,12 @@ Il referto tipo deve contenere queste informazioni:
  L'età anagrafica corrisponde all'età scheletrica per un valore pari al 50° percentile.
 Il rilievo ha riconferma al raffronto dell'iconografia su Atlante Greulich and Pyle in un'età scheletrica pari a 11 anni.
 
- #### Bibliografia 
+<!-- DA APPROFONDIRE
+#### Bibliografia 
  https://radiopaedia.org/articles/tanner-whitehouse-method
  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628949/
  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8660640
+-->
 
 <div style="text-align: right">
 <a href="#radiologiatradizionale">⬆️</a>
