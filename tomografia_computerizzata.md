@@ -1224,6 +1224,7 @@ dalla base delle orbite alla carina con le braccia abbassate
 	
 	Al seguente sito è possibile verificare il rischio effettivo del passaggio del farmaco nel latte materno: https://www.e-lactation.com/en/
 
+- TC TOR per ricerca TIMOMA: Tipicamente paziente della NEURO seguito per Miastenia in cui vogliono escludere la presenza di timota &rarr; eseguire un TOR Basale, se si rileva la neoplasia si completa con TOR con mdc arterioso a 40". 
 
 
 <div style="text-align: right">
