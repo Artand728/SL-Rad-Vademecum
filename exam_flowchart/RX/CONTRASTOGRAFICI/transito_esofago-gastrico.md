@@ -40,9 +40,9 @@
     - [Diverticolo epifrenico](#diverticolo-epifrenico)
     - [Pseudodiverticoli](#pseudodiverticoli)
   - [Ernie diaframmatiche](#ernie-diaframmatiche)
-  - [Ernia iatale](#ernia-iatale)
+  - [Ernie iatale](#ernie-iatale)
     - [Ernia iatale da scivolamento (tipo 1)](#ernia-iatale-da-scivolamento-tipo-1)
-    - [Ernia iatale para-esofagea da rotolamento (tipo 2)](#ernia-iatale-para-esofagea-da-rotolamento-tipo-2)
+    - [Ernia iatale da para-esofagea da rotolamento (tipo 2)](#ernia-iatale-da-para-esofagea-da-rotolamento-tipo-2)
     - [Ernia iatale mista (tipo 3)](#ernia-iatale-mista-tipo-3)
   - [Intervento di Fundiplicatio secondo Nissen](#intervento-di-fundiplicatio-secondo-nissen)
     - [Ernia di Bochdalek](#ernia-di-bochdalek)
@@ -478,19 +478,13 @@ Conclusioni: reperti radiologici nei limiti di norma.
 <img style="max-width:720px; width:100%;" src="..\..\..\img\netter-ernie_diaframmatiche.png">
 
 
-## Ernia iatale
+## Ernie iatale
 
 La **prevalenza** dell'ernia iatale **aumenta con l'età**, leggermente **più frequente nelle donne**.
 
-<details>
-
-<summary>
+<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-hiatal_hernia.png">
 
 ### Ernia iatale da scivolamento (tipo 1)
-
-</summary>
-
-<img style="max-width:720px; width:100%;" src="..\..\..\img\netter-hiatal_hernia.png">
 
 L’ernia da scivolamento è **la più comune (90%)** e risulta caratterizzata dall’ingresso e dall’uscita costante dello stomaco dalla cavità toracica. 
 
@@ -512,24 +506,14 @@ La semplice presenza di un'ernia iatale scorrevole ha un significato clinico lim
 
 La funzione dello sfintere esofageo inferiore e la presenza di reflusso gastro-esofageo patologico sono i fattori cruciali nel produrre sintomi e causare complicazioni.
 
-</details>
-<details>
-<summary>
-
-### Ernia iatale para-esofagea da rotolamento (tipo 2)
-</summary>
+### Ernia iatale da para-esofagea da rotolamento (tipo 2)
 L’ernia da rotazione vede il fondo dello stomaco intrappolato al lato dell’esofago.
+
 <img style="max-width:720px; width:100%;" src="..\..\..\img\netter-paraesophageal_hernia.png">
-</details>
-<details>
-<summary>
 
 ### Ernia iatale mista (tipo 3)
-
-</summary>
-
 L’ernia mista possiede le caratteristiche sia di quella da scivolamento che da rotazione, risultando, comunque, più rara.
-</details>
+
 
 ## Intervento di Fundiplicatio secondo Nissen
 
