@@ -1037,9 +1037,11 @@ selezionati si fa con mdc e.v.
 ---
 
 ### TUMORE PROSTATA (stadiazione)
-- AS Basale 
-	- Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
+- AS Basale (a discerzione dello strutturato)
 - TOR + AC portale (80")
+
+>Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
+>
 >**Gleason Score *inferiore* a 3+4**: solo AC portale <br>
 >**Gleason Score *superiore* a 3+4**: TOR + AC portale
 
