@@ -193,8 +193,8 @@ Si effettua l'esame con il **Gastrografin**
 
 **Acquisizioni**
 
-- **AP BASALE** - prima della preparazione del campo
-- **AP BASALE** - per valutare posizionamento del catetere
+- **AP BASALE (GRAFIA)** - prima della preparazione del campo
+- **AP BASALE (GRAFIA)** - per valutare posizionamento del catetere
 - **SCOPIA** *durante iniezione del MdC*
   - Schiacciare il pedale prima di cominciare a iniettare
   - Attenzione a eventuali spandimenti
