@@ -53,6 +53,7 @@
 - [EmPills](https://www.empillsblog.com){:target="_blank"}
 - [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
 - [AO Surgery Reference](https://surgeryreference.aofoundation.org/){:target="_blank"}
+- [Radiology Masterclass - Image Galleries](https://www.radiologymasterclass.co.uk/gallery/chest/variants/normal_chest_x-ray){:target="_blank"}
 
 ## LINEE GUIDA
 
