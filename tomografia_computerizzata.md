@@ -911,8 +911,10 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### TUMORE RENE (stadiazione)
+### TUMORE RENE (prima stadiazione)
 - Arteriosa Cortico-Midollare (equivalente ad arteriosa parenchimale a 40")
+   - AS arterioso **solo in prima stadiazione, non in ristadiazione**
+   	- Per follow-up e ristadiazione vedere la voce successiva &darr; 
    - solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
 - Nefrografica (90")
 - Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
@@ -925,7 +927,9 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ---
 
-### TUMORE RENE (follow-up)
+
+
+### TUMORE RENE (ristadiazione e follow-up)
 - AS basale (solo se no precedenti)
 - TOR + AC nefrografica (90")
 - eventualmente Tardiva (10')
