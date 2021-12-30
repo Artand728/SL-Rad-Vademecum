@@ -52,6 +52,8 @@
 |        |                                                        |                           |
 | 5A     | MEDICINA INTERNA 2 - EMATOLOGIA (medici)               |           6308            |
 |        | MEDICINA INTERNA 2 - EMATOLOGIA (infermieri)           |           6542            |
+|        | EMATOLOGIA AMBULATORIO                                 |           7711            |
+|        | EMATOLOGIA AMBULATORIO LINFOMI                         |           6708            |
 |        |                                                        |                           |
 | 9A     | UROLOGIA                                               |                           |
 |        |                                                        |                           |
@@ -94,7 +96,7 @@
 |        |                                                        |                           |
 |        | COVID 4                                                |           7133            |
 |        |                                                        |                           |
-|        |                                                        |                           |
+|        | LABORATORIO ANALISI                                    |           6454            |
 |        |                                                        |                           |
 |        |                                                        |                           |
 |        |                                                        |                           |
@@ -103,7 +105,7 @@
 |        |                                                        |                           |
 |        |                                                        |                           |
 
-|        |                                              |                           |
+|        |                                                        |                           |
 
 
 <div style="text-align: right">
