@@ -48,5 +48,5 @@
 <br>
 <br>
 <div style="text-align: center;" class="qr-code">
-<img src="https://sl-rad.github.io/SL-Rad-Vademecum/qr code\QR_code_SL-Rad.png" width="256px"/>
+<img src="https://sl-rad.github.io/SL-Rad-Vademecum/qr code\qr_repair_dec.png" width="256px"/>
 </div>
