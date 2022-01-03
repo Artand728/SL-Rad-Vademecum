@@ -230,9 +230,6 @@ Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
 
 ## NOTE
 
-- Il buscopan prima delle mpMRI si somministra per via intramuscolare (IM) in sede glutea.
-- Il grembiule viene fatto indossare per consuetudine con l'apertura rivolata anteriormente, solo quando venivano usate le bobine endorettali veniva indossato con l'apertura rivolta posteriormente.
-
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
