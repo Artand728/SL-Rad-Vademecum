@@ -1,7 +1,11 @@
 <!---Nemo vir est qui mundum non reddat meliorem-->
 
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="shortcut icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-16x16.png">
+  <link rel="manifest" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/site.webmanifest">
   <title>SL Rad Vademecum</title> 
 </head>
 
@@ -15,7 +19,7 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 <div class="homepage-icons">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/x-rays.png" /></a>
@@ -38,13 +42,15 @@
 <br>
 <br>
 <br>
-<div style="text-align: center;" class="usefull-links">
+<div style="text-align: center;" class="hot-topics">
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/anatomia_vascolare.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\vascular.png" width="64px" /> &nbsp; Anatomia Vascolare</a>
   <br>
   <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/segmenti_fegato.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\liver.png" width="64px" /> &nbsp; Segmenti epatici</a>
+  <br>
+  <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/anatomy/segmenti_polmone.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\lungs.png" width="64px" /> &nbsp; Segmenti polmonari</a>
 <br>
 <br>
 <br>
 <div style="text-align: center;" class="qr-code">
-<img src="https://sl-rad.github.io/SL-Rad-Vademecum/qr code\QR_code_SL-Rad.png" width="256px"/>
+<img src="https://sl-rad.github.io/SL-Rad-Vademecum/qr code\qr_repair_dec.png" width="256px"/>
 </div>
