@@ -1,7 +1,7 @@
 <!---Nemo vir est qui mundum non reddat meliorem-->
 
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico?r=31241" />
   <link rel="apple-touch-icon" sizes="180x180" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/apple-touch-icon.png" />
  <link rel="icon" type="image/png" sizes="192x192" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-192x192.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-32x32.png" />
