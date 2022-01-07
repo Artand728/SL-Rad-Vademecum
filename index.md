@@ -19,7 +19,7 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
----
+- - -
 
 <div class="homepage-icons">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/x-rays.png" /></a>
