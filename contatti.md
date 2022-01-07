@@ -52,6 +52,8 @@
 |        |                                                        |                           |
 | 5A     | MEDICINA INTERNA 2 - EMATOLOGIA (medici)               |           6308            |
 |        | MEDICINA INTERNA 2 - EMATOLOGIA (infermieri)           |           6542            |
+|        | EMATOLOGIA AMBULATORIO                                 |           7711            |
+|        | EMATOLOGIA AMBULATORIO LINFOMI                         |           6708            |
 |        |                                                        |                           |
 | 9A     | UROLOGIA                                               |                           |
 |        |                                                        |                           |
@@ -92,9 +94,9 @@
 |        | AMBULATORIO ONCOLOGIA - Infermieri                     |        6310 - 6350        |
 |        | AMBULATORIO ONCOLOGIA - Segreteria                     |        6310 - 6350        |
 |        |                                                        |                           |
-|        | COVID 4                                                |           7133            |
+|        | COVID 4                                                | 6141 - 6142 - 6143 - 6144 |
 |        |                                                        |                           |
-|        |                                                        |                           |
+|        | LABORATORIO ANALISI                                    |           6454            |
 |        |                                                        |                           |
 |        |                                                        |                           |
 |        |                                                        |                           |
@@ -103,7 +105,7 @@
 |        |                                                        |                           |
 |        |                                                        |                           |
 
-|        |                                              |                           |
+|        |                                                        |                           |
 
 
 <div style="text-align: right">

@@ -79,3 +79,4 @@ L'esame si prenota il **lunedì**, perchè sono previste acquisizioni nei giorni
 ### *V° giorno*
 
 - AP addome
+- Nel caso in cui siano ancora presenti dei markers radiopachi può essere utile una proiezione aggiuntiva latero-laterale (LL) per poterne localizzare la posizione.

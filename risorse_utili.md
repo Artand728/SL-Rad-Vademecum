@@ -53,6 +53,7 @@
 - [EmPills](https://www.empillsblog.com){:target="_blank"}
 - [Gallery of Medical Devices](https://pubs.rsna.org/doi/pdf/10.1148/rg.253055010){:target="_blank"}
 - [AO Surgery Reference](https://surgeryreference.aofoundation.org/){:target="_blank"}
+- [Radiology Masterclass - Image Galleries](https://www.radiologymasterclass.co.uk/gallery/chest/variants/normal_chest_x-ray){:target="_blank"}
 
 ## LINEE GUIDA
 
@@ -84,6 +85,11 @@
 - [D3.js](https://d3js.org/){:target="_blank"}
 
 
+## XR
+
+- [RX Cranio](http://etsrm.it/doc_rubriche/231-002-03_Rx_cranio.pdf)
+
+
 ## MRI
 
 - [MRI Q&A](https://mriquestions.com/index.html){:target="_blank"}
@@ -93,6 +99,8 @@
   - [Come interpretare la lista](http://www.mrisafety.com/Terminology.html){:target="_blank"}
 - [Linee guida sicurezza in RM](https://mriquestions.com/uploads/3/4/5/7/34572113/acr_manual_on_mr_safety__2000_.pdf){:target="_blank"}
 - [Corso online di RM - youtube](https://www.youtube.com/watch?v=35gfOtjRcic&list=PLPcImQzEnTpz-5TzxyyoYSbiAa9xdd89l&index=1){:target="_blank"}
+- [Appunti di RM](http://www.andreaforneris.com/appunti-rm/2009/index.php){:target="_blank"}
+
 <!-- - [Protocolli RM](https://www.rmnonline.it/tipi-di-risonanza-magnetica/){:target="_blank"}  
 DA INDAGARE -->
 

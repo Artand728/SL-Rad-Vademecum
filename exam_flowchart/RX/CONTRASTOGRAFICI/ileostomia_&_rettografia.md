@@ -93,8 +93,8 @@ Non è necessaria la sterilità.
 
 ### *Acquisizioni*
 
-- **AP basale** (prima della preparazione del campo)
-- **AP basale** (per valutare posizionamento del catetere)
+- **AP basale (GRAFIA)** (prima della preparazione del campo)
+- **AP basale (GRAFIA)** (per valutare posizionamento del catetere)
 - **Scopie** durante iniezione del MdC
   - Schiacciare il pedale prima di cominciare a iniettare
   - Attenzione a eventuali spandimenti

@@ -60,8 +60,8 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
 		- [TUMORE NEUROENDOCRINO](#tumore-neuroendocrino)
 		- [SURRENI](#surreni)
-		- [TUMORE RENE (stadiazione)](#tumore-rene-stadiazione)
-		- [TUMORE RENE (follow-up)](#tumore-rene-follow-up)
+		- [TUMORE RENE (prima stadiazione)](#tumore-rene-prima-stadiazione)
+		- [TUMORE RENE (ristadiazione e follow-up)](#tumore-rene-ristadiazione-e-follow-up)
 		- [URO-TC](#uro-tc)
 		- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
 		- [TUMORE UROTELIALE](#tumore-uroteliale)
@@ -911,8 +911,10 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### TUMORE RENE (stadiazione)
+### TUMORE RENE (prima stadiazione)
 - Arteriosa Cortico-Midollare (equivalente ad arteriosa parenchimale a 40")
+   - AS arterioso **solo in prima stadiazione, non in ristadiazione**
+   	- Per follow-up e ristadiazione vedere la voce successiva &darr; 
    - solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
 - Nefrografica (90")
 - Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
@@ -925,7 +927,9 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ---
 
-### TUMORE RENE (follow-up)
+
+
+### TUMORE RENE (ristadiazione e follow-up)
 - AS basale (solo se no precedenti)
 - TOR + AC nefrografica (90")
 - eventualmente Tardiva (10')
@@ -1037,9 +1041,11 @@ selezionati si fa con mdc e.v.
 ---
 
 ### TUMORE PROSTATA (stadiazione)
-- AS Basale 
-	- Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
+- AS Basale (a discerzione dello strutturato)
 - TOR + AC portale (80")
+
+>Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
+>
 >**Gleason Score *inferiore* a 3+4**: solo AC portale <br>
 >**Gleason Score *superiore* a 3+4**: TOR + AC portale
 
@@ -1224,6 +1230,7 @@ dalla base delle orbite alla carina con le braccia abbassate
 	
 	Al seguente sito è possibile verificare il rischio effettivo del passaggio del farmaco nel latte materno: https://www.e-lactation.com/en/
 
+- TC TOR per ricerca TIMOMA: Tipicamente paziente della NEURO seguito per Miastenia in cui vogliono escludere la presenza di timota &rarr; eseguire un TOR Basale, se si rileva la neoplasia si completa con TOR con mdc arterioso a 40". 
 
 
 <div style="text-align: right">
