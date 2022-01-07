@@ -1,11 +1,11 @@
 <!---Nemo vir est qui mundum non reddat meliorem-->
 
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico?r=31241" />
-  <link rel="apple-touch-icon" sizes="180x180" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/apple-touch-icon.png" />
- <link rel="icon" type="image/png" sizes="192x192" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-192x192.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-16x16.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico?v=3141516" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/apple-touch-icon.png?v=31415165" />
+ <link rel="icon" type="image/png" sizes="192x192" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-192x192.png?v=31415168" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-32x32.png?v=31415161" />
+  <link rel="icon" type="image/png" sizes="16x16" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-16x16.png?v=314151696" />
   <link rel="manifest" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/site.webmanifest" />
   <title>SL Rad Vademecum</title> 
 </head>
