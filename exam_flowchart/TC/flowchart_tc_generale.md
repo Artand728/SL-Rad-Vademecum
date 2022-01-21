@@ -217,9 +217,9 @@
 > Si segnala la presenza di ingrandimento della tiroide caratterizzata dalla presenza di multiple nodulazioni.
 
 - **interventi chirurgici** <br>
-  - emitiroidectomia (destra / sinistra)
+  - emitiroidectomia ( destra / sinistra )
 `In esiti di (emitiroidectomia destra), la trachea è leggermente deviata omolateralmente e la tiroide residua presenta densità disomogenea.`
-
+- 
 `Si riconoscono inoltre i regolari esiti di pregressa tiroidectomia.`
 
 
