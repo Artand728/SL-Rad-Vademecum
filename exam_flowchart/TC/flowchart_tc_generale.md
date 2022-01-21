@@ -1,3 +1,4 @@
+
 <div class="topnav">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
@@ -168,13 +169,65 @@
 
 ## TIROIDE
 
+- **dimensioni incrementate?** <br>
+  `Tiroide di dimensioni (incrementate)`
+- **struma disomogeneo?** <br>
+  `a struttura (diffusamente) (disomogenea)`
+  - **quale lobo?** <br>
+    `specie al lobo tiroideo (destro)`
+  - **impegno anatomico?** <br>
+    `ad impegno (retrosternale)`
+    `a (parziale) impegno dell'ingresso toracico superiore`
+  - **importa si elementi anatomici?** <br>
+      `e impronta tracheale con latero-deviaizone (sinistra)`
+    - **quadro di struma?** <br>
+      `in quadro di struma`
+
+> **Disomogeneità di un singolo lobo**
+> È presente disomogeneità del lobo tiroideo (sinistro).
+
+> Inizile struma tirodieo
+> Tiroide di dimensioni modicamente incrementate specie al lobo (sinistro) e a struttura finemente disomogenea per iniziale struma.
+
+- **noduli?**
+  - **assenti**
+  - **singolo** <br>
+    `E' (stabile) una (piccola) nodularità`
+      - **densità houndsfield**<br>
+      `tenuemente (iperdensa)`
+      - **calcifico?** <br>
+      `di denistà calcica`
+      - **dimensioni?** <br<>
+     `del diametro massimo di __ mm`
+      - **quale lobo?** <br>
+     `a carico del lobo tiroideo (destro)` 
+        - conclusioni
+     `reperto da correlare con i dati clinico-anamnestici.`
+  - **multipli** <br>
+    `Tiroide di dimensioni ingrandite in presenza di multiple nodulazioni`
+
+
+> **Nodulo calcifico**
+> È presente (piccolo) nodulo calcifico del lobo tiroideo (sinistro).
+
+> **Incremento dimensionale in presenza di nodularità**
+> Si conferma netto (incremento) dimensionale del lobo tiroideo (sinistro), sede di una (grossolana) nodularità di dimensioni (sostanzialmente stabili).
+
+> **Tiroide multinodulare**
+> Si segnala la presenza di ingrandimento della tiroide caratterizzata dalla presenza di multiple nodulazioni.
+
+- **interventi chirurgici** <br>
+  - emitiroidectomia (destra / sinistra)
+`In esiti di (emitiroidectomia destra), la trachea è leggermente deviata omolateralmente e la tiroide residua presenta densità disomogenea.`
+
+`Si riconoscono inoltre i regolari esiti di pregressa tiroidectomia.`
+
+
 
 
 ## AORTA TORACICA
 - **calibro?**
 - **spessore della parete?**
-
-
 
 
 

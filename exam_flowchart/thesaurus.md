@@ -25,6 +25,7 @@
   - [CONSEGUENZE](#conseguenze)
   - [CONGIUNZIONE](#congiunzione)
   - [FRASI PREFATTE](#frasi-prefatte)
+  - [SINONIMI](#sinonimi)
 
 
 - - -
@@ -139,3 +140,9 @@ introduzione &rarr; sviluppo temporale &rarr; reperto &rarr; caratterizzazione &
 - Tali reperti sono meritevoli di correlazione con i dati clinico-anamnestici (ipotesi 1? ipotesi 2?).
 - Sono sostanzialmente immodificati tutti i restanti reperti.
 - Sono sostanzialmente immodificati tutti i restanti reperti rispetto al precedente controllo eseguito (in altra Sede) in data \_\_/__/____.
+
+---
+
+## SINONIMI
+
+( nodulo \| nodularità \| nodulazione )
