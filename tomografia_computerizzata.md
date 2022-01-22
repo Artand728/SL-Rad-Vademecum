@@ -1242,6 +1242,18 @@ dalla base delle orbite alla carina con le braccia abbassate
 
 - TC TOR per ricerca TIMOMA: Tipicamente paziente della NEURO seguito per Miastenia in cui vogliono escludere la presenza di timota &rarr; eseguire un TOR Basale, se si rileva la neoplasia si completa con TOR con mdc arterioso a 40". 
 
+**Studi in elezione** che richiedono **fase arteriosa parenchimale**:
+
+- Stadiazione K tiroide
+- Stadiazione K mammella
+- Stadiazione K stomaco
+- Stadiazione K pancreas
+- Stadiazione K renale a cellule chiare
+- Stadiazione K retto (secondo alcuni, non univoco)
+- Stadiazione Melanoma
+- Stadiazione Tumori Neuroendocrini (NET)
+- Stadiazione Feocromocitoma
+- Stadiazione Paraganglioma
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
