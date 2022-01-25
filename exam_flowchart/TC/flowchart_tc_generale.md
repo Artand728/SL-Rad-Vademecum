@@ -338,7 +338,7 @@
 
 
 > **Noduli Fleishenr**
-> Tenendo in cosiderazione le linee guida della Fleischner Society 2017 nella gestione dei noduli incidentali ed in particolare i noduli tra __-­__ mm (100-­250 mm3) si consiglia rivalutazione a 18 mesi con TC ad alta risoluzione e con tecnica volumetrica con successiva comparazione dei noduli con sotware dedicato.
+> Tenendo in cosiderazione le linee guida della Fleischner Society 2017 nella gestione dei noduli incidentali ed in particolare i noduli tra __-__ mm (___-___mm3) si consiglia rivalutazione a 18 mesi con TC ad alta risoluzione e con tecnica volumetrica con successiva comparazione dei noduli con sotware dedicato.
 
 - **lesioni neoproduttive (massa)?**
   - **lesione neoproduttiva di nuovo riscontro**<br>
