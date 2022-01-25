@@ -475,17 +475,38 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 - **normale**<br>
 `Il fegato presenta regolare aspetto TC.`<br>
-`Il fegato è regolare per dimensioni e margini.`
+`Il fegato è regolare per dimensioni e margini.`<br />
+`Il fegato conserva regolare aspetto TC, privo di lesioni focali.`<br />
+
+- **dimensioni**
+  - ***incrementate***<br />
+  `IL fegato di presenta dimensioni incrementate`
+
+
+- **margini**
+  - ***regolari***
+  - ***irregolari***<br />
+  `Fegato di dimensioni (modicamente) aumentate, con margini attualmente regolari e con ecostruttura tendenzialmente iperecogena.`
+
+- Steatosi<br />
+`Il fegato presenta aspetto steatosico`
+`FEgato ingrandito di aspetto steatosico`
 
 - **lesioni focali?**
-  - **assenti**<br>
+  - *assenti*<br>
   `Non lesioni focali a carico del fegato.`
+  - 
   - **cisti**<br>
   `(piccola) formazione ipodensa a livello del lobo (sinistro) del fegato di verosimile natura cistica`
     - **diametro**
+    - **numero**
+    `Il fegato è sede di (multiple) formazioni cistiche, in noto quadro di policistosi epato-renale.`
     - **lobo epatico**
     - **segmento epatico**
-  - 
+  - **lesioni ripetitive**
+    - **assenti**
+    - **presenti**<br />
+    `Il fegato ha ecostruttura diffusamente disomogenea, per le multiple (note) lesioni ripetitive.`
 
 
 
@@ -670,10 +691,12 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 ## NEGATIVI GENERICI
 - **organi parenchimatosi addome superiore**<br>`Gli organi parenchimatosi dell'addome superiore conservano regolare aspetto TC`
+
 - **vie biliari e urinarie non dilatate**<br>
 `Le vie biliari e le vie escretrici urinarie non sono dilatate.`
 
-
+- <br />
+`Con i limiti dello studio basale non si riconoscono significative alterazioni di segnale a carico del (fegato), della (milza) e dei (reni).  `
 
 
 
