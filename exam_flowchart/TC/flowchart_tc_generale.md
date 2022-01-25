@@ -55,6 +55,7 @@
   - [SACRO](#sacro)
   - [FEMORE](#femore)
   - [ALTRI REPERTI](#altri-reperti)
+  - [CONCLUSIONE](#conclusione)
   - [NEGATIVI GENERICI](#negativi-generici)
   - [FOLLOW-UP (RISTADIAZIONE) LESIONI NEOPLASTICHE](#follow-up-ristadiazione-lesioni-neoplastiche)
 - [THESAURUS](#thesaurus)
@@ -335,6 +336,9 @@
         - singolo, piccole dimensioni, margini netti, densistà negativa (lipdica) &rarr; **amartoma**<br>
 	  `reperto compatibile con amartoma.`
 
+
+> **Noduli Fleishenr**
+> Tenendo in cosiderazione le linee guida della Fleischner Society 2017 nella gestione dei noduli incidentali ed in particolare i noduli tra __-­__ mm (100-­250 mm3) si consiglia rivalutazione a 18 mesi con TC ad alta risoluzione e con tecnica volumetrica con successiva comparazione dei noduli con sotware dedicato.
 
 - **lesioni neoproduttive (massa)?**
   - **lesione neoproduttiva di nuovo riscontro**<br>
@@ -647,6 +651,10 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **protesi vascolare** <br>
 `È presente protesi al tratto prossimale dell'arteria (succlavia sinistra).`
 
+
+## CONCLUSIONE
+- **disponibilità** <br>
+  `Si rimane a disposizione per chiarimenti,`
 
 ## NEGATIVI GENERICI
 - **organi parenchimatosi addome superiore**<br>`Gli organi parenchimatosi dell'addome superiore conservano regolare aspetto TC`

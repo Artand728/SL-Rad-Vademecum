@@ -85,6 +85,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
 	- [**PERFUSION-TC (p-TC)**](#perfusion-tc-p-tc)
 	- [**FLOWCHART DI REFERTAZIONE TC**](#flowchart-di-refertazione-tc)
+	- [LINEE GUIDA FLEISCHNER SOCIETY](#linee-guida-fleischner-society)
 	- [BIBLIOGRAFIA](#bibliografia)
 	- [NOTE](#note)
 
@@ -1210,6 +1211,22 @@ dalla base delle orbite alla carina con le braccia abbassate
 ## **FLOWCHART DI REFERTAZIONE TC**
 
 [**Pagina dedicata &rarr; FLOWCHART REFERTAZIONE GENERALE TC**](https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/flowchart_tc_generale.html)
+
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+## LINEE GUIDA FLEISCHNER SOCIETY 
+
+Le raccomandazioni sui noduli polmonari della Fleischner Society riguardano il **follow-up e la gestione dei noduli polmonari indeterminati** rilevati **incidentalmente sulla TAC** e sono pubblicate dalla Fleischner Society. 
+
+La linea guida **non si applica**
+- allo screening del cancro ai polmoni
+- ai pazienti di età inferiore ai 35 anni 
+- ai pazienti con una storia di cancro primario o immunosoppressione.
 
 
 <div style="text-align: right">

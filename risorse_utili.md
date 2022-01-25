@@ -27,9 +27,11 @@
 - [**RISORSE UTILI**](#risorse-utili)
   - [FONTI AUTOREVOLI](#fonti-autorevoli)
   - [LINEE GUIDA](#linee-guida)
+  - [CALCOLATORI](#calcolatori)
   - [RICERCA](#ricerca)
   - [LEGISLAZIONE](#legislazione)
   - [PROGRAMMAZIONE](#programmazione)
+  - [XR](#xr)
   - [MRI](#mri)
 
 - - -
@@ -70,6 +72,11 @@
 - [Raccomandazioni SIRM - Gestione reazioni a mdc](https://sirm.org/wp-content/uploads/2021/04/312-Documento-intersocietario-SIRM-SIAARTI-2019-gestione-reazione-avversa-allergica-a-mdc.pdf){:target="_blank"}
 - [Linee Guida AIOM](https://www.aiom.it/linee-guida-aiom/){:target="_blank"}
 - [ACR Reporting and Data Systems (RADS)](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems){:target="_blank"}
+
+## CALCOLATORI
+- [Radcalculators](https://radcalculators.org/)
+- [MedCals](https://www.mdcalc.com/)
+
 
 ## RICERCA
 
