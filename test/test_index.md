@@ -1,5 +1,9 @@
 <!---Nemo vir est qui mundum non reddat meliorem-->
 
+
+
+
+
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico?v=3141516" />
   <link rel="apple-touch-icon" sizes="180x180" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/apple-touch-icon.png?v=31415165" />
@@ -8,19 +12,58 @@
   <link rel="icon" type="image/png" sizes="16x16" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-16x16.png?v=314151696" />
   <link rel="manifest" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/site.webmanifest" />
   <title>SL Rad Vademecum</title> 
+
 </head>
 
-<div class="topnav">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="navbar">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html">Ecografia</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">Tomografia Computerizzata</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">
+  <button class="dropbtn">Tomografia Computerizzata
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html#gestione-agenda">Agenda TC</a>
+      <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html#premedicazione-antiallergica">Gestione del paziente</a>
+      <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html#protocolli">Protocolli TC</a>
+	  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/exam_flowchart/TC/flowchart_tc_generale.html">Refertazione TC</a>
+	</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html">Risonanza Magnetica</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/pronto_soccorso.html">Pronto Soccorso</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
 </div>
 
-- - -
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
 
 <div class="homepage-icons">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/x-rays.png" /></a>
