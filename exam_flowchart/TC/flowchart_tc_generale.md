@@ -473,7 +473,19 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 ## FEGATO
 
+- **normale**<br>
+`Il fegato presenta regolare aspetto TC.`<br>
+`Il fegato è regolare per dimensioni e margini.`
 
+- **lesioni focali?**
+  - **assenti**<br>
+  `Non lesioni focali a carico del fegato.`
+  - **cisti**<br>
+  `(piccola) formazione ipodensa a livello del lobo (sinistro) del fegato di verosimile natura cistica`
+    - **diametro**
+    - **lobo epatico**
+    - **segmento epatico**
+  - 
 
 
 
