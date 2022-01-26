@@ -515,8 +515,12 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `Il fegato presenta regolare aspetto TC.`<br>
 `Il fegato è regolare per dimensioni e margini.`<br />
 `Il fegato conserva regolare aspetto TC, privo di lesioni focali.`<br />
+`Il fegato preserva normale aspetto tomodensitometrico.`
 
 - **dimensioni**
+
+  - ***regolari***
+
   - ***incrementate***<br />
   `IL fegato di presenta dimensioni incrementate`
 
@@ -530,28 +534,54 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
   `Fegato di dimensioni (modicamente) aumentate, con margini attualmente regolari e con ecostruttura tendenzialmente iperecogena.`
 
 
+- **struttura**
+
+  - ***omogenea***<br>
+  `Fegato a struttura omogenea`
+
+
+  - ***disomogena***
+
+
 
 - **ipertrofia del caudato**<br />
 `Fegato di dimensioni (nei limiti) con margini (sostanzialmente regolari) di cui si rileva esclusivamente un (lieve) aspetto ipertrofico del lobo caudato.`
 
 
 
+- **ipertrofia del lobo sinistro**
+
+
+
 - steatosi<br />
-`Il fegato presenta aspetto steatosico`
-`FEgato ingrandito di aspetto steatosico`
+`Il fegato presenta aspetto steatosico`<br>
+`Fegato ingrandito di aspetto steatosico`
+
+
+
+- **epatopatia cronica cirrotica**
+> Il fegato ha 
+>  - dimensioni (incrementate) e 
+>  - margini (irregolarmente bozzuti) 
+>    - come nei quadri di (epatopatia cronica cirrotica), 
+>      - con relativa ipertrofia del lobo sinistro; 
+>        - non sono (con certezza) riconoscibili lesioni focali.
 
 
 
 - **lesioni focali?**
 
-  - *assenti*<br>
+  - ***assenti***<br>
   `Non lesioni focali a carico del fegato.`
 
   - **cisti**<br>
-  `(piccola) formazione ipodensa a livello del lobo (sinistro) del fegato di verosimile natura cistica`
+  `(piccola) formazione ipodensa, a livello del lobo (sinistro) del fegato di verosimile natura cistica`<br>
+    `segnalandosi (piccola franca) ipodensità di aspetto cistico al __ segmento, (subglissoniana), del diametro assiale massimo di circa _-_ mm.`
     - **diametro**
-    - **numero**
-    `Il fegato è sede di (multiple) formazioni cistiche, in noto quadro di policistosi epato-renale.`
+    - **numero**<br>
+    `Il fegato è sede di (multiple) formazioni cistiche, in noto quadro di policistosi epato-renale.`<br><br>
+    `Il fegato è sede di (numerose) formazioni ipodense di aspetto cistico, la maggiore di __ mm al passaggio S_-S_.`<br><br>
+    `Il fegato presenta (alcune) lesioni cistiche con diametro fino a __mm.`
     - **lobo epatico**
     - **segmento epatico**
 
@@ -562,6 +592,10 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
   - **lesioni ipervascolari *(fase arteriosa parenchimale 40")***<br />
   `Il fegato (conserva) aspetto TC (nei limiti della normalità), in presenza di una (sfumata) area di ipervascolarizzazione in sede (subglissoniana) nel (VI) segmento, (stabile) per dimensionni (__ mm) e (priva) di caratteristiche TC di evolutività.`
+
+
+
+
 
 ## COLECISTI
 
@@ -594,8 +628,15 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 ## PANCREAS
 
+- **dimensioni**
+  - ***regolari***
+  - ***incrementate***
+  - ***ridotte***
 
 
+
+- **atrofia**<br>
+`il pancreas presenta aspetto (modicamente) atrofico.`
 
 
 ## SURRENI
