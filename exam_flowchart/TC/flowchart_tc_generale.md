@@ -35,17 +35,23 @@
   - [COLONNA VERTEBRALE](#colonna-vertebrale)
   - [AORTA ADDOMINALE](#aorta-addominale)
   - [ARTERIE & VENA MESENTERICA SUPERIORE & INFERIORE](#arterie--vena-mesenterica-superiore--inferiore)
+  - [STOMACO](#stomaco)
+  - [DUODENO](#duodeno)
+  - [DIGIUNO & ILEO](#digiuno--ileo)
+  - [COLON](#colon)
+  - [RETTO](#retto)
   - [FEGATO](#fegato)
   - [COLECISTI](#colecisti)
   - [VIE BILIARI](#vie-biliari)
   - [MILZA](#milza)
+  - [PANCREAS](#pancreas)
   - [SURRENI](#surreni)
   - [RENI](#reni)
   - [URETELI](#ureteli)
   - [VESCICA](#vescica)
   - [PROSTATA](#prostata)
   - [ILEO](#ileo)
-  - [COLON](#colon)
+  - [COLON](#colon-1)
   - [TESSUTO ADIPOSO INTRADDOMINALE](#tessuto-adiposo-intraddominale)
   - [PARETE ADDOMINALE](#parete-addominale)
   - [ARTERIE ILIACHE (INTERNE / ESTERNE)](#arterie-iliache-interne--esterne)
@@ -471,6 +477,38 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `L'arteria e la vena mesenterica superiore ed inferiore sono pervie e di calibro regolare, ove attendibilmente esplorabili.`
 
 
+
+
+
+## STOMACO
+
+
+
+
+## DUODENO
+
+
+
+
+
+## DIGIUNO & ILEO
+
+
+
+
+
+## COLON
+
+
+
+
+
+## RETTO
+
+
+
+
+
 ## FEGATO
 
 - **normale**<br>
@@ -483,19 +521,32 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
   `IL fegato di presenta dimensioni incrementate`
 
 
+
 - **margini**
+
   - ***regolari***
+
   - ***irregolari***<br />
   `Fegato di dimensioni (modicamente) aumentate, con margini attualmente regolari e con ecostruttura tendenzialmente iperecogena.`
 
-- Steatosi<br />
+
+
+- **ipertrofia del caudato**<br />
+`Fegato di dimensioni (nei limiti) con margini (sostanzialmente regolari) di cui si rileva esclusivamente un (lieve) aspetto ipertrofico del lobo caudato.`
+
+
+
+- steatosi<br />
 `Il fegato presenta aspetto steatosico`
 `FEgato ingrandito di aspetto steatosico`
 
+
+
 - **lesioni focali?**
+
   - *assenti*<br>
   `Non lesioni focali a carico del fegato.`
-  - 
+
   - **cisti**<br>
   `(piccola) formazione ipodensa a livello del lobo (sinistro) del fegato di verosimile natura cistica`
     - **diametro**
@@ -503,12 +554,14 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
     `Il fegato è sede di (multiple) formazioni cistiche, in noto quadro di policistosi epato-renale.`
     - **lobo epatico**
     - **segmento epatico**
+
   - **lesioni ripetitive**
     - **assenti**
     - **presenti**<br />
     `Il fegato ha ecostruttura diffusamente disomogenea, per le multiple (note) lesioni ripetitive.`
 
-
+  - **lesioni ipervascolari *(fase arteriosa parenchimale 40")***<br />
+  `Il fegato (conserva) aspetto TC (nei limiti della normalità), in presenza di una (sfumata) area di ipervascolarizzazione in sede (subglissoniana) nel (VI) segmento, (stabile) per dimensionni (__ mm) e (priva) di caratteristiche TC di evolutività.`
 
 ## COLECISTI
 
@@ -534,6 +587,12 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **milza accessoria?** <br>
 `(Si conferma) la presenza di una milza accessoria di __ mm,`<br><br>
 `segnalandosi la presenza di due milze accessorie del diametro massimo di __ e __ mm`
+
+
+
+
+
+## PANCREAS
 
 
 
